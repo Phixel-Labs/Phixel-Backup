@@ -24,7 +24,7 @@ Graphic design can be a powerful tool for managing negative emotions, such as an
 <img src="media/421ab8b6/design-alleviate-anger.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** OG0Q
 - **Date:** 02/01/2023
 - **URL:** [https://phixel.net/en/activity/design/design-to-alleviate-anger/](https://phixel.net/en/activity/design/design-to-alleviate-anger/)
 - **Type:** [Blog](#blog)

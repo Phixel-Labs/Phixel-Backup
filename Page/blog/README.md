@@ -11,7 +11,7 @@ Under the neon light we contemplate the snowy pink mountain and write in this bl
 <img src="media/b64e6ba7/landscape-of-pink-mountains-macro.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** MJOI
 - **Date:** 01/01/2010
 - **URL:** [https://phixel.net/en/blog/](https://phixel.net/en/blog/)
 - **Type:** [Page](#page)

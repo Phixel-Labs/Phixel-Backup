@@ -19,7 +19,7 @@ The team at Phixel was working hard at the office when they heard a knock on the
 <img src="media/f467b130/xmas-phoenix.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** 0GNK
 - **Date:** 19/12/2022
 - **URL:** [https://phixel.net/en/story/christmas-story-phoenix/](https://phixel.net/en/story/christmas-story-phoenix/)
 - **Type:** [Blog](#blog)

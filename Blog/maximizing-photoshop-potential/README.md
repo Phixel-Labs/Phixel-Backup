@@ -19,7 +19,7 @@ Photoshop is a powerful tool that can be used to create stunning images and desi
 <img src="media/f7a3dd37/maximizing-the-photoshop-potential.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** 4EP2
 - **Date:** 12/11/2022
 - **URL:** [https://phixel.net/en/maximizing-photoshop-potential/](https://phixel.net/en/maximizing-photoshop-potential/)
 - **Type:** [Blog](#blog)

@@ -60,7 +60,7 @@ We are looking for a talented Content marketing manager to take responsibility o
 <img src="media/3f6aba2a/job-content-marketing.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** 6V48
 - **Date:** 22/10/2022
 - **URL:** [https://phixel.net/en/jobs/content-marketing/](https://phixel.net/en/jobs/content-marketing/)
 - **Type:** [Job](#job)

@@ -15,7 +15,7 @@ Branding is more than just a logo. It’s the entire perception that people have
 <img src="media/f94394e1/services-branding.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** OYMG
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/service/branding/](https://phixel.net/en/service/branding/)
 - **Type:** [Service](#service)

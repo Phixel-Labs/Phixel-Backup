@@ -36,7 +36,7 @@ Graphic design can be a helpful tool in managing anxiety and finding calm in dai
 <img src="media/ca08016b/design-help-anxiety.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** 2F20
 - **Date:** 27/12/2022
 - **URL:** [https://phixel.net/en/activity/design/design-to-overcome-anxiety/](https://phixel.net/en/activity/design/design-to-overcome-anxiety/)
 - **Type:** [Blog](#blog)

@@ -27,7 +27,7 @@ We like to brag about our ability to design amazing things, check out some aweso
 <img src="media/9f4a798c/black-logo-009.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** 4JOR
 - **Date:** 03/12/2022
 - **URL:** [https://phixel.net/en/gallery/black-logos/](https://phixel.net/en/gallery/black-logos/)
 - **Type:** [Gallery](#gallery)

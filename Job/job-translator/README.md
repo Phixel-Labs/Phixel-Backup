@@ -59,7 +59,7 @@ We are looking for a translator to interpret written and audio pieces in differe
 <img src="media/85d1f4e9/job-translator.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** 030N
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/translator/](https://phixel.net/en/jobs/translator/)
 - **Type:** [Job](#job)

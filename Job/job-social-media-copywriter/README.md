@@ -59,7 +59,7 @@ We are looking for a Social Media Copywriter to engage with our users and promot
 <img src="media/0b474e8a/job-social-media-copywriter.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** QD6A
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/social-media-copywriter/](https://phixel.net/en/jobs/social-media-copywriter/)
 - **Type:** [Job](#job)

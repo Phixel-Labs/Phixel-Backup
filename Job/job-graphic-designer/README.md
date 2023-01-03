@@ -66,7 +66,7 @@ We are seeking a Graphic Designer to create engaging, branded graphics for a var
 <img src="media/22784764/job-graphic-designer.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** 3XDL
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/graphic-designer/](https://phixel.net/en/jobs/graphic-designer/)
 - **Type:** [Job](#job)

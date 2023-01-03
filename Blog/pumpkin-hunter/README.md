@@ -31,7 +31,7 @@ A private detective named Plisk investigates the disappearance of a young man na
 <img src="media/cc404681/the-pumpkin-hunters-curse.mp3">
 
 ------------
-- **ID:** #NAME?
+- **ID:** 2S1X
 - **Date:** 31/10/2022
 - **URL:** [https://phixel.net/en/pumpkin-hunter/](https://phixel.net/en/pumpkin-hunter/)
 - **Type:** [Blog](#blog)

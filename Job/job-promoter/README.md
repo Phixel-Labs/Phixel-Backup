@@ -52,7 +52,7 @@ We are looking for a pleasant and competitive Promoter that thrives in attractin
 <img src="media/d6349daa/job-promoter.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** 0L7W
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/promoter/](https://phixel.net/en/jobs/promoter/)
 - **Type:** [Job](#job)

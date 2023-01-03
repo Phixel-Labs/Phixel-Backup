@@ -28,7 +28,7 @@ We want to help you learn more about the world around you and make sure that you
 <img src="media/b3366b97/monostereo-podcast-10.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** S16G
 - **Date:** 18/11/2022
 - **URL:** [https://phixel.net/en/portfolio/monostereo/](https://phixel.net/en/portfolio/monostereo/)
 - **Type:** [Portfolio Item](#portfolio-item)

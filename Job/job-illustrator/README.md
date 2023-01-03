@@ -58,7 +58,7 @@ We are looking for a talented Illustrator to create original artwork for digital
 <img src="media/c7cd695f/job-illustrator.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** 6AQG
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/illustrator/](https://phixel.net/en/jobs/illustrator/)
 - **Type:** [Job](#job)

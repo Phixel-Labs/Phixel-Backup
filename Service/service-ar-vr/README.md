@@ -13,7 +13,7 @@ With Augmented Reality or Virtual Reality, businesses can create immersive, enga
 <img src="media/34bbb39e/services-vr.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** 6R0F
 - **Date:** 22/10/2022
 - **URL:** [https://phixel.net/en/service/augmented-virtual-reality/](https://phixel.net/en/service/augmented-virtual-reality/)
 - **Type:** [Service](#service)

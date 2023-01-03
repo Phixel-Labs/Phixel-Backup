@@ -59,7 +59,7 @@ We are looking for a creative Copywriter to write clear and concise copy for ads
 <img src="media/767d5726/job-copywriter.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** 0AI7
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/copywriter/](https://phixel.net/en/jobs/copywriter/)
 - **Type:** [Job](#job)

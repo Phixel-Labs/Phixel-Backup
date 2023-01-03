@@ -19,7 +19,7 @@ Our gold logo gallery offers a wide range of design styles and inspiration for f
 <img src="media/7d4a7443/gold-logo-pinup.jpg">
 
 ------------
-- **ID:** #NAME?
+- **ID:** R0BB
 - **Date:** 20/12/2022
 - **URL:** [https://phixel.net/en/gallery/golden-logos/](https://phixel.net/en/gallery/golden-logos/)
 - **Type:** [Gallery](#gallery)
