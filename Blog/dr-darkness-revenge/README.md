@@ -22,7 +22,7 @@ The evil Dr. Darkness plans to take over the city using a machine that plunges i
 
 ------------
 - **ID:** PUS7
-- **Date:** 1654207200
+- **Date:** 03/06/2022
 - **URL:** [https://phixel.net/en/dr-darkness-revenge/](https://phixel.net/en/dr-darkness-revenge/)
 - **Type:** [Blog](#blog)
 - **Emojis:** 😈 💣 😠 🗡 🌎 🖤 🌑

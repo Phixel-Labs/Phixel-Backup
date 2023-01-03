@@ -50,7 +50,7 @@ We are looking for a 3D Animator to join our team and assist us with designing a
 
 ------------
 - **ID:** R1OL
-- **Date:** 1666044000
+- **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/3d-animator/](https://phixel.net/en/jobs/3d-animator/)
 - **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌

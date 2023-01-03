@@ -21,7 +21,7 @@ From brainstorming sessions to trying out new techniques, these exercises can he
 
 ------------
 - **ID:** SCG2
-- **Date:** 1670886000
+- **Date:** 13/12/2022
 - **URL:** [https://phixel.net/en/holiday/christmas/creative-exercises-holidays/](https://phixel.net/en/holiday/christmas/creative-exercises-holidays/)
 - **Type:** [Blog](#blog)
 - **Emojis:** 🦌 🛷 🎅 🎄 💡 🎨 🖌 👩 💭 🧠 🏃 ‍♀ ♂️ 🧘 ‍♂

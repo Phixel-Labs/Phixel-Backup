@@ -61,7 +61,7 @@ We are looking for a talented Content marketing manager to take responsibility o
 
 ------------
 - **ID:** 6V48
-- **Date:** 1666389600
+- **Date:** 22/10/2022
 - **URL:** [https://phixel.net/en/jobs/content-marketing/](https://phixel.net/en/jobs/content-marketing/)
 - **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌

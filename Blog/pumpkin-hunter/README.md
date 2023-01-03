@@ -32,7 +32,7 @@ A private detective named Plisk investigates the disappearance of a young man na
 
 ------------
 - **ID:** 2S1X
-- **Date:** 1667170800
+- **Date:** 31/10/2022
 - **URL:** [https://phixel.net/en/pumpkin-hunter/](https://phixel.net/en/pumpkin-hunter/)
 - **Type:** [Blog](#blog)
 - **Emojis:** 🙀 🎃 📺 🧥 🕯 🔍 💀 🕙 🕸 ️​ ​​ 📼 ​⏮ ⏭️ ⏯️

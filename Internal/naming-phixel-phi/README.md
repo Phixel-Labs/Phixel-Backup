@@ -20,7 +20,7 @@ The first 3 letters, have plenty of reasons to exist;
 
 ------------
 - **ID:** R313
-- **Date:** 1667689200
+- **Date:** 06/11/2022
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Internal](#internal)
 - **Emojis:** 🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸

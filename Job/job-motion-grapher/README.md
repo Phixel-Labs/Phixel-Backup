@@ -53,7 +53,7 @@ We are looking for a creative Motion Grapher to develop excellent visual frames 
 
 ------------
 - **ID:** AU24
-- **Date:** 1666044000
+- **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/motion-grapher/](https://phixel.net/en/jobs/motion-grapher/)
 - **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌

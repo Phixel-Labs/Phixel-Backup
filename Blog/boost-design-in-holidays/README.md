@@ -24,7 +24,7 @@ Designers can make the most of the holiday season by creating holiday-themed des
 
 ------------
 - **ID:** 932K
-- **Date:** 1670454000
+- **Date:** 08/12/2022
 - **URL:** [https://phixel.net/en/boost-design-in-holidays/](https://phixel.net/en/boost-design-in-holidays/)
 - **Type:** [Blog](#blog)
 - **Emojis:** 🎄 🎅 🏽 🎁 🎨 💻 💡 💰

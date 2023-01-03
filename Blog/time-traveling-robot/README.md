@@ -21,7 +21,7 @@ On Christmas Eve, the team at Phixel met a time-traveling robot named Retro who 
 
 ------------
 - **ID:** 48CZ
-- **Date:** 1671836400
+- **Date:** 24/12/2022
 - **URL:** [https://phixel.net/en/story/time-traveling-robot/](https://phixel.net/en/story/time-traveling-robot/)
 - **Type:** [Blog](#blog)
 - **Emojis:** 🕰

@@ -28,7 +28,7 @@ We like to brag about our ability to design amazing things, check out some aweso
 
 ------------
 - **ID:** 4JOR
-- **Date:** 1670022000
+- **Date:** 03/12/2022
 - **URL:** [https://phixel.net/en/gallery/black-logos/](https://phixel.net/en/gallery/black-logos/)
 - **Type:** [Gallery](#gallery)
 - **Emojis:** 🖤 ▪️ 🦳 ◼️

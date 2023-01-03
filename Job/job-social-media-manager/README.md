@@ -62,7 +62,7 @@ We are looking for a talented Social media manager to administer our and pur cli
 
 ------------
 - **ID:** Q2PA
-- **Date:** 1666044000
+- **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/social-media-manager/](https://phixel.net/en/jobs/social-media-manager/)
 - **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌

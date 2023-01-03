@@ -62,7 +62,7 @@ We are looking for an outstanding Web Developer to be responsible for coding, in
 
 ------------
 - **ID:** 5RDQ
-- **Date:** 1666044000
+- **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/web-developer/](https://phixel.net/en/jobs/web-developer/)
 - **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌

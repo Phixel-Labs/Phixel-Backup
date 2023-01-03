@@ -15,7 +15,7 @@ The name Phixel is beautiful, elegant and unique, we love it and we take it to h
 
 ------------
 - **ID:** 3CGW
-- **Date:** 1667689200
+- **Date:** 06/11/2022
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Page](#page)
 - **Emojis:** 🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸

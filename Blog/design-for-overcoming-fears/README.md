@@ -30,7 +30,7 @@ Graphic design can be a powerful tool for overcoming fears and anxiety. By ident
 
 ------------
 - **ID:** 3G3T
-- **Date:** 1672959600
+- **Date:** 06/01/2023
 - **URL:** [https://phixel.net/en/tips/mental-help/design-for-overcoming-fears/](https://phixel.net/en/tips/mental-help/design-for-overcoming-fears/)
 - **Type:** [Blog](#blog)
 - **Emojis:** 🆘 😱 😨 😰 😫 😧 👹 😟 😣 😮

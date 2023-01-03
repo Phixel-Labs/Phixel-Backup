@@ -60,7 +60,7 @@ We are looking for a translator to interpret written and audio pieces in differe
 
 ------------
 - **ID:** 030N
-- **Date:** 1666044000
+- **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/translator/](https://phixel.net/en/jobs/translator/)
 - **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
