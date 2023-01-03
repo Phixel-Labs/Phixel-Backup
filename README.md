@@ -1,6 +1,6 @@
-# Phixel.net Backup 🌎
+# Phixel Backup 🌎
 
-This repository contains a Markdown and XML backup of the Phixel.net website. The backup was created to ensure that the site's content is preserved and can be restored if needed.
+This repository contains a Markdown and XML backup of the http://phixel.net website. The backup was created to ensure that the site's content is preserved and can be restored if needed.
 
 ## About Phixel
 
