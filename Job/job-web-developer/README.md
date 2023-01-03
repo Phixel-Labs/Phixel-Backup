@@ -58,10 +58,10 @@ We are looking for an stylish Web Developer
 ## Description
 We are looking for an outstanding Web Developer to be responsible for coding, innovative design, and website layout.
 ## Media
-<img src="media/job-web-developer.jpg">
+<img src="media/6e564af9/job-web-developer.jpg">
 
 ------------
-- **ID:** 5RDQ
+- **ID:** #NAME?
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/web-developer/](https://phixel.net/en/jobs/web-developer/)
 - **Type:** [Job](#job)

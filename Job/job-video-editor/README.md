@@ -49,10 +49,10 @@ We are looking for an astounding Video Editor
 ## Description
 We are looking for a talented Video Editor to assemble recorded footage into a finished project that matches our vision and is suitable for broadcasting.
 ## Media
-<img src="media/job-video-editor.jpg">
+<img src="media/3a661af5/job-video-editor.jpg">
 
 ------------
-- **ID:** 2116
+- **ID:** #NAME?
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/video-editor/](https://phixel.net/en/jobs/video-editor/)
 - **Type:** [Job](#job)

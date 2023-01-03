@@ -17,17 +17,17 @@ Welcome to the first installment of our new series on our logos.
 
 We like to brag about our ability to design amazing things, check out some awesome and beautiful black logos we’ve created!
 ## Media
-<img src="media/black-logo-001.jpg">
-<img src="media/black-logo-003.jpg">
-<img src="media/black-logo-004.jpg">
-<img src="media/black-logo-005.jpg">
-<img src="media/black-logo-006.jpg">
-<img src="media/black-logo-007.jpg">
-<img src="media/black-logo-008.jpg">
-<img src="media/black-logo-009.jpg">
+<img src="media/75b8e52e/black-logo-001.jpg">
+<img src="media/d737d7ee/black-logo-003.jpg">
+<img src="media/327fb539/black-logo-004.jpg">
+<img src="media/0d284d8b/black-logo-005.jpg">
+<img src="media/1c774fbd/black-logo-006.jpg">
+<img src="media/35804932/black-logo-007.jpg">
+<img src="media/af91de73/black-logo-008.jpg">
+<img src="media/9f4a798c/black-logo-009.jpg">
 
 ------------
-- **ID:** 4JOR
+- **ID:** #NAME?
 - **Date:** 03/12/2022
 - **URL:** [https://phixel.net/en/gallery/black-logos/](https://phixel.net/en/gallery/black-logos/)
 - **Type:** [Gallery](#gallery)

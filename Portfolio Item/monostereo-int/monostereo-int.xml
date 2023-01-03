@@ -13,81 +13,39 @@ We want to help you learn more about the world around you and make sure that you
 
 We want to help you learn more about the world around you and make sure that you don’t miss out on anything interesting.</description>
 <media>
-<url>media/monostereo-podcast-01.jpg</url>
-<url>media/monostereo-podcast-02.jpg</url>
-<url>media/monostereo-podcast-03.jpg</url>
-<url>media/monostereo-podcast-04.jpg</url>
-<url>media/monostereo-podcast-05.jpg</url>
-<url>media/monostereo-podcast-06.jpg</url>
-<url>media/monostereo-podcast-07.jpg</url>
-<url>media/monostereo-podcast-08.jpg</url>
-<url>media/monostereo-podcast-09.jpg</url>
-<url>media/monostereo-podcast-10.jpg</url>
+	<url>media/b1ba92b8/monostereo-podcast-01.jpg</url>
+	<url>media/483e7e57/monostereo-podcast-02.jpg</url>
+	<url>media/e4c4cfe0/monostereo-podcast-03.jpg</url>
+	<url>media/3cd457e0/monostereo-podcast-04.jpg</url>
+	<url>media/a3970f4c/monostereo-podcast-05.jpg</url>
+	<url>media/b786d166/monostereo-podcast-06.jpg</url>
+	<url>media/8db4f551/monostereo-podcast-07.jpg</url>
+	<url>media/5d003700/monostereo-podcast-08.jpg</url>
+	<url>media/8c5c5829/monostereo-podcast-09.jpg</url>
+	<url>media/b3366b97/monostereo-podcast-10.jpg</url>
 </media>
 <info>
-<id>S16G</id>
-<date>18/11/2022</date>
-<url>https://phixel.net/en/portfolio/monostereo/</url>
-<category>Portfolio Item</category>
-<url>portfolio-item</url>
-<emojis>🐒 🎙 🦧 🔊 🎶</emojis>
+	<id>#NAME?</id>
+	<date>18/11/2022</date>
+	<url>https://phixel.net/en/portfolio/monostereo/</url>
+	<category>Portfolio Item</category>
+	<url>portfolio-item</url>
+	<emojis>🐒 🎙 🦧 🔊 🎶</emojis>
 </info>
 <tags>
-<tag>
-<name>phixel</name>
-<url>#phixel</url>
-</tag>
-<tag>
-<name>monostereo</name>
-<url>#monostereo</url>
-</tag>
-<tag>
-<name>mono</name>
-<url>#mono</url>
-</tag>
-<tag>
-<name>stereo</name>
-<url>#stereo</url>
-</tag>
-<tag>
-<name>podcast</name>
-<url>#podcast</url>
-</tag>
-<tag>
-<name>podcastapp</name>
-<url>#podcastapp</url>
-</tag>
-<tag>
-<name>radio</name>
-<url>#radio</url>
-</tag>
-<tag>
-<name>chimpanzee</name>
-<url>#chimpanzee</url>
-</tag>
-<tag>
-<name>podcastaddict</name>
-<url>#podcastaddict</url>
-</tag>
-<tag>
-<name>monkeybussines</name>
-<url>#monkeybussines</url>
-</tag>
-<tag>
-<name>gorilla</name>
-<url>#gorilla</url>
-</tag>
-<tag>
-<name>monkey</name>
-<url>#monkey</url>
-</tag>
-<tag>
-<name>primate</name>
-<url>#primate</url>
-</tag>
-<tag>
-<name>chimp</name>
-<url>#chimp</url>
-</tag>
+	<tag>phixel</tag>
+	<tag>monostereo</tag>
+	<tag>mono</tag>
+	<tag>stereo</tag>
+	<tag>podcast</tag>
+	<tag>podcastapp</tag>
+	<tag>radio</tag>
+	<tag>chimpanzee</tag>
+	<tag>podcastaddict</tag>
+	<tag>monkeybussines</tag>
+	<tag>gorilla</tag>
+	<tag>monkey</tag>
+	<tag>primate</tag>
+	<tag>chimp</tag>
 </tags>
 </item>

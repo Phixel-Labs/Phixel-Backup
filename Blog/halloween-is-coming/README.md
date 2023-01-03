@@ -16,11 +16,11 @@ Halloween is just around the corner, and that means two things: candy and scary 
 ## Description
 Halloween is coming, and that means it's time to get ready for spooky stories, costumes, and candy. We're excited to celebrate the holiday and enjoy all the fun it has to offer.
 ## Media
-<img src="media/blog-halloween-is-coming.jpg">
-<img src="media/blog-what-is-your-emoji-this-halloween.jpg">
+<img src="media/c1c6af98/blog-halloween-is-coming.jpg">
+<img src="media/955587e6/blog-what-is-your-emoji-this-halloween.jpg">
 
 ------------
-- **ID:** LT6M
+- **ID:** #NAME?
 - **Date:** 29/10/2022
 - **URL:** [https://phixel.net/en/halloween-is-coming/](https://phixel.net/en/halloween-is-coming/)
 - **Type:** [Blog](#blog)

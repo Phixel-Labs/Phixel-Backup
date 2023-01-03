@@ -11,11 +11,11 @@ The excellent web design studio
 ## Description
 We're here to create beautiful and bold visuals
 ## Media
-<img src="media/phixel-reel-1.mp4">
-<img src="media/television-deep-in-the-clouds.mp4">
+<img src="media/82719c98/phixel-reel-1.mp4">
+<img src="media/a5a04954/television-deep-in-the-clouds.mp4">
 
 ------------
-- **ID:** 2LQA
+- **ID:** #NAME?
 - **Date:** 01/01/2020
 - **URL:** [https://phixel.net/](https://phixel.net/)
 - **Type:** [Internal](#internal)

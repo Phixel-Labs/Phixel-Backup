@@ -56,10 +56,10 @@ We are looking for an elegant Copywriter
 ## Description
 We are looking for a creative Copywriter to write clear and concise copy for ads, publications and websites. Your words will inform and engage target audiences.
 ## Media
-<img src="media/job-copywriter.jpg">
+<img src="media/767d5726/job-copywriter.jpg">
 
 ------------
-- **ID:** 0AI7
+- **ID:** #NAME?
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/copywriter/](https://phixel.net/en/jobs/copywriter/)
 - **Type:** [Job](#job)

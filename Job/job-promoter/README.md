@@ -49,10 +49,10 @@ We are looking for an polite Promoter
 ## Description
 We are looking for a pleasant and competitive Promoter that thrives in attracting new customers.
 ## Media
-<img src="media/job-promoter.jpg">
+<img src="media/d6349daa/job-promoter.jpg">
 
 ------------
-- **ID:** 0L7W
+- **ID:** #NAME?
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/promoter/](https://phixel.net/en/jobs/promoter/)
 - **Type:** [Job](#job)

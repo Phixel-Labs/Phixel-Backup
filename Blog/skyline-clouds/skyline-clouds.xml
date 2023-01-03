@@ -16,61 +16,28 @@ _They looked at each other with a sense of relaxation, like two siblings, “I f
 <excerpt>Take a breath of fresh air with your favorite mountain, give your self a relaxing feel with the clouds.</excerpt>
 <description>As you sit and watch the clouds drift by, you can feel the stress and worries of the world melt away. The pink mountain in the distance adds to the peaceful and calming atmosphere, making it the perfect place to relax and unwind.</description>
 <media>
-<url>media/mountain-16-9.jpg</url>
-<url>media/skyline-of-clouds.mp4</url>
+	<url>media/c792f891/mountain-16-9.jpg</url>
+	<url>media/605defc4/skyline-of-clouds.mp4</url>
 </media>
 <info>
-<id>9XG4</id>
-<date>01/01/2021</date>
-<url>https://phixel.net/en/skyline-clouds/</url>
-<category>Blog</category>
-<url>blog</url>
-<emojis>🍂 🗻 🌄 🍃 🪂 ☁️ ♾️ 😮</emojis>
+	<id>#NAME?</id>
+	<date>01/01/2021</date>
+	<url>https://phixel.net/en/skyline-clouds/</url>
+	<category>Blog</category>
+	<url>blog</url>
+	<emojis>🍂 🗻 🌄 🍃 🪂 ☁️ ♾️ 😮</emojis>
 </info>
 <tags>
-<tag>
-<name>skyline</name>
-<url>#skyline</url>
-</tag>
-<tag>
-<name>cloudsloops</name>
-<url>#cloudsloops</url>
-</tag>
-<tag>
-<name>loop</name>
-<url>#loop</url>
-</tag>
-<tag>
-<name>mountain</name>
-<url>#mountain</url>
-</tag>
-<tag>
-<name>breathe</name>
-<url>#breathe</url>
-</tag>
-<tag>
-<name>relax</name>
-<url>#relax</url>
-</tag>
-<tag>
-<name>clouds</name>
-<url>#clouds</url>
-</tag>
-<tag>
-<name>beauty</name>
-<url>#beauty</url>
-</tag>
-<tag>
-<name>calm</name>
-<url>#calm</url>
-</tag>
-<tag>
-<name>calming</name>
-<url>#calming</url>
-</tag>
-<tag>
-<name>nature</name>
-<url>#nature</url>
-</tag>
+	<tag>skyline</tag>
+	<tag>cloudsloops</tag>
+	<tag>loop</tag>
+	<tag>mountain</tag>
+	<tag>breathe</tag>
+	<tag>relax</tag>
+	<tag>clouds</tag>
+	<tag>beauty</tag>
+	<tag>calm</tag>
+	<tag>calming</tag>
+	<tag>nature</tag>
 </tags>
 </item>

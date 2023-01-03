@@ -12,65 +12,32 @@ Top-quality meats and poultry, sourced carefully to ensure your dog gets the bes
 <excerpt>Packaging Redesign</excerpt>
 <description>The finest quality Top-quality meats and poultry, sourced carefully to ensure your dog gets the best of everything.</description>
 <media>
-<url>media/max-buffet-01-1.jpg</url>
-<url>media/max-buffet-02-1.jpg</url>
-<url>media/max-buffet-03-1.jpg</url>
-<url>media/max-buffet-04-1.jpg</url>
-<url>media/max-buffet-05-1.jpg</url>
-<url>media/max-buffet-06.jpg</url>
+	<url>media/6f3abbbc/max-buffet-01-1.jpg</url>
+	<url>media/056fb5f1/max-buffet-02-1.jpg</url>
+	<url>media/70580fa6/max-buffet-03-1.jpg</url>
+	<url>media/4e9b3852/max-buffet-04-1.jpg</url>
+	<url>media/7152c41e/max-buffet-05-1.jpg</url>
+	<url>media/d4976e0c/max-buffet-06.jpg</url>
 </media>
 <info>
-<id>BS7N</id>
-<date>29/10/2022</date>
-<url>https://phixel.net/en/portfolio/repack-max-buffet/</url>
-<category>Portfolio</category>
-<url>portfolio</url>
-<emojis>🐶 🐩 🐕 🦺</emojis>
+	<id>#NAME?</id>
+	<date>29/10/2022</date>
+	<url>https://phixel.net/en/portfolio/repack-max-buffet/</url>
+	<category>Portfolio</category>
+	<url>portfolio</url>
+	<emojis>🐶 🐩 🐕 🦺</emojis>
 </info>
 <tags>
-<tag>
-<name>phixel</name>
-<url>#phixel</url>
-</tag>
-<tag>
-<name>dogfood</name>
-<url>#dogfood</url>
-</tag>
-<tag>
-<name>doglovers</name>
-<url>#doglovers</url>
-</tag>
-<tag>
-<name>dog</name>
-<url>#dog</url>
-</tag>
-<tag>
-<name>pet</name>
-<url>#pet</url>
-</tag>
-<tag>
-<name>beef</name>
-<url>#beef</url>
-</tag>
-<tag>
-<name>meat</name>
-<url>#meat</url>
-</tag>
-<tag>
-<name>pork</name>
-<url>#pork</url>
-</tag>
-<tag>
-<name>chicken</name>
-<url>#chicken</url>
-</tag>
-<tag>
-<name>repack</name>
-<url>#repack</url>
-</tag>
-<tag>
-<name>maxbuffet</name>
-<url>#maxbuffet</url>
-</tag>
+	<tag>phixel</tag>
+	<tag>dogfood</tag>
+	<tag>doglovers</tag>
+	<tag>dog</tag>
+	<tag>pet</tag>
+	<tag>beef</tag>
+	<tag>meat</tag>
+	<tag>pork</tag>
+	<tag>chicken</tag>
+	<tag>repack</tag>
+	<tag>maxbuffet</tag>
 </tags>
 </item>

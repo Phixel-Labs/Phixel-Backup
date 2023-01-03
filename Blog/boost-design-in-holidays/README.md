@@ -19,11 +19,11 @@ As the holiday season approaches, it's a great time for graphic designers to tak
 ## Description
 Designers can make the most of the holiday season by creating holiday-themed designs, offering special deals or promotions, using social media to promote their work, collaborating with other designers, and giving back to their communities. By doing these things, designers can not only increase their visibility and reach, but also showcase their skills and make a positive impact on their communities.
 ## Media
-<img src="media/boosting-the-holidays-cover.jpg">
-<img src="media/boosting-the-holidays.jpg">
+<img src="media/39fadd0e/boosting-the-holidays-cover.jpg">
+<img src="media/22c85630/boosting-the-holidays.jpg">
 
 ------------
-- **ID:** 932K
+- **ID:** #NAME?
 - **Date:** 08/12/2022
 - **URL:** [https://phixel.net/en/boost-design-in-holidays/](https://phixel.net/en/boost-design-in-holidays/)
 - **Type:** [Blog](#blog)

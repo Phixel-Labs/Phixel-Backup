@@ -13,78 +13,36 @@ We want to help you learn more about the world around you and make sure that you
 
 We want to help you learn more about the world around you and make sure that you don’t miss out on anything interesting.</description>
 <media>
-<url>media/monostereo-mockup-01.jpg</url>
-<url>media/monostereo-mockup-02.jpg</url>
-<url>media/monostereo-mockup-03.jpg</url>
-<url>media/monostereo-mockup-04.jpg</url>
-<url>media/monostereo.jpg</url>
-<url>media/monostereo.mp4</url>
-<url>media/monostereo-logo.png</url>
+	<url>media/714efd62/monostereo-mockup-01.jpg</url>
+	<url>media/0bb155d2/monostereo-mockup-02.jpg</url>
+	<url>media/27a0a715/monostereo-mockup-03.jpg</url>
+	<url>media/f0298ecb/monostereo-mockup-04.jpg</url>
+	<url>media/ce68ce3a/monostereo.jpg</url>
+	<url>media/d6733980/monostereo.mp4</url>
+	<url>media/04d58242/monostereo-logo.png</url>
 </media>
 <info>
-<id>6225</id>
-<date>18/11/2022</date>
-<url>https://phixel.net/en/portfolio/monostereo/</url>
-<category>Portfolio</category>
-<url>portfolio</url>
-<emojis>🐒 🎙 🦧 🔊 🎶</emojis>
+	<id>#NAME?</id>
+	<date>18/11/2022</date>
+	<url>https://phixel.net/en/portfolio/monostereo/</url>
+	<category>Portfolio</category>
+	<url>portfolio</url>
+	<emojis>🐒 🎙 🦧 🔊 🎶</emojis>
 </info>
 <tags>
-<tag>
-<name>phixel</name>
-<url>#phixel</url>
-</tag>
-<tag>
-<name>monostereo</name>
-<url>#monostereo</url>
-</tag>
-<tag>
-<name>mono</name>
-<url>#mono</url>
-</tag>
-<tag>
-<name>stereo</name>
-<url>#stereo</url>
-</tag>
-<tag>
-<name>podcast</name>
-<url>#podcast</url>
-</tag>
-<tag>
-<name>podcastapp</name>
-<url>#podcastapp</url>
-</tag>
-<tag>
-<name>radio</name>
-<url>#radio</url>
-</tag>
-<tag>
-<name>chimpanzee</name>
-<url>#chimpanzee</url>
-</tag>
-<tag>
-<name>podcastaddict</name>
-<url>#podcastaddict</url>
-</tag>
-<tag>
-<name>monkeybussines</name>
-<url>#monkeybussines</url>
-</tag>
-<tag>
-<name>gorilla</name>
-<url>#gorilla</url>
-</tag>
-<tag>
-<name>monkey</name>
-<url>#monkey</url>
-</tag>
-<tag>
-<name>primate</name>
-<url>#primate</url>
-</tag>
-<tag>
-<name>chimp</name>
-<url>#chimp</url>
-</tag>
+	<tag>phixel</tag>
+	<tag>monostereo</tag>
+	<tag>mono</tag>
+	<tag>stereo</tag>
+	<tag>podcast</tag>
+	<tag>podcastapp</tag>
+	<tag>radio</tag>
+	<tag>chimpanzee</tag>
+	<tag>podcastaddict</tag>
+	<tag>monkeybussines</tag>
+	<tag>gorilla</tag>
+	<tag>monkey</tag>
+	<tag>primate</tag>
+	<tag>chimp</tag>
 </tags>
 </item>

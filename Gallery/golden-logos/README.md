@@ -8,18 +8,18 @@ Check out our incredible gallery of gold logos and find inspiration for your own
 ## Description
 Our gold logo gallery offers a wide range of design styles and inspiration for finding the perfect gold logo for your brand. From bold and simple designs to metallic effects, there is something for every aesthetic. Discover our top picks and find the perfect gold logo for your brand.
 ## Media
-<img src="media/gold-logo-perfume.jpg">
-<img src="media/gold-logo-bird.jpg">
-<img src="media/gold-logo-rose.jpg">
-<img src="media/gold-logo-liquid.jpg">
-<img src="media/gold-logo-abstrack-ball.jpg">
-<img src="media/gold-logo-flow.jpg">
-<img src="media/gold-logo-lion.jpg">
-<img src="media/gold-logo-soccer.jpg">
-<img src="media/gold-logo-pinup.jpg">
+<img src="media/55af4a92/gold-logo-perfume.jpg">
+<img src="media/f4eca8a7/gold-logo-bird.jpg">
+<img src="media/b68580b7/gold-logo-rose.jpg">
+<img src="media/5b147684/gold-logo-liquid.jpg">
+<img src="media/d4ba433b/gold-logo-abstrack-ball.jpg">
+<img src="media/d186bd6c/gold-logo-flow.jpg">
+<img src="media/c4f90d2f/gold-logo-lion.jpg">
+<img src="media/115fb391/gold-logo-soccer.jpg">
+<img src="media/7d4a7443/gold-logo-pinup.jpg">
 
 ------------
-- **ID:** R0BB
+- **ID:** #NAME?
 - **Date:** 20/12/2022
 - **URL:** [https://phixel.net/en/gallery/golden-logos/](https://phixel.net/en/gallery/golden-logos/)
 - **Type:** [Gallery](#gallery)

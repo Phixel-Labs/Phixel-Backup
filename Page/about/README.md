@@ -73,10 +73,10 @@ The retro & almost sci-fi story
 ## Description
 The only thing you need to know about us it that the goal is simple; Do exceptional work that delights.
 ## Media
-<img src="media/space-cover.jpg">
+<img src="media/5ab289b6/space-cover.jpg">
 
 ------------
-- **ID:** 1X22
+- **ID:** #NAME?
 - **Date:** 01/01/2020
 - **URL:** [https://phixel.net/en/about-us/](https://phixel.net/en/about-us/)
 - **Type:** [Page](#page)

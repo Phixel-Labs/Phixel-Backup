@@ -12,10 +12,10 @@ We want to exceeds your expectations
 ## Description
 We understand that in order to be successful, your app needs to look and feel great.
 ## Media
-<img src="media/services-mobile-app-design.jpg">
+<img src="media/7447e119/services-mobile-app-design.jpg">
 
 ------------
-- **ID:** J88T
+- **ID:** #NAME?
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/service/mobile-app-design/](https://phixel.net/en/service/mobile-app-design/)
 - **Type:** [Service](#service)

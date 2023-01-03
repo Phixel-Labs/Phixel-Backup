@@ -7,52 +7,25 @@
 <excerpt>Pixel + PHP + Phoenix + Fix + X + Φ = Phixel</excerpt>
 <description>The most used code in the world</description>
 <media>
-<url>media/the-name-coding.jpg</url>
+	<url>media/318145bb/the-name-coding.jpg</url>
 </media>
 <info>
-<id>MKQE</id>
-<date>06/11/2022</date>
-<url>https://phixel.net/en/about-us/naming-phixel/</url>
-<category>Internal</category>
-<url>internal</url>
-<emojis>🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸</emojis>
+	<id>#NAME?</id>
+	<date>06/11/2022</date>
+	<url>https://phixel.net/en/about-us/naming-phixel/</url>
+	<category>Internal</category>
+	<url>internal</url>
+	<emojis>🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸</emojis>
 </info>
 <tags>
-<tag>
-<name>phixel</name>
-<url>#phixel</url>
-</tag>
-<tag>
-<name>pixel</name>
-<url>#pixel</url>
-</tag>
-<tag>
-<name>PHP</name>
-<url>#PHP</url>
-</tag>
-<tag>
-<name>phoenix</name>
-<url>#phoenix</url>
-</tag>
-<tag>
-<name>fenix</name>
-<url>#fenix</url>
-</tag>
-<tag>
-<name>phix</name>
-<url>#phix</url>
-</tag>
-<tag>
-<name>fix</name>
-<url>#fix</url>
-</tag>
-<tag>
-<name>x</name>
-<url>#x</url>
-</tag>
-<tag>
-<name>phi</name>
-<url>#phi</url>
-</tag>
+	<tag>phixel</tag>
+	<tag>pixel</tag>
+	<tag>PHP</tag>
+	<tag>phoenix</tag>
+	<tag>fenix</tag>
+	<tag>phix</tag>
+	<tag>fix</tag>
+	<tag>x</tag>
+	<tag>phi</tag>
 </tags>
 </item>

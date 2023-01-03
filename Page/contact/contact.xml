@@ -32,104 +32,38 @@ contact@phixel.net
 <excerpt>We're here to help you bring your idea to life</excerpt>
 <description>Do you have a product to reveal to the world? Contact us and we here will help you bring your idea to life.</description>
 <media>
-<url>media/contact-background.png</url>
+	<url>media/65b0d840/contact-background.png</url>
 </media>
 <info>
-<id>58LY</id>
-<date>01/01/2020</date>
-<url>https://phixel.net/en/contact/</url>
-<category>Page</category>
-<url>page</url>
-<emojis>📟 ✨✉ ️☎ 🤳 🏼 🖨 🤝 📫 📪 📭 📬 🗨 👋 🙋 ‍♂ ☎️ 💞 ♀️ 🖱 📨 👆 🏽 📢 📤</emojis>
+	<id>#NAME?</id>
+	<date>01/01/2020</date>
+	<url>https://phixel.net/en/contact/</url>
+	<category>Page</category>
+	<url>page</url>
+	<emojis>📟 ✨✉ ️☎ 🤳 🏼 🖨 🤝 📫 📪 📭 📬 🗨 👋 🙋 ‍♂ ☎️ 💞 ♀️ 🖱 📨 👆 🏽 📢 📤</emojis>
 </info>
 <tags>
-<tag>
-<name>whatsapp</name>
-<url>#whatsapp</url>
-</tag>
-<tag>
-<name>message</name>
-<url>#message</url>
-</tag>
-<tag>
-<name>mail</name>
-<url>#mail</url>
-</tag>
-<tag>
-<name>@The_Phixel</name>
-<url>#@The_Phixel</url>
-</tag>
-<tag>
-<name>Follow</name>
-<url>#Follow</url>
-</tag>
-<tag>
-<name>msm</name>
-<url>#msm</url>
-</tag>
-<tag>
-<name>contact@phixel.net</name>
-<url>#contact@phixel.net</url>
-</tag>
-<tag>
-<name>wearehere</name>
-<url>#wearehere</url>
-</tag>
-<tag>
-<name>phixel</name>
-<url>#phixel</url>
-</tag>
-<tag>
-<name>contactus</name>
-<url>#contactus</url>
-</tag>
-<tag>
-<name>idea</name>
-<url>#idea</url>
-</tag>
-<tag>
-<name>help</name>
-<url>#help</url>
-</tag>
-<tag>
-<name>business</name>
-<url>#business</url>
-</tag>
-<tag>
-<name>chat</name>
-<url>#chat</url>
-</tag>
-<tag>
-<name>phone</name>
-<url>#phone</url>
-</tag>
-<tag>
-<name>email</name>
-<url>#email</url>
-</tag>
-<tag>
-<name>job</name>
-<url>#job</url>
-</tag>
-<tag>
-<name>contact</name>
-<url>#contact</url>
-</tag>
-<tag>
-<name>newproduct</name>
-<url>#newproduct</url>
-</tag>
-<tag>
-<name>help</name>
-<url>#help</url>
-</tag>
-<tag>
-<name>phixelnet</name>
-<url>#phixelnet</url>
-</tag>
-<tag>
-<name>foryou</name>
-<url>#foryou</url>
-</tag>
+	<tag>whatsapp</tag>
+	<tag>message</tag>
+	<tag>mail</tag>
+	<tag>@The_Phixel</tag>
+	<tag>Follow</tag>
+	<tag>msm</tag>
+	<tag>contact@phixel.net</tag>
+	<tag>wearehere</tag>
+	<tag>phixel</tag>
+	<tag>contactus</tag>
+	<tag>idea</tag>
+	<tag>help</tag>
+	<tag>business</tag>
+	<tag>chat</tag>
+	<tag>phone</tag>
+	<tag>email</tag>
+	<tag>job</tag>
+	<tag>contact</tag>
+	<tag>newproduct</tag>
+	<tag>help</tag>
+	<tag>phixelnet</tag>
+	<tag>foryou</tag>
 </tags>
 </item>

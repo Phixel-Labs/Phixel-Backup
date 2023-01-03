@@ -10,45 +10,24 @@ Enjoy!</content>
 <excerpt>Hot & Heat Picante Like Salsa</excerpt>
 <description>Came from the farthest corners of Mexico a thousand Years recipe that is now available to those fans that cannot to enjoy resist the spicy of a great “Salsa”.</description>
 <media>
-<url>media/picante.webp</url>
-<url>media/picante.webp</url>
+	<url>media/94deafed/picante.webp</url>
+	<url>media/9651ea01/picante.webp</url>
 </media>
 <info>
-<id>2A5Z</id>
-<date>20/10/2022</date>
-<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
-<category>Portfolio Item</category>
-<url>portfolio-item</url>
-<emojis>🆒 🥤</emojis>
+	<id>#NAME?</id>
+	<date>20/10/2022</date>
+	<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
+	<category>Portfolio Item</category>
+	<url>portfolio-item</url>
+	<emojis>🆒 🥤</emojis>
 </info>
 <tags>
-<tag>
-<name>phixel</name>
-<url>#phixel</url>
-</tag>
-<tag>
-<name>celcius</name>
-<url>#celcius</url>
-</tag>
-<tag>
-<name>instacoffee</name>
-<url>#instacoffee</url>
-</tag>
-<tag>
-<name>celsius</name>
-<url>#celsius</url>
-</tag>
-<tag>
-<name>coffeelover</name>
-<url>#coffeelover</url>
-</tag>
-<tag>
-<name>cafe</name>
-<url>#cafe</url>
-</tag>
-<tag>
-<name>picante</name>
-<url>#picante</url>
-</tag>
+	<tag>phixel</tag>
+	<tag>celcius</tag>
+	<tag>instacoffee</tag>
+	<tag>celsius</tag>
+	<tag>coffeelover</tag>
+	<tag>cafe</tag>
+	<tag>picante</tag>
 </tags>
 </item>

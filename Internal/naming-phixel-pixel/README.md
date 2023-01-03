@@ -10,10 +10,10 @@ Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
 ## Description
 The most obvious word in our name is pixel, but it has more meaning than you think
 ## Media
-<img src="media/the-name-pixel.jpg">
+<img src="media/8b1cd232/the-name-pixel.jpg">
 
 ------------
-- **ID:** 2BRK
+- **ID:** #NAME?
 - **Date:** 06/11/2022
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Internal](#internal)

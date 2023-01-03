@@ -18,10 +18,10 @@ Join the fight against Dr. Darkness and his plan for revenge!
 ## Description
 The evil Dr. Darkness plans to take over the city using a machine that plunges it into darkness. However...
 ## Media
-<img src="media/dr.darkness-revenge.jpg">
+<img src="media/eb1ea966/dr.darkness-revenge.jpg">
 
 ------------
-- **ID:** PUS7
+- **ID:** #NAME?
 - **Date:** 03/06/2022
 - **URL:** [https://phixel.net/en/dr-darkness-revenge/](https://phixel.net/en/dr-darkness-revenge/)
 - **Type:** [Blog](#blog)

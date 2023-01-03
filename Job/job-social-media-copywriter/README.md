@@ -56,10 +56,10 @@ We are looking for an awesome Social Media Copywriter
 ## Description
 We are looking for a Social Media Copywriter to engage with our users and promote our or our clients’ products and services on social media.
 ## Media
-<img src="media/job-social-media-copywriter.jpg">
+<img src="media/0b474e8a/job-social-media-copywriter.jpg">
 
 ------------
-- **ID:** QD6A
+- **ID:** #NAME?
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/social-media-copywriter/](https://phixel.net/en/jobs/social-media-copywriter/)
 - **Type:** [Job](#job)

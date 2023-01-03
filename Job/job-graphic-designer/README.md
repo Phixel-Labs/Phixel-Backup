@@ -63,10 +63,10 @@ We are looking for an spotless Graphic Designer
 ## Description
 We are seeking a Graphic Designer to create engaging, branded graphics for a variety of media.
 ## Media
-<img src="media/job-graphic-designer.jpg">
+<img src="media/22784764/job-graphic-designer.jpg">
 
 ------------
-- **ID:** 3XDL
+- **ID:** #NAME?
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/graphic-designer/](https://phixel.net/en/jobs/graphic-designer/)
 - **Type:** [Job](#job)

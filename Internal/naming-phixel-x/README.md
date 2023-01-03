@@ -15,10 +15,10 @@ Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
 ## Description
 This letter is a mystery
 ## Media
-<img src="media/the-name-wildcard.jpg">
+<img src="media/17f4f081/the-name-wildcard.jpg">
 
 ------------
-- **ID:** 0PQA
+- **ID:** #NAME?
 - **Date:** 06/11/2022
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Internal](#internal)

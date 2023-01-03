@@ -10,10 +10,10 @@ We design web pages that look amazing and are easy to use.
 ## Description
 Whether you need a brand-new website or just a few pages revamped, our team of experienced web designers can help.
 ## Media
-<img src="media/services-web-design.jpg">
+<img src="media/6889f86d/services-web-design.jpg">
 
 ------------
-- **ID:** HO42
+- **ID:** #NAME?
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/service/web-design/](https://phixel.net/en/service/web-design/)
 - **Type:** [Service](#service)

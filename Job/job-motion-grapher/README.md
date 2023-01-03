@@ -49,10 +49,10 @@ We are looking for an striking Motion Grapher
 ## Description
 We are looking for a creative Motion Grapher to develop excellent visual frames with 2D/3D or other techniques.
 ## Media
-<img src="media/job-motion-grapher.jpg">
+<img src="media/fa157440/job-motion-grapher.jpg">
 
 ------------
-- **ID:** AU24
+- **ID:** #NAME?
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/motion-grapher/](https://phixel.net/en/jobs/motion-grapher/)
 - **Type:** [Job](#job)

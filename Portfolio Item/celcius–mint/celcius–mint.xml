@@ -9,45 +9,24 @@ The freshness and the combination with the taste of peppermint, are able to brin
 <excerpt>Fresh Mint Breeze of The Morning</excerpt>
 <description>The freshness and the combination with the taste of peppermint, are able to bring you the North Pole without leaving your home.</description>
 <media>
-<url>media/mint.webp</url>
-<url>media/mint.webp</url>
+	<url>media/89f4575d/mint.webp</url>
+	<url>media/1dfe0ec7/mint.webp</url>
 </media>
 <info>
-<id>616D</id>
-<date>20/10/2022</date>
-<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
-<category>Portfolio Item</category>
-<url>portfolio-item</url>
-<emojis>🆒</emojis>
+	<id>#NAME?</id>
+	<date>20/10/2022</date>
+	<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
+	<category>Portfolio Item</category>
+	<url>portfolio-item</url>
+	<emojis>🆒</emojis>
 </info>
 <tags>
-<tag>
-<name>phixel</name>
-<url>#phixel</url>
-</tag>
-<tag>
-<name>celcius</name>
-<url>#celcius</url>
-</tag>
-<tag>
-<name>instacoffee</name>
-<url>#instacoffee</url>
-</tag>
-<tag>
-<name>celsius</name>
-<url>#celsius</url>
-</tag>
-<tag>
-<name>coffeelover</name>
-<url>#coffeelover</url>
-</tag>
-<tag>
-<name>cafe</name>
-<url>#cafe</url>
-</tag>
-<tag>
-<name>mint</name>
-<url>#mint</url>
-</tag>
+	<tag>phixel</tag>
+	<tag>celcius</tag>
+	<tag>instacoffee</tag>
+	<tag>celsius</tag>
+	<tag>coffeelover</tag>
+	<tag>cafe</tag>
+	<tag>mint</tag>
 </tags>
 </item>

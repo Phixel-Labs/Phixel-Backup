@@ -15,48 +15,24 @@ In the end, Phixel emerged victorious, and the city was saved from the clutches 
 <excerpt>Join the fight against Dr. Darkness and his plan for revenge!</excerpt>
 <description>The evil Dr. Darkness plans to take over the city using a machine that plunges it into darkness. However...</description>
 <media>
-<url>media/dr.darkness-revenge.jpg</url>
+	<url>media/eb1ea966/dr.darkness-revenge.jpg</url>
 </media>
 <info>
-<id>PUS7</id>
-<date>03/06/2022</date>
-<url>https://phixel.net/en/dr-darkness-revenge/</url>
-<category>Blog</category>
-<url>blog</url>
-<emojis>😈 💣 😠 🗡 🌎 🖤 🌑</emojis>
+	<id>#NAME?</id>
+	<date>03/06/2022</date>
+	<url>https://phixel.net/en/dr-darkness-revenge/</url>
+	<category>Blog</category>
+	<url>blog</url>
+	<emojis>😈 💣 😠 🗡 🌎 🖤 🌑</emojis>
 </info>
 <tags>
-<tag>
-<name>villain</name>
-<url>#villain</url>
-</tag>
-<tag>
-<name>darkness</name>
-<url>#darkness</url>
-</tag>
-<tag>
-<name>revenge</name>
-<url>#revenge</url>
-</tag>
-<tag>
-<name>evil</name>
-<url>#evil</url>
-</tag>
-<tag>
-<name>power</name>
-<url>#power</url>
-</tag>
-<tag>
-<name>horror</name>
-<url>#horror</url>
-</tag>
-<tag>
-<name>mystery</name>
-<url>#mystery</url>
-</tag>
-<tag>
-<name>thriller</name>
-<url>#thriller</url>
-</tag>
+	<tag>villain</tag>
+	<tag>darkness</tag>
+	<tag>revenge</tag>
+	<tag>evil</tag>
+	<tag>power</tag>
+	<tag>horror</tag>
+	<tag>mystery</tag>
+	<tag>thriller</tag>
 </tags>
 </item>

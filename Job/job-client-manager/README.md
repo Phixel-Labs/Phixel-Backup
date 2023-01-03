@@ -62,10 +62,10 @@ We are looking for a unimaginable Client Manager
 ## Description
 We are looking for an unparalleled Client Relations Manager to create and nurture long-term relationships with clients.
 ## Media
-<img src="media/jop-client-manager.jpg">
+<img src="media/4da746a8/jop-client-manager.jpg">
 
 ------------
-- **ID:** 3MQB
+- **ID:** #NAME?
 - **Date:** 30/10/2022
 - **URL:** [https://phixel.net/en/jobs/client-manager/](https://phixel.net/en/jobs/client-manager/)
 - **Type:** [Job](#job)

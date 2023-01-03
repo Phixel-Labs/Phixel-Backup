@@ -17,10 +17,10 @@ Try new design techniques to keep your skills sharp during the holiday season
 ## Description
 From brainstorming sessions to trying out new techniques, these exercises can help keep your design skills sharp and your inspiration flowing during the holiday season
 ## Media
-<img src="media/exercise-on-holliday.jpg">
+<img src="media/f8fe415d/exercise-on-holliday.jpg">
 
 ------------
-- **ID:** SCG2
+- **ID:** #NAME?
 - **Date:** 13/12/2022
 - **URL:** [https://phixel.net/en/holiday/christmas/creative-exercises-holidays/](https://phixel.net/en/holiday/christmas/creative-exercises-holidays/)
 - **Type:** [Blog](#blog)

@@ -16,10 +16,10 @@ We create user experiences.
 ## Description
 We design digital products with simplicity and clarity in mind.
 ## Media
-<img src="media/services-ux-design.jpg">
+<img src="media/98279faa/services-ux-design.jpg">
 
 ------------
-- **ID:** 6YNK
+- **ID:** #NAME?
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/service/user-experience-design/](https://phixel.net/en/service/user-experience-design/)
 - **Type:** [Service](#service)

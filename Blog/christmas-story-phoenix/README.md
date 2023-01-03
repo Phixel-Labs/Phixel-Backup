@@ -16,10 +16,10 @@ Discover the new meaning of Christmas with a tale of giving and renewal!
 ## Description
 The team at Phixel was working hard at the office when they heard a knock on the door. The last thing they expected was to see a Phoenix standing there, but that’s exactly what happened.
 ## Media
-<img src="media/xmas-phoenix.jpg">
+<img src="media/f467b130/xmas-phoenix.jpg">
 
 ------------
-- **ID:** 0GNK
+- **ID:** #NAME?
 - **Date:** 19/12/2022
 - **URL:** [https://phixel.net/en/story/christmas-story-phoenix/](https://phixel.net/en/story/christmas-story-phoenix/)
 - **Type:** [Blog](#blog)

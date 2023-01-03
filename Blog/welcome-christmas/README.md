@@ -23,10 +23,10 @@ It's that time of year and we can't wait to receive some cool gifts. Has everyon
 ## Description
 It's definitely exciting to think about what gifts we might receive during the holiday season! If you haven't already started making your wish list, now is a great time to start. Here are some tips for keeping it simple
 ## Media
-<img src="media/welcome-christmas.jpg">
+<img src="media/bfd0283b/welcome-christmas.jpg">
 
 ------------
-- **ID:** 3H2Y
+- **ID:** #NAME?
 - **Date:** 01/12/2022
 - **URL:** [https://phixel.net/en/welcome-christmas/](https://phixel.net/en/welcome-christmas/)
 - **Type:** [Blog](#blog)

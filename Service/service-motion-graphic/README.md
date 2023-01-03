@@ -12,10 +12,10 @@ Our team of skilled motion graphics artists can help to create videos, product d
 ## Description
 In Phixel create stunning motion graphics that make your brand stand out from the competition.
 ## Media
-<img src="media/services-motion-graphic.jpg">
+<img src="media/19c77b06/services-motion-graphic.jpg">
 
 ------------
-- **ID:** OLLM
+- **ID:** #NAME?
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/service/motion-graphic/](https://phixel.net/en/service/motion-graphic/)
 - **Type:** [Service](#service)

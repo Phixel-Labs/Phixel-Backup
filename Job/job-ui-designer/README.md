@@ -53,10 +53,10 @@ We are looking for an immaculate UI Designer
 ## Description
 We are looking for a talented UI Designer to create amazing user experiences.
 ## Media
-<img src="media/job-ui-designer.jpg">
+<img src="media/64dda23d/job-ui-designer.jpg">
 
 ------------
-- **ID:** Q1MY
+- **ID:** #NAME?
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/ui-designer/](https://phixel.net/en/jobs/ui-designer/)
 - **Type:** [Job](#job)

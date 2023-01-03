@@ -70,116 +70,41 @@ Our clients know everything before it happens, so there are no unpleasant surpri
 <excerpt>The retro & almost sci-fi story</excerpt>
 <description>The only thing you need to know about us it that the goal is simple; Do exceptional work that delights.</description>
 <media>
-<url>media/space-cover.jpg</url>
+	<url>media/5ab289b6/space-cover.jpg</url>
 </media>
 <info>
-<id>1X22</id>
-<date>01/01/2020</date>
-<url>https://phixel.net/en/about-us/</url>
-<category>Page</category>
-<url>page</url>
-<emojis>🆒 👽 🎩 🌟 😱 🚀 ​​ 🌜 ☄️ 🌌 🦠 🔫 👨 🏿 💫 🤖 👾 📡 ⚡​ ​</emojis>
+	<id>#NAME?</id>
+	<date>01/01/2020</date>
+	<url>https://phixel.net/en/about-us/</url>
+	<category>Page</category>
+	<url>page</url>
+	<emojis>🆒 👽 🎩 🌟 😱 🚀 ​​ 🌜 ☄️ 🌌 🦠 🔫 👨 🏿 💫 🤖 👾 📡 ⚡​ ​</emojis>
 </info>
 <tags>
-<tag>
-<name>phixel</name>
-<url>#phixel</url>
-</tag>
-<tag>
-<name>withlove</name>
-<url>#withlove</url>
-</tag>
-<tag>
-<name>phixel</name>
-<url>#phixel</url>
-</tag>
-<tag>
-<name>real</name>
-<url>#real</url>
-</tag>
-<tag>
-<name>weare</name>
-<url>#weare</url>
-</tag>
-<tag>
-<name>sci-fi</name>
-<url>#sci-fi</url>
-</tag>
-<tag>
-<name>retrofuturistic</name>
-<url>#retrofuturistic</url>
-</tag>
-<tag>
-<name>exceptional</name>
-<url>#exceptional</url>
-</tag>
-<tag>
-<name>who</name>
-<url>#who</url>
-</tag>
-<tag>
-<name>retrostyledesign</name>
-<url>#retrostyledesign</url>
-</tag>
-<tag>
-<name>mission</name>
-<url>#mission</url>
-</tag>
-<tag>
-<name>secret</name>
-<url>#secret</url>
-</tag>
-<tag>
-<name>truth</name>
-<url>#truth</url>
-</tag>
-<tag>
-<name>futuristic</name>
-<url>#futuristic</url>
-</tag>
-<tag>
-<name>simple</name>
-<url>#simple</url>
-</tag>
-<tag>
-<name>retrofuturism</name>
-<url>#retrofuturism</url>
-</tag>
-<tag>
-<name>work</name>
-<url>#work</url>
-</tag>
-<tag>
-<name>story</name>
-<url>#story</url>
-</tag>
-<tag>
-<name>idea</name>
-<url>#idea</url>
-</tag>
-<tag>
-<name>industry</name>
-<url>#industry</url>
-</tag>
-<tag>
-<name>graphicdesigns</name>
-<url>#graphicdesigns</url>
-</tag>
-<tag>
-<name>retro</name>
-<url>#retro</url>
-</tag>
-<tag>
-<name>vintage</name>
-<url>#vintage</url>
-</tag>
-<tag>
-<name>foryou</name>
-<url>#foryou</url>
-</tag>
-<tag>
-<name>creativestudio</name>
-<url>#creativestudio</url>
-</tag>
+	<tag>phixel</tag>
+	<tag>withlove</tag>
+	<tag>phixel</tag>
+	<tag>real</tag>
+	<tag>weare</tag>
+	<tag>sci-fi</tag>
+	<tag>retrofuturistic</tag>
+	<tag>exceptional</tag>
+	<tag>who</tag>
+	<tag>retrostyledesign</tag>
+	<tag>mission</tag>
+	<tag>secret</tag>
+	<tag>truth</tag>
+	<tag>futuristic</tag>
+	<tag>simple</tag>
+	<tag>retrofuturism</tag>
+	<tag>work</tag>
+	<tag>story</tag>
+	<tag>idea</tag>
+	<tag>industry</tag>
+	<tag>graphicdesigns</tag>
+	<tag>retro</tag>
+	<tag>vintage</tag>
+	<tag>foryou</tag>
+	<tag>creativestudio</tag>
 </tags>
 </item>

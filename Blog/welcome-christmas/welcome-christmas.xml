@@ -20,52 +20,25 @@ Creating the perfect Christmas wish list is an exciting and fun part of the holi
 <excerpt>It's that time of year and we can't wait to receive some cool gifts. Has everyone thought about their wish list? If not, now is the time to start! Keeping it simple is always better!</excerpt>
 <description>It's definitely exciting to think about what gifts we might receive during the holiday season! If you haven't already started making your wish list, now is a great time to start. Here are some tips for keeping it simple</description>
 <media>
-<url>media/welcome-christmas.jpg</url>
+	<url>media/bfd0283b/welcome-christmas.jpg</url>
 </media>
 <info>
-<id>3H2Y</id>
-<date>01/12/2022</date>
-<url>https://phixel.net/en/welcome-christmas/</url>
-<category>Blog</category>
-<url>blog</url>
-<emojis>🎁 🎅 🏻 🎄 🦌 ❄️ 🤶 🏽 🛷 ☃️ 🥂 👨 👧 ️</emojis>
+	<id>#NAME?</id>
+	<date>01/12/2022</date>
+	<url>https://phixel.net/en/welcome-christmas/</url>
+	<category>Blog</category>
+	<url>blog</url>
+	<emojis>🎁 🎅 🏻 🎄 🦌 ❄️ 🤶 🏽 🛷 ☃️ 🥂 👨 👧 ️</emojis>
 </info>
 <tags>
-<tag>
-<name>christmas</name>
-<url>#christmas</url>
-</tag>
-<tag>
-<name>christmastree</name>
-<url>#christmastree</url>
-</tag>
-<tag>
-<name>christmasgifts</name>
-<url>#christmasgifts</url>
-</tag>
-<tag>
-<name>xmas</name>
-<url>#xmas</url>
-</tag>
-<tag>
-<name>wishlist</name>
-<url>#wishlist</url>
-</tag>
-<tag>
-<name>instagood</name>
-<url>#instagood</url>
-</tag>
-<tag>
-<name>gift</name>
-<url>#gift</url>
-</tag>
-<tag>
-<name>wishing</name>
-<url>#wishing</url>
-</tag>
-<tag>
-<name>wishes</name>
-<url>#wishes</url>
-</tag>
+	<tag>christmas</tag>
+	<tag>christmastree</tag>
+	<tag>christmasgifts</tag>
+	<tag>xmas</tag>
+	<tag>wishlist</tag>
+	<tag>instagood</tag>
+	<tag>gift</tag>
+	<tag>wishing</tag>
+	<tag>wishes</tag>
 </tags>
 </item>

@@ -10,10 +10,10 @@ We build groundbreaking Augmented & Virtual Reality experiences.
 ## Description
 With Augmented Reality or Virtual Reality, businesses can create immersive, engaging experiences that help them modernize the way they work and discover new ways to engage customers.
 ## Media
-<img src="media/services-vr.jpg">
+<img src="media/34bbb39e/services-vr.jpg">
 
 ------------
-- **ID:** 6R0F
+- **ID:** #NAME?
 - **Date:** 22/10/2022
 - **URL:** [https://phixel.net/en/service/augmented-virtual-reality/](https://phixel.net/en/service/augmented-virtual-reality/)
 - **Type:** [Service](#service)

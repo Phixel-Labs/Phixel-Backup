@@ -56,10 +56,10 @@ We are looking for an distinctive Translator
 ## Description
 We are looking for a translator to interpret written and audio pieces in different languages, making sure to maintain their original meaning, format and tone.
 ## Media
-<img src="media/job-translator.jpg">
+<img src="media/85d1f4e9/job-translator.jpg">
 
 ------------
-- **ID:** 030N
+- **ID:** #NAME?
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/translator/](https://phixel.net/en/jobs/translator/)
 - **Type:** [Job](#job)

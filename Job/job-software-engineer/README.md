@@ -58,10 +58,10 @@ We are looking for a clever Software Engineer
 ## Description
 We are looking for a Software Engineer to produce and implement functional software/web/apps solutions.
 ## Media
-<img src="media/job-software-engineer.jpg">
+<img src="media/cd01d87b/job-software-engineer.jpg">
 
 ------------
-- **ID:** LURH
+- **ID:** #NAME?
 - **Date:** 22/10/2022
 - **URL:** [https://phixel.net/en/jobs/software-engineer/](https://phixel.net/en/jobs/software-engineer/)
 - **Type:** [Job](#job)

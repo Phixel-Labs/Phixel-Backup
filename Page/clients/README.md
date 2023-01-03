@@ -99,38 +99,38 @@ We believe that everyone deserves great design experiences
 ## Description
 We love making a difference in people's lives by connecting our clients with the design solutions they need.
 ## Media
-<img src="media/clients.jpg">
-<img src="media/logo-alpina.png">
-<img src="media/logo-argos.png">
-<img src="media/logo-bancoldex.png">
-<img src="media/logo-bancolombia.png">
-<img src="media/logo-bavaria.png">
-<img src="media/logo-berlinas.png">
-<img src="media/logo-caf.png">
-<img src="media/logo-camara-de-comercio-bogota.png">
-<img src="media/logo-citroen.png">
-<img src="media/logo-creamhelado.png">
-<img src="media/logo-davivienda.png">
-<img src="media/logo-delipavo.png">
-<img src="media/logo-dove.png">
-<img src="media/logo-drummond.png">
-<img src="media/logo-ecopetrol.png">
-<img src="media/logo-huggies.png">
-<img src="media/logo-hyundai.png">
-<img src="media/logo-isa.png">
-<img src="media/logo-lafayette.png">
-<img src="media/logo-movistar.png">
-<img src="media/logo-nestle.png">
-<img src="media/logo-renault.png">
-<img src="media/logo-seguros-bolivar.png">
-<img src="media/logo-soho.png">
-<img src="media/logo-telefonica.png">
-<img src="media/logo-tigo.png">
-<img src="media/logo-une.png">
-<img src="media/logo-xbox.png">
+<img src="media/8c598419/clients.jpg">
+<img src="media/1360176e/logo-alpina.png">
+<img src="media/e6bece89/logo-argos.png">
+<img src="media/2292c83a/logo-bancoldex.png">
+<img src="media/dbefaf19/logo-bancolombia.png">
+<img src="media/8c8b80cd/logo-bavaria.png">
+<img src="media/e5c57a92/logo-berlinas.png">
+<img src="media/70b32a8b/logo-caf.png">
+<img src="media/c2f6c658/logo-camara-de-comercio-bogota.png">
+<img src="media/911e4d17/logo-citroen.png">
+<img src="media/8f1af804/logo-creamhelado.png">
+<img src="media/86212a9b/logo-davivienda.png">
+<img src="media/b97fe9d9/logo-delipavo.png">
+<img src="media/c9bf0180/logo-dove.png">
+<img src="media/ebd34fad/logo-drummond.png">
+<img src="media/0048326e/logo-ecopetrol.png">
+<img src="media/1afcef6f/logo-huggies.png">
+<img src="media/55f91758/logo-hyundai.png">
+<img src="media/097bb643/logo-isa.png">
+<img src="media/16e6be50/logo-lafayette.png">
+<img src="media/b3090de9/logo-movistar.png">
+<img src="media/5e41435a/logo-nestle.png">
+<img src="media/c7e6d27b/logo-renault.png">
+<img src="media/066309fe/logo-seguros-bolivar.png">
+<img src="media/06b475ed/logo-soho.png">
+<img src="media/56f5e547/logo-telefonica.png">
+<img src="media/25d2f522/logo-tigo.png">
+<img src="media/ca230824/logo-une.png">
+<img src="media/db0db306/logo-xbox.png">
 
 ------------
-- **ID:** 5A8B
+- **ID:** #NAME?
 - **Date:** 23/10/2022
 - **URL:** [https://phixel.net/en/about-us/clients/](https://phixel.net/en/about-us/clients/)
 - **Type:** [Page](#page)

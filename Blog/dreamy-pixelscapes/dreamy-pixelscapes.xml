@@ -15,93 +15,36 @@ We made an HTML Demo version for you to enjoy those nostalgic dreamy pixelscapes
 <excerpt>Remember when you could spend hours playing pixelated video games in front of the TV?</excerpt>
 <description>Remember those dreamy pixelscapes that captured your imagination and made you feel like you were in a different world?</description>
 <media>
-<url>media/tv-8-bit-game.mp4</url>
-<url>media/dreamy-pixelscapes.webp</url>
+	<url>media/dd0aaed7/tv-8-bit-game.mp4</url>
+	<url>media/baa771e2/dreamy-pixelscapes.webp</url>
 </media>
 <info>
-<id>23P4</id>
-<date>01/01/2022</date>
-<url>https://phixel.net/en/dreamy-pixelscapes/</url>
-<category>Blog</category>
-<url>blog</url>
-<emojis>🆒 🎮 🕹 ️⌨ 💾 🎹 ​​ 🍄 🅸</emojis>
+	<id>#NAME?</id>
+	<date>01/01/2022</date>
+	<url>https://phixel.net/en/dreamy-pixelscapes/</url>
+	<category>Blog</category>
+	<url>blog</url>
+	<emojis>🆒 🎮 🕹 ️⌨ 💾 🎹 ​​ 🍄 🅸</emojis>
 </info>
 <tags>
-<tag>
-<name>the90s</name>
-<url>#the90s</url>
-</tag>
-<tag>
-<name>pixelart</name>
-<url>#pixelart</url>
-</tag>
-<tag>
-<name>retrogaming</name>
-<url>#retrogaming</url>
-</tag>
-<tag>
-<name>nostalgia</name>
-<url>#nostalgia</url>
-</tag>
-<tag>
-<name>HTML5game</name>
-<url>#HTML5game</url>
-</tag>
-<tag>
-<name>pixelartgames</name>
-<url>#pixelartgames</url>
-</tag>
-<tag>
-<name>pixelartdemo</name>
-<url>#pixelartdemo</url>
-</tag>
-<tag>
-<name>psx</name>
-<url>#psx</url>
-</tag>
-<tag>
-<name>nintendo64</name>
-<url>#nintendo64</url>
-</tag>
-<tag>
-<name>supernes</name>
-<url>#supernes</url>
-</tag>
-<tag>
-<name>gameboy</name>
-<url>#gameboy</url>
-</tag>
-<tag>
-<name>gameboycolor</name>
-<url>#gameboycolor</url>
-</tag>
-<tag>
-<name>nes</name>
-<url>#nes</url>
-</tag>
-<tag>
-<name>snes</name>
-<url>#snes</url>
-</tag>
-<tag>
-<name>pokemon</name>
-<url>#pokemon</url>
-</tag>
-<tag>
-<name>snesforever</name>
-<url>#snesforever</url>
-</tag>
-<tag>
-<name>psxforever</name>
-<url>#psxforever</url>
-</tag>
-<tag>
-<name>retrogaming</name>
-<url>#retrogaming</url>
-</tag>
-<tag>
-<name>videogame</name>
-<url>#videogame</url>
-</tag>
+	<tag>the90s</tag>
+	<tag>pixelart</tag>
+	<tag>retrogaming</tag>
+	<tag>nostalgia</tag>
+	<tag>HTML5game</tag>
+	<tag>pixelartgames</tag>
+	<tag>pixelartdemo</tag>
+	<tag>psx</tag>
+	<tag>nintendo64</tag>
+	<tag>supernes</tag>
+	<tag>gameboy</tag>
+	<tag>gameboycolor</tag>
+	<tag>nes</tag>
+	<tag>snes</tag>
+	<tag>pokemon</tag>
+	<tag>snesforever</tag>
+	<tag>psxforever</tag>
+	<tag>retrogaming</tag>
+	<tag>videogame</tag>
 </tags>
 </item>

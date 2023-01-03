@@ -35,10 +35,10 @@ We're here to help you bring your idea to life
 ## Description
 Do you have a product to reveal to the world? Contact us and we here will help you bring your idea to life.
 ## Media
-<img src="media/contact-background.png">
+<img src="media/65b0d840/contact-background.png">
 
 ------------
-- **ID:** 58LY
+- **ID:** #NAME?
 - **Date:** 01/01/2020
 - **URL:** [https://phixel.net/en/contact/](https://phixel.net/en/contact/)
 - **Type:** [Page](#page)

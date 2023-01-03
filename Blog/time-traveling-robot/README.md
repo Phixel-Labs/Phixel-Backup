@@ -16,11 +16,11 @@ Experience the magic of Christmas and the excitement of time-travel with The Tim
 ## Description
 On Christmas Eve, the team at Phixel met a time-traveling robot named Retro who had come from the future to learn about the golden ratio in design. The team at Phixel happily showed Retro around and explained the concept to it, impressed by its curiosity and knowledge. On Christmas morning, the team at Phixel celebrated the holiday and continued to work and learn together with Retro. They realized that Christmas was not just about gifts and decorations, but also about sharing and learning from each other, and they looked forward to future adventures together.
 ## Media
-<img src="media/time-traveling-robot.jpg">
-<img src="media/time-traveling-robot-squared.jpg">
+<img src="media/cb8542a6/time-traveling-robot.jpg">
+<img src="media/591dd670/time-traveling-robot-squared.jpg">
 
 ------------
-- **ID:** 48CZ
+- **ID:** #NAME?
 - **Date:** 24/12/2022
 - **URL:** [https://phixel.net/en/story/time-traveling-robot/](https://phixel.net/en/story/time-traveling-robot/)
 - **Type:** [Blog](#blog)

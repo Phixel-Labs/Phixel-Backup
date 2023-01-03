@@ -57,10 +57,10 @@ We are looking for an amazing Content Marketing Manager
 ## Description
 We are looking for a talented Content marketing manager to take responsibility of our inbound marketing strategies including social media, blogs and lead generation.
 ## Media
-<img src="media/job-content-marketing.jpg">
+<img src="media/3f6aba2a/job-content-marketing.jpg">
 
 ------------
-- **ID:** 6V48
+- **ID:** #NAME?
 - **Date:** 22/10/2022
 - **URL:** [https://phixel.net/en/jobs/content-marketing/](https://phixel.net/en/jobs/content-marketing/)
 - **Type:** [Job](#job)

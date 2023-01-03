@@ -16,10 +16,10 @@ Unlock the full potential of Photoshop with these 5 tips for maximizing its powe
 ## Description
 Photoshop is a powerful tool that can be used to create stunning images and designs. In this article, we will explore some tips for unlocking its full potential, including learning the basics, experimenting with different tools and features, using layers and masks, taking advantage of blend modes, and using shortcuts.
 ## Media
-<img src="media/maximizing-the-photoshop-potential.jpg">
+<img src="media/f7a3dd37/maximizing-the-photoshop-potential.jpg">
 
 ------------
-- **ID:** 4EP2
+- **ID:** #NAME?
 - **Date:** 12/11/2022
 - **URL:** [https://phixel.net/en/maximizing-photoshop-potential/](https://phixel.net/en/maximizing-photoshop-potential/)
 - **Type:** [Blog](#blog)

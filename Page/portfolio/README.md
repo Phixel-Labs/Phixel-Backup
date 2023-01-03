@@ -10,10 +10,10 @@ Here Are Some of Our Favorite Select Works!
 ## Description
 These are some of our favorite selected works in our Portfolio, showcasing cool, innovative and forward-thinking projects.
 ## Media
-<img src="media/portfolio.jpg">
+<img src="media/8ad46bbb/portfolio.jpg">
 
 ------------
-- **ID:** OLML
+- **ID:** #NAME?
 - **Date:** 01/01/2000
 - **URL:** [https://phixel.net/en/portfolio/](https://phixel.net/en/portfolio/)
 - **Type:** [Page](#page)

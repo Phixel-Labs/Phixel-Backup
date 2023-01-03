@@ -12,10 +12,10 @@ In Phixel we design web apps that are easy to use and look great.
 ## Description
 We focus on creating fluid user experiences that make your customers happy.
 ## Media
-<img src="media/services-web-app-design.jpg">
+<img src="media/6dfff947/services-web-app-design.jpg">
 
 ------------
-- **ID:** NTGU
+- **ID:** #NAME?
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/service/web-app-design/](https://phixel.net/en/service/web-app-design/)
 - **Type:** [Service](#service)

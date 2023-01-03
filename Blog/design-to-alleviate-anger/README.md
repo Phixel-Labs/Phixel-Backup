@@ -21,10 +21,10 @@ If you're looking for more ways to incorporate graphic design into your self-car
 ## Description
 Graphic design can be a powerful tool for managing negative emotions, such as anger. From coloring and creating a vision board, to practicing mindfulness and using positive affirmations, there are many ways to incorporate design techniques into your routine to help alleviate anger.
 ## Media
-<img src="media/design-alleviate-anger.jpg">
+<img src="media/421ab8b6/design-alleviate-anger.jpg">
 
 ------------
-- **ID:** OG0Q
+- **ID:** #NAME?
 - **Date:** 02/01/2023
 - **URL:** [https://phixel.net/en/activity/design/design-to-alleviate-anger/](https://phixel.net/en/activity/design/design-to-alleviate-anger/)
 - **Type:** [Blog](#blog)

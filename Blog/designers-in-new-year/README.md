@@ -16,10 +16,10 @@ Start the new year off right with these tips for setting goals and achieving suc
 ## Description
 As the new year approaches, it's a great time for graphic designers to set goals and plan for success. Follow these tips to kick off the new year on the right foot and achieve your professional goals in the year ahead.
 ## Media
-<img src="media/designers-in-new-year.jpg">
+<img src="media/02cc79d2/designers-in-new-year.jpg">
 
 ------------
-- **ID:** PA4Q
+- **ID:** #NAME?
 - **Date:** 01/01/2023
 - **URL:** [https://phixel.net/en/tips/designers-in-new-year/](https://phixel.net/en/tips/designers-in-new-year/)
 - **Type:** [Blog](#blog)

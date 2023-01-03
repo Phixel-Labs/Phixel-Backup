@@ -10,10 +10,10 @@ Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
 ## Description
 The most used code in the world
 ## Media
-<img src="media/the-name-coding.jpg">
+<img src="media/318145bb/the-name-coding.jpg">
 
 ------------
-- **ID:** MKQE
+- **ID:** #NAME?
 - **Date:** 06/11/2022
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Internal](#internal)

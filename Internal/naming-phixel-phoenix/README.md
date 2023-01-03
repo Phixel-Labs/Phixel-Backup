@@ -14,10 +14,10 @@ Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
 ## Description
 Have you ever heard of the legend of the Phoenix?
 ## Media
-<img src="media/the-name-phoenix.jpg">
+<img src="media/653007a5/the-name-phoenix.jpg">
 
 ------------
-- **ID:** QM5S
+- **ID:** #NAME?
 - **Date:** 06/11/2022
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Internal](#internal)

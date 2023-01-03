@@ -18,11 +18,11 @@ Remember when you could spend hours playing pixelated video games in front of th
 ## Description
 Remember those dreamy pixelscapes that captured your imagination and made you feel like you were in a different world?
 ## Media
-<img src="media/tv-8-bit-game.mp4">
-<img src="media/dreamy-pixelscapes.webp">
+<img src="media/dd0aaed7/tv-8-bit-game.mp4">
+<img src="media/baa771e2/dreamy-pixelscapes.webp">
 
 ------------
-- **ID:** 23P4
+- **ID:** #NAME?
 - **Date:** 01/01/2022
 - **URL:** [https://phixel.net/en/dreamy-pixelscapes/](https://phixel.net/en/dreamy-pixelscapes/)
 - **Type:** [Blog](#blog)

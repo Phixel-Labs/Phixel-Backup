@@ -52,10 +52,10 @@ We are looking for an marvelous Photographer
 ## Description
 We are looking for a passionate Photographer to capture moments on film and to use images to tell a story.
 ## Media
-<img src="media/job-photographer.jpg">
+<img src="media/cc139c8d/job-photographer.jpg">
 
 ------------
-- **ID:** 15M5
+- **ID:** #NAME?
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/photographer/](https://phixel.net/en/jobs/photographer/)
 - **Type:** [Job](#job)

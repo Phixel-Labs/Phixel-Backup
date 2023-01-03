@@ -58,10 +58,10 @@ We are looking for an prominent Social Media Manager
 ## Description
 We are looking for a talented Social media manager to administer our and pur clients social media accounts.
 ## Media
-<img src="media/job-social-media-manager.jpg">
+<img src="media/5a3711aa/job-social-media-manager.jpg">
 
 ------------
-- **ID:** Q2PA
+- **ID:** #NAME?
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/social-media-manager/](https://phixel.net/en/jobs/social-media-manager/)
 - **Type:** [Job](#job)

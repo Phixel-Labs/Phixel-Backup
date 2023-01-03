@@ -15,11 +15,11 @@ Elegance Chocolate Kingdom
 The pure chocolate flavor and smooth texture of this will leave you satisfied. 
 ## “Our chocolate is not fattening”
 ## Media
-<img src="media/chocolate.webp">
-<img src="media/chocolate.webp">
+<img src="media/b64d3301/chocolate.webp">
+<img src="media/f124f4ed/chocolate.webp">
 
 ------------
-- **ID:** LW2S
+- **ID:** #NAME?
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)

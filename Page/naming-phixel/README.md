@@ -10,11 +10,11 @@ The interesting meaning of the name Phixel
 ## Description
 The name Phixel is beautiful, elegant and unique, we love it and we take it to heart. Learn what it took to get there!
 ## Media
-<img src="media/the-name.jpg">
-<img src="media/the-name-x.jpg">
+<img src="media/3b11003d/the-name.jpg">
+<img src="media/be339840/the-name-x.jpg">
 
 ------------
-- **ID:** 3CGW
+- **ID:** #NAME?
 - **Date:** 06/11/2022
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Page](#page)

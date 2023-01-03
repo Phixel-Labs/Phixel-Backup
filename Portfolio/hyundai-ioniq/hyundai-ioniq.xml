@@ -11,68 +11,35 @@ With its sleek, stylish design and top-of-the-line features, the IONIQ 5 is perf
 <excerpt>Electric SUV (Case study)</excerpt>
 <description>In this case study, you&#039;ll learn more about the design process that went into creating the landing page for the IONIQ 5.</description>
 <media>
-<url>media/hyundai-ioniq-5-blender-visualstudio.jpg</url>
-<url>media/hyundai-ioniq-5-cover.jpg</url>
-<url>media/hyundai-ioniq-5-mobile-2.jpg</url>
-<url>media/hyundai-ioniq-5-mobile.jpg</url>
-<url>media/hyundai-ioniq-5-tablet-2.jpg</url>
-<url>media/hyundai-ioniq-5-tablet.jpg</url>
-<url>media/hyundai-ioniq-5-video-mobile.jpg</url>
-<url>media/hyundai-ioniq-5-video.jpg</url>
-<url>media/hyundai-ioniq-5-desktop-mobile-1.mp4</url>
+	<url>media/808853fd/hyundai-ioniq-5-blender-visualstudio.jpg</url>
+	<url>media/6f848b38/hyundai-ioniq-5-cover.jpg</url>
+	<url>media/74d20c68/hyundai-ioniq-5-mobile-2.jpg</url>
+	<url>media/529d201a/hyundai-ioniq-5-mobile.jpg</url>
+	<url>media/de447bad/hyundai-ioniq-5-tablet-2.jpg</url>
+	<url>media/44b99514/hyundai-ioniq-5-tablet.jpg</url>
+	<url>media/19636d6b/hyundai-ioniq-5-video-mobile.jpg</url>
+	<url>media/051fa10f/hyundai-ioniq-5-video.jpg</url>
+	<url>media/7af94aaa/hyundai-ioniq-5-desktop-mobile-1.mp4</url>
 </media>
 <info>
-<id>6IRK</id>
-<date>18/11/2022</date>
-<url>https://phixel.net/en/portfolio/ioniq/</url>
-<category>Portfolio</category>
-<url>portfolio</url>
-<emojis>🆒 🚙 🔋</emojis>
+	<id>#NAME?</id>
+	<date>18/11/2022</date>
+	<url>https://phixel.net/en/portfolio/ioniq/</url>
+	<category>Portfolio</category>
+	<url>portfolio</url>
+	<emojis>🆒 🚙 🔋</emojis>
 </info>
 <tags>
-<tag>
-<name>phixel</name>
-<url>#phixel</url>
-</tag>
-<tag>
-<name>casestudy</name>
-<url>#casestudy</url>
-</tag>
-<tag>
-<name>portfolio</name>
-<url>#portfolio</url>
-</tag>
-<tag>
-<name>hyundai</name>
-<url>#hyundai</url>
-</tag>
-<tag>
-<name>IONIQ5</name>
-<url>#IONIQ5</url>
-</tag>
-<tag>
-<name>ioniq</name>
-<url>#ioniq</url>
-</tag>
-<tag>
-<name>landingpage</name>
-<url>#landingpage</url>
-</tag>
-<tag>
-<name>electric</name>
-<url>#electric</url>
-</tag>
-<tag>
-<name>suv</name>
-<url>#suv</url>
-</tag>
-<tag>
-<name>car</name>
-<url>#car</url>
-</tag>
-<tag>
-<name>electricvehicle</name>
-<url>#electricvehicle</url>
-</tag>
+	<tag>phixel</tag>
+	<tag>casestudy</tag>
+	<tag>portfolio</tag>
+	<tag>hyundai</tag>
+	<tag>IONIQ5</tag>
+	<tag>ioniq</tag>
+	<tag>landingpage</tag>
+	<tag>electric</tag>
+	<tag>suv</tag>
+	<tag>car</tag>
+	<tag>electricvehicle</tag>
 </tags>
 </item>

@@ -12,45 +12,24 @@ Because is sweet, like we know yue are, is the taste we all know and love</conte
 <description>The pure chocolate flavor and smooth texture of this will leave you satisfied. 
 ## “Our chocolate is not fattening”</description>
 <media>
-<url>media/chocolate.webp</url>
-<url>media/chocolate.webp</url>
+	<url>media/b64d3301/chocolate.webp</url>
+	<url>media/f124f4ed/chocolate.webp</url>
 </media>
 <info>
-<id>LW2S</id>
-<date>20/10/2022</date>
-<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
-<category>Portfolio Item</category>
-<url>portfolio-item</url>
-<emojis>🆒</emojis>
+	<id>#NAME?</id>
+	<date>20/10/2022</date>
+	<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
+	<category>Portfolio Item</category>
+	<url>portfolio-item</url>
+	<emojis>🆒</emojis>
 </info>
 <tags>
-<tag>
-<name>phixel</name>
-<url>#phixel</url>
-</tag>
-<tag>
-<name>celcius</name>
-<url>#celcius</url>
-</tag>
-<tag>
-<name>instacoffee</name>
-<url>#instacoffee</url>
-</tag>
-<tag>
-<name>celsius</name>
-<url>#celsius</url>
-</tag>
-<tag>
-<name>coffeelover</name>
-<url>#coffeelover</url>
-</tag>
-<tag>
-<name>cafe</name>
-<url>#cafe</url>
-</tag>
-<tag>
-<name>chocolate</name>
-<url>#chocolate</url>
-</tag>
+	<tag>phixel</tag>
+	<tag>celcius</tag>
+	<tag>instacoffee</tag>
+	<tag>celsius</tag>
+	<tag>coffeelover</tag>
+	<tag>cafe</tag>
+	<tag>chocolate</tag>
 </tags>
 </item>

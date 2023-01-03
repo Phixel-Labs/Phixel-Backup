@@ -58,10 +58,10 @@ We are looking for a sagacious Team Manager
 ## Description
 We are looking for a relentless team leader to manage our teams and provide effective guidance.
 ## Media
-<img src="media/job-team-manager.jpg">
+<img src="media/467767f8/job-team-manager.jpg">
 
 ------------
-- **ID:** RGOO
+- **ID:** #NAME?
 - **Date:** 30/10/2022
 - **URL:** [https://phixel.net/en/jobs/team-manager/](https://phixel.net/en/jobs/team-manager/)
 - **Type:** [Job](#job)

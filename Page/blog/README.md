@@ -8,10 +8,10 @@ Can't help but feel inspired by retro sci-fi
 ## Description
 Under the neon light we contemplate the snowy pink mountain and write in this blog.
 ## Media
-<img src="media/landscape-of-pink-mountains-macro.jpg">
+<img src="media/b64e6ba7/landscape-of-pink-mountains-macro.jpg">
 
 ------------
-- **ID:** MJOI
+- **ID:** #NAME?
 - **Date:** 01/01/2010
 - **URL:** [https://phixel.net/en/blog/](https://phixel.net/en/blog/)
 - **Type:** [Page](#page)

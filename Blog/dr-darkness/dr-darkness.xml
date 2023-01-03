@@ -15,52 +15,25 @@ Dr. Darkness was defeated, and the city was saved thanks to the heroic efforts o
 <excerpt>Experience the terror of Dr. Darkness and his plans for world domination!</excerpt>
 <description>Dr. Darkness is a mad scientist with a thirst for power who has been working on a secret project to gain control over the city. Just as he is about to activate his weapon...</description>
 <media>
-<url>media/dr.darkness.jpg</url>
+	<url>media/a4bca298/dr.darkness.jpg</url>
 </media>
 <info>
-<id>6A0X</id>
-<date>03/03/2022</date>
-<url>https://phixel.net/en/story/mystery/dr-darkness/</url>
-<category>Blog</category>
-<url>blog</url>
-<emojis>😈 🦹 🏾 🌎 🖤 🌑</emojis>
+	<id>#NAME?</id>
+	<date>03/03/2022</date>
+	<url>https://phixel.net/en/story/mystery/dr-darkness/</url>
+	<category>Blog</category>
+	<url>blog</url>
+	<emojis>😈 🦹 🏾 🌎 🖤 🌑</emojis>
 </info>
 <tags>
-<tag>
-<name>villain</name>
-<url>#villain</url>
-</tag>
-<tag>
-<name>DrDarkness</name>
-<url>#DrDarkness</url>
-</tag>
-<tag>
-<name>darkness</name>
-<url>#darkness</url>
-</tag>
-<tag>
-<name>worlddomination</name>
-<url>#worlddomination</url>
-</tag>
-<tag>
-<name>evil</name>
-<url>#evil</url>
-</tag>
-<tag>
-<name>power</name>
-<url>#power</url>
-</tag>
-<tag>
-<name>horror</name>
-<url>#horror</url>
-</tag>
-<tag>
-<name>mystery</name>
-<url>#mystery</url>
-</tag>
-<tag>
-<name>thriller</name>
-<url>#thriller</url>
-</tag>
+	<tag>villain</tag>
+	<tag>DrDarkness</tag>
+	<tag>darkness</tag>
+	<tag>worlddomination</tag>
+	<tag>evil</tag>
+	<tag>power</tag>
+	<tag>horror</tag>
+	<tag>mystery</tag>
+	<tag>thriller</tag>
 </tags>
 </item>

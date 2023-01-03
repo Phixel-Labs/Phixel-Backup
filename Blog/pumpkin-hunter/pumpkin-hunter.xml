@@ -21,116 +21,44 @@ At this moment, Plisk follows the trail of the youngsters, entering a cold room�
 <excerpt>As soon as someone sees the Pumpkin, they have 3 before an unfortunate supernatural future occurs.</excerpt>
 <description>A private detective named Plisk investigates the disappearance of a young man named Hunter and his sister. While investigating, he discovers a legend about an orange pumpkin with a supernatural curse.</description>
 <media>
-<url>media/pumpkin-hunters-cover.jpg</url>
-<url>media/pumpkin-hunters-brother-sister.jpg</url>
-<url>media/pumpkin-hunters-news.jpg</url>
-<url>media/pumpkin-hunters-detective.jpg</url>
-<url>media/the-pumpkin-hunters-curse.mp3</url>
+	<url>media/f1474f9e/pumpkin-hunters-cover.jpg</url>
+	<url>media/b91521b8/pumpkin-hunters-brother-sister.jpg</url>
+	<url>media/361b776e/pumpkin-hunters-news.jpg</url>
+	<url>media/aeeecb91/pumpkin-hunters-detective.jpg</url>
+	<url>media/cc404681/the-pumpkin-hunters-curse.mp3</url>
 </media>
 <info>
-<id>2S1X</id>
-<date>31/10/2022</date>
-<url>https://phixel.net/en/pumpkin-hunter/</url>
-<category>Blog</category>
-<url>blog</url>
-<emojis>🙀 🎃 📺 🧥 🕯 🔍 💀 🕙 🕸 ️​ ​​ 📼 ​⏮ ⏭️ ⏯️</emojis>
+	<id>#NAME?</id>
+	<date>31/10/2022</date>
+	<url>https://phixel.net/en/pumpkin-hunter/</url>
+	<category>Blog</category>
+	<url>blog</url>
+	<emojis>🙀 🎃 📺 🧥 🕯 🔍 💀 🕙 🕸 ️​ ​​ 📼 ​⏮ ⏭️ ⏯️</emojis>
 </info>
 <tags>
-<tag>
-<name>halloween</name>
-<url>#halloween</url>
-</tag>
-<tag>
-<name>scary</name>
-<url>#scary</url>
-</tag>
-<tag>
-<name>halloweenparty</name>
-<url>#halloweenparty</url>
-</tag>
-<tag>
-<name>halloweenpumpkin</name>
-<url>#halloweenpumpkin</url>
-</tag>
-<tag>
-<name>spooky</name>
-<url>#spooky</url>
-</tag>
-<tag>
-<name>candy</name>
-<url>#candy</url>
-</tag>
-<tag>
-<name>sweets</name>
-<url>#sweets</url>
-</tag>
-<tag>
-<name>pumpkin</name>
-<url>#pumpkin</url>
-</tag>
-<tag>
-<name>orangepumpkin</name>
-<url>#orangepumpkin</url>
-</tag>
-<tag>
-<name>curse</name>
-<url>#curse</url>
-</tag>
-<tag>
-<name>legend</name>
-<url>#legend</url>
-</tag>
-<tag>
-<name>supernatural</name>
-<url>#supernatural</url>
-</tag>
-<tag>
-<name>disappearance</name>
-<url>#disappearance</url>
-</tag>
-<tag>
-<name>hunter</name>
-<url>#hunter</url>
-</tag>
-<tag>
-<name>detective</name>
-<url>#detective</url>
-</tag>
-<tag>
-<name>horror</name>
-<url>#horror</url>
-</tag>
-<tag>
-<name>investigator</name>
-<url>#investigator</url>
-</tag>
-<tag>
-<name>apocalypse</name>
-<url>#apocalypse</url>
-</tag>
-<tag>
-<name>legends</name>
-<url>#legends</url>
-</tag>
-<tag>
-<name>privateinvestigator</name>
-<url>#privateinvestigator</url>
-</tag>
-<tag>
-<name>vhs</name>
-<url>#vhs</url>
-</tag>
-<tag>
-<name>vhsfixer</name>
-<url>#vhsfixer</url>
-</tag>
-<tag>
-<name>mystery</name>
-<url>#mystery</url>
-</tag>
-<tag>
-<name>suspense</name>
-<url>#suspense</url>
-</tag>
+	<tag>halloween</tag>
+	<tag>scary</tag>
+	<tag>halloweenparty</tag>
+	<tag>halloweenpumpkin</tag>
+	<tag>spooky</tag>
+	<tag>candy</tag>
+	<tag>sweets</tag>
+	<tag>pumpkin</tag>
+	<tag>orangepumpkin</tag>
+	<tag>curse</tag>
+	<tag>legend</tag>
+	<tag>supernatural</tag>
+	<tag>disappearance</tag>
+	<tag>hunter</tag>
+	<tag>detective</tag>
+	<tag>horror</tag>
+	<tag>investigator</tag>
+	<tag>apocalypse</tag>
+	<tag>legends</tag>
+	<tag>privateinvestigator</tag>
+	<tag>vhs</tag>
+	<tag>vhsfixer</tag>
+	<tag>mystery</tag>
+	<tag>suspense</tag>
 </tags>
 </item>
