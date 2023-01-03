@@ -29,7 +29,7 @@ Dive into the party!
 - **ID:** MM29
 - **Date:** 1670108400
 - **URL:** [https://phixel.net/en/gallery/robot-pool-party/](https://phixel.net/en/gallery/robot-pool-party/)
-- **Type:** [Gallery](#Gallery)
+- **Type:** [Gallery](#gallery)
 - **Emojis:** 🆒 🌊 ☀️ 🕶 🎉 🤖 🏊 🦾 🛹 ⚙️ ⚡️ 🏄 👙 🩳 🍹 🥳 🍨 🎈 🤽 ‍♀ 💦 🏻
 
 ------------

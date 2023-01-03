@@ -41,7 +41,7 @@ Do you have a product to reveal to the world? Contact us and we here will help y
 - **ID:** 58LY
 - **Date:** 1577833200
 - **URL:** [https://phixel.net/en/contact/](https://phixel.net/en/contact/)
-- **Type:** [Page](#Page)
+- **Type:** [Page](#page)
 - **Emojis:** 📟 ✨✉ ️☎ 🤳 🏼 🖨 🤝 📫 📪 📭 📬 🗨 👋 🙋 ‍♂ ☎️ 💞 ♀️ 🖱 📨 👆 🏽 📢 📤
 
 ------------

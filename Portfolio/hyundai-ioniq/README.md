@@ -28,7 +28,7 @@ In this case study, you&#039;ll learn more about the design process that went in
 - **ID:** 6IRK
 - **Date:** 1668726000
 - **URL:** [https://phixel.net/en/portfolio/ioniq/](https://phixel.net/en/portfolio/ioniq/)
-- **Type:** [Portfolio](#Portfolio)
+- **Type:** [Portfolio](#portfolio)
 - **Emojis:** 🆒 🚙 🔋
 
 ------------

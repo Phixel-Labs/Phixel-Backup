@@ -34,7 +34,7 @@ In this Second volume, we have collected our pinkest logos.
 - **ID:** OY1H
 - **Date:** 1670108400
 - **URL:** [https://phixel.net/en/gallery/pinkest-logos/](https://phixel.net/en/gallery/pinkest-logos/)
-- **Type:** [Gallery](#Gallery)
+- **Type:** [Gallery](#gallery)
 - **Emojis:** 💓 💞 💝 💗 💕 💖 💘 🎀 🏩 💒 🌺 🌷 🌸 🪷 🍄 🪸 🧠 🫀 🫁 🐷 🐽 🐖 🦩 🪱 🦑 🍡 🍧 👚 🩰 👛 🍥
 
 ------------

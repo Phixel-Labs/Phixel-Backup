@@ -14,7 +14,7 @@ Under the neon light we contemplate the snowy pink mountain and write in this bl
 - **ID:** MJOI
 - **Date:** 1262300400
 - **URL:** [https://phixel.net/en/blog/](https://phixel.net/en/blog/)
-- **Type:** [Page](#Page)
+- **Type:** [Page](#page)
 - **Emojis:** 📢 📃 🔌 🦄 ✏️ 🧪 😎 📄 🐲 👓 🦉 👽 🎮 📼 🪄 🤖 🐇 📫 🪐 👨 📽 🦼 🐈 🏕 🧜 🏿 ⚗️ 📷 🏞 ♀️ 👺 🔥 ☂️ ☢️ 👍 🦾
 
 ------------

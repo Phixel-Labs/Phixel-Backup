@@ -59,7 +59,7 @@ We are looking for a talented Web Designer to create amazing user experiences.
 - **ID:** QDP1
 - **Date:** 1666044000
 - **URL:** [https://phixel.net/en/jobs/web-designer/](https://phixel.net/en/jobs/web-designer/)
-- **Type:** [Job](#Job)
+- **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

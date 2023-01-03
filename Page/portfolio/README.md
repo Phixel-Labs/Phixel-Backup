@@ -16,7 +16,7 @@ These are some of our favorite selected works in our Portfolio, showcasing cool,
 - **ID:** OLML
 - **Date:** 946681200
 - **URL:** [https://phixel.net/en/portfolio/](https://phixel.net/en/portfolio/)
-- **Type:** [Page](#Page)
+- **Type:** [Page](#page)
 - **Emojis:** 🖼 ️​ 💼 ​✍ 🎩 🖍 🌠 ✒️ 🎨 🤸 ‍♀ ♠♥ ♦♣
 
 ------------

@@ -18,7 +18,7 @@ We're here to create beautiful and bold visuals
 - **ID:** 2LQA
 - **Date:** 1577833200
 - **URL:** [https://phixel.net/](https://phixel.net/)
-- **Type:** [Internal](#Internal)
+- **Type:** [Internal](#internal)
 - **Emojis:** 🆒 🌎 🌐 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
 
 ------------

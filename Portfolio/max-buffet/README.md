@@ -26,7 +26,7 @@ The finest quality Top-quality meats and poultry, sourced carefully to ensure yo
 - **ID:** BS7N
 - **Date:** 1666994400
 - **URL:** [https://phixel.net/en/portfolio/repack-max-buffet/](https://phixel.net/en/portfolio/repack-max-buffet/)
-- **Type:** [Portfolio](#Portfolio)
+- **Type:** [Portfolio](#portfolio)
 - **Emojis:** 🐶 🐩 🐕 🦺
 
 ------------

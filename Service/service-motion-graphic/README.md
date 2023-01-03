@@ -18,7 +18,7 @@ In Phixel create stunning motion graphics that make your brand stand out from th
 - **ID:** OLLM
 - **Date:** 1670108400
 - **URL:** [https://phixel.net/en/service/motion-graphic/](https://phixel.net/en/service/motion-graphic/)
-- **Type:** [Service](#Service)
+- **Type:** [Service](#service)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

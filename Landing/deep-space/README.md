@@ -47,7 +47,7 @@ In the vastness of the universe, it can be easy to feel small and alone. But wit
 - **ID:** R34V
 - **Date:** 1667430000
 - **URL:** [https://phixel.net/en/deep-space/](https://phixel.net/en/deep-space/)
-- **Type:** [Landing](#Landing)
+- **Type:** [Landing](#landing)
 - **Emojis:** 🌌 🚀 🪐 🛸 💫 ☄️ 🛰 👽 🔭
 
 ------------

@@ -59,7 +59,7 @@ We are looking for a talented UI Designer to create amazing user experiences.
 - **ID:** Q1MY
 - **Date:** 1666044000
 - **URL:** [https://phixel.net/en/jobs/ui-designer/](https://phixel.net/en/jobs/ui-designer/)
-- **Type:** [Job](#Job)
+- **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

@@ -62,7 +62,7 @@ We are looking for a Social Media Copywriter to engage with our users and promot
 - **ID:** QD6A
 - **Date:** 1666044000
 - **URL:** [https://phixel.net/en/jobs/social-media-copywriter/](https://phixel.net/en/jobs/social-media-copywriter/)
-- **Type:** [Job](#Job)
+- **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

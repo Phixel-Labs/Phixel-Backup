@@ -20,7 +20,7 @@ Have you ever heard of the legend of the Phoenix?
 - **ID:** QM5S
 - **Date:** 1667689200
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
-- **Type:** [Internal](#Internal)
+- **Type:** [Internal](#internal)
 - **Emojis:** 🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
 
 ------------

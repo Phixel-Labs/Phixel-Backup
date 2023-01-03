@@ -18,7 +18,7 @@ Branding is more than just a logo. It’s the entire perception that people have
 - **ID:** OYMG
 - **Date:** 1670108400
 - **URL:** [https://phixel.net/en/service/branding/](https://phixel.net/en/service/branding/)
-- **Type:** [Service](#Service)
+- **Type:** [Service](#service)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

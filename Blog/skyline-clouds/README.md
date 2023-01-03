@@ -26,7 +26,7 @@ As you sit and watch the clouds drift by, you can feel the stress and worries of
 - **ID:** 9XG4
 - **Date:** 1609455600
 - **URL:** [https://phixel.net/en/skyline-clouds/](https://phixel.net/en/skyline-clouds/)
-- **Type:** [Blog](#Blog)
+- **Type:** [Blog](#blog)
 - **Emojis:** 🍂 🗻 🌄 🍃 🪂 ☁️ ♾️ 😮
 
 ------------

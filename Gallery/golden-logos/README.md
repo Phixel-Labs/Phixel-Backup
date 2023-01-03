@@ -22,7 +22,7 @@ Our gold logo gallery offers a wide range of design styles and inspiration for f
 - **ID:** R0BB
 - **Date:** 1671490800
 - **URL:** [https://phixel.net/en/gallery/golden-logos/](https://phixel.net/en/gallery/golden-logos/)
-- **Type:** [Gallery](#Gallery)
+- **Type:** [Gallery](#gallery)
 - **Emojis:** 💛 ⚜️ 🪙 📀 🌟 🔱 🟨 🌕 💫 👑
 
 ------------

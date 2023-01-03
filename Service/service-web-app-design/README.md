@@ -18,7 +18,7 @@ We focus on creating fluid user experiences that make your customers happy.
 - **ID:** NTGU
 - **Date:** 1670108400
 - **URL:** [https://phixel.net/en/service/web-app-design/](https://phixel.net/en/service/web-app-design/)
-- **Type:** [Service](#Service)
+- **Type:** [Service](#service)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

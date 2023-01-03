@@ -23,7 +23,7 @@ Halloween is coming, and that means it's time to get ready for spooky stories, c
 - **ID:** LT6M
 - **Date:** 1666994400
 - **URL:** [https://phixel.net/en/halloween-is-coming/](https://phixel.net/en/halloween-is-coming/)
-- **Type:** [Blog](#Blog)
+- **Type:** [Blog](#blog)
 - **Emojis:** 👹 🕷 🎃 🧙 🏚 🧚 ⚱️ 🕴 🍬 🧞 ⚡️ 😱 👾 🌩 🤡 ☠️ 🔮 🍫 🌕 👿 🦄
 
 ------------

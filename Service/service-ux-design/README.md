@@ -22,7 +22,7 @@ We design digital products with simplicity and clarity in mind.
 - **ID:** 6YNK
 - **Date:** 1670108400
 - **URL:** [https://phixel.net/en/service/user-experience-design/](https://phixel.net/en/service/user-experience-design/)
-- **Type:** [Service](#Service)
+- **Type:** [Service](#service)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

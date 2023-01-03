@@ -20,7 +20,7 @@ We love to think outside the box and "fix" things
 - **ID:** QTOH
 - **Date:** 1667689200
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
-- **Type:** [Internal](#Internal)
+- **Type:** [Internal](#internal)
 - **Emojis:** 🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
 
 ------------

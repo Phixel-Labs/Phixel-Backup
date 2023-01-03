@@ -22,7 +22,7 @@ Photoshop is a powerful tool that can be used to create stunning images and desi
 - **ID:** 4EP2
 - **Date:** 1668207600
 - **URL:** [https://phixel.net/en/maximizing-photoshop-potential/](https://phixel.net/en/maximizing-photoshop-potential/)
-- **Type:** [Blog](#Blog)
+- **Type:** [Blog](#blog)
 - **Emojis:** 💻 ✂️ 🖌 ️
 
 ------------

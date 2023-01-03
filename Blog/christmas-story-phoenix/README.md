@@ -22,7 +22,7 @@ The team at Phixel was working hard at the office when they heard a knock on the
 - **ID:** 0GNK
 - **Date:** 1671404400
 - **URL:** [https://phixel.net/en/story/christmas-story-phoenix/](https://phixel.net/en/story/christmas-story-phoenix/)
-- **Type:** [Blog](#Blog)
+- **Type:** [Blog](#blog)
 - **Emojis:** 🎄 🔥 💙 🐦 🎁 🎅 🦅 💭 💡 🌟 🙏
 
 ------------

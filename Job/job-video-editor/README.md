@@ -55,7 +55,7 @@ We are looking for a talented Video Editor to assemble recorded footage into a f
 - **ID:** 2116
 - **Date:** 1666044000
 - **URL:** [https://phixel.net/en/jobs/video-editor/](https://phixel.net/en/jobs/video-editor/)
-- **Type:** [Job](#Job)
+- **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

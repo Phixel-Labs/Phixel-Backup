@@ -52,7 +52,7 @@ At Phixel, we offer a wide range of services to help you get the most out of you
 - **ID:** 1B5V
 - **Date:** 1579474800
 - **URL:** [https://phixel.net/en/about-us/services/](https://phixel.net/en/about-us/services/)
-- **Type:** [Page](#Page)
+- **Type:** [Page](#page)
 - **Emojis:** 🆒 📀 🕶 💻 🖼 ️✏ ️⭐ 🦿 🖋 🎞 🏆 🦾 📹 🥽 📸 🎩 🧑 📏 🧰 🎶 🤩 🖱 ♂️ 💚 📷 💡 🖌 🦲 🎬 ✒️
 
 ------------

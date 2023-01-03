@@ -64,7 +64,7 @@ We are looking for a relentless team leader to manage our teams and provide effe
 - **ID:** RGOO
 - **Date:** 1667080800
 - **URL:** [https://phixel.net/en/jobs/team-manager/](https://phixel.net/en/jobs/team-manager/)
-- **Type:** [Job](#Job)
+- **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

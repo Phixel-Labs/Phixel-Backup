@@ -29,7 +29,7 @@ It's definitely exciting to think about what gifts we might receive during the h
 - **ID:** 3H2Y
 - **Date:** 1669849200
 - **URL:** [https://phixel.net/en/welcome-christmas/](https://phixel.net/en/welcome-christmas/)
-- **Type:** [Blog](#Blog)
+- **Type:** [Blog](#blog)
 - **Emojis:** 🎁 🎅 🏻 🎄 🦌 ❄️ 🤶 🏽 🛷 ☃️ 🥂 👨 👧 ️
 
 ------------

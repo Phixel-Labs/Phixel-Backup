@@ -21,7 +21,7 @@ This letter is a mystery
 - **ID:** 0PQA
 - **Date:** 1667689200
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
-- **Type:** [Internal](#Internal)
+- **Type:** [Internal](#internal)
 - **Emojis:** 🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
 
 ------------

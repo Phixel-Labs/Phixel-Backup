@@ -27,7 +27,7 @@ Graphic design can be a powerful tool in managing sadness and improving mental w
 - **ID:** O35F
 - **Date:** 1672786800
 - **URL:** [https://phixel.net/en/tips/mental-help/design-to-overcome-sadness/](https://phixel.net/en/tips/mental-help/design-to-overcome-sadness/)
-- **Type:** [Blog](#Blog)
+- **Type:** [Blog](#blog)
 - **Emojis:** 😫 🙇 ‍♀ ♀️ 😖 😞 😭 ‍♂ 🤦 ️
 
 ------------

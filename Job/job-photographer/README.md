@@ -58,7 +58,7 @@ We are looking for a passionate Photographer to capture moments on film and to u
 - **ID:** 15M5
 - **Date:** 1666044000
 - **URL:** [https://phixel.net/en/jobs/photographer/](https://phixel.net/en/jobs/photographer/)
-- **Type:** [Job](#Job)
+- **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

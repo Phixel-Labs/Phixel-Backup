@@ -58,7 +58,7 @@ We are looking for a 3D Modeler to work on various products we develop for our c
 - **ID:** PWOE
 - **Date:** 1666044000
 - **URL:** [https://phixel.net/en/jobs/3d-modeler/](https://phixel.net/en/jobs/3d-modeler/)
-- **Type:** [Job](#Job)
+- **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

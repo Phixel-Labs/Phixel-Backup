@@ -16,7 +16,7 @@ We are always looking for talented and awesome people to work with us. and do so
 - **ID:** GE20
 - **Date:** 1483225200
 - **URL:** [https://phixel.net/en/about-us/jobs/](https://phixel.net/en/about-us/jobs/)
-- **Type:** [Page](#Page)
+- **Type:** [Page](#page)
 - **Emojis:** 🆒 💼 💪 🏼 💕 🎒 💖 📠 💸 💞 💟 💙 👨 👩 🏽 🎓 📈 🧰 💛 👷 ‍♂ ️❤ 🎯 💓 🤗 🤲 🔨 📐 ️‍ 🚩 🌳 ❣️ 🤝 🏅 🔧 👏 🔥 🌠 💯
 
 ------------

@@ -68,7 +68,7 @@ We are looking for an unparalleled Client Relations Manager to create and nurtur
 - **ID:** 3MQB
 - **Date:** 1667080800
 - **URL:** [https://phixel.net/en/jobs/client-manager/](https://phixel.net/en/jobs/client-manager/)
-- **Type:** [Job](#Job)
+- **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

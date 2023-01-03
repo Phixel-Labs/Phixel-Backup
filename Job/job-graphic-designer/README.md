@@ -69,7 +69,7 @@ We are seeking a Graphic Designer to create engaging, branded graphics for a var
 - **ID:** 3XDL
 - **Date:** 1666044000
 - **URL:** [https://phixel.net/en/jobs/graphic-designer/](https://phixel.net/en/jobs/graphic-designer/)
-- **Type:** [Job](#Job)
+- **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

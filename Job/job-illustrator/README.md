@@ -61,7 +61,7 @@ We are looking for a talented Illustrator to create original artwork for digital
 - **ID:** 6AQG
 - **Date:** 1666044000
 - **URL:** [https://phixel.net/en/jobs/illustrator/](https://phixel.net/en/jobs/illustrator/)
-- **Type:** [Job](#Job)
+- **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

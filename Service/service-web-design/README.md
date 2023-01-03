@@ -16,7 +16,7 @@ Whether you need a brand-new website or just a few pages revamped, our team of e
 - **ID:** HO42
 - **Date:** 1670108400
 - **URL:** [https://phixel.net/en/service/web-design/](https://phixel.net/en/service/web-design/)
-- **Type:** [Service](#Service)
+- **Type:** [Service](#service)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

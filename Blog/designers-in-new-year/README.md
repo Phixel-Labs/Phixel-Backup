@@ -22,7 +22,7 @@ As the new year approaches, it's a great time for graphic designers to set goals
 - **ID:** PA4Q
 - **Date:** 1672527600
 - **URL:** [https://phixel.net/en/tips/designers-in-new-year/](https://phixel.net/en/tips/designers-in-new-year/)
-- **Type:** [Blog](#Blog)
+- **Type:** [Blog](#blog)
 - **Emojis:** 🎉 🎊 📈 💡 📚 👩
 
 ------------

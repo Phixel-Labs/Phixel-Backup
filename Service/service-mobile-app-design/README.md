@@ -18,7 +18,7 @@ We understand that in order to be successful, your app needs to look and feel gr
 - **ID:** J88T
 - **Date:** 1670108400
 - **URL:** [https://phixel.net/en/service/mobile-app-design/](https://phixel.net/en/service/mobile-app-design/)
-- **Type:** [Service](#Service)
+- **Type:** [Service](#service)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

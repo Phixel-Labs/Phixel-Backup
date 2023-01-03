@@ -49,7 +49,7 @@ We are Phixel, a team of specialized designers and developers with experience in
 - **ID:** 2X2R
 - **Date:** 1577833200
 - **URL:** [https://phixel.net/](https://phixel.net/)
-- **Type:** [Page](#Page)
+- **Type:** [Page](#page)
 - **Emojis:** 🆒 🌎 🌐 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
 
 ------------

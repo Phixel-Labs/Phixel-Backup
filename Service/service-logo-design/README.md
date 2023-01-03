@@ -18,7 +18,7 @@ Phixel understand the importance of having a great logo and work tirelessly to c
 - **ID:** O6Q9
 - **Date:** 1670108400
 - **URL:** [https://phixel.net/en/service/logo-design/](https://phixel.net/en/service/logo-design/)
-- **Type:** [Service](#Service)
+- **Type:** [Service](#service)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

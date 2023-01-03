@@ -21,7 +21,7 @@ A team of workers at a company called Phixel discover an old VHS player with a t
 - **ID:** QIDW
 - **Date:** 1672441200
 - **URL:** [https://phixel.net/en/story/time-traveling-vhs/](https://phixel.net/en/story/time-traveling-vhs/)
-- **Type:** [Blog](#Blog)
+- **Type:** [Blog](#blog)
 - **Emojis:** 🕰
 
 ------------

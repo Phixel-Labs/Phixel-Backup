@@ -27,7 +27,7 @@ Graphic design techniques, such as journaling, creating a vision board, using ph
 - **ID:** OZ6W
 - **Date:** 1672354800
 - **URL:** [https://phixel.net/en/tips/mental-help/design-help-depression/](https://phixel.net/en/tips/mental-help/design-help-depression/)
-- **Type:** [Blog](#Blog)
+- **Type:** [Blog](#blog)
 - **Emojis:** 🖤 😔 💔 🥀 😭 😧 😞
 
 ------------

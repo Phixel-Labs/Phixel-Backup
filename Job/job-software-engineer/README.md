@@ -64,7 +64,7 @@ We are looking for a Software Engineer to produce and implement functional softw
 - **ID:** LURH
 - **Date:** 1666389600
 - **URL:** [https://phixel.net/en/jobs/software-engineer/](https://phixel.net/en/jobs/software-engineer/)
-- **Type:** [Job](#Job)
+- **Type:** [Job](#job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------
