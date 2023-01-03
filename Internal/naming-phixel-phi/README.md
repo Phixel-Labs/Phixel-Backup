@@ -9,6 +9,7 @@ The Golden Ratio is a mathematical proportion, invented by the ancient Greeks, i
  
 Today as designers we strive to create naturally pleasing images with the use of the golden ratio in our work by using certain shapes or proportions to create balance and symmetry within our design elements.
 
+
 ------------
 ## Exerpt
 Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
@@ -16,12 +17,14 @@ Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
 The first 3 letters, have plenty of reasons to exist;
 ## Media
 <img src="media/the-name-golden-ratio.jpg">
+
 ------------
 - **ID:** R313
 - **Date:** 1667689200
-- **URL:** [https://phixel.net/en/about-us/naming-phixel/](#https://phixel.net/en/about-us/naming-phixel/)
+- **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Internal](#Internal)
 - **Emojis:** 🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
+
 ------------
 ## Tags
 [phixel](#phixel), [pixel](#pixel), [PHP](#PHP), [phoenix](#phoenix), [fenix](#fenix), [phix](#phix), [fix](#fix), [x](#x), [phi](#phi)

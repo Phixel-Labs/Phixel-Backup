@@ -14,6 +14,7 @@
 
 Graphic design can be a helpful tool in managing sadness and improving your overall well-being. From creating a vision board and practicing gratitude, to getting creative and using positive affirmations, there are many ways to incorporate design techniques into your routine to help overcome sadness. Don’t underestimate the power of creativity and self-expression in managing your mental health.
 
+
 ------------
 ## Exerpt
 If you're looking for more ways to use graphic design to manage sadness, be sure to check out the rest of our tips on how it can help overcome this emotion.
@@ -21,12 +22,14 @@ If you're looking for more ways to use graphic design to manage sadness, be sure
 Graphic design can be a powerful tool in managing sadness and improving mental well-being. From creating a vision board and practicing gratitude, to getting creative and using positive affirmations, there are many ways to incorporate design techniques into your routine to help overcome sadness. Other helpful techniques include using photography, making a mood board, experimenting with color, practicing mindfulness, and journaling. By incorporating some of these techniques into your daily routine, you can find relief from negative emotions and improve your overall well-being.
 ## Media
 <img src="media/design-to-overcome-sadness.jpg">
+
 ------------
 - **ID:** O35F
 - **Date:** 1672786800
-- **URL:** [https://phixel.net/en/tips/mental-help/design-to-overcome-sadness/](#https://phixel.net/en/tips/mental-help/design-to-overcome-sadness/)
+- **URL:** [https://phixel.net/en/tips/mental-help/design-to-overcome-sadness/](https://phixel.net/en/tips/mental-help/design-to-overcome-sadness/)
 - **Type:** [Blog](#Blog)
 - **Emojis:** 😫 🙇 ‍♀ ♀️ 😖 😞 😭 ‍♂ 🤦 ️
+
 ------------
 ## Tags
 [withlove](#withlove), [graphicdesign](#graphicdesign), [sadness](#sadness), [selfcare](#selfcare), [journaling](#journaling), [visionboard](#visionboard), [photography](#photography), [mindfulness](#mindfulness), [selfcareplan](#selfcareplan), [creativity](#creativity), [gratitude](#gratitude), [moodboard](#moodboard), [affirmations](#affirmations), [colortherapy](#colortherapy)

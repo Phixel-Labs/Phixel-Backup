@@ -8,6 +8,7 @@ The all-natural coffee grounds are blended with a secret blend of essential oils
 Celcius coffee is 15+ uniquely generated bottles.
 ## No two are exactly alike.
 
+
 ------------
 ## Exerpt
 Really Instant Coffee
@@ -24,12 +25,14 @@ Celcius coffee is 15+ uniquely generated bottles. No two are exactly alike. No t
 <img src="media/amaretto.jpg">
 <img src="media/presentation.mp4">
 <img src="media/loading.webp">
+
 ------------
 - **ID:** 4911
 - **Date:** 1666216800
-- **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](#https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
+- **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio](#Portfolio)
 - **Emojis:** 🆒
+
 ------------
 ## Tags
 [phixel](#phixel), [celcius](#celcius), [instacoffee](#instacoffee), [celsius](#celsius), [coffeelover](#coffeelover), [cafe](#cafe), [tropical](#tropical), [chocolate](#chocolate), [vanilla](#vanilla), [mint](#mint), [mojito](#mojito), [picante](#picante), [cinnamon](#cinnamon), [apple](#apple), [berries](#berries), [honey](#honey), [picante](#picante), [greentea](#greentea), [foryou](#foryou)

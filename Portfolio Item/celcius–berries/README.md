@@ -5,6 +5,7 @@ All you need is 5 minutes and 5 ingredients to make this slushy mixed berry lemo
 
 Share the joy, share the love, share the berries!
 
+
 ------------
 ## Exerpt
 Courageous Mix of Berries
@@ -13,12 +14,14 @@ This frozen mixed berry lemonade is super refreshing, perfectly tart, and just s
 ## Media
 <img src="media/berries.webp">
 <img src="media/berries.webp">
+
 ------------
 - **ID:** OY0U
 - **Date:** 1666216800
-- **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](#https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
+- **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#Portfolio Item)
 - **Emojis:** 🆒
+
 ------------
 ## Tags
 [phixel](#phixel), [celcius](#celcius), [instacoffee](#instacoffee), [celsius](#celsius), [coffeelover](#coffeelover), [cafe](#cafe), [berries](#berries)

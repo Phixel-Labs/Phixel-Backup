@@ -5,6 +5,7 @@ Inspired by the tropical landscape of Cuba, we made a awesome mix with sugar can
 
 Ready to sip hot or on ice, it's a perfect summer drink for any occasion.
 
+
 ------------
 ## Exerpt
 Marvelous & Breathtaking Mojito
@@ -13,12 +14,14 @@ Take your love of cocktails and show it off with this traditional Cuban highball
 ## Media
 <img src="media/mojito.webp">
 <img src="media/mojito.webp">
+
 ------------
 - **ID:** 12PV
 - **Date:** 1666216800
-- **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](#https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
+- **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#Portfolio Item)
 - **Emojis:** 🆒
+
 ------------
 ## Tags
 [phixel](#phixel), [celcius](#celcius), [instacoffee](#instacoffee), [celsius](#celsius), [coffeelover](#coffeelover), [cafe](#cafe), [mojito](#mojito)

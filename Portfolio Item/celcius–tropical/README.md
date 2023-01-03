@@ -5,6 +5,7 @@ With a combination of special ingredients and our expert craftsmanship, these fr
 
 ### Experience the exotic flavors of our tropical paradise, brought to you the sunsets on the beach.
 
+
 ------------
 ## Exerpt
 Sunny Wave of Tropical Flavors
@@ -13,12 +14,14 @@ From the exotic Caribbean islands, we bring a wide variety of fruits which in th
 ## Media
 <img src="media/tropical.webp">
 <img src="media/tropical.webp">
+
 ------------
 - **ID:** RDRU
 - **Date:** 1666216800
-- **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](#https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
+- **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#Portfolio Item)
 - **Emojis:** 🆒
+
 ------------
 ## Tags
 [phixel](#phixel), [celcius](#celcius), [instacoffee](#instacoffee), [celsius](#celsius), [coffeelover](#coffeelover), [cafe](#cafe), [tropical](#tropical)

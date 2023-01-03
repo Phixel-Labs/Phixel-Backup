@@ -26,6 +26,7 @@ Get creative: Engaging in creative activities like drawing or painting can be a 
 Use positive affirmations: Positive affirmations are statements that are meant to be repeated to oneself in order to change negative thinking patterns. Creating positive affirmations or mantras and using them as part of your daily routine can help boost your mood and reduce anxiety. For example, you might try repeating affirmations like “I am capable and worthy” or “I am in control of my thoughts and feelings.” Using positive affirmations regularly can help to reprogram your brain to think more positively and reduce anxiety.
 Graphic design can be a powerful tool in managing anxiety and finding peace in daily life. From experimenting with color to incorporating nature and practicing mindfulness, there are many ways that design can help to reduce stress and increase feelings of calm.
 
+
 ------------
 ## Exerpt
 For even more tips on using graphic design to overcome anxiety, be sure to check out the full article.
@@ -33,12 +34,14 @@ For even more tips on using graphic design to overcome anxiety, be sure to check
 Graphic design can be a helpful tool in managing anxiety and finding calm in daily life. In this article, we explored 10 simple yet effective ways that design can be used to reduce anxiety, including experimenting with color, creating a mood board, practicing mindfulness, incorporating nature, using different fonts, incorporating white space, doodling for relaxation, taking breaks, getting creative, and using positive affirmations. By incorporating some of these techniques into your routine, you can find relief from stress and anxiety and improve your overall well-being.
 ## Media
 <img src="media/design-help-anxiety.jpg">
+
 ------------
 - **ID:** 2F20
 - **Date:** 1672095600
-- **URL:** [https://phixel.net/en/activity/design/design-to-overcome-anxiety/](#https://phixel.net/en/activity/design/design-to-overcome-anxiety/)
+- **URL:** [https://phixel.net/en/activity/design/design-to-overcome-anxiety/](https://phixel.net/en/activity/design/design-to-overcome-anxiety/)
 - **Type:** [Blog](#Blog)
 - **Emojis:** 🎨 💆 ‍♀ 🌅 🌄 🌃 🌉 🌠 🌌
+
 ------------
 ## Tags
 [anxiety](#anxiety), [calmingcolors](#calmingcolors), [moodboard](#moodboard), [mindfulness](#mindfulness), [nature](#nature), [typography](#typography), [whitespace](#whitespace), [doodling](#doodling), [breaks](#breaks), [creativity](#creativity), [positiveaffirmations](#positiveaffirmations), [relaxation](#relaxation), [peace](#peace), [calm](#calm)

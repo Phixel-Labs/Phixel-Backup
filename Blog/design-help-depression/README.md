@@ -14,6 +14,7 @@
 
 Graphic design can be a helpful tool in managing depression and improving your overall well-being. From journaling and creating a vision board, to practicing mindfulness and using positive affirmations, there are many ways to incorporate design techniques into your routine to help overcome depression. Don’t underestimate the power of creativity and self-expression in managing your mental health.
 
+
 ------------
 ## Exerpt
 If you're interested in exploring the potential benefits of graphic design for managing depression, here are some additional tips to consider this...
@@ -21,12 +22,14 @@ If you're interested in exploring the potential benefits of graphic design for m
 Graphic design techniques, such as journaling, creating a vision board, using photography, practicing mindfulness, and experimenting with color, can be helpful in managing depression and improving overall well-being.
 ## Media
 <img src="media/design-help-overcome-depression.jpg">
+
 ------------
 - **ID:** OZ6W
 - **Date:** 1672354800
-- **URL:** [https://phixel.net/en/tips/mental-help/design-help-depression/](#https://phixel.net/en/tips/mental-help/design-help-depression/)
+- **URL:** [https://phixel.net/en/tips/mental-help/design-help-depression/](https://phixel.net/en/tips/mental-help/design-help-depression/)
 - **Type:** [Blog](#Blog)
 - **Emojis:** 🖤 😔 💔 🥀 😭 😧 😞
+
 ------------
 ## Tags
 [graphicdesign](#graphicdesign), [depression](#depression), [selfcare](#selfcare), [journaling](#journaling), [visionboard](#visionboard), [photography](#photography), [mindfulness](#mindfulness), [selfcareplan](#selfcareplan), [creativity](#creativity), [gratitude](#gratitude), [moodboard](#moodboard), [affirmations](#affirmations), [colortherapy](#colortherapy)

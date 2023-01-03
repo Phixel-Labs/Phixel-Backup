@@ -39,6 +39,7 @@ Ultimately, you will work with various departments and teams to help define, pro
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
 
+
 ------------
 ## Exerpt
 We are looking for an alluring 3D Animator
@@ -46,12 +47,14 @@ We are looking for an alluring 3D Animator
 We are looking for a 3D Animator to join our team and assist us with designing and developing video games, interactive content and motion videos for our customers.
 ## Media
 <img src="media/job-3d-animator.jpg">
+
 ------------
 - **ID:** R1OL
 - **Date:** 1666044000
-- **URL:** [https://phixel.net/en/jobs/3d-animator/](#https://phixel.net/en/jobs/3d-animator/)
+- **URL:** [https://phixel.net/en/jobs/3d-animator/](https://phixel.net/en/jobs/3d-animator/)
 - **Type:** [Job](#Job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
+
 ------------
 ## Tags
 [phixel](#phixel), [webdesigners](#webdesigners), [clients](#clients), [ui](#ui), [ux](#ux), [videoeditors](#videoeditors), [webdevelopers](#webdevelopers), [animation](#animation), [webdesignstudio](#webdesignstudio), [design](#design), [workhard](#workhard), [designer](#designer), [phixel](#phixel), [love](#love), [gui](#gui), [animation](#animation), [illustration](#illustration), [remotework](#remotework), [studio](#studio), [motiongraphics](#motiongraphics), [workfromanywhere](#workfromanywhere), [worksmart](#worksmart), [3d](#3d), [respet](#respet)

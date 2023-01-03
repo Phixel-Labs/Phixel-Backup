@@ -46,6 +46,7 @@ The ideal candidate should have an eye for clean and artful design, possess supe
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
 
+
 ------------
 ## Exerpt
 We are looking for an immaculate UI Designer
@@ -53,12 +54,14 @@ We are looking for an immaculate UI Designer
 We are looking for a talented UI Designer to create amazing user experiences.
 ## Media
 <img src="media/job-ui-designer.jpg">
+
 ------------
 - **ID:** Q1MY
 - **Date:** 1666044000
-- **URL:** [https://phixel.net/en/jobs/ui-designer/](#https://phixel.net/en/jobs/ui-designer/)
+- **URL:** [https://phixel.net/en/jobs/ui-designer/](https://phixel.net/en/jobs/ui-designer/)
 - **Type:** [Job](#Job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
+
 ------------
 ## Tags
 [phixel](#phixel), [webdesigners](#webdesigners), [clients](#clients), [ui](#ui), [ux](#ux), [videoeditors](#videoeditors), [webdevelopers](#webdevelopers), [animation](#animation), [webdesignstudio](#webdesignstudio), [design](#design), [workhard](#workhard), [designer](#designer), [phixel](#phixel), [love](#love), [gui](#gui), [animation](#animation), [illustration](#illustration), [remotework](#remotework), [studio](#studio), [motiongraphics](#motiongraphics), [workfromanywhere](#workfromanywhere), [worksmart](#worksmart), [3d](#3d), [respet](#respet)

@@ -26,6 +26,7 @@ you should make it worthwhile
 
 ### Why not do it boldly?
 
+
 ------------
 ## Exerpt
 The universe is a big place... 
@@ -41,12 +42,14 @@ In the vastness of the universe, it can be easy to feel small and alone. But wit
 <img src="media/9_16.jpg">
 <img src="media/rogue-supernova.mp4">
 <img src="media/landing-space-astronaut..png">
+
 ------------
 - **ID:** R34V
 - **Date:** 1667430000
-- **URL:** [https://phixel.net/en/deep-space/](#https://phixel.net/en/deep-space/)
+- **URL:** [https://phixel.net/en/deep-space/](https://phixel.net/en/deep-space/)
 - **Type:** [Landing](#Landing)
 - **Emojis:** 🌌 🚀 🪐 🛸 💫 ☄️ 🛰 👽 🔭
+
 ------------
 ## Tags
 [phixel](#phixel), [supernova](#supernova), [space](#space), [deepspace](#deepspace), [universe](#universe), [rogue](#rogue), [experience](#experience), [together](#together), [landingpage](#landingpage), [withlove](#withlove), [webdesigners](#webdesigners), [phixelstudio](#phixelstudio), [animation](#animation), [foryou](#foryou), [creativestudio](#creativestudio)

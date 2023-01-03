@@ -17,6 +17,7 @@ At this moment, Plisk follows the trail of the youngsters, entering a cold room�
 
 ### Will they be able to stop the curse before the time runs out?
 
+
 ------------
 ## Exerpt
 As soon as someone sees the Pumpkin, they have 3 before an unfortunate supernatural future occurs.
@@ -28,12 +29,14 @@ A private detective named Plisk investigates the disappearance of a young man na
 <img src="media/pumpkin-hunters-news.jpg">
 <img src="media/pumpkin-hunters-detective.jpg">
 <img src="media/the-pumpkin-hunters-curse.mp3">
+
 ------------
 - **ID:** 2S1X
 - **Date:** 1667170800
-- **URL:** [https://phixel.net/en/pumpkin-hunter/](#https://phixel.net/en/pumpkin-hunter/)
+- **URL:** [https://phixel.net/en/pumpkin-hunter/](https://phixel.net/en/pumpkin-hunter/)
 - **Type:** [Blog](#Blog)
 - **Emojis:** 🙀 🎃 📺 🧥 🕯 🔍 💀 🕙 🕸 ️​ ​​ 📼 ​⏮ ⏭️ ⏯️
+
 ------------
 ## Tags
 [halloween](#halloween), [scary](#scary), [halloweenparty](#halloweenparty), [halloweenpumpkin](#halloweenpumpkin), [spooky](#spooky), [candy](#candy), [sweets](#sweets), [pumpkin](#pumpkin), [orangepumpkin](#orangepumpkin), [curse](#curse), [legend](#legend), [supernatural](#supernatural), [disappearance](#disappearance), [hunter](#hunter), [detective](#detective), [horror](#horror), [investigator](#investigator), [apocalypse](#apocalypse), [legends](#legends), [privateinvestigator](#privateinvestigator), [vhs](#vhs), [vhsfixer](#vhsfixer), [mystery](#mystery), [suspense](#suspense)

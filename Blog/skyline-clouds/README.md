@@ -12,6 +12,7 @@ _Once she saw something in the distance, or rather, someone. A figure, a mountai
 _As the cloudy horizon and the mountain approached each other, a twinkle in her eyes could be seen, affectionately she quietly said “I love your peace.”_
 _They looked at each other with a sense of relaxation, like two siblings, “I feel the same!” revealed the mountain with a delighted smile._
 
+
 ------------
 ## Exerpt
 Take a breath of fresh air with your favorite mountain, give your self a relaxing feel with the clouds.
@@ -20,12 +21,14 @@ As you sit and watch the clouds drift by, you can feel the stress and worries of
 ## Media
 <img src="media/mountain-16-9.jpg">
 <img src="media/skyline-of-clouds.mp4">
+
 ------------
 - **ID:** 9XG4
 - **Date:** 1609455600
-- **URL:** [https://phixel.net/en/skyline-clouds/](#https://phixel.net/en/skyline-clouds/)
+- **URL:** [https://phixel.net/en/skyline-clouds/](https://phixel.net/en/skyline-clouds/)
 - **Type:** [Blog](#Blog)
 - **Emojis:** 🍂 🗻 🌄 🍃 🪂 ☁️ ♾️ 😮
+
 ------------
 ## Tags
 [skyline](#skyline), [cloudsloops](#cloudsloops), [loop](#loop), [mountain](#mountain), [breathe](#breathe), [relax](#relax), [clouds](#clouds), [beauty](#beauty), [calm](#calm), [calming](#calming), [nature](#nature)

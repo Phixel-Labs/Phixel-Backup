@@ -8,6 +8,7 @@ Well, everything! You see, that's why we call it "The wildcard".
 It can mean everything at once. It can be a multiplier of your sales, your hidden potential, what your business needs to look the way it deserves. And many more things…
 ### We want to be that X for you!
 
+
 ------------
 ## Exerpt
 Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
@@ -15,12 +16,14 @@ Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
 This letter is a mystery
 ## Media
 <img src="media/the-name-wildcard.jpg">
+
 ------------
 - **ID:** 0PQA
 - **Date:** 1667689200
-- **URL:** [https://phixel.net/en/about-us/naming-phixel/](#https://phixel.net/en/about-us/naming-phixel/)
+- **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Internal](#Internal)
 - **Emojis:** 🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
+
 ------------
 ## Tags
 [phixel](#phixel), [pixel](#pixel), [PHP](#PHP), [phoenix](#phoenix), [fenix](#fenix), [phix](#phix), [fix](#fix), [x](#x), [phi](#phi)

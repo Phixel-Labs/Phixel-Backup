@@ -7,6 +7,7 @@ Obratek is a hi-end urban design architecture firm based in Bogotá that provide
 
 Specializing in new construction and street restoration projects, Obratek has a proven track record of excellence and customer satisfaction.
 
+
 ------------
 ## Exerpt
 Hi-end Urban Design Architecture
@@ -21,12 +22,14 @@ A hi-end urban design architecture firm based in Bogotá that provides cutting-e
 <img src="media/obratek-stationery.jpg">
 <img src="media/obratek-video.mp4">
 <img src="media/obratek-logo.png">
+
 ------------
 - **ID:** NX4J
 - **Date:** 1668726000
-- **URL:** [https://phixel.net/en/portfolio/obratek/](#https://phixel.net/en/portfolio/obratek/)
+- **URL:** [https://phixel.net/en/portfolio/obratek/](https://phixel.net/en/portfolio/obratek/)
 - **Type:** [Portfolio](#Portfolio)
 - **Emojis:** 👷 🧱 ‍♂ ♀️ 🏛 🛕 🛠
+
 ------------
 ## Tags
 [phixel](#phixel), [obratek](#obratek), [architecture](#architecture), [design](#design), [urban](#urban), [planning](#planning), [project](#project), [colombia](#colombia), [bogota](#bogota), [city](#city), [urbanplanning](#urbanplanning), [urbandesign](#urbandesign), [hi-end](#hi-end)

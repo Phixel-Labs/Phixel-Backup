@@ -14,6 +14,7 @@
 
 By incorporating some of these graphic design techniques into your daily routine, you can find relief from anger and frustration. Don’t underestimate the power of creativity and self-expression in managing your emotions.
 
+
 ------------
 ## Exerpt
 If you're looking for more ways to incorporate graphic design into your self-care routine, be sure to check out the rest of our tips on how it can help alleviate anger.
@@ -21,12 +22,14 @@ If you're looking for more ways to incorporate graphic design into your self-car
 Graphic design can be a powerful tool for managing negative emotions, such as anger. From coloring and creating a vision board, to practicing mindfulness and using positive affirmations, there are many ways to incorporate design techniques into your routine to help alleviate anger.
 ## Media
 <img src="media/design-alleviate-anger.jpg">
+
 ------------
 - **ID:** OG0Q
 - **Date:** 1672614000
-- **URL:** [https://phixel.net/en/activity/design/design-to-alleviate-anger/](#https://phixel.net/en/activity/design/design-to-alleviate-anger/)
+- **URL:** [https://phixel.net/en/activity/design/design-to-alleviate-anger/](https://phixel.net/en/activity/design/design-to-alleviate-anger/)
 - **Type:** [Blog](#Blog)
 - **Emojis:** 😡 💢 🤬 😤 👿 💥 😠 😣 ❤️ 🥵 🎨 🖌
+
 ------------
 ## Tags
 [anger](#anger), [selfcare](#selfcare), [coloring](#coloring), [visionboard](#visionboard), [typography](#typography), [creativity](#creativity), [mindfulness](#mindfulness), [selfcareplan](#selfcareplan), [photography](#photography), [gratitude](#gratitude), [moodboard](#moodboard), [affirmations](#affirmations)

@@ -7,6 +7,7 @@ We know you've been through a lot, the good, and especially the bad.
  
 We bring your ideas to life and make them better than ever before. We want to help you ignite that flame.
 
+
 ------------
 ## Exerpt
 Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
@@ -14,12 +15,14 @@ Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
 Have you ever heard of the legend of the Phoenix?
 ## Media
 <img src="media/the-name-phoenix.jpg">
+
 ------------
 - **ID:** QM5S
 - **Date:** 1667689200
-- **URL:** [https://phixel.net/en/about-us/naming-phixel/](#https://phixel.net/en/about-us/naming-phixel/)
+- **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Internal](#Internal)
 - **Emojis:** 🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
+
 ------------
 ## Tags
 [phixel](#phixel), [pixel](#pixel), [PHP](#PHP), [phoenix](#phoenix), [fenix](#fenix), [phix](#phix), [fix](#fix), [x](#x), [phi](#phi)

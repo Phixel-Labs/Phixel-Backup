@@ -51,6 +51,7 @@ Ultimately, you should be able to manage our and our clients’ social media pre
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
 
+
 ------------
 ## Exerpt
 We are looking for an prominent Social Media Manager
@@ -58,12 +59,14 @@ We are looking for an prominent Social Media Manager
 We are looking for a talented Social media manager to administer our and pur clients social media accounts.
 ## Media
 <img src="media/job-social-media-manager.jpg">
+
 ------------
 - **ID:** Q2PA
 - **Date:** 1666044000
-- **URL:** [https://phixel.net/en/jobs/social-media-manager/](#https://phixel.net/en/jobs/social-media-manager/)
+- **URL:** [https://phixel.net/en/jobs/social-media-manager/](https://phixel.net/en/jobs/social-media-manager/)
 - **Type:** [Job](#Job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
+
 ------------
 ## Tags
 [phixel](#phixel), [webdesigners](#webdesigners), [clients](#clients), [ui](#ui), [ux](#ux), [videoeditors](#videoeditors), [webdevelopers](#webdevelopers), [animation](#animation), [webdesignstudio](#webdesignstudio), [design](#design), [workhard](#workhard), [designer](#designer), [phixel](#phixel), [love](#love), [gui](#gui), [animation](#animation), [illustration](#illustration), [remotework](#remotework), [studio](#studio), [motiongraphics](#motiongraphics), [workfromanywhere](#workfromanywhere), [worksmart](#worksmart), [3d](#3d), [respet](#respet)

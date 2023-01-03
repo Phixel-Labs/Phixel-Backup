@@ -6,6 +6,7 @@
 The best taste of a great “Salsa”, but with a kick, in a very familiar package.
 Enjoy!
 
+
 ------------
 ## Exerpt
 Hot & Heat Picante Like Salsa
@@ -14,12 +15,14 @@ Came from the farthest corners of Mexico a thousand Years recipe that is now ava
 ## Media
 <img src="media/picante.webp">
 <img src="media/picante.webp">
+
 ------------
 - **ID:** 2A5Z
 - **Date:** 1666216800
-- **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](#https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
+- **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#Portfolio Item)
 - **Emojis:** 🆒 🥤
+
 ------------
 ## Tags
 [phixel](#phixel), [celcius](#celcius), [instacoffee](#instacoffee), [celsius](#celsius), [coffeelover](#coffeelover), [cafe](#cafe), [picante](#picante)

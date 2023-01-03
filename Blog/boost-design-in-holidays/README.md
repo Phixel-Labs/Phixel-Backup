@@ -12,6 +12,7 @@ In this article, we’ll explore five ways to do just that, from creating holida
 
 In conclusion, the holiday season offers a great opportunity for designers to showcase their skills and boost their business. By creating holiday-themed designs, offering special deals, using social media, collaborating with others, and giving back to the community, designers can make the most of the season and set themselves up for success in the new year.
 
+
 ------------
 ## Exerpt
 As the holiday season approaches, it's a great time for graphic designers to take advantage of the festive spirit and boost their business.
@@ -20,12 +21,14 @@ Designers can make the most of the holiday season by creating holiday-themed des
 ## Media
 <img src="media/boosting-the-holidays-cover.jpg">
 <img src="media/boosting-the-holidays.jpg">
+
 ------------
 - **ID:** 932K
 - **Date:** 1670454000
-- **URL:** [https://phixel.net/en/boost-design-in-holidays/](#https://phixel.net/en/boost-design-in-holidays/)
+- **URL:** [https://phixel.net/en/boost-design-in-holidays/](https://phixel.net/en/boost-design-in-holidays/)
 - **Type:** [Blog](#Blog)
 - **Emojis:** 🎄 🎅 🏽 🎁 🎨 💻 💡 💰
+
 ------------
 ## Tags
 [designbusiness](#designbusiness), [holidays](#holidays), [holidaydesign](#holidaydesign), [boostbusiness](#boostbusiness), [graphicdesign](#graphicdesign), [designbusiness](#designbusiness), [holidays](#holidays), [festiveseason](#festiveseason), [designer](#designer), [holidaydesign](#holidaydesign), [holidaypromotions](#holidaypromotions), [socialmedia](#socialmedia), [designcollaboration](#designcollaboration), [givingback](#givingback), [designsuccess](#designsuccess), [holidayseason](#holidayseason), [designerbusiness](#designerbusiness), [designerlife](#designerlife), [happyholidays](#happyholidays), [graphicdesign](#graphicdesign)

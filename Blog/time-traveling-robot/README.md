@@ -9,6 +9,7 @@ On Christmas morning, the team at Phixel gathered around their Christmas tree an
 
 The team at Phixel was grateful for the opportunity to share their knowledge and learn from Retro. They realized that Christmas was not just about gifts and decorations, but also about sharing and learning from one another. And as they continued to work together, they knew that their collaboration with Retro would be the beginning of many more exciting adventures.
 
+
 ------------
 ## Exerpt
 Experience the magic of Christmas and the excitement of time-travel with The Time-Traveling Robot: A Phixel Christmas Adventure!
@@ -17,12 +18,14 @@ On Christmas Eve, the team at Phixel met a time-traveling robot named Retro who 
 ## Media
 <img src="media/time-traveling-robot.jpg">
 <img src="media/time-traveling-robot-squared.jpg">
+
 ------------
 - **ID:** 48CZ
 - **Date:** 1671836400
-- **URL:** [https://phixel.net/en/story/time-traveling-robot/](#https://phixel.net/en/story/time-traveling-robot/)
+- **URL:** [https://phixel.net/en/story/time-traveling-robot/](https://phixel.net/en/story/time-traveling-robot/)
 - **Type:** [Blog](#Blog)
 - **Emojis:** 🕰
+
 ------------
 ## Tags
 [timetravel](#timetravel), [newyears](#newyears), [vhs](#vhs), [adventure](#adventure), [robot](#robot), [timecapsule](#timecapsule), [timemachine](#timemachine), [phixel](#phixel), [christmaseve](#christmaseve), [goldenratio](#goldenratio)

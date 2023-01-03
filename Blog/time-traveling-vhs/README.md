@@ -8,6 +8,7 @@ The team at Phixel was filled with nostalgia and pride as they watched the foota
 
 As the new year began, the team at Phixel was grateful for the reminder of their past and the lessons they had learned along the way. They were excited for the new year ahead and the opportunities it would bring. And they knew that, no matter what challenges came their way, they would face them with the same determination and passion that had brought them this far.
 
+
 ------------
 ## Exerpt
 Experience the nostalgia and excitement of the new year with The Time-Traveling VHS: A New Year's Adventure from Phixel!
@@ -15,12 +16,14 @@ Experience the nostalgia and excitement of the new year with The Time-Traveling 
 A team of workers at a company called Phixel discover an old VHS player with a tape inside that contains footage from the company's early days. As they watch the footage, they are filled with nostalgia and pride, and are reminded of the hard work and dedication that brought them to where they are today. As the new year begins, they are excited for the opportunities that it will bring and determined to face any challenges with the same passion and drive that has brought them this far.
 ## Media
 <img src="media/time-traveling-vhs.jpg">
+
 ------------
 - **ID:** QIDW
 - **Date:** 1672441200
-- **URL:** [https://phixel.net/en/story/time-traveling-vhs/](#https://phixel.net/en/story/time-traveling-vhs/)
+- **URL:** [https://phixel.net/en/story/time-traveling-vhs/](https://phixel.net/en/story/time-traveling-vhs/)
 - **Type:** [Blog](#Blog)
 - **Emojis:** 🕰
+
 ------------
 ## Tags
 [timetravel](#timetravel), [newyears](#newyears), [vhs](#vhs), [adventure](#adventure), [newyearsadventure](#newyearsadventure), [timecapsule](#timecapsule), [timemachine](#timemachine), [retro](#retro), [throwback](#throwback), [timetraveler](#timetraveler), [newyearscelebration](#newyearscelebration)

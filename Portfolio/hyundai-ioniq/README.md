@@ -7,6 +7,7 @@ In this case study, you’ll learn more about the design process that went into 
 
 With its sleek, stylish design and top-of-the-line features, the IONIQ 5 is perfect for consumers who are looking for a vehicle that’s both environmentally friendly and high-performing.
 
+
 ------------
 ## Exerpt
 Electric SUV (Case study)
@@ -22,12 +23,14 @@ In this case study, you&#039;ll learn more about the design process that went in
 <img src="media/hyundai-ioniq-5-video-mobile.jpg">
 <img src="media/hyundai-ioniq-5-video.jpg">
 <img src="media/hyundai-ioniq-5-desktop-mobile-1.mp4">
+
 ------------
 - **ID:** 6IRK
 - **Date:** 1668726000
-- **URL:** [https://phixel.net/en/portfolio/ioniq/](#https://phixel.net/en/portfolio/ioniq/)
+- **URL:** [https://phixel.net/en/portfolio/ioniq/](https://phixel.net/en/portfolio/ioniq/)
 - **Type:** [Portfolio](#Portfolio)
 - **Emojis:** 🆒 🚙 🔋
+
 ------------
 ## Tags
 [phixel](#phixel), [casestudy](#casestudy), [portfolio](#portfolio), [hyundai](#hyundai), [IONIQ5](#IONIQ5), [ioniq](#ioniq), [landingpage](#landingpage), [electric](#electric), [suv](#suv), [car](#car), [electricvehicle](#electricvehicle)

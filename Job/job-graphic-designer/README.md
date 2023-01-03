@@ -56,6 +56,7 @@ The goal is to inspire and engage the target audience.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
 
+
 ------------
 ## Exerpt
 We are looking for an spotless Graphic Designer
@@ -63,12 +64,14 @@ We are looking for an spotless Graphic Designer
 We are seeking a Graphic Designer to create engaging, branded graphics for a variety of media.
 ## Media
 <img src="media/job-graphic-designer.jpg">
+
 ------------
 - **ID:** 3XDL
 - **Date:** 1666044000
-- **URL:** [https://phixel.net/en/jobs/graphic-designer/](#https://phixel.net/en/jobs/graphic-designer/)
+- **URL:** [https://phixel.net/en/jobs/graphic-designer/](https://phixel.net/en/jobs/graphic-designer/)
 - **Type:** [Job](#Job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
+
 ------------
 ## Tags
 [phixel](#phixel), [webdesigners](#webdesigners), [clients](#clients), [ui](#ui), [ux](#ux), [videoeditors](#videoeditors), [webdevelopers](#webdevelopers), [animation](#animation), [webdesignstudio](#webdesignstudio), [design](#design), [workhard](#workhard), [designer](#designer), [phixel](#phixel), [love](#love), [gui](#gui), [animation](#animation), [illustration](#illustration), [remotework](#remotework), [studio](#studio), [motiongraphics](#motiongraphics), [workfromanywhere](#workfromanywhere), [worksmart](#worksmart), [3d](#3d), [respet](#respet)

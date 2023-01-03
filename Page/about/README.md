@@ -66,6 +66,7 @@ According to our work experience, we are able to provide you with custom-tailore
 
 Our clients know everything before it happens, so there are no unpleasant surprises!
 
+
 ------------
 ## Exerpt
 The retro & almost sci-fi story
@@ -73,12 +74,14 @@ The retro & almost sci-fi story
 The only thing you need to know about us it that the goal is simple; Do exceptional work that delights.
 ## Media
 <img src="media/space-cover.jpg">
+
 ------------
 - **ID:** 1X22
 - **Date:** 1577833200
-- **URL:** [https://phixel.net/en/about-us/](#https://phixel.net/en/about-us/)
+- **URL:** [https://phixel.net/en/about-us/](https://phixel.net/en/about-us/)
 - **Type:** [Page](#Page)
 - **Emojis:** 🆒 👽 🎩 🌟 😱 🚀 ​​ 🌜 ☄️ 🌌 🦠 🔫 👨 🏿 💫 🤖 👾 📡 ⚡​ ​
+
 ------------
 ## Tags
 [phixel](#phixel), [withlove](#withlove), [phixel](#phixel), [real](#real), [weare](#weare), [sci-fi](#sci-fi), [retrofuturistic](#retrofuturistic), [exceptional](#exceptional), [who](#who), [retrostyledesign](#retrostyledesign), [mission](#mission), [secret](#secret), [truth](#truth), [futuristic](#futuristic), [simple](#simple), [retrofuturism](#retrofuturism), [work](#work), [story](#story), [idea](#idea), [industry](#industry), [graphicdesigns](#graphicdesigns), [retro](#retro), [vintage](#vintage), [foryou](#foryou), [creativestudio](#creativestudio)

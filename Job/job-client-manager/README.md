@@ -55,6 +55,7 @@ Your goal will be to help us safeguard our revenue and retain our customers.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
 
+
 ------------
 ## Exerpt
 We are looking for a unimaginable Client Manager
@@ -62,12 +63,14 @@ We are looking for a unimaginable Client Manager
 We are looking for an unparalleled Client Relations Manager to create and nurture long-term relationships with clients.
 ## Media
 <img src="media/jop-client-manager.jpg">
+
 ------------
 - **ID:** 3MQB
 - **Date:** 1667080800
-- **URL:** [https://phixel.net/en/jobs/client-manager/](#https://phixel.net/en/jobs/client-manager/)
+- **URL:** [https://phixel.net/en/jobs/client-manager/](https://phixel.net/en/jobs/client-manager/)
 - **Type:** [Job](#Job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
+
 ------------
 ## Tags
 [phixel](#phixel), [webdesigners](#webdesigners), [clients](#clients), [ui](#ui), [ux](#ux), [videoeditors](#videoeditors), [webdevelopers](#webdevelopers), [animation](#animation), [webdesignstudio](#webdesignstudio), [design](#design), [workhard](#workhard), [designer](#designer), [phixel](#phixel), [love](#love), [gui](#gui), [animation](#animation), [illustration](#illustration), [remotework](#remotework), [studio](#studio), [motiongraphics](#motiongraphics), [workfromanywhere](#workfromanywhere), [worksmart](#worksmart), [3d](#3d), [respet](#respet)

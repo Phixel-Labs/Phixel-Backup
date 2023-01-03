@@ -42,6 +42,7 @@ You should possess a creative eye and artistic aptitude and easily turn a script
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
 
+
 ------------
 ## Exerpt
 We are looking for an striking Motion Grapher
@@ -49,12 +50,14 @@ We are looking for an striking Motion Grapher
 We are looking for a creative Motion Grapher to develop excellent visual frames with 2D/3D or other techniques.
 ## Media
 <img src="media/job-motion-grapher.jpg">
+
 ------------
 - **ID:** AU24
 - **Date:** 1666044000
-- **URL:** [https://phixel.net/en/jobs/motion-grapher/](#https://phixel.net/en/jobs/motion-grapher/)
+- **URL:** [https://phixel.net/en/jobs/motion-grapher/](https://phixel.net/en/jobs/motion-grapher/)
 - **Type:** [Job](#Job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
+
 ------------
 ## Tags
 [phixel](#phixel), [webdesigners](#webdesigners), [clients](#clients), [ui](#ui), [ux](#ux), [videoeditors](#videoeditors), [webdevelopers](#webdevelopers), [animation](#animation), [webdesignstudio](#webdesignstudio), [design](#design), [workhard](#workhard), [designer](#designer), [phixel](#phixel), [love](#love), [gui](#gui), [animation](#animation), [illustration](#illustration), [remotework](#remotework), [studio](#studio), [motiongraphics](#motiongraphics), [workfromanywhere](#workfromanywhere), [worksmart](#worksmart), [3d](#3d), [respet](#respet)

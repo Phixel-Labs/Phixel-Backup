@@ -11,6 +11,7 @@ But Phixel was ready for him. Using their incredible design skills, they created
 
 Dr. Darkness was defeated, and the city was saved thanks to the heroic efforts of Phixel. The people celebrated their victory, and the heroes were hailed as heroes. The design agency had once again proved that their creativity was a powerful force for good.
 
+
 ------------
 ## Exerpt
 Experience the terror of Dr. Darkness and his plans for world domination!
@@ -18,12 +19,14 @@ Experience the terror of Dr. Darkness and his plans for world domination!
 Dr. Darkness is a mad scientist with a thirst for power who has been working on a secret project to gain control over the city. Just as he is about to activate his weapon...
 ## Media
 <img src="media/dr.darkness.jpg">
+
 ------------
 - **ID:** 6A0X
 - **Date:** 1646262000
-- **URL:** [https://phixel.net/en/story/mystery/dr-darkness/](#https://phixel.net/en/story/mystery/dr-darkness/)
+- **URL:** [https://phixel.net/en/story/mystery/dr-darkness/](https://phixel.net/en/story/mystery/dr-darkness/)
 - **Type:** [Blog](#Blog)
 - **Emojis:** 😈 🦹 🏾 🌎 🖤 🌑
+
 ------------
 ## Tags
 [villain](#villain), [DrDarkness](#DrDarkness), [darkness](#darkness), [worlddomination](#worlddomination), [evil](#evil), [power](#power), [horror](#horror), [mystery](#mystery), [thriller](#thriller)

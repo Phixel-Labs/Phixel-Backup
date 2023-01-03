@@ -9,6 +9,7 @@
 
 The new year is an exciting time for graphic designers, full of opportunities and challenges. By setting goals and objectives, developing a marketing plan, staying up to date with industry trends, investing in your education and training, and collaborating with other designers, you can position yourself for success and make the most of the coming year. So if you’re a graphic designer, take these tips to heart and start the year off on the right foot!
 
+
 ------------
 ## Exerpt
 Start the new year off right with these tips for setting goals and achieving success as a graphic designer
@@ -16,12 +17,14 @@ Start the new year off right with these tips for setting goals and achieving suc
 As the new year approaches, it's a great time for graphic designers to set goals and plan for success. Follow these tips to kick off the new year on the right foot and achieve your professional goals in the year ahead.
 ## Media
 <img src="media/designers-in-new-year.jpg">
+
 ------------
 - **ID:** PA4Q
 - **Date:** 1672527600
-- **URL:** [https://phixel.net/en/tips/designers-in-new-year/](#https://phixel.net/en/tips/designers-in-new-year/)
+- **URL:** [https://phixel.net/en/tips/designers-in-new-year/](https://phixel.net/en/tips/designers-in-new-year/)
 - **Type:** [Blog](#Blog)
 - **Emojis:** 🎉 🎊 📈 💡 📚 👩
+
 ------------
 ## Tags
 [designergoals](#designergoals), [newyearnewyou](#newyearnewyou), [designerinspiration](#designerinspiration), [graphicdesigner](#graphicdesigner), [designerlife](#designerlife), [professionalgoals](#professionalgoals), [designertips](#designertips), [newyeardesign](#newyeardesign), [successfuldesigner](#successfuldesigner), [designeradvice](#designeradvice)

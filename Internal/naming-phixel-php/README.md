@@ -3,6 +3,7 @@ The first 2 letters ( P H ) are the initials of one of the most used programming
  
 ### By the way, our logo was created to look like a "PHP" function P(H);
 
+
 ------------
 ## Exerpt
 Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
@@ -10,12 +11,14 @@ Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
 The most used code in the world
 ## Media
 <img src="media/the-name-coding.jpg">
+
 ------------
 - **ID:** MKQE
 - **Date:** 1667689200
-- **URL:** [https://phixel.net/en/about-us/naming-phixel/](#https://phixel.net/en/about-us/naming-phixel/)
+- **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Internal](#Internal)
 - **Emojis:** 🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
+
 ------------
 ## Tags
 [phixel](#phixel), [pixel](#pixel), [PHP](#PHP), [phoenix](#phoenix), [fenix](#fenix), [phix](#phix), [fix](#fix), [x](#x), [phi](#phi)

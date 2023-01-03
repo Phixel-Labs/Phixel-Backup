@@ -10,6 +10,7 @@ Challenge yourself to create a design using only a limited color palette: Anothe
 Take a walk or do some other form of physical exercise to clear your mind and stimulate creativity: taking a walk or engaging in some other form of physical exercise can be a great way to clear your mind and stimulate creativity. Exercise can help improve your focus and concentration, making it easier to come up with new ideas.
 By incorporating these creative exercises into your routine, you can stay inspired and productive as a designer during the holiday season. Remember to make time for brainstorming, try new things, and take breaks to recharge. With a little effort and dedication, you can keep your design skills sharp and your inspiration flowing throughout the Christmas season.
 
+
 ------------
 ## Exerpt
 Try new design techniques to keep your skills sharp during the holiday season
@@ -17,12 +18,14 @@ Try new design techniques to keep your skills sharp during the holiday season
 From brainstorming sessions to trying out new techniques, these exercises can help keep your design skills sharp and your inspiration flowing during the holiday season
 ## Media
 <img src="media/exercise-on-holliday.jpg">
+
 ------------
 - **ID:** SCG2
 - **Date:** 1670886000
-- **URL:** [https://phixel.net/en/holiday/christmas/creative-exercises-holidays/](#https://phixel.net/en/holiday/christmas/creative-exercises-holidays/)
+- **URL:** [https://phixel.net/en/holiday/christmas/creative-exercises-holidays/](https://phixel.net/en/holiday/christmas/creative-exercises-holidays/)
 - **Type:** [Blog](#Blog)
 - **Emojis:** 🦌 🛷 🎅 🎄 💡 🎨 🖌 👩 💭 🧠 🏃 ‍♀ ♂️ 🧘 ‍♂
+
 ------------
 ## Tags
 [holidays](#holidays), [exercise](#exercise), [brainstorming](#brainstorming), [techniques](#techniques), [software](#software), [museum](#museum), [art](#art), [collaboration](#collaboration), [colorpalette](#colorpalette), [creativity](#creativity), [inspiration](#inspiration), [productivity](#productivity), [skills](#skills), [mindfulness](#mindfulness)

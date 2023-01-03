@@ -7,6 +7,7 @@ A place where you can find podcasts on all kinds of topics, from science to phil
 
 We want to help you learn more about the world around you and make sure that you don’t miss out on anything interesting.
 
+
 ------------
 ## Exerpt
 The podcast platform for primates
@@ -22,12 +23,14 @@ We want to help you learn more about the world around you and make sure that you
 <img src="media/monostereo.jpg">
 <img src="media/monostereo.mp4">
 <img src="media/monostereo-logo.png">
+
 ------------
 - **ID:** 6225
 - **Date:** 1668726000
-- **URL:** [https://phixel.net/en/portfolio/monostereo/](#https://phixel.net/en/portfolio/monostereo/)
+- **URL:** [https://phixel.net/en/portfolio/monostereo/](https://phixel.net/en/portfolio/monostereo/)
 - **Type:** [Portfolio](#Portfolio)
 - **Emojis:** 🐒 🎙 🦧 🔊 🎶
+
 ------------
 ## Tags
 [phixel](#phixel), [monostereo](#monostereo), [mono](#mono), [stereo](#stereo), [podcast](#podcast), [podcastapp](#podcastapp), [radio](#radio), [chimpanzee](#chimpanzee), [podcastaddict](#podcastaddict), [monkeybussines](#monkeybussines), [gorilla](#gorilla), [monkey](#monkey), [primate](#primate), [chimp](#chimp)

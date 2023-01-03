@@ -5,6 +5,7 @@ Our designers will work with you to create an app that not only meets your needs
 
 That’s why we work closely with our clients to design and develop mobile apps that are both functional and beautiful.
 
+
 ------------
 ## Exerpt
 We want to exceeds your expectations
@@ -12,12 +13,14 @@ We want to exceeds your expectations
 We understand that in order to be successful, your app needs to look and feel great.
 ## Media
 <img src="media/services-mobile-app-design.jpg">
+
 ------------
 - **ID:** J88T
 - **Date:** 1670108400
-- **URL:** [https://phixel.net/en/service/mobile-app-design/](#https://phixel.net/en/service/mobile-app-design/)
+- **URL:** [https://phixel.net/en/service/mobile-app-design/](https://phixel.net/en/service/mobile-app-design/)
 - **Type:** [Service](#Service)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
+
 ------------
 ## Tags
 [phixel](#phixel), [withlove](#withlove), [phixel](#phixel), [withlove](#withlove), [webdesigners](#webdesigners), [webdesignstudio](#webdesignstudio), [phixelstudio](#phixelstudio), [design](#design), [designer](#designer), [welcome](#welcome), [webdevelopers](#webdevelopers), [videoeditors](#videoeditors), [studio](#studio), [clients](#clients), [ui](#ui), [ux](#ux), [gui](#gui), [motiongraphics](#motiongraphics), [animation](#animation), [illustration](#illustration), [3d](#3d), [animation](#animation), [foryou](#foryou), [creativestudio](#creativestudio), [foryou](#foryou), [creativestudio](#creativestudio)

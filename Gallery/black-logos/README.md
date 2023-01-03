@@ -7,6 +7,7 @@ In this series, we show our logo design. So whether you’re a fan of the color 
 
 We like to brag about our ability to design amazing things, check out some awesome and beautiful black logos we’ve created!
 
+
 ------------
 ## Exerpt
 Black is the new Black!
@@ -24,12 +25,14 @@ We like to brag about our ability to design amazing things, check out some aweso
 <img src="media/black-logo-007.jpg">
 <img src="media/black-logo-008.jpg">
 <img src="media/black-logo-009.jpg">
+
 ------------
 - **ID:** 4JOR
 - **Date:** 1670022000
-- **URL:** [https://phixel.net/en/gallery/black-logos/](#https://phixel.net/en/gallery/black-logos/)
+- **URL:** [https://phixel.net/en/gallery/black-logos/](https://phixel.net/en/gallery/black-logos/)
 - **Type:** [Gallery](#Gallery)
 - **Emojis:** 🖤 ▪️ 🦳 ◼️
+
 ------------
 ## Tags
 [phixel](#phixel), [logo](#logo), [blacklogos](#blacklogos), [logos](#logos), [onyx](#onyx), [ink](#ink), [blacklogo](#blacklogo), [logoscollection](#logoscollection), [darken](#darken), [pitchblack](#pitchblack), [logodesign](#logodesign), [jetblack](#jetblack), [logocreative](#logocreative), [dark](#dark), [logocreator](#logocreator), [logoinspiration](#logoinspiration), [noire](#noire)

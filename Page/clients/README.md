@@ -92,6 +92,7 @@ Our team of professionals have years of experience working with some of the bigg
 ## We're not stopping anytime soon, 
 and we want you to be a part of it!
 
+
 ------------
 ## Exerpt
 We believe that everyone deserves great design experiences
@@ -127,12 +128,14 @@ We love making a difference in people's lives by connecting our clients with the
 <img src="media/logo-tigo.png">
 <img src="media/logo-une.png">
 <img src="media/logo-xbox.png">
+
 ------------
 - **ID:** 5A8B
 - **Date:** 1666476000
-- **URL:** [https://phixel.net/en/about-us/clients/](#https://phixel.net/en/about-us/clients/)
+- **URL:** [https://phixel.net/en/about-us/clients/](https://phixel.net/en/about-us/clients/)
 - **Type:** [Page](#Page)
 - **Emojis:** 🆒 🔬 👨 🏻 ⚖️ 🏫 👧 ️️ ⛑️ 🏾 🚒 💰 🪄 🧑 ‍✈ 🚀 🧔 ‍♂ ✔️ 🎨 👩 ⚕️ ✏️ 💵 🤝 💼 💊 🤵 🌾 🍳 🎉 🅸
+
 ------------
 ## Tags
 [phixel](#phixel), [withlove](#withlove), [client](#client), [identitydesign](#identitydesign), [designstudio](#designstudio), [brandidentity](#brandidentity), [designideas](#designideas), [designprocess](#designprocess), [family](#family), [branding](#branding), [phixel](#phixel), [designthinking](#designthinking), [happylife](#happylife), [brandingidentity](#brandingidentity), [experiences](#experiences), [clients](#clients), [identity](#identity), [clients](#clients), [weareourclients](#weareourclients), [logodesign](#logodesign), [creative](#creative), [logo](#logo), [foryou](#foryou), [creativestudio](#creativestudio)

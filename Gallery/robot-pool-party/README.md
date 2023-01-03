@@ -5,6 +5,7 @@ Robots are invading the pool party scene and they want to know if you buy them d
 
 ### Dive into the party!
 
+
 ------------
 ## Exerpt
 These robots don’t compute, they are programed to party!
@@ -23,12 +24,14 @@ Dive into the party!
 <img src="media/robot-pool-party-08.jpg">
 <img src="media/robot-pool-party-09.jpg">
 <img src="media/robot-pool-party-10.jpg">
+
 ------------
 - **ID:** MM29
 - **Date:** 1670108400
-- **URL:** [https://phixel.net/en/gallery/robot-pool-party/](#https://phixel.net/en/gallery/robot-pool-party/)
+- **URL:** [https://phixel.net/en/gallery/robot-pool-party/](https://phixel.net/en/gallery/robot-pool-party/)
 - **Type:** [Gallery](#Gallery)
 - **Emojis:** 🆒 🌊 ☀️ 🕶 🎉 🤖 🏊 🦾 🛹 ⚙️ ⚡️ 🏄 👙 🩳 🍹 🥳 🍨 🎈 🤽 ‍♀ 💦 🏻
+
 ------------
 ## Tags
 [phixel](#phixel), [robot](#robot), [robotpoolparty](#robotpoolparty), [poolparty](#poolparty), [robotparty](#robotparty), [poolside](#poolside), [party](#party), [fun](#fun), [robots](#robots), [robotmeetup](#robotmeetup), [robotselfie](#robotselfie), [poolfun](#poolfun), [robotstyle](#robotstyle)

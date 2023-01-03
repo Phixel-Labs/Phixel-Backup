@@ -49,6 +49,7 @@ Ultimately, you will ensure that we maintain a strong online voice and brand con
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
 
+
 ------------
 ## Exerpt
 We are looking for an awesome Social Media Copywriter
@@ -56,12 +57,14 @@ We are looking for an awesome Social Media Copywriter
 We are looking for a Social Media Copywriter to engage with our users and promote our or our clients’ products and services on social media.
 ## Media
 <img src="media/job-social-media-copywriter.jpg">
+
 ------------
 - **ID:** QD6A
 - **Date:** 1666044000
-- **URL:** [https://phixel.net/en/jobs/social-media-copywriter/](#https://phixel.net/en/jobs/social-media-copywriter/)
+- **URL:** [https://phixel.net/en/jobs/social-media-copywriter/](https://phixel.net/en/jobs/social-media-copywriter/)
 - **Type:** [Job](#Job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
+
 ------------
 ## Tags
 [phixel](#phixel), [webdesigners](#webdesigners), [clients](#clients), [ui](#ui), [ux](#ux), [videoeditors](#videoeditors), [webdevelopers](#webdevelopers), [animation](#animation), [webdesignstudio](#webdesignstudio), [design](#design), [workhard](#workhard), [designer](#designer), [phixel](#phixel), [love](#love), [gui](#gui), [animation](#animation), [illustration](#illustration), [remotework](#remotework), [studio](#studio), [motiongraphics](#motiongraphics), [workfromanywhere](#workfromanywhere), [worksmart](#worksmart), [3d](#3d), [respet](#respet)

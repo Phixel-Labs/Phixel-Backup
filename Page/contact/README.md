@@ -28,6 +28,7 @@ contact@phixel.net
 * [YouTube](https://phixel.net/YouTube "Phixel on YouTube") 
 * [LinkTree](https://phixel.net/Linktr "Phixel on LinkTree")
 
+
 ------------
 ## Exerpt
 We're here to help you bring your idea to life
@@ -35,12 +36,14 @@ We're here to help you bring your idea to life
 Do you have a product to reveal to the world? Contact us and we here will help you bring your idea to life.
 ## Media
 <img src="media/contact-background.png">
+
 ------------
 - **ID:** 58LY
 - **Date:** 1577833200
-- **URL:** [https://phixel.net/en/contact/](#https://phixel.net/en/contact/)
+- **URL:** [https://phixel.net/en/contact/](https://phixel.net/en/contact/)
 - **Type:** [Page](#Page)
 - **Emojis:** 📟 ✨✉ ️☎ 🤳 🏼 🖨 🤝 📫 📪 📭 📬 🗨 👋 🙋 ‍♂ ☎️ 💞 ♀️ 🖱 📨 👆 🏽 📢 📤
+
 ------------
 ## Tags
 [whatsapp](#whatsapp), [message](#message), [mail](#mail), [@The_Phixel](#@The_Phixel), [Follow](#Follow), [msm](#msm), [contact@phixel.net](#contact@phixel.net), [wearehere](#wearehere), [phixel](#phixel), [contactus](#contactus), [idea](#idea), [help](#help), [business](#business), [chat](#chat), [phone](#phone), [email](#email), [job](#job), [contact](#contact), [newproduct](#newproduct), [help](#help), [phixelnet](#phixelnet), [foryou](#foryou)

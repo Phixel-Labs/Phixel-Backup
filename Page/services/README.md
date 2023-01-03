@@ -35,6 +35,7 @@ A focused, strategic approach, we’ll work with you to help you design what’s
  
 A systematic, proactive, and reactive approach, we’ll work with you ensuring your projects are successful, organized and on track.
 
+
 ------------
 ## Exerpt
 Stunning services designed for your needs
@@ -46,12 +47,14 @@ At Phixel, we offer a wide range of services to help you get the most out of you
 <img src="media/services.jpg">
 <img src="media/services-timeless.jpg">
 <img src="media/services-immersive.png">
+
 ------------
 - **ID:** 1B5V
 - **Date:** 1579474800
-- **URL:** [https://phixel.net/en/about-us/services/](#https://phixel.net/en/about-us/services/)
+- **URL:** [https://phixel.net/en/about-us/services/](https://phixel.net/en/about-us/services/)
 - **Type:** [Page](#Page)
 - **Emojis:** 🆒 📀 🕶 💻 🖼 ️✏ ️⭐ 🦿 🖋 🎞 🏆 🦾 📹 🥽 📸 🎩 🧑 📏 🧰 🎶 🤩 🖱 ♂️ 💚 📷 💡 🖌 🦲 🎬 ✒️
+
 ------------
 ## Tags
 [phixel](#phixel), [withlove](#withlove), [build](#build), [ui](#ui), [mobile](#mobile), [web](#web), [accessible](#accessible), [creative](#creative), [ux](#ux), [grow](#grow), [virtual](#virtual), [augmented](#augmented), [variety](#variety), [successful](#successful), [design](#design), [offer](#offer), [proactive](#proactive), [support](#support), [webdesign](#webdesign), [organized](#organized), [yourneeds](#yourneeds), [design](#design), [animation](#animation), [branding](#branding), [stunning](#stunning), [motiongraphic](#motiongraphic), [logo](#logo), [balanced](#balanced), [expertsnonexperts](#expertsnonexperts), [vr](#vr), [marketing](#marketing), [gui](#gui), [webapp](#webapp), [timeless](#timeless), [simpleapproach](#simpleapproach), [immersive](#immersive), [services](#services), [reality](#reality)

@@ -9,6 +9,7 @@
 
 Photoshop is a powerful tool with endless potential. By learning the basics, experimenting with different tools and features, using layers and masks, taking advantage of blend modes, and using shortcuts, you can unlock the full power of Photoshop and create amazing images and designs.
 
+
 ------------
 ## Exerpt
 Unlock the full potential of Photoshop with these 5 tips for maximizing its power and capabilities!
@@ -16,12 +17,14 @@ Unlock the full potential of Photoshop with these 5 tips for maximizing its powe
 Photoshop is a powerful tool that can be used to create stunning images and designs. In this article, we will explore some tips for unlocking its full potential, including learning the basics, experimenting with different tools and features, using layers and masks, taking advantage of blend modes, and using shortcuts.
 ## Media
 <img src="media/maximizing-the-photoshop-potential.jpg">
+
 ------------
 - **ID:** 4EP2
 - **Date:** 1668207600
-- **URL:** [https://phixel.net/en/maximizing-photoshop-potential/](#https://phixel.net/en/maximizing-photoshop-potential/)
+- **URL:** [https://phixel.net/en/maximizing-photoshop-potential/](https://phixel.net/en/maximizing-photoshop-potential/)
 - **Type:** [Blog](#Blog)
 - **Emojis:** 💻 ✂️ 🖌 ️
+
 ------------
 ## Tags
 [photoshop](#photoshop), [design](#design), [graphicdesign](#graphicdesign), [digitalart](#digitalart), [photoshoptips](#photoshoptips), [creativity](#creativity), [photoshopsecrets](#photoshopsecrets), [photoshoptutorial](#photoshoptutorial), [editing](#editing), [photography](#photography), [digitalartwork](#digitalartwork)

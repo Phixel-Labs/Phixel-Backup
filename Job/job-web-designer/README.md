@@ -46,6 +46,7 @@ You have to be able to transform high-level requirements in flows and interactio
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
 
+
 ------------
 ## Exerpt
 We are looking for an spectacular Web Designer
@@ -53,12 +54,14 @@ We are looking for an spectacular Web Designer
 We are looking for a talented Web Designer to create amazing user experiences.
 ## Media
 <img src="media/job-web-designer.jpg">
+
 ------------
 - **ID:** QDP1
 - **Date:** 1666044000
-- **URL:** [https://phixel.net/en/jobs/web-designer/](#https://phixel.net/en/jobs/web-designer/)
+- **URL:** [https://phixel.net/en/jobs/web-designer/](https://phixel.net/en/jobs/web-designer/)
 - **Type:** [Job](#Job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
+
 ------------
 ## Tags
 [phixel](#phixel), [webdesigners](#webdesigners), [clients](#clients), [ui](#ui), [ux](#ux), [videoeditors](#videoeditors), [webdevelopers](#webdevelopers), [animation](#animation), [webdesignstudio](#webdesignstudio), [design](#design), [workhard](#workhard), [designer](#designer), [phixel](#phixel), [love](#love), [gui](#gui), [animation](#animation), [illustration](#illustration), [remotework](#remotework), [studio](#studio), [motiongraphics](#motiongraphics), [workfromanywhere](#workfromanywhere), [worksmart](#worksmart), [3d](#3d), [respet](#respet)

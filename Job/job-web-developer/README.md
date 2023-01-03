@@ -51,6 +51,7 @@ You’ll work on building websites from concept to completion from top to bottom
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
 
+
 ------------
 ## Exerpt
 We are looking for an stylish Web Developer
@@ -58,12 +59,14 @@ We are looking for an stylish Web Developer
 We are looking for an outstanding Web Developer to be responsible for coding, innovative design, and website layout.
 ## Media
 <img src="media/job-web-developer.jpg">
+
 ------------
 - **ID:** 5RDQ
 - **Date:** 1666044000
-- **URL:** [https://phixel.net/en/jobs/web-developer/](#https://phixel.net/en/jobs/web-developer/)
+- **URL:** [https://phixel.net/en/jobs/web-developer/](https://phixel.net/en/jobs/web-developer/)
 - **Type:** [Job](#Job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
+
 ------------
 ## Tags
 [phixel](#phixel), [webdesigners](#webdesigners), [clients](#clients), [ui](#ui), [ux](#ux), [videoeditors](#videoeditors), [webdevelopers](#webdevelopers), [animation](#animation), [webdesignstudio](#webdesignstudio), [design](#design), [workhard](#workhard), [designer](#designer), [phixel](#phixel), [love](#love), [gui](#gui), [animation](#animation), [illustration](#illustration), [remotework](#remotework), [studio](#studio), [motiongraphics](#motiongraphics), [workfromanywhere](#workfromanywhere), [worksmart](#worksmart), [3d](#3d), [respet](#respet)

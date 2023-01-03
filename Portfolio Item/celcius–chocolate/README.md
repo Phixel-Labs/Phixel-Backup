@@ -7,6 +7,7 @@ When you are looking for something sweet and tasty, if you are having a bad or a
 
 Because is sweet, like we know yue are, is the taste we all know and love
 
+
 ------------
 ## Exerpt
 Elegance Chocolate Kingdom
@@ -16,12 +17,14 @@ The pure chocolate flavor and smooth texture of this will leave you satisfied.
 ## Media
 <img src="media/chocolate.webp">
 <img src="media/chocolate.webp">
+
 ------------
 - **ID:** LW2S
 - **Date:** 1666216800
-- **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](#https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
+- **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#Portfolio Item)
 - **Emojis:** 🆒
+
 ------------
 ## Tags
 [phixel](#phixel), [celcius](#celcius), [instacoffee](#instacoffee), [celsius](#celsius), [coffeelover](#coffeelover), [cafe](#cafe), [chocolate](#chocolate)

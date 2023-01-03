@@ -8,6 +8,7 @@ Top-quality meats and poultry, sourced carefully to ensure your dog gets the bes
 
 ## Beef. Meat. Pork. Chicken.
 
+
 ------------
 ## Exerpt
 Packaging Redesign
@@ -20,12 +21,14 @@ The finest quality Top-quality meats and poultry, sourced carefully to ensure yo
 <img src="media/max-buffet-04-1.jpg">
 <img src="media/max-buffet-05-1.jpg">
 <img src="media/max-buffet-06.jpg">
+
 ------------
 - **ID:** BS7N
 - **Date:** 1666994400
-- **URL:** [https://phixel.net/en/portfolio/repack-max-buffet/](#https://phixel.net/en/portfolio/repack-max-buffet/)
+- **URL:** [https://phixel.net/en/portfolio/repack-max-buffet/](https://phixel.net/en/portfolio/repack-max-buffet/)
 - **Type:** [Portfolio](#Portfolio)
 - **Emojis:** 🐶 🐩 🐕 🦺
+
 ------------
 ## Tags
 [phixel](#phixel), [dogfood](#dogfood), [doglovers](#doglovers), [dog](#dog), [pet](#pet), [beef](#beef), [meat](#meat), [pork](#pork), [chicken](#chicken), [repack](#repack), [maxbuffet](#maxbuffet)

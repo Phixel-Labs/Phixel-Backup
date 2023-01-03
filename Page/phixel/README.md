@@ -8,6 +8,7 @@ Our team of professionals has worked with some of these well-known brands
 
 ## What can we do for you?
 
+
 ------------
 ## Exerpt
 The excellent web design studio
@@ -43,12 +44,14 @@ We are Phixel, a team of specialized designers and developers with experience in
 <img src="media/logo-h.png">
 <img src="media/logo.png">
 <img src="media/line-mountains-1.svg">
+
 ------------
 - **ID:** 2X2R
 - **Date:** 1577833200
-- **URL:** [https://phixel.net/](#https://phixel.net/)
+- **URL:** [https://phixel.net/](https://phixel.net/)
 - **Type:** [Page](#Page)
 - **Emojis:** 🆒 🌎 🌐 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
+
 ------------
 ## Tags
 [phixel](#phixel), [withlove](#withlove), [phixel](#phixel), [homepage](#homepage), [webdesigners](#webdesigners), [webdesignstudio](#webdesignstudio), [phixelstudio](#phixelstudio), [design](#design), [designer](#designer), [welcome](#welcome), [home](#home), [webdevelopers](#webdevelopers), [videoeditors](#videoeditors), [studio](#studio), [clients](#clients), [ui](#ui), [ux](#ux), [gui](#gui), [motiongraphics](#motiongraphics), [animation](#animation), [illustration](#illustration), [3d](#3d), [animation](#animation), [foryou](#foryou), [creativestudio](#creativestudio)

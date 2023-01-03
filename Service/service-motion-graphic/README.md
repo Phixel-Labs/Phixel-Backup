@@ -5,6 +5,7 @@ We’ll work with you to create custom animations that will communicate your mes
 
 Our team of skilled motion graphics artists can help to create videos, product demonstrations, and other forms of marketing that will help your business stand out from the competition.
 
+
 ------------
 ## Exerpt
 Our team of skilled motion graphics artists can help to create videos, product demonstrations, and more!
@@ -12,12 +13,14 @@ Our team of skilled motion graphics artists can help to create videos, product d
 In Phixel create stunning motion graphics that make your brand stand out from the competition.
 ## Media
 <img src="media/services-motion-graphic.jpg">
+
 ------------
 - **ID:** OLLM
 - **Date:** 1670108400
-- **URL:** [https://phixel.net/en/service/motion-graphic/](#https://phixel.net/en/service/motion-graphic/)
+- **URL:** [https://phixel.net/en/service/motion-graphic/](https://phixel.net/en/service/motion-graphic/)
 - **Type:** [Service](#Service)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
+
 ------------
 ## Tags
 [phixel](#phixel), [withlove](#withlove), [phixel](#phixel), [withlove](#withlove), [webdesigners](#webdesigners), [webdesignstudio](#webdesignstudio), [phixelstudio](#phixelstudio), [design](#design), [designer](#designer), [welcome](#welcome), [webdevelopers](#webdevelopers), [videoeditors](#videoeditors), [studio](#studio), [clients](#clients), [ui](#ui), [ux](#ux), [gui](#gui), [motiongraphics](#motiongraphics), [animation](#animation), [illustration](#illustration), [3d](#3d), [animation](#animation), [foryou](#foryou), [creativestudio](#creativestudio), [foryou](#foryou), [creativestudio](#creativestudio)

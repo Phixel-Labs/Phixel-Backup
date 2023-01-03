@@ -50,6 +50,7 @@ Ultimately, you should be able to expand the digital footprint and brand awarene
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
 
+
 ------------
 ## Exerpt
 We are looking for an amazing Content Marketing Manager
@@ -57,12 +58,14 @@ We are looking for an amazing Content Marketing Manager
 We are looking for a talented Content marketing manager to take responsibility of our inbound marketing strategies including social media, blogs and lead generation.
 ## Media
 <img src="media/job-content-marketing.jpg">
+
 ------------
 - **ID:** 6V48
 - **Date:** 1666389600
-- **URL:** [https://phixel.net/en/jobs/content-marketing/](#https://phixel.net/en/jobs/content-marketing/)
+- **URL:** [https://phixel.net/en/jobs/content-marketing/](https://phixel.net/en/jobs/content-marketing/)
 - **Type:** [Job](#Job)
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
+
 ------------
 ## Tags
 [phixel](#phixel), [webdesigners](#webdesigners), [clients](#clients), [ui](#ui), [ux](#ux), [videoeditors](#videoeditors), [webdevelopers](#webdevelopers), [animation](#animation), [webdesignstudio](#webdesignstudio), [design](#design), [workhard](#workhard), [designer](#designer), [phixel](#phixel), [love](#love), [gui](#gui), [animation](#animation), [illustration](#illustration), [remotework](#remotework), [studio](#studio), [motiongraphics](#motiongraphics), [workfromanywhere](#workfromanywhere), [worksmart](#worksmart), [3d](#3d), [respet](#respet)

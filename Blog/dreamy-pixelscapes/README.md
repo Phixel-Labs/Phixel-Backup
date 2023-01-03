@@ -11,6 +11,7 @@ We made an HTML Demo version for you to enjoy those nostalgic dreamy pixelscapes
 
 ### [Sidescrolling the Mountain](https://codepen.io/The_Phixel/pen/qBYvaLJ)[](https://codepen.io/The_Phixel/pen/qBYvaLJ)
 
+
 ------------
 ## Exerpt
 Remember when you could spend hours playing pixelated video games in front of the TV?
@@ -19,12 +20,14 @@ Remember those dreamy pixelscapes that captured your imagination and made you fe
 ## Media
 <img src="media/tv-8-bit-game.mp4">
 <img src="media/dreamy-pixelscapes.webp">
+
 ------------
 - **ID:** 23P4
 - **Date:** 1640991600
-- **URL:** [https://phixel.net/en/dreamy-pixelscapes/](#https://phixel.net/en/dreamy-pixelscapes/)
+- **URL:** [https://phixel.net/en/dreamy-pixelscapes/](https://phixel.net/en/dreamy-pixelscapes/)
 - **Type:** [Blog](#Blog)
 - **Emojis:** 🆒 🎮 🕹 ️⌨ 💾 🎹 ​​ 🍄 🅸
+
 ------------
 ## Tags
 [the90s](#the90s), [pixelart](#pixelart), [retrogaming](#retrogaming), [nostalgia](#nostalgia), [HTML5game](#HTML5game), [pixelartgames](#pixelartgames), [pixelartdemo](#pixelartdemo), [psx](#psx), [nintendo64](#nintendo64), [supernes](#supernes), [gameboy](#gameboy), [gameboycolor](#gameboycolor), [nes](#nes), [snes](#snes), [pokemon](#pokemon), [snesforever](#snesforever), [psxforever](#psxforever), [retrogaming](#retrogaming), [videogame](#videogame)

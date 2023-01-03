@@ -16,6 +16,7 @@ Creating the perfect Christmas wish list is an exciting and fun part of the holi
 
 ### It’s that time of year and we can’t wait to receive some cool gifts.
 
+
 ------------
 ## Exerpt
 It's that time of year and we can't wait to receive some cool gifts. Has everyone thought about their wish list? If not, now is the time to start! Keeping it simple is always better!
@@ -23,12 +24,14 @@ It's that time of year and we can't wait to receive some cool gifts. Has everyon
 It's definitely exciting to think about what gifts we might receive during the holiday season! If you haven't already started making your wish list, now is a great time to start. Here are some tips for keeping it simple
 ## Media
 <img src="media/welcome-christmas.jpg">
+
 ------------
 - **ID:** 3H2Y
 - **Date:** 1669849200
-- **URL:** [https://phixel.net/en/welcome-christmas/](#https://phixel.net/en/welcome-christmas/)
+- **URL:** [https://phixel.net/en/welcome-christmas/](https://phixel.net/en/welcome-christmas/)
 - **Type:** [Blog](#Blog)
 - **Emojis:** 🎁 🎅 🏻 🎄 🦌 ❄️ 🤶 🏽 🛷 ☃️ 🥂 👨 👧 ️
+
 ------------
 ## Tags
 [christmas](#christmas), [christmastree](#christmastree), [christmasgifts](#christmasgifts), [xmas](#xmas), [wishlist](#wishlist), [instagood](#instagood), [gift](#gift), [wishing](#wishing), [wishes](#wishes)
