@@ -1,0 +1,24 @@
+# Celcius – Berries 🍒
+All you need is 5 minutes and 5 ingredients to make this slushy mixed berry lemonade!
+
+## This is the perfect drink for Summertime!
+
+Share the joy, share the love, share the berries!
+
+------------
+## Exerpt
+Courageous Mix of Berries
+## Description
+This frozen mixed berry lemonade is super refreshing, perfectly tart, and just slightly sweet.
+## Media
+<img src="media/berries.webp">
+<img src="media/berries.webp">
+------------
+- **ID:** OY0U
+- **Date:** 1666216800
+- **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](#https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
+- **Type:** [Portfolio Item](#Portfolio Item)
+- **Emojis:** 🆒
+------------
+## Tags
+[phixel](#phixel), [celcius](#celcius), [instacoffee](#instacoffee), [celsius](#celsius), [coffeelover](#coffeelover), [cafe](#cafe), [berries](#berries)
