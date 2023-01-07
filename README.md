@@ -8,7 +8,7 @@ Phixel is a team of specialized designers and developers with experience in pers
 
 ## Contents of the Backup
 
-Short Description: "This repository contains a backup of the Markdown, HTML, and XML files for the Phixel website, as well as any associated media such as videos, audio, 3D objects, and images. The backup was created to ensure that the site's content is preserved and can be restored if needed. 
+This repository contains a backup of the Markdown, HTML, and XML files for the Phixel website, as well as any associated media such as videos, audio, 3D objects, and images. The backup was created to ensure that the site's content is preserved and can be restored if needed. 
 
 ## Using the Backup
 
