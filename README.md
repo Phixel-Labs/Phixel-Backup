@@ -20,4 +20,4 @@ Instructions for using the backup files to restore the website will be provided 
 
 ## Contact
 
-If you have any questions or need assistance with the backup files, please don't hesitate to contact us at [contact@phixel.net](contact@phixel.net).
+If you have any questions or need assistance with the backup files, please don't hesitate to contact us at [contact@phixel.net](mailto:contact@phixel.net).
