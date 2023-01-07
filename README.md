@@ -3,7 +3,7 @@
 
 # Phixel Backup 🌎
 
-This repository contains a Markdown, HTML and XML backup of the <a href="https://phixel.net" target="_blank">phixel.net</a> website. The backup was created to ensure that the site's content is preserved and can be restored if needed.
+This repository contains a Markdown, HTML and XML backup of the <a href="https://phixel.net" target="_blank" title="Phixel">phixel.net</a> website. The backup was created to ensure that the site's content is preserved and can be restored if needed.
 
 ## About Phixel
 
