@@ -1,10 +1,9 @@
 
-
-<img src="Page/phixel/media/e05d2133/logo-h.png" width="300px" alt="Phixel" title="Phixel">
+[<img src="Page/phixel/media/e05d2133/logo-h.png" width="300px" alt="Phixel" title="Phixel">](http://phixel.net)
 
 # Phixel Backup 🌎
 
-This repository contains a Markdown, HTML and XML backup of the http://phixel.net website. The backup was created to ensure that the site's content is preserved and can be restored if needed.
+This repository contains a Markdown, HTML and XML backup of the [http://phixel.net](http://phixel.net) website. The backup was created to ensure that the site's content is preserved and can be restored if needed.
 
 ## About Phixel
 
