@@ -4,8 +4,6 @@ Inspired by the tropical landscape of Cuba, we made a awesome mix with sugar can
 ## Did we say rum?, we meant LOTS of rum.
 
 Ready to sip hot or on ice, it's a perfect summer drink for any occasion.
-
-
 ------------
 ## Exerpt
 Marvelous & Breathtaking Mojito

@@ -8,8 +8,6 @@ Phixel focuses on creating user experiences that are engaging, intuitive, and ef
 We understand that great design is about more than just making things look good; it’s about making sure that users have a positive and productive experience with your product or service.
 
 With over 10 years of experience in the industry, we know how to create designs that not only look great but also meet the needs of your users.
-
-
 ------------
 ## Exerpt
 We create user experiences.

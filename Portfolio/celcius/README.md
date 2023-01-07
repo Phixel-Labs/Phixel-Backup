@@ -7,8 +7,6 @@ The all-natural coffee grounds are blended with a secret blend of essential oils
 
 Celcius coffee is 15+ uniquely generated bottles.
 ## No two are exactly alike.
-
-
 ------------
 ## Exerpt
 Really Instant Coffee

@@ -38,8 +38,6 @@ Ultimately, you will work with various departments and teams to help define, pro
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for an alluring 3D Animator

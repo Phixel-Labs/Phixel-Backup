@@ -30,7 +30,7 @@ Ultimately, you should lead by setting a good example and engage the team to ach
 - Edit, correct and improve the existing content and products.
 - Actively collect feedback from clients and users.
 
-## Requirements and Skills 
+## Requirements and Skills
 
 - Proven work experience as a team manager, team leader or supervisor.
 - In-depth knowledge of performance metrics.
@@ -50,8 +50,6 @@ Ultimately, you should lead by setting a good example and engage the team to ach
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for a sagacious Team Manager

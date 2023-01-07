@@ -1,10 +1,8 @@
 # Phixel 🌎
-## Phixel is a creative agency that pushes the boundaries of interactive design 
+## Phixel is a creative agency that pushes the boundaries of interactive design
 Creating websites, apps, custom platforms and unique experiences is our mission.
 
 Do you have a product or idea but need help to make it happened that's what Phixel is here for
-
-
 ------------
 ## Exerpt
 The excellent web design studio

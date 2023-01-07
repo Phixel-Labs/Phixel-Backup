@@ -3,7 +3,7 @@
 **Job Type:** Freelancer
 
 Ultimately, as a Film and Video Editor, you should be able to bring sight and sound together in order to tell a cohesive story
-## Job Responsibilities 
+## Job Responsibilities
 - Manipulate and edit pieces of film in a way that is invisible to the audience.
 - Review the shooting script and raw material to create a list of shot decisions based on the value of the scenes and their contribution to continuity.
 - Cut segments of filming and put together the sequence of the film.
@@ -41,8 +41,6 @@ Ultimately, as a Film and Video Editor, you should be able to bring sight and so
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for an astounding Video Editor

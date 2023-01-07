@@ -2,8 +2,6 @@
 ## Phixel is looking to provide our clients with innovative solutions that help them stay ahead of the curve and stay competitive in today’s marketplace.
 
 Our team is comprised of experts in the field who are dedicated to providing the best possible user experience. We are committed to creating cutting-edge technology that will change the way people interact with the world around them.
-
-
 ------------
 ## Exerpt
 We build groundbreaking Augmented & Virtual Reality experiences.

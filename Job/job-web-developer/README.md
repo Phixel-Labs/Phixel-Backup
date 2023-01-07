@@ -6,7 +6,6 @@
 
 You’ll work on building websites from concept to completion from top to bottom, designing everything from the home page to the layout and function of the site, including CSS styling, clean HTML, and commented out.
 
-
 ### Job Responsibilities
 
 - Write well-designed, testable, and efficient code by using software development best practices.
@@ -50,8 +49,6 @@ You’ll work on building websites from concept to completion from top to bottom
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for an stylish Web Developer

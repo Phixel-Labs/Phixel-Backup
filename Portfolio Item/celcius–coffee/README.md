@@ -4,8 +4,6 @@
 The perfect pick-me-up can be hard to find, but we've made it easy for you.
 
 Whether you're craving something hot or burnt, we've got the perfect beverage for you.
-
-
 ------------
 ## Exerpt
 Morning Coffee for All Days

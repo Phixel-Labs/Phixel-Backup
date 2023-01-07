@@ -45,8 +45,6 @@ The ideal candidate should have an eye for clean and artful design, possess supe
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for an immaculate UI Designer

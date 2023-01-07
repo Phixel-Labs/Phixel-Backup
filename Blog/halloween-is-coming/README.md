@@ -8,8 +8,6 @@ On Halloween, you’re free to be whoever you want and go anywhere. The only rul
 ### What is your emoji this Halloween?
 
 👹 🕷 🎃 🧙‍ 🛸 🌚 🕸 🗡 🧟‍ 🏚 🧚‍ 🦉 🎭 💀 🦇 🍭 😨 🥀 🤖 ⚰️ 🧝‍ ⚱️ 🕴 🍬 🧞‍ 😰 👽 👻 👺 🧛‍ ⚡️ ⛓ 🕯 🧜‍ 😱 👾 🌩 🤡 ☠️ 🔮 🍫 🌕 👿 🦄 🌃
-
-
 ------------
 ## Exerpt
 Halloween is just around the corner, and that means two things: candy and scary stories!!! 🧟

@@ -18,8 +18,6 @@
 - **Use graphic design to celebrate your victories:** Finally, be sure to celebrate your victories along the way! Use graphic design to create invitations, posters, or social media graphics to mark the milestones and achievements you’ve made in overcoming your fears.
 
 By following these 15 tips, you can use graphic design as a powerful tool for overcoming your fears and living a more confident and fulfilling life. Whether you’re just starting out on your journey or you’re well on your way, remember to be patient and kind to yourself, and to seek out the support and resources you need to succeed.
-
-
 ------------
 ## Exerpt
 Use graphic design to overcome your fears and live a more confident life. 15 tips and tricks included.

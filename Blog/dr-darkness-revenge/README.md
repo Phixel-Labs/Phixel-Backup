@@ -10,8 +10,6 @@ But just as Dr. Darkness was about to celebrate his victory; a loud crash shook 
 With that, Phixel unleashed their full arsenal of design skills, using their expertise in website design, logo creation, and branding to battle Dr. Darkness and his evil minions.
 
 In the end, Phixel emerged victorious, and the city was saved from the clutches of the evil Dr. Darkness. And as the citizens cheered and celebrated, Phixel knew that they had proven once again that the power of design can save the day.
-
-
 ------------
 ## Exerpt
 Join the fight against Dr. Darkness and his plan for revenge!

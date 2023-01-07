@@ -4,8 +4,6 @@
 With a combination of special ingredients and our expert craftsmanship, these fruits are brought together to create an explosion of flavor unlike anything else.
 
 ### Experience the exotic flavors of our tropical paradise, brought to you the sunsets on the beach.
-
-
 ------------
 ## Exerpt
 Sunny Wave of Tropical Flavors

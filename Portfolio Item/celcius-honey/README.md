@@ -4,8 +4,6 @@
 We chose natural honey because it's the best thing for your body.
 
 The result is a treat that is kind to your taste buds but still tasty enough!
-
-
 ------------
 ## Exerpt
 Royal Honey for Early Workers

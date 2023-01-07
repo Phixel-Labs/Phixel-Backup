@@ -4,8 +4,6 @@
 An excellent source of antioxidants that protect the body from aging.
 
 Made of the highest quality materials, so that you can enjoy its sensational taste.
-
-
 ------------
 ## Exerpt
 Sensual Apple for Lovers

@@ -41,8 +41,6 @@ You must be comfortable making dozens of presentations, generating interest and 
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for an polite Promoter

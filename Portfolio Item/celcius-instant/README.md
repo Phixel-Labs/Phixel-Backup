@@ -5,8 +5,6 @@ The all-natural coffee grounds are blended with a secret blend of essential oils
 
 Best of all, we guarantee that it's caffeine free!
 (Because is a digital product)
-
-
 ------------
 ## Exerpt
 Really Instant Coffee

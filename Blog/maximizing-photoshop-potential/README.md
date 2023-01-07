@@ -8,8 +8,6 @@
 5. **Use shortcuts:** Photoshop has a wide range of keyboard shortcuts that can help you work more efficiently. Take some time to learn and memorize these shortcuts to speed up your workflow.
 
 Photoshop is a powerful tool with endless potential. By learning the basics, experimenting with different tools and features, using layers and masks, taking advantage of blend modes, and using shortcuts, you can unlock the full power of Photoshop and create amazing images and designs.
-
-
 ------------
 ## Exerpt
 Unlock the full potential of Photoshop with these 5 tips for maximizing its power and capabilities!

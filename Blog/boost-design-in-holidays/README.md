@@ -11,8 +11,6 @@ In this article, we’ll explore five ways to do just that, from creating holida
 5. **Give back to your community:** The holiday season is a time for giving and helping others. Consider donating a portion of your profits to a charity or nonprofit organization, or volunteering your time and skills to a worthy cause. This can help you make a positive impact on your community and feel good about your work.
 
 In conclusion, the holiday season offers a great opportunity for designers to showcase their skills and boost their business. By creating holiday-themed designs, offering special deals, using social media, collaborating with others, and giving back to the community, designers can make the most of the season and set themselves up for success in the new year.
-
-
 ------------
 ## Exerpt
 As the holiday season approaches, it's a great time for graphic designers to take advantage of the festive spirit and boost their business.

@@ -16,8 +16,6 @@ Hunter and Jenna go on a quest to discover the meaning of the visions and find a
 At this moment, Plisk follows the trail of the youngsters, entering a cold room…
 
 ### Will they be able to stop the curse before the time runs out?
-
-
 ------------
 ## Exerpt
 As soon as someone sees the Pumpkin, they have 3 before an unfortunate supernatural future occurs.

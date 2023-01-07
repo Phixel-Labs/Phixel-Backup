@@ -25,8 +25,6 @@ Take breaks: It’s important to remember to take breaks and give yourself time 
 Get creative: Engaging in creative activities like drawing or painting can be a great way to express yourself and let go of stress. These activities can also help to increase feelings of accomplishment and purpose, which can improve your mood and reduce anxiety.
 Use positive affirmations: Positive affirmations are statements that are meant to be repeated to oneself in order to change negative thinking patterns. Creating positive affirmations or mantras and using them as part of your daily routine can help boost your mood and reduce anxiety. For example, you might try repeating affirmations like “I am capable and worthy” or “I am in control of my thoughts and feelings.” Using positive affirmations regularly can help to reprogram your brain to think more positively and reduce anxiety.
 Graphic design can be a powerful tool in managing anxiety and finding peace in daily life. From experimenting with color to incorporating nature and practicing mindfulness, there are many ways that design can help to reduce stress and increase feelings of calm.
-
-
 ------------
 ## Exerpt
 For even more tips on using graphic design to overcome anxiety, be sure to check out the full article.

@@ -6,13 +6,11 @@ When you are looking for something sweet and tasty, if you are having a bad or a
 ## The pure chocolate flavor and smooth texture of this will leave you satisfied.
 
 Because is sweet, like we know yue are, is the taste we all know and love
-
-
 ------------
 ## Exerpt
 Elegance Chocolate Kingdom
 ## Description
-The pure chocolate flavor and smooth texture of this will leave you satisfied. 
+The pure chocolate flavor and smooth texture of this will leave you satisfied.
 ## “Our chocolate is not fattening”
 ## Media
 <img src="media/b64d3301/chocolate.webp">

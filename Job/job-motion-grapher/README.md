@@ -6,7 +6,7 @@ Your work will give life to storylines and characters in films, games or videos.
 
 You should possess a creative eye and artistic aptitude and easily turn a script or a concept into an impressive computer-generated animation. To excel in this role, you must be highly skilled in CGI software and storytelling.
 
-## Job Responsibilities 
+## Job Responsibilities
 - Read scripts and stories to understand animation requirements.
 - Prepare presentations with rough designs for clients.
 - Develop storyboards for the initial stages of production.
@@ -41,8 +41,6 @@ You should possess a creative eye and artistic aptitude and easily turn a script
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for an striking Motion Grapher

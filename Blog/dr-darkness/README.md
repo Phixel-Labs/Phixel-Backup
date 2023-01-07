@@ -10,8 +10,6 @@ Dr. Darkness was horrified as he watched the heroes use their powers to destroy 
 But Phixel was ready for him. Using their incredible design skills, they created a giant robot to battle Dr. Darkness’s army. The fight was fierce, but in the end, the heroes emerged victorious.
 
 Dr. Darkness was defeated, and the city was saved thanks to the heroic efforts of Phixel. The people celebrated their victory, and the heroes were hailed as heroes. The design agency had once again proved that their creativity was a powerful force for good.
-
-
 ------------
 ## Exerpt
 Experience the terror of Dr. Darkness and his plans for world domination!

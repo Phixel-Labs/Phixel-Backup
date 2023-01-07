@@ -48,8 +48,6 @@ If you can quickly understand the project requirements and offer valuable insigh
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for an elegant Copywriter

@@ -48,8 +48,6 @@ Ultimately, you will provide ready-to-use translated content that meets our inte
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for an distinctive Translator

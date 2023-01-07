@@ -2,8 +2,6 @@
 ### Phixel ohh Phixel, such an interesting meaning...
 The name Phixel is beautiful, elegant and unique, it is an amalgamation (the result of combining or joining words) of some words and meanings that we love and take to heart. It is destined to stand out.
 Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
-
-
 ------------
 ## Exerpt
 The interesting meaning of the name Phixel

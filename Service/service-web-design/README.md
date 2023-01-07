@@ -2,8 +2,6 @@
 ## We specialize in creating user-friendly and visually appealing websites that will help your business stand out from the competition.
 
 Our team of experts will work with you to create a website that represents your brand and meets your needs. We’ll also help you keep your website up-to-date and running smoothly.
-
-
 ------------
 ## Exerpt
 We design web pages that look amazing and are easy to use.

@@ -55,8 +55,6 @@ The goal is to inspire and engage the target audience.
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for an spotless Graphic Designer

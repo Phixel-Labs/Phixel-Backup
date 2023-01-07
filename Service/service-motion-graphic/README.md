@@ -4,8 +4,6 @@
 We’ll work with you to create custom animations that will communicate your message in a powerful and compelling way.
 
 Our team of skilled motion graphics artists can help to create videos, product demonstrations, and other forms of marketing that will help your business stand out from the competition.
-
-
 ------------
 ## Exerpt
 Our team of skilled motion graphics artists can help to create videos, product demonstrations, and more!

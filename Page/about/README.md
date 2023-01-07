@@ -5,7 +5,7 @@ do exceptional work that delights.
 ## How it all stated? (Our story)
 Year after year, the same designs. Same logos and business cards. Sad and lifeless websites and brochures.
 
-Our founder felt that the graphic design industry, especially web design, was stagnant, in order to win a project, creatives recycled ideas and did not innovate. And in the end, this generated many conflicts with the client and mediocre work. 
+Our founder felt that the graphic design industry, especially web design, was stagnant, in order to win a project, creatives recycled ideas and did not innovate. And in the end, this generated many conflicts with the client and mediocre work.
 
 ## It's time for a change! (Our mission)
 We believe that the web is ready for an explosion of creativity and new ideas, as well as fresh approaches on how design is applied to digital platforms such as mobile and desktop.
@@ -21,7 +21,7 @@ We create interactive content in real time, with an importance on creativity, ar
 
 Creating websites, apps, custom digital platforms and unique experiences is the way we can help you.
 
-We want you to extinguish any doubts, enjoy your work, and focus on a great job. Without delays, complications, friction or problems. 
+We want you to extinguish any doubts, enjoy your work, and focus on a great job. Without delays, complications, friction or problems.
 
 We use the latest standards in design and programming so that you, your clients and users have a unique experience and thus you will generate remembrance and a greater impact.
 
@@ -33,7 +33,7 @@ Idea establishment, design strategy, graphic line, clear focus, realistic schedu
 Beyond aesthetics, the web design that we offer you has a purpose, which we seek by combining the uses of typography, images, textures, colors, 3D and animations in order to share ideas, concepts, or information about your project
 
 Beyond aesthetics (Who we are?)
-Phixel is a creative agency that pushes the boundaries of interactive design. 
+Phixel is a creative agency that pushes the boundaries of interactive design.
 
 We are designing and unleashing the next-generation so you experience it today.
 
@@ -65,8 +65,6 @@ The “experts” may be the least risky option, but they are going to do for yo
 According to our work experience, we are able to provide you with custom-tailored services according to your business needs and grow with you.
 
 Our clients know everything before it happens, so there are no unpleasant surprises!
-
-
 ------------
 ## Exerpt
 The retro & almost sci-fi story

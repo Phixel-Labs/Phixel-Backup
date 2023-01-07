@@ -7,8 +7,6 @@ The finest quality
 Top-quality meats and poultry, sourced carefully to ensure your dog gets the best of everything.
 
 ## Beef. Meat. Pork. Chicken.
-
-
 ------------
 ## Exerpt
 Packaging Redesign

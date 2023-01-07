@@ -18,8 +18,8 @@ We believe that everyone has the potential and we have creative team passionate 
 - Personal Trainer, Motivacional Trainer, Babysitter,
 - Computer Engineer, Software Developer, Interior Designer,
 - Consultant, Makeup Artist, Hairdresser, House Cleaner,
-- Celebrities, Influencers, Entrepreneurs, Youtubers, Podcasters, Bloggers, Content Creators, 
- **and more…**
+- Celebrities, Influencers, Entrepreneurs, Youtubers, Podcasters, Bloggers, Content Creators,
+**and more…**
 
 ### We really want to help you expose your product or service to a wider audience that deserves it
 
@@ -36,8 +36,8 @@ Our team of experts are eager help your product or service reach a wider audienc
 - Medications, Vitamins, Protein Supplement, Food Complements, Nutritional Product,
 - Lipstick, Skin Cream, Beauty Product,
 - Cultural Event, Party, Concert, Festivals,
-- Park, Attraction, Tourist Place, 
- **and more…**
+- Park, Attraction, Tourist Place,
+**and more…**
 
 ### We are have great admiration and are devoted in helping startups get off the ground.
 
@@ -57,8 +57,8 @@ Whether you have 2 to 10 employees, 1 or 2 offices, established in one country o
 - Bussiness Office, Consulting, Sales Services, Medical Office,
 - Tutoring, Crafting and Creating Center,
 - Cleaning Service, House Care, Interior Design, Landscaper,
-- Veterinary, Pet Grooming, Pet Sitting, Dog Walking, Pet Shop, 
- **and more…**
+- Veterinary, Pet Grooming, Pet Sitting, Dog Walking, Pet Shop,
+**and more…**
 
 ### We have great passion for helping midsize businesses expand their reach into new markets and increase their product or service offerings
 
@@ -80,8 +80,8 @@ If you have from 11 to 30 employees, 1 to 3 offices, established in more than 2 
 - Professional, Scientific and Technical Services,
 - Arts, Entertainment and Recreation,
 - Hotels, Accommodation,
-- Restaurants and Food Service, 
- **and more…**
+- Restaurants and Food Service,
+**and more…**
 
 We pride ourselves on being able to work with a variety of different brands and businesses to help them create amazing designs that represent their company values.
 
@@ -89,10 +89,8 @@ We pride ourselves on being able to work with a variety of different brands and 
 
 Our team of professionals have years of experience working with some of the biggest names in the business, so you can trust us to help you create a stunning design that will impress your customers.
 
-## We're not stopping anytime soon, 
+## We're not stopping anytime soon,
 and we want you to be a part of it!
-
-
 ------------
 ## Exerpt
 We believe that everyone deserves great design experiences

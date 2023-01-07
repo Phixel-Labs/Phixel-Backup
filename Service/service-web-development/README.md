@@ -4,8 +4,6 @@ We understand that more than just a pretty face – your website needs to be fun
 Phixel will help you create a virtual home for your company and introduce customers to your products and services.
 
 With over a decade of experience in web design and development, we understand the importance of having an effective website that sells. That’s why we focus on creating memorable websites that not only look great, but also encourage users to take action. With our years of experience in web development, we can help you!
-
-
 ------------
 ## Exerpt
 We specialize in developing websites that are both beautiful and effective.

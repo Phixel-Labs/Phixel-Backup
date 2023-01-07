@@ -4,8 +4,6 @@
 We have a team of experienced developers who are experts in creating bespoke applications that are tailored to meet the specific needs of our clients.
 
 We take pride in our ability to listen to our clients and understand their requirements before designing and developing an application that meets their exact needs.
-
-
 ------------
 ## Exerpt
 In Phixel we design web apps that are easy to use and look great.

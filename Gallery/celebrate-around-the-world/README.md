@@ -9,7 +9,7 @@ Mardi Gras, also known as Fat Tuesday, is a vibrant and colorful celebration hel
 ## Corrida de toros 🏃💨🐃, Spain
 La Corrida de toros (The Running of the Bulls) is a traditional event held annually in Pamplona, Spain. It is a thrilling and dangerous spectacle where people run through the streets ahead of a group of charging bulls.
 
-#CorridaDeToros #RunningOfTheBulls #bulls #Spain #CorridaToros #RunningBulls #RunningOfBulls 
+#CorridaDeToros #RunningOfTheBulls #bulls #Spain #CorridaToros #RunningBulls #RunningOfBulls
 
 ## St Patrick’S Day🍀, USA
 St Patrick's Day is a national holiday in Ireland that is celebrated around the world. It is a time to honor the patron saint of Ireland and to celebrate Irish culture.
@@ -74,7 +74,7 @@ Songkran Festival is a traditional celebration held in Thailand to mark the star
 ## Semana Santa 🙏, Latin America
 Semana Santa, also known as Holy Week, is a religious celebration that takes place annually in Latin America. It is a time for people to remember the death and resurrection of Jesus Christ and to participate in processions and other religious ceremonies.
 
-#SemanaSanta #LatinAmerica #HolyWeek 
+#SemanaSanta #LatinAmerica #HolyWeek
 
 ## Québec Winter Carnival ❄️, Canada
 The Québec Winter Carnival is an annual celebration held in Québec City, Canada. It is a time for people to come together and enjoy outdoor winter activities, such as ice sculptures, snowboarding, and ice skating.
@@ -90,8 +90,6 @@ Bastille Day is a national holiday in France that commemorates the start of the 
 The Obon Festival is a traditional Japanese celebration that honors the spirits of the deceased. It is a time for people to come together and participate in dances, traditional food, and other cultural activities.
 
 #Obon #Japan #Festival
-
-
 ------------
 ## Exerpt
 Are you ready to be inspired by some of the most vibrant and colorful festivals and celebrations around the globe?

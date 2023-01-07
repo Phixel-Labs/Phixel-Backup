@@ -4,8 +4,6 @@
 The sweet aroma of vanilla and rich creaminess of deliciousness, you will not be disappointed.
 
 ## A silky touch of cream will leave your taste buds begging for more!
-
-
 ------------
 ## Exerpt
 Sweet Affectionate Vanilla

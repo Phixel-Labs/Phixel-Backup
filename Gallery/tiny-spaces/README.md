@@ -2,8 +2,6 @@
 ### Get ready to add a pop of color to your life with these tiny isometric rooms. These design creations showcase the beauty and versatility of isometric design in a small, yet impactful way.
 
 Whether you’re looking for inspiration for your own home design project or simply want to admire the artistry, these rooms are sure to bring a smile to your face with their vibrant hues.
-
-
 ------------
 ## Exerpt
 Graphic design featuring tiny isometric rooms with a splash of color.

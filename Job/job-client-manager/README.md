@@ -2,7 +2,6 @@
 **Location:** Remote Work
 **Job Type:** Freelancer
 
-
 In Phixel your role is fundamental to resolve any issues that arise to ensure clients are satisfied with our services.
 
 You should be an excellent communicator who’s able to grasp customer needs and brainstorm ways to fulfill them. If you also have a background in customer service and knowledge of our industry, we’d like to meet you.
@@ -54,8 +53,6 @@ Your goal will be to help us safeguard our revenue and retain our customers.
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for a unimaginable Client Manager

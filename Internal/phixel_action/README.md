@@ -3,8 +3,6 @@
 Extinguish any doubts, and focus on a great job.
 
 Without delays, complications, friction or doubts.
-
-
 ------------
 ## Exerpt
 The excellent web design studio

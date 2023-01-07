@@ -45,8 +45,6 @@ You have to be able to transform high-level requirements in flows and interactio
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for an spectacular Web Designer

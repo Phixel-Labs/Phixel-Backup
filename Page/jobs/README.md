@@ -2,8 +2,6 @@
 ## Are you talented and Awesome?
 We are always looking for awesome and talented people to work with us
 These are the jobs we have available for you!
-
-
 ------------
 ## Exerpt
 There are always job opportunities, Join the team!

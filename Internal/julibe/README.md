@@ -10,8 +10,6 @@ In addition to his technical skills, Julibe also brings a positive attitude and 
 This cute ghost, also known as Phantolon Enikmatikus Luxiusto II, known for his friendly and approachable demeanor. Is now a valuable member of our team and brings a unique perspective and energy to our projects.
 
 ### We are thrilled to have Julibe, and Phanto, join the Phixel Family and are excited to see the contributions Julibe will make to our team. If you’re in need of a top-notch Front-End designer and developer, be sure to give Julibe a shout!
-
-
 ------------
 ## Exerpt
 We are thrilled to have Julibe join the Phixel Family and are excited to see the contributions he will make to our team.

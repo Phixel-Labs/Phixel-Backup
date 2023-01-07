@@ -4,8 +4,6 @@
 Our designers will work with you to create an app that not only meets your needs, but exceeds your expectations.
 
 That’s why we work closely with our clients to design and develop mobile apps that are both functional and beautiful.
-
-
 ------------
 ## Exerpt
 We want to exceeds your expectations

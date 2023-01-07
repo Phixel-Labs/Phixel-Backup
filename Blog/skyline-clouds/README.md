@@ -11,8 +11,6 @@ _A noble spirit with strong but pretty limbs. Her friends saw her as a gentle gi
 _Once she saw something in the distance, or rather, someone. A figure, a mountain, a modest caretaker with pink and big grounds._
 _As the cloudy horizon and the mountain approached each other, a twinkle in her eyes could be seen, affectionately she quietly said “I love your peace.”_
 _They looked at each other with a sense of relaxation, like two siblings, “I feel the same!” revealed the mountain with a delighted smile._
-
-
 ------------
 ## Exerpt
 Take a breath of fresh air with your favorite mountain, give your self a relaxing feel with the clouds.

@@ -4,8 +4,6 @@
 We understand that a great logo is essential for any business looking to establish a strong brand identity and we are dedicated to helping our clients create logos that reflect their unique businesses and personalities.
 
 With years of experience in designing effective logos we will help your business stand out from the competition.
-
-
 ------------
 ## Exerpt
 We understand the importance of having a great logo and work tirelessly to create one that perfectly represents your company.

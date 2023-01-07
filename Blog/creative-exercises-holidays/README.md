@@ -9,8 +9,6 @@ Collaborate with other designers on a holiday-themed project: Another way to get
 Challenge yourself to create a design using only a limited color palette: Another way to challenge yourself creatively is to create a design using only a limited color palette. This can help you think more carefully about color choices and how they affect the overall look and feel of a design. For example, using only red and green could be a fun way to create a holiday-themed design.
 Take a walk or do some other form of physical exercise to clear your mind and stimulate creativity: taking a walk or engaging in some other form of physical exercise can be a great way to clear your mind and stimulate creativity. Exercise can help improve your focus and concentration, making it easier to come up with new ideas.
 By incorporating these creative exercises into your routine, you can stay inspired and productive as a designer during the holiday season. Remember to make time for brainstorming, try new things, and take breaks to recharge. With a little effort and dedication, you can keep your design skills sharp and your inspiration flowing throughout the Christmas season.
-
-
 ------------
 ## Exerpt
 Try new design techniques to keep your skills sharp during the holiday season

@@ -44,8 +44,6 @@ You will need to achieve technical, qualitative and quantitative objectives whil
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for an marvelous Photographer

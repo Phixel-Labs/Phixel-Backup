@@ -8,8 +8,6 @@ Welcome to the second installment of our new series on our logos.
 In this series, we will be showcasing our design for logos. So whether you’re a fan of the color pink or you’re just looking for some inspiration, you’re sure to find it here!
 
 In this Second volume, we have collected our pinkest logos.
-
-
 ------------
 ## Exerpt
 Pretty in pink

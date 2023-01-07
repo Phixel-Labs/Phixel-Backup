@@ -50,8 +50,6 @@ Your goal will be to develop high-quality software/web/apps that is aligned with
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for a clever Software Engineer

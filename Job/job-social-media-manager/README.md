@@ -50,8 +50,6 @@ Ultimately, you should be able to manage our and our clients’ social media pre
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for an prominent Social Media Manager

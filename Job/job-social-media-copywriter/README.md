@@ -48,8 +48,6 @@ Ultimately, you will ensure that we maintain a strong online voice and brand con
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for an awesome Social Media Copywriter

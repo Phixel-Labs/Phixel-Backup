@@ -4,8 +4,6 @@
 With decades of experience, we know what it takes to create a successful brand.
 
 We will work with you to create a branding strategy that will help your business grow. We will create a logo, a brand name, and all the marketing materials you need to promote your business.
-
-
 ------------
 ## Exerpt
 We are branding experts. We help businesses create an authentic and unique brand.

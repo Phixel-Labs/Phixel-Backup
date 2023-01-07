@@ -13,8 +13,6 @@
 - **Practice Positive Affirmations:** Use graphic design to create positive affirmations and display them in a prominent place as a daily reminder to stay positive and reframe negative thoughts.
 
 By incorporating some of these graphic design techniques into your daily routine, you can find relief from anger and frustration. Don’t underestimate the power of creativity and self-expression in managing your emotions.
-
-
 ------------
 ## Exerpt
 If you're looking for more ways to incorporate graphic design into your self-care routine, be sure to check out the rest of our tips on how it can help alleviate anger.

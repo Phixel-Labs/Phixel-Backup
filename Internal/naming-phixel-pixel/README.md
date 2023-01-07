@@ -2,8 +2,6 @@
 The word "pixel" refers to the smallest element in any photograph or digital image.
 
 A dot on the screen that can be used to display stunning images. Like the combination of pixels, we work as a team in a digital environment to create these beautiful images.
-
-
 ------------
 ## Exerpt
 Pixel + PHP + Phoenix + Fix + X + Φ = Phixel

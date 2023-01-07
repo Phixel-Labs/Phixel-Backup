@@ -49,8 +49,6 @@ Ultimately, you should be able to expand the digital footprint and brand awarene
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for an amazing Content Marketing Manager

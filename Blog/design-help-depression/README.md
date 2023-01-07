@@ -13,8 +13,6 @@
 - **Experiment with Color:** The use of color can have a big impact on our mood and the atmosphere of a space. By choosing calming shades like blue, green, and purple, you can create a relaxed and peaceful atmosphere. These colors are often associated with peace and serenity, making them a good choice for reducing stress and improving your mood.
 
 Graphic design can be a helpful tool in managing depression and improving your overall well-being. From journaling and creating a vision board, to practicing mindfulness and using positive affirmations, there are many ways to incorporate design techniques into your routine to help overcome depression. Don’t underestimate the power of creativity and self-expression in managing your mental health.
-
-
 ------------
 ## Exerpt
 If you're interested in exploring the potential benefits of graphic design for managing depression, here are some additional tips to consider this...

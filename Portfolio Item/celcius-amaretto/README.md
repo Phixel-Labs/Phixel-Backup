@@ -4,8 +4,6 @@
 Made exclusively with almonds grown in Italy's Piedmont region.
 
 It features an enticing blend of almonds, orange oils, aniseed and amaretti biscuits.
-
-
 ------------
 ## Exerpt
 Spicy Coolness Amaretto

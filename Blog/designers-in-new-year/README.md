@@ -8,8 +8,6 @@
 5. **Collaborate with other designers:** Collaborating with other designers can help you learn from their experiences, expand your network, and create unique and exciting projects. Consider reaching out to other
 
 The new year is an exciting time for graphic designers, full of opportunities and challenges. By setting goals and objectives, developing a marketing plan, staying up to date with industry trends, investing in your education and training, and collaborating with other designers, you can position yourself for success and make the most of the coming year. So if you’re a graphic designer, take these tips to heart and start the year off on the right foot!
-
-
 ------------
 ## Exerpt
 Start the new year off right with these tips for setting goals and achieving success as a graphic designer

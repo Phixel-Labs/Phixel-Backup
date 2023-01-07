@@ -7,8 +7,6 @@ To their amazement, the tape was a time-capsule from the past, filled with foota
 The team at Phixel was filled with nostalgia and pride as they watched the footage. They remembered all the hard work and dedication that had brought them to where they were today.
 
 As the new year began, the team at Phixel was grateful for the reminder of their past and the lessons they had learned along the way. They were excited for the new year ahead and the opportunities it would bring. And they knew that, no matter what challenges came their way, they would face them with the same determination and passion that had brought them this far.
-
-
 ------------
 ## Exerpt
 Experience the nostalgia and excitement of the new year with The Time-Traveling VHS: A New Year's Adventure from Phixel!

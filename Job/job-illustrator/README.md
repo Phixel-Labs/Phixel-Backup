@@ -47,8 +47,6 @@ Ultimately, you’ll create artwork that meets quality standards on time.
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for an breathtaking Illustrator

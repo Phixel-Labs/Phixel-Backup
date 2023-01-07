@@ -44,8 +44,6 @@ Ultimately, you will help us build models that are easy to use and visually appe
 - Adaptability.
 - Analytical and multitasking skills.
 - Comfortable working with deadlines and budget constraints. *
-
-
 ------------
 ## Exerpt
 We are looking for an stupendous 3D Modeler

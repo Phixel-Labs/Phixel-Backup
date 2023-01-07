@@ -6,8 +6,6 @@ Welcome to the first installment of our new series on our logos.
 In this series, we show our logo design. So whether you’re a fan of the color black or just looking for some inspiration, you’re sure to find it here!
 
 We like to brag about our ability to design amazing things, check out some awesome and beautiful black logos we’ve created!
-
-
 ------------
 ## Exerpt
 Black is the new Black!

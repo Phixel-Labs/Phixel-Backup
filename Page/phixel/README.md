@@ -7,8 +7,6 @@ We love sharing our experience as well as helping others shape their ideas.
 Our team of professionals has worked with some of these well-known brands
 
 ## What can we do for you?
-
-
 ------------
 ## Exerpt
 The excellent web design studio

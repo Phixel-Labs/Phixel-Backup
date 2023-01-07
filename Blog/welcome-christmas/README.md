@@ -1,7 +1,7 @@
 # Welcome Christmas 🎄
 ## Has everyone thought about their wish list?
 
-If not, now is the time to start! 
+If not, now is the time to start!
 Keeping it simple is always better!
 
 #### It’s the most wonderful time of the year – Christmas is here! As we start to prepare for the holiday season, one of the most exciting things to think about is our wish lists. What gifts do we hope to receive? What do we want to give to others? In this article, we will explore some tips for creating the perfect Christmas wish list.
@@ -15,8 +15,6 @@ Keeping it simple is always better!
 Creating the perfect Christmas wish list is an exciting and fun part of the holiday season. By starting early, being specific, being realistic, including a mix of things, and sharing your list, you can create a wish list that will help you get the gifts that you really want.
 
 ### It’s that time of year and we can’t wait to receive some cool gifts.
-
-
 ------------
 ## Exerpt
 It's that time of year and we can't wait to receive some cool gifts. Has everyone thought about their wish list? If not, now is the time to start! Keeping it simple is always better!

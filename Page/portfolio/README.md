@@ -2,8 +2,6 @@
 These are some of our favorite selected works in our Portfolio, showcasing cool, innovative and forward-thinking projects.
 
 Unfortunately, most of our projects are under an NDA (Non-Disclosure Agreement), so we can only show you some of our amazing select works.
-
-
 ------------
 ## Exerpt
 Here Are Some of Our Favorite Select Works!

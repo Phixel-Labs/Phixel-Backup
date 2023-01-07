@@ -2,8 +2,6 @@
 With a very rich aroma and a fresh aftertaste.
 
 ## After taking this tea, your body feels energized and refreshed.
-
-
 ------------
 ## Exerpt
 Ancient Mythical Green Tea

@@ -5,8 +5,6 @@ Our mild formula is designed to work hard when you do, yet still feel light enou
 It reminds you of cozy nights around a crackling fire while the cinnamon burns away with smoke.
 
 ## it’s like having your own little piece of home anytime.
-
-
 ------------
 ## Exerpt
 Tender & Lovely Cinnamon

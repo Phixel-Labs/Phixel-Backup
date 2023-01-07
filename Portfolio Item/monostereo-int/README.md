@@ -6,8 +6,6 @@ Role: Mobile app, Illustration, Logo, Branding
 A place where you can find podcasts on all kinds of topics, from science to philosophy to politics and everything in between!
 
 We want to help you learn more about the world around you and make sure that you don’t miss out on anything interesting.
-
-
 ------------
 ## Exerpt
 The podcast platform for primates

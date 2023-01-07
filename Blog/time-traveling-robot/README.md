@@ -8,8 +8,6 @@ As they worked together, the team at Phixel explained the concept of the golden 
 On Christmas morning, the team at Phixel gathered around their Christmas tree and shared a feast of delicious food and drinks. They toasted to the holiday season and to their new friend, Retro. As the day went on, they continued to work together and share their knowledge and expertise.
 
 The team at Phixel was grateful for the opportunity to share their knowledge and learn from Retro. They realized that Christmas was not just about gifts and decorations, but also about sharing and learning from one another. And as they continued to work together, they knew that their collaboration with Retro would be the beginning of many more exciting adventures.
-
-
 ------------
 ## Exerpt
 Experience the magic of Christmas and the excitement of time-travel with The Time-Traveling Robot: A Phixel Christmas Adventure!

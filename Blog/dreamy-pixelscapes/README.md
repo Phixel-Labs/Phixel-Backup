@@ -10,8 +10,6 @@ We know that spending hours playing video games on your couch can be the best th
 We made an HTML Demo version for you to enjoy those nostalgic dreamy pixelscapes on the snowy mountain and the side-scrolling nostalgia of yesterday.
 
 ### [Sidescrolling the Mountain](https://codepen.io/The_Phixel/pen/qBYvaLJ)[](https://codepen.io/The_Phixel/pen/qBYvaLJ)
-
-
 ------------
 ## Exerpt
 Remember when you could spend hours playing pixelated video games in front of the TV?

@@ -4,8 +4,6 @@
 Robots are invading the pool party scene and they want to know if you buy them drinks.
 
 ### Dive into the party!
-
-
 ------------
 ## Exerpt
 These robots don’t compute, they are programed to party!

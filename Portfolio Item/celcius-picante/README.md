@@ -1,12 +1,10 @@
 # Celcius – Picante 🌶️
 ## If you are looking for that perfect sizzling flavor, look no further than the Picante like Salsa.
 
-### Passed down from the Mexican families to this generation. 
+### Passed down from the Mexican families to this generation.
 
 The best taste of a great “Salsa”, but with a kick, in a very familiar package.
 Enjoy!
-
-
 ------------
 ## Exerpt
 Hot & Heat Picante Like Salsa

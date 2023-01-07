@@ -8,8 +8,6 @@ They used their design skills and knowledge of the golden ratio to create a new 
 On Christmas morning, the team gathered around the Phoenix’s nest and watched in amazement as the Phoenix burst into flames and was reborn from its own ashes. As they celebrated the Phoenix’s rebirth, they realized that they had found a new meaning of Christmas: the joy of giving and the power of renewal.
 
 From that day on, the Phoenix became a symbol of hope and renewal for the team at Phixel. They continued to create beautiful designs for their clients and used the golden ratio to create balance and symmetry in all their work. And every Christmas, they would gather around the Phoenix’s nest and celebrate the true meaning of the season.
-
-
 ------------
 ## Exerpt
 Discover the new meaning of Christmas with a tale of giving and renewal!

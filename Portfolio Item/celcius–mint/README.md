@@ -4,8 +4,6 @@ This product is recommended by dentists because it provides a protective layer t
 The freshness and the combination with the taste of peppermint, are able to bring you the North Pole without leaving your home.
 
 ## You’ll experience the freshness while your breath stays fresh and minty all day long.
-
-
 ------------
 ## Exerpt
 Fresh Mint Breeze of The Morning

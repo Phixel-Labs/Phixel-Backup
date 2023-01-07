@@ -3,12 +3,12 @@
 
 [You are not alone](https://phixel.net/)
 
-## We design your brand for this deep space, 
+## We design your brand for this deep space,
 Your way.
 
 [Our stunning services](https://phixel.net/en/about-us/services/)
 
-## We can take off and elevate your 
+## We can take off and elevate your
 website, brand, logo and more to anywhere...
 
 [Our awesome clients](https://phixel.net/en/about-us/clients/)
@@ -17,7 +17,7 @@ website, brand, logo and more to anywhere...
 
 [Selected Works](https://phixel.net/en/portfolio/)
 
-## If you are going to invest in your image, 
+## If you are going to invest in your image,
 you should make it worthwhile
 
 ### Why not go with everything?
@@ -25,11 +25,9 @@ you should make it worthwhile
 ### Why not go big?
 
 ### Why not do it boldly?
-
-
 ------------
 ## Exerpt
-The universe is a big place... 
+The universe is a big place...
 You should make it worthwhile...
 We design your brand for this deep space.
 ## Description

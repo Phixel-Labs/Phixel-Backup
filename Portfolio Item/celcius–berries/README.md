@@ -4,8 +4,6 @@ All you need is 5 minutes and 5 ingredients to make this slushy mixed berry lemo
 ## This is the perfect drink for Summertime!
 
 Share the joy, share the love, share the berries!
-
-
 ------------
 ## Exerpt
 Courageous Mix of Berries

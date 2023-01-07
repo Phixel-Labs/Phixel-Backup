@@ -6,8 +6,6 @@ Role: Case study, Landing page, Interactive 3D
 In this case study, you’ll learn more about the design process that went into creating the landing page for the IONIQ 5. Hyundai’s newest electric SUV on the market and it’s quickly earning a reputation as one of the best.
 
 With its sleek, stylish design and top-of-the-line features, the IONIQ 5 is perfect for consumers who are looking for a vehicle that’s both environmentally friendly and high-performing.
-
-
 ------------
 ## Exerpt
 Electric SUV (Case study)

@@ -13,8 +13,6 @@
 10. **Journaling:** Use graphic design techniques like typography, layout, and color to create a visually appealing journal. Writing down your thoughts and feelings can be a therapeutic way to process and express your emotions.
 
 Graphic design can be a helpful tool in managing sadness and improving your overall well-being. From creating a vision board and practicing gratitude, to getting creative and using positive affirmations, there are many ways to incorporate design techniques into your routine to help overcome sadness. Don’t underestimate the power of creativity and self-expression in managing your mental health.
-
-
 ------------
 ## Exerpt
 If you're looking for more ways to use graphic design to manage sadness, be sure to check out the rest of our tips on how it can help overcome this emotion.
