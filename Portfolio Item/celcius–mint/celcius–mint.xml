@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Celcius – Fresh Mint 🌿</title>
-<content>This product is recommended by dentists because it provides a protective layer to your teeth and a lasting fresh breath that even after eating for about 16 hours.
+	<title>Celcius – Fresh Mint 🌿</title>
+	<content>This product is recommended by dentists because it provides a protective layer to your teeth and a lasting fresh breath that even after eating for about 16 hours.
 
 The freshness and the combination with the taste of peppermint, are able to bring you the North Pole without leaving your home.
 
 ## You’ll experience the freshness while your breath stays fresh and minty all day long.</content>
-<excerpt>Fresh Mint Breeze of The Morning</excerpt>
-<description>The freshness and the combination with the taste of peppermint, are able to bring you the North Pole without leaving your home.</description>
-<media>
-	<url>media/89f4575d/mint.webp</url>
-	<url>media/1dfe0ec7/mint.webp</url>
-</media>
-<info>
-	<id>616D</id>
-	<date>20/10/2022</date>
-	<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
-	<category>Portfolio Item</category>
-	<url>portfolio-item</url>
-	<emojis>🆒</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>celcius</tag>
-	<tag>instacoffee</tag>
-	<tag>celsius</tag>
-	<tag>coffeelover</tag>
-	<tag>cafe</tag>
-	<tag>mint</tag>
-</tags>
+	<excerpt>Fresh Mint Breeze of The Morning</excerpt>
+	<description>The freshness and the combination with the taste of peppermint, are able to bring you the North Pole without leaving your home.</description>
+	<media>
+		<url>media/89f4575d/mint.webp</url>
+		<url>media/1dfe0ec7/mint.webp</url>
+	</media>
+	<info>
+		<id>616D</id>
+		<date>20/10/2022</date>
+		<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
+		<category>Portfolio Item</category>
+		<url>portfolio-item</url>
+		<emojis>🆒</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>celcius</tag>
+		<tag>instacoffee</tag>
+		<tag>celsius</tag>
+		<tag>coffeelover</tag>
+		<tag>cafe</tag>
+		<tag>mint</tag>
+	</tags>
 </item>

@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Blog 🚀</title>
-<content>In our blog, we are constantly inspired by the retro sci-fi genre and all of the amazing stories and ideas it has to offer. As we sit under the neon light, gazing at the snowy pink mountain outside, we can't help but feel inspired to write and share our thoughts on this exciting genre. Join us as we explore the world of retro sci-fi and all of its possibilities.</content>
-<excerpt>Can't help but feel inspired by retro sci-fi</excerpt>
-<description>Under the neon light we contemplate the snowy pink mountain and write in this blog.</description>
-<media>
-	<url>media/b64e6ba7/landscape-of-pink-mountains-macro.jpg</url>
-</media>
-<info>
-	<id>MJOI</id>
-	<date>01/01/2010</date>
-	<url>https://phixel.net/en/blog/</url>
-	<category>Page</category>
-	<url>page</url>
-	<emojis>📢 📃 🔌 🦄 ✏️ 🧪 😎 📄 🐲 👓 🦉 👽 🎮 📼 🪄 🤖 🐇 📫 🪐 👨 📽 🦼 🐈 🏕 🧜 🏿 ⚗️ 📷 🏞 ♀️ 👺 🔥 ☂️ ☢️ 👍 🦾</emojis>
-</info>
-<tags>
-	<tag>mountain</tag>
-	<tag>blog</tag>
-	<tag>retrofuture</tag>
-	<tag>videography</tag>
-	<tag>animation</tag>
-	<tag>retrofuturism</tag>
-	<tag>sci-fi</tag>
-	<tag>phixel</tag>
-	<tag>video</tag>
-	<tag>writer</tag>
-	<tag>sciencefiction</tag>
-	<tag>writing</tag>
-	<tag>blogging</tag>
-	<tag>writerstyle</tag>
-	<tag>canthelpbutfeelinspired</tag>
-	<tag>retro</tag>
-	<tag>retrofutureart</tag>
-	<tag>retrofuturistic</tag>
-</tags>
+	<title>Blog 🚀</title>
+	<content>In our blog, we are constantly inspired by the retro sci-fi genre and all of the amazing stories and ideas it has to offer. As we sit under the neon light, gazing at the snowy pink mountain outside, we can't help but feel inspired to write and share our thoughts on this exciting genre. Join us as we explore the world of retro sci-fi and all of its possibilities.</content>
+	<excerpt>Can't help but feel inspired by retro sci-fi</excerpt>
+	<description>Under the neon light we contemplate the snowy pink mountain and write in this blog.</description>
+	<media>
+		<url>media/b64e6ba7/landscape-of-pink-mountains-macro.jpg</url>
+	</media>
+	<info>
+		<id>MJOI</id>
+		<date>01/01/2010</date>
+		<url>https://phixel.net/en/blog/</url>
+		<category>Page</category>
+		<url>page</url>
+		<emojis>📢 📃 🔌 🦄 ✏️ 🧪 😎 📄 🐲 👓 🦉 👽 🎮 📼 🪄 🤖 🐇 📫 🪐 👨 📽 🦼 🐈 🏕 🧜 🏿 ⚗️ 📷 🏞 ♀️ 👺 🔥 ☂️ ☢️ 👍 🦾</emojis>
+	</info>
+	<tags>
+		<tag>mountain</tag>
+		<tag>blog</tag>
+		<tag>retrofuture</tag>
+		<tag>videography</tag>
+		<tag>animation</tag>
+		<tag>retrofuturism</tag>
+		<tag>sci-fi</tag>
+		<tag>phixel</tag>
+		<tag>video</tag>
+		<tag>writer</tag>
+		<tag>sciencefiction</tag>
+		<tag>writing</tag>
+		<tag>blogging</tag>
+		<tag>writerstyle</tag>
+		<tag>canthelpbutfeelinspired</tag>
+		<tag>retro</tag>
+		<tag>retrofutureart</tag>
+		<tag>retrofuturistic</tag>
+	</tags>
 </item>

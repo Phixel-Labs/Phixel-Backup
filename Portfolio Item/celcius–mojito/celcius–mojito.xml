@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Celcius – Mojito 🍸</title>
-<content>Inspired by the tropical landscape of Cuba, we made a awesome mix with sugar cane rum and creamy coconut milk, minty mix of classic dark rum and lots of rum.
+	<title>Celcius – Mojito 🍸</title>
+	<content>Inspired by the tropical landscape of Cuba, we made a awesome mix with sugar cane rum and creamy coconut milk, minty mix of classic dark rum and lots of rum.
 
 ## Did we say rum?, we meant LOTS of rum.
 
 Ready to sip hot or on ice, it's a perfect summer drink for any occasion.</content>
-<excerpt>Marvelous & Breathtaking Mojito</excerpt>
-<description>Take your love of cocktails and show it off with this traditional Cuban highball.</description>
-<media>
-	<url>media/52898335/mojito.webp</url>
-	<url>media/be484e63/mojito.webp</url>
-</media>
-<info>
-	<id>12PV</id>
-	<date>20/10/2022</date>
-	<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
-	<category>Portfolio Item</category>
-	<url>portfolio-item</url>
-	<emojis>🆒</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>celcius</tag>
-	<tag>instacoffee</tag>
-	<tag>celsius</tag>
-	<tag>coffeelover</tag>
-	<tag>cafe</tag>
-	<tag>mojito</tag>
-</tags>
+	<excerpt>Marvelous & Breathtaking Mojito</excerpt>
+	<description>Take your love of cocktails and show it off with this traditional Cuban highball.</description>
+	<media>
+		<url>media/52898335/mojito.webp</url>
+		<url>media/be484e63/mojito.webp</url>
+	</media>
+	<info>
+		<id>12PV</id>
+		<date>20/10/2022</date>
+		<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
+		<category>Portfolio Item</category>
+		<url>portfolio-item</url>
+		<emojis>🆒</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>celcius</tag>
+		<tag>instacoffee</tag>
+		<tag>celsius</tag>
+		<tag>coffeelover</tag>
+		<tag>cafe</tag>
+		<tag>mojito</tag>
+	</tags>
 </item>

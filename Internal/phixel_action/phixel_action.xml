@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Phixel 🌎</title>
-<content>## Phixel is here to help you
+	<title>Phixel 🌎</title>
+	<content>## Phixel is here to help you
 Extinguish any doubts, and focus on a great job.
 
 Without delays, complications, friction or doubts.</content>
-<excerpt>The excellent web design studio</excerpt>
-<description>The goal is simple, explore and bring your ideas to life</description>
-<media>
-	<url>media/40963d44/development-loop.mp4</url>
-	<url>media/e1dc8308/we-are-phixel-celcius-development.mp4</url>
-</media>
-<info>
-	<id>N061</id>
-	<date>01/01/2020</date>
-	<url>https://phixel.net/</url>
-	<category>Internal</category>
-	<url>internal</url>
-	<emojis>🆒 🌎 🌐 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>withlove</tag>
-	<tag>phixel</tag>
-	<tag>homepage</tag>
-	<tag>webdesigners</tag>
-	<tag>webdesignstudio</tag>
-	<tag>phixelstudio</tag>
-	<tag>design</tag>
-	<tag>designer</tag>
-	<tag>welcome</tag>
-	<tag>home</tag>
-	<tag>webdevelopers</tag>
-	<tag>videoeditors</tag>
-	<tag>studio</tag>
-	<tag>clients</tag>
-	<tag>ui</tag>
-	<tag>ux</tag>
-	<tag>gui</tag>
-	<tag>motiongraphics</tag>
-	<tag>animation</tag>
-	<tag>illustration</tag>
-	<tag>3d</tag>
-	<tag>animation</tag>
-	<tag>foryou</tag>
-	<tag>creativestudio</tag>
-</tags>
+	<excerpt>The excellent web design studio</excerpt>
+	<description>The goal is simple, explore and bring your ideas to life</description>
+	<media>
+		<url>media/40963d44/development-loop.mp4</url>
+		<url>media/e1dc8308/we-are-phixel-celcius-development.mp4</url>
+	</media>
+	<info>
+		<id>N061</id>
+		<date>01/01/2020</date>
+		<url>https://phixel.net/</url>
+		<category>Internal</category>
+		<url>internal</url>
+		<emojis>🆒 🌎 🌐 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>withlove</tag>
+		<tag>phixel</tag>
+		<tag>homepage</tag>
+		<tag>webdesigners</tag>
+		<tag>webdesignstudio</tag>
+		<tag>phixelstudio</tag>
+		<tag>design</tag>
+		<tag>designer</tag>
+		<tag>welcome</tag>
+		<tag>home</tag>
+		<tag>webdevelopers</tag>
+		<tag>videoeditors</tag>
+		<tag>studio</tag>
+		<tag>clients</tag>
+		<tag>ui</tag>
+		<tag>ux</tag>
+		<tag>gui</tag>
+		<tag>motiongraphics</tag>
+		<tag>animation</tag>
+		<tag>illustration</tag>
+		<tag>3d</tag>
+		<tag>animation</tag>
+		<tag>foryou</tag>
+		<tag>creativestudio</tag>
+	</tags>
 </item>

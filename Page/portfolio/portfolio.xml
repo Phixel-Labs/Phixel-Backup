@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Portfolio 🖼️</title>
-<content>These are some of our favorite selected works in our Portfolio, showcasing cool, innovative and forward-thinking projects.
+	<title>Portfolio 🖼️</title>
+	<content>These are some of our favorite selected works in our Portfolio, showcasing cool, innovative and forward-thinking projects.
 
 Unfortunately, most of our projects are under an NDA (Non-Disclosure Agreement), so we can only show you some of our amazing select works.</content>
-<excerpt>Here Are Some of Our Favorite Select Works!</excerpt>
-<description>These are some of our favorite selected works in our Portfolio, showcasing cool, innovative and forward-thinking projects.</description>
-<media>
-	<url>media/8ad46bbb/portfolio.jpg</url>
-</media>
-<info>
-	<id>OLML</id>
-	<date>01/01/2000</date>
-	<url>https://phixel.net/en/portfolio/</url>
-	<category>Page</category>
-	<url>page</url>
-	<emojis>🖼 ️​ 💼 ​✍ 🎩 🖍 🌠 ✒️ 🎨 🤸 ‍♀ ♠♥ ♦♣</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>withlove</tag>
-	<tag>designthinking</tag>
-	<tag>creatives</tag>
-	<tag>creativity</tag>
-	<tag>creativeprocess</tag>
-	<tag>selectedworks</tag>
-	<tag>favorite</tag>
-	<tag>portfolio</tag>
-	<tag>creativework</tag>
-	<tag>creativethinking</tag>
-	<tag>design</tag>
-	<tag>graphicdesignlife</tag>
-	<tag>creativelife</tag>
-	<tag>graphicdesignerlife</tag>
-	<tag>graphicdesign</tag>
-	<tag>project</tag>
-	<tag>creativepeople</tag>
-	<tag>designer</tag>
-	<tag>designers</tag>
-	<tag>phixel</tag>
-	<tag>designerlife</tag>
-	<tag>foryou</tag>
-	<tag>creativestudio</tag>
-</tags>
+	<excerpt>Here Are Some of Our Favorite Select Works!</excerpt>
+	<description>These are some of our favorite selected works in our Portfolio, showcasing cool, innovative and forward-thinking projects.</description>
+	<media>
+		<url>media/8ad46bbb/portfolio.jpg</url>
+	</media>
+	<info>
+		<id>OLML</id>
+		<date>01/01/2000</date>
+		<url>https://phixel.net/en/portfolio/</url>
+		<category>Page</category>
+		<url>page</url>
+		<emojis>🖼 ️​ 💼 ​✍ 🎩 🖍 🌠 ✒️ 🎨 🤸 ‍♀ ♠♥ ♦♣</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>withlove</tag>
+		<tag>designthinking</tag>
+		<tag>creatives</tag>
+		<tag>creativity</tag>
+		<tag>creativeprocess</tag>
+		<tag>selectedworks</tag>
+		<tag>favorite</tag>
+		<tag>portfolio</tag>
+		<tag>creativework</tag>
+		<tag>creativethinking</tag>
+		<tag>design</tag>
+		<tag>graphicdesignlife</tag>
+		<tag>creativelife</tag>
+		<tag>graphicdesignerlife</tag>
+		<tag>graphicdesign</tag>
+		<tag>project</tag>
+		<tag>creativepeople</tag>
+		<tag>designer</tag>
+		<tag>designers</tag>
+		<tag>phixel</tag>
+		<tag>designerlife</tag>
+		<tag>foryou</tag>
+		<tag>creativestudio</tag>
+	</tags>
 </item>

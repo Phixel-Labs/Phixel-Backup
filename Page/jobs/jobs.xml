@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Jobs 💼</title>
-<content>## Are you talented and Awesome?
+	<title>Jobs 💼</title>
+	<content>## Are you talented and Awesome?
 We are always looking for awesome and talented people to work with us
 These are the jobs we have available for you!</content>
-<excerpt>There are always job opportunities, Join the team!</excerpt>
-<description>We are always looking for talented and awesome people to work with us. and do some cool job.</description>
-<media>
-	<url>media/b199602b/jobs-1.jpg</url>
-</media>
-<info>
-	<id>GE20</id>
-	<date>01/01/2017</date>
-	<url>https://phixel.net/en/about-us/jobs/</url>
-	<category>Page</category>
-	<url>page</url>
-	<emojis>🆒 💼 💪 🏼 💕 🎒 💖 📠 💸 💞 💟 💙 👨 👩 🏽 🎓 📈 🧰 💛 👷 ‍♂ ️❤ 🎯 💓 🤗 🤲 🔨 📐 ️‍ 🚩 🌳 ❣️ 🤝 🏅 🔧 👏 🔥 🌠 💯</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>withlove</tag>
-	<tag>webdesigners</tag>
-	<tag>clients</tag>
-	<tag>ui</tag>
-	<tag>ux</tag>
-	<tag>videoeditors</tag>
-	<tag>webdevelopers</tag>
-	<tag>animation</tag>
-	<tag>webdesignstudio</tag>
-	<tag>design</tag>
-	<tag>workhard</tag>
-	<tag>designer</tag>
-	<tag>phixel</tag>
-	<tag>love</tag>
-	<tag>gui</tag>
-	<tag>animation</tag>
-	<tag>illustration</tag>
-	<tag>remotework</tag>
-	<tag>studio</tag>
-	<tag>motiongraphics</tag>
-	<tag>workfromanywhere</tag>
-	<tag>worksmart</tag>
-	<tag>3d</tag>
-	<tag>respet</tag>
-	<tag>phixelstudio</tag>
-	<tag>foryou</tag>
-	<tag>creativestudio</tag>
-</tags>
+	<excerpt>There are always job opportunities, Join the team!</excerpt>
+	<description>We are always looking for talented and awesome people to work with us. and do some cool job.</description>
+	<media>
+		<url>media/b199602b/jobs-1.jpg</url>
+	</media>
+	<info>
+		<id>GE20</id>
+		<date>01/01/2017</date>
+		<url>https://phixel.net/en/about-us/jobs/</url>
+		<category>Page</category>
+		<url>page</url>
+		<emojis>🆒 💼 💪 🏼 💕 🎒 💖 📠 💸 💞 💟 💙 👨 👩 🏽 🎓 📈 🧰 💛 👷 ‍♂ ️❤ 🎯 💓 🤗 🤲 🔨 📐 ️‍ 🚩 🌳 ❣️ 🤝 🏅 🔧 👏 🔥 🌠 💯</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>withlove</tag>
+		<tag>webdesigners</tag>
+		<tag>clients</tag>
+		<tag>ui</tag>
+		<tag>ux</tag>
+		<tag>videoeditors</tag>
+		<tag>webdevelopers</tag>
+		<tag>animation</tag>
+		<tag>webdesignstudio</tag>
+		<tag>design</tag>
+		<tag>workhard</tag>
+		<tag>designer</tag>
+		<tag>phixel</tag>
+		<tag>love</tag>
+		<tag>gui</tag>
+		<tag>animation</tag>
+		<tag>illustration</tag>
+		<tag>remotework</tag>
+		<tag>studio</tag>
+		<tag>motiongraphics</tag>
+		<tag>workfromanywhere</tag>
+		<tag>worksmart</tag>
+		<tag>3d</tag>
+		<tag>respet</tag>
+		<tag>phixelstudio</tag>
+		<tag>foryou</tag>
+		<tag>creativestudio</tag>
+	</tags>
 </item>

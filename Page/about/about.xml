@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>About Us ​🤖</title>
-<content>Years ago (+15) we were conceived, with a simple idea;
+	<title>About Us ​🤖</title>
+	<content>Years ago (+15) we were conceived, with a simple idea;
 do exceptional work that delights.
 
 ## How it all stated? (Our story)
@@ -67,44 +67,44 @@ The “experts” may be the least risky option, but they are going to do for yo
 According to our work experience, we are able to provide you with custom-tailored services according to your business needs and grow with you.
 
 Our clients know everything before it happens, so there are no unpleasant surprises!</content>
-<excerpt>The retro & almost sci-fi story</excerpt>
-<description>The only thing you need to know about us it that the goal is simple; Do exceptional work that delights.</description>
-<media>
-	<url>media/5ab289b6/space-cover.jpg</url>
-</media>
-<info>
-	<id>1X22</id>
-	<date>01/01/2020</date>
-	<url>https://phixel.net/en/about-us/</url>
-	<category>Page</category>
-	<url>page</url>
-	<emojis>🆒 👽 🎩 🌟 😱 🚀 ​​ 🌜 ☄️ 🌌 🦠 🔫 👨 🏿 💫 🤖 👾 📡 ⚡​ ​</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>withlove</tag>
-	<tag>phixel</tag>
-	<tag>real</tag>
-	<tag>weare</tag>
-	<tag>sci-fi</tag>
-	<tag>retrofuturistic</tag>
-	<tag>exceptional</tag>
-	<tag>who</tag>
-	<tag>retrostyledesign</tag>
-	<tag>mission</tag>
-	<tag>secret</tag>
-	<tag>truth</tag>
-	<tag>futuristic</tag>
-	<tag>simple</tag>
-	<tag>retrofuturism</tag>
-	<tag>work</tag>
-	<tag>story</tag>
-	<tag>idea</tag>
-	<tag>industry</tag>
-	<tag>graphicdesigns</tag>
-	<tag>retro</tag>
-	<tag>vintage</tag>
-	<tag>foryou</tag>
-	<tag>creativestudio</tag>
-</tags>
+	<excerpt>The retro & almost sci-fi story</excerpt>
+	<description>The only thing you need to know about us it that the goal is simple; Do exceptional work that delights.</description>
+	<media>
+		<url>media/5ab289b6/space-cover.jpg</url>
+	</media>
+	<info>
+		<id>1X22</id>
+		<date>01/01/2020</date>
+		<url>https://phixel.net/en/about-us/</url>
+		<category>Page</category>
+		<url>page</url>
+		<emojis>🆒 👽 🎩 🌟 😱 🚀 ​​ 🌜 ☄️ 🌌 🦠 🔫 👨 🏿 💫 🤖 👾 📡 ⚡​ ​</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>withlove</tag>
+		<tag>phixel</tag>
+		<tag>real</tag>
+		<tag>weare</tag>
+		<tag>sci-fi</tag>
+		<tag>retrofuturistic</tag>
+		<tag>exceptional</tag>
+		<tag>who</tag>
+		<tag>retrostyledesign</tag>
+		<tag>mission</tag>
+		<tag>secret</tag>
+		<tag>truth</tag>
+		<tag>futuristic</tag>
+		<tag>simple</tag>
+		<tag>retrofuturism</tag>
+		<tag>work</tag>
+		<tag>story</tag>
+		<tag>idea</tag>
+		<tag>industry</tag>
+		<tag>graphicdesigns</tag>
+		<tag>retro</tag>
+		<tag>vintage</tag>
+		<tag>foryou</tag>
+		<tag>creativestudio</tag>
+	</tags>
 </item>

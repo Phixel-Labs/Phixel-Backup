@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Web App Design 🖊️</title>
-<content>## We specialize in creating custom web applications for businesses of all sizes.
+	<title>Web App Design 🖊️</title>
+	<content>## We specialize in creating custom web applications for businesses of all sizes.
 
 We have a team of experienced developers who are experts in creating bespoke applications that are tailored to meet the specific needs of our clients.
 
 We take pride in our ability to listen to our clients and understand their requirements before designing and developing an application that meets their exact needs.</content>
-<excerpt>In Phixel we design web apps that are easy to use and look great.</excerpt>
-<description>We focus on creating fluid user experiences that make your customers happy.</description>
-<media>
-	<url>media/6dfff947/services-web-app-design.jpg</url>
-</media>
-<info>
-	<id>NTGU</id>
-	<date>04/12/2022</date>
-	<url>https://phixel.net/en/service/web-app-design/</url>
-	<category>Service</category>
-	<url>service</url>
-	<emojis>🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>withlove</tag>
-	<tag>phixel</tag>
-	<tag>withlove</tag>
-	<tag>webdesigners</tag>
-	<tag>webdesignstudio</tag>
-	<tag>phixelstudio</tag>
-	<tag>design</tag>
-	<tag>designer</tag>
-	<tag>welcome</tag>
-	<tag>webdevelopers</tag>
-	<tag>videoeditors</tag>
-	<tag>studio</tag>
-	<tag>clients</tag>
-	<tag>ui</tag>
-	<tag>ux</tag>
-	<tag>gui</tag>
-	<tag>motiongraphics</tag>
-	<tag>animation</tag>
-	<tag>illustration</tag>
-	<tag>3d</tag>
-	<tag>animation</tag>
-	<tag>foryou</tag>
-	<tag>creativestudio</tag>
-	<tag>foryou</tag>
-	<tag>creativestudio</tag>
-</tags>
+	<excerpt>In Phixel we design web apps that are easy to use and look great.</excerpt>
+	<description>We focus on creating fluid user experiences that make your customers happy.</description>
+	<media>
+		<url>media/6dfff947/services-web-app-design.jpg</url>
+	</media>
+	<info>
+		<id>NTGU</id>
+		<date>04/12/2022</date>
+		<url>https://phixel.net/en/service/web-app-design/</url>
+		<category>Service</category>
+		<url>service</url>
+		<emojis>🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>withlove</tag>
+		<tag>phixel</tag>
+		<tag>withlove</tag>
+		<tag>webdesigners</tag>
+		<tag>webdesignstudio</tag>
+		<tag>phixelstudio</tag>
+		<tag>design</tag>
+		<tag>designer</tag>
+		<tag>welcome</tag>
+		<tag>webdevelopers</tag>
+		<tag>videoeditors</tag>
+		<tag>studio</tag>
+		<tag>clients</tag>
+		<tag>ui</tag>
+		<tag>ux</tag>
+		<tag>gui</tag>
+		<tag>motiongraphics</tag>
+		<tag>animation</tag>
+		<tag>illustration</tag>
+		<tag>3d</tag>
+		<tag>animation</tag>
+		<tag>foryou</tag>
+		<tag>creativestudio</tag>
+		<tag>foryou</tag>
+		<tag>creativestudio</tag>
+	</tags>
 </item>

@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Celcius – Honey 🍯</title>
-<content>### We make our own recipes so we know they are good for you.
+	<title>Celcius – Honey 🍯</title>
+	<content>### We make our own recipes so we know they are good for you.
 
 We chose natural honey because it's the best thing for your body.
 
 The result is a treat that is kind to your taste buds but still tasty enough!</content>
-<excerpt>Royal Honey for Early Workers</excerpt>
-<description>The Royal Honey is perfect for when you want a little extra sweetness boost in your coffee.
+	<excerpt>Royal Honey for Early Workers</excerpt>
+	<description>The Royal Honey is perfect for when you want a little extra sweetness boost in your coffee.
 
 We've cut down on sugar, but not on deliciousness!</description>
-<media>
-	<url>media/b37f4180/honey.webp</url>
-	<url>media/cd81ed0d/honey.webp</url>
-</media>
-<info>
-	<id>MV71</id>
-	<date>20/10/2022</date>
-	<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
-	<category>Portfolio Item</category>
-	<url>portfolio-item</url>
-	<emojis>🆒</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>celcius</tag>
-	<tag>instacoffee</tag>
-	<tag>celsius</tag>
-	<tag>coffeelover</tag>
-	<tag>cafe</tag>
-	<tag>honey</tag>
-</tags>
+	<media>
+		<url>media/b37f4180/honey.webp</url>
+		<url>media/cd81ed0d/honey.webp</url>
+	</media>
+	<info>
+		<id>MV71</id>
+		<date>20/10/2022</date>
+		<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
+		<category>Portfolio Item</category>
+		<url>portfolio-item</url>
+		<emojis>🆒</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>celcius</tag>
+		<tag>instacoffee</tag>
+		<tag>celsius</tag>
+		<tag>coffeelover</tag>
+		<tag>cafe</tag>
+		<tag>honey</tag>
+	</tags>
 </item>

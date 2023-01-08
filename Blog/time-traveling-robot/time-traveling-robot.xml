@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>The Time-Traveling Robot: A Phixel Christmas Adventure 🤖</title>
-<content>### On a cold and snowy Christmas Eve, the team at Phixel was working late into the night to finish up a project for a client. As they worked, they heard a knock on the door. They opened it to find a small, old-fashioned robot standing on their doorstep. The robot introduced itself as Retro and explained that it was a time-traveling robot from the future.
+	<title>The Time-Traveling Robot: A Phixel Christmas Adventure 🤖</title>
+	<content>### On a cold and snowy Christmas Eve, the team at Phixel was working late into the night to finish up a project for a client. As they worked, they heard a knock on the door. They opened it to find a small, old-fashioned robot standing on their doorstep. The robot introduced itself as Retro and explained that it was a time-traveling robot from the future.
 
 Retro had been sent back in time to gather information about the golden ratio and its use in design. It had heard about the amazing work being done at Phixel and wanted to learn more. The team at Phixel was excited to meet Retro and happily showed it around their workspace.
 
@@ -10,30 +10,30 @@ As they worked together, the team at Phixel explained the concept of the golden 
 On Christmas morning, the team at Phixel gathered around their Christmas tree and shared a feast of delicious food and drinks. They toasted to the holiday season and to their new friend, Retro. As the day went on, they continued to work together and share their knowledge and expertise.
 
 The team at Phixel was grateful for the opportunity to share their knowledge and learn from Retro. They realized that Christmas was not just about gifts and decorations, but also about sharing and learning from one another. And as they continued to work together, they knew that their collaboration with Retro would be the beginning of many more exciting adventures.</content>
-<excerpt>Experience the magic of Christmas and the excitement of time-travel with The Time-Traveling Robot: A Phixel Christmas Adventure!</excerpt>
-<description>On Christmas Eve, the team at Phixel met a time-traveling robot named Retro who had come from the future to learn about the golden ratio in design. The team at Phixel happily showed Retro around and explained the concept to it, impressed by its curiosity and knowledge. On Christmas morning, the team at Phixel celebrated the holiday and continued to work and learn together with Retro. They realized that Christmas was not just about gifts and decorations, but also about sharing and learning from each other, and they looked forward to future adventures together.</description>
-<media>
-	<url>media/cb8542a6/time-traveling-robot.jpg</url>
-	<url>media/591dd670/time-traveling-robot-squared.jpg</url>
-</media>
-<info>
-	<id>48CZ</id>
-	<date>24/12/2022</date>
-	<url>https://phixel.net/en/story/time-traveling-robot/</url>
-	<category>Blog</category>
-	<url>blog</url>
-	<emojis>🕰</emojis>
-</info>
-<tags>
-	<tag>timetravel</tag>
-	<tag>newyears</tag>
-	<tag>vhs</tag>
-	<tag>adventure</tag>
-	<tag>robot</tag>
-	<tag>timecapsule</tag>
-	<tag>timemachine</tag>
-	<tag>phixel</tag>
-	<tag>christmaseve</tag>
-	<tag>goldenratio</tag>
-</tags>
+	<excerpt>Experience the magic of Christmas and the excitement of time-travel with The Time-Traveling Robot: A Phixel Christmas Adventure!</excerpt>
+	<description>On Christmas Eve, the team at Phixel met a time-traveling robot named Retro who had come from the future to learn about the golden ratio in design. The team at Phixel happily showed Retro around and explained the concept to it, impressed by its curiosity and knowledge. On Christmas morning, the team at Phixel celebrated the holiday and continued to work and learn together with Retro. They realized that Christmas was not just about gifts and decorations, but also about sharing and learning from each other, and they looked forward to future adventures together.</description>
+	<media>
+		<url>media/cb8542a6/time-traveling-robot.jpg</url>
+		<url>media/591dd670/time-traveling-robot-squared.jpg</url>
+	</media>
+	<info>
+		<id>48CZ</id>
+		<date>24/12/2022</date>
+		<url>https://phixel.net/en/story/time-traveling-robot/</url>
+		<category>Blog</category>
+		<url>blog</url>
+		<emojis>🕰</emojis>
+	</info>
+	<tags>
+		<tag>timetravel</tag>
+		<tag>newyears</tag>
+		<tag>vhs</tag>
+		<tag>adventure</tag>
+		<tag>robot</tag>
+		<tag>timecapsule</tag>
+		<tag>timemachine</tag>
+		<tag>phixel</tag>
+		<tag>christmaseve</tag>
+		<tag>goldenratio</tag>
+	</tags>
 </item>

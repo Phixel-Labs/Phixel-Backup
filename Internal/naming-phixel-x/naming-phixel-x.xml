@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>X, “The wildcard” 🎩</title>
-<content>X..., it can be any letter or number, it can have a meaning that everyone can understand, or it can be an unknown factor.
+	<title>X, “The wildcard” 🎩</title>
+	<content>X..., it can be any letter or number, it can have a meaning that everyone can understand, or it can be an unknown factor.
 
 This letter can mean so many things, it can be the extreme, the experimental, a multiplier, a variable, an unrevealed power, the possibility of growth… It is all these things and more.
 
@@ -9,28 +9,28 @@ This letter can mean so many things, it can be the extreme, the experimental, a 
 Well, everything! You see, that's why we call it "The wildcard".
 It can mean everything at once. It can be a multiplier of your sales, your hidden potential, what your business needs to look the way it deserves. And many more things…
 ### We want to be that X for you!</content>
-<excerpt>Pixel + PHP + Phoenix + Fix + X + Φ = Phixel</excerpt>
-<description>This letter is a mystery</description>
-<media>
-	<url>media/17f4f081/the-name-wildcard.jpg</url>
-</media>
-<info>
-	<id>0PQA</id>
-	<date>06/11/2022</date>
-	<url>https://phixel.net/en/about-us/naming-phixel/</url>
-	<category>Internal</category>
-	<url>internal</url>
-	<emojis>🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>pixel</tag>
-	<tag>PHP</tag>
-	<tag>phoenix</tag>
-	<tag>fenix</tag>
-	<tag>phix</tag>
-	<tag>fix</tag>
-	<tag>x</tag>
-	<tag>phi</tag>
-</tags>
+	<excerpt>Pixel + PHP + Phoenix + Fix + X + Φ = Phixel</excerpt>
+	<description>This letter is a mystery</description>
+	<media>
+		<url>media/17f4f081/the-name-wildcard.jpg</url>
+	</media>
+	<info>
+		<id>0PQA</id>
+		<date>06/11/2022</date>
+		<url>https://phixel.net/en/about-us/naming-phixel/</url>
+		<category>Internal</category>
+		<url>internal</url>
+		<emojis>🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>pixel</tag>
+		<tag>PHP</tag>
+		<tag>phoenix</tag>
+		<tag>fenix</tag>
+		<tag>phix</tag>
+		<tag>fix</tag>
+		<tag>x</tag>
+		<tag>phi</tag>
+	</tags>
 </item>

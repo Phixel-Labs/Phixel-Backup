@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Repack Max Buffet 🐶</title>
-<content>Client: Total Max
+	<title>Repack Max Buffet 🐶</title>
+	<content>Client: Total Max
 Year: 2019
 Role: Redesign
 
@@ -9,35 +9,35 @@ The finest quality
 Top-quality meats and poultry, sourced carefully to ensure your dog gets the best of everything.
 
 ## Beef. Meat. Pork. Chicken.</content>
-<excerpt>Packaging Redesign</excerpt>
-<description>The finest quality Top-quality meats and poultry, sourced carefully to ensure your dog gets the best of everything.</description>
-<media>
-	<url>media/6f3abbbc/max-buffet-01-1.jpg</url>
-	<url>media/056fb5f1/max-buffet-02-1.jpg</url>
-	<url>media/70580fa6/max-buffet-03-1.jpg</url>
-	<url>media/4e9b3852/max-buffet-04-1.jpg</url>
-	<url>media/7152c41e/max-buffet-05-1.jpg</url>
-	<url>media/d4976e0c/max-buffet-06.jpg</url>
-</media>
-<info>
-	<id>BS7N</id>
-	<date>29/10/2022</date>
-	<url>https://phixel.net/en/portfolio/repack-max-buffet/</url>
-	<category>Portfolio</category>
-	<url>portfolio</url>
-	<emojis>🐶 🐩 🐕 🦺</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>dogfood</tag>
-	<tag>doglovers</tag>
-	<tag>dog</tag>
-	<tag>pet</tag>
-	<tag>beef</tag>
-	<tag>meat</tag>
-	<tag>pork</tag>
-	<tag>chicken</tag>
-	<tag>repack</tag>
-	<tag>maxbuffet</tag>
-</tags>
+	<excerpt>Packaging Redesign</excerpt>
+	<description>The finest quality Top-quality meats and poultry, sourced carefully to ensure your dog gets the best of everything.</description>
+	<media>
+		<url>media/6f3abbbc/max-buffet-01-1.jpg</url>
+		<url>media/056fb5f1/max-buffet-02-1.jpg</url>
+		<url>media/70580fa6/max-buffet-03-1.jpg</url>
+		<url>media/4e9b3852/max-buffet-04-1.jpg</url>
+		<url>media/7152c41e/max-buffet-05-1.jpg</url>
+		<url>media/d4976e0c/max-buffet-06.jpg</url>
+	</media>
+	<info>
+		<id>BS7N</id>
+		<date>29/10/2022</date>
+		<url>https://phixel.net/en/portfolio/repack-max-buffet/</url>
+		<category>Portfolio</category>
+		<url>portfolio</url>
+		<emojis>🐶 🐩 🐕 🦺</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>dogfood</tag>
+		<tag>doglovers</tag>
+		<tag>dog</tag>
+		<tag>pet</tag>
+		<tag>beef</tag>
+		<tag>meat</tag>
+		<tag>pork</tag>
+		<tag>chicken</tag>
+		<tag>repack</tag>
+		<tag>maxbuffet</tag>
+	</tags>
 </item>

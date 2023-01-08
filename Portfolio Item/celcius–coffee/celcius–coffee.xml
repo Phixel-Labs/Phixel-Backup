@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Celcius – Coffee ☕</title>
-<content>## Before you start your day, it's important to enjoy a good cup of coffee.
+	<title>Celcius – Coffee ☕</title>
+	<content>## Before you start your day, it's important to enjoy a good cup of coffee.
 
 The perfect pick-me-up can be hard to find, but we've made it easy for you.
 
 Whether you're craving something hot or burnt, we've got the perfect beverage for you.</content>
-<excerpt>Morning Coffee for All Days</excerpt>
-<description>Like every morning, you cannot start the day without enjoying a good coffee.</description>
-<media>
-	<url>media/5c64fe85/coffee.webp</url>
-	<url>media/cb258a4a/coffee.webp</url>
-</media>
-<info>
-	<id>FIPN</id>
-	<date>20/10/2022</date>
-	<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
-	<category>Portfolio Item</category>
-	<url>portfolio-item</url>
-	<emojis>🆒</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>celcius</tag>
-	<tag>instacoffee</tag>
-	<tag>celsius</tag>
-	<tag>coffeelover</tag>
-	<tag>cafe</tag>
-</tags>
+	<excerpt>Morning Coffee for All Days</excerpt>
+	<description>Like every morning, you cannot start the day without enjoying a good coffee.</description>
+	<media>
+		<url>media/5c64fe85/coffee.webp</url>
+		<url>media/cb258a4a/coffee.webp</url>
+	</media>
+	<info>
+		<id>FIPN</id>
+		<date>20/10/2022</date>
+		<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
+		<category>Portfolio Item</category>
+		<url>portfolio-item</url>
+		<emojis>🆒</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>celcius</tag>
+		<tag>instacoffee</tag>
+		<tag>celsius</tag>
+		<tag>coffeelover</tag>
+		<tag>cafe</tag>
+	</tags>
 </item>

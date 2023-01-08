@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Celcius – Green Tea 🍵</title>
-<content>With a very rich aroma and a fresh aftertaste.
+	<title>Celcius – Green Tea 🍵</title>
+	<content>With a very rich aroma and a fresh aftertaste.
 
 ## After taking this tea, your body feels energized and refreshed.</content>
-<excerpt>Ancient Mythical Green Tea</excerpt>
-<description>From an ancient hidden village, a healthy ancestral recipe full of antioxidants that is perfect to enrich your daily lifestyle.</description>
-<media>
-	<url>media/a8976dfc/greentea.webp</url>
-	<url>media/d28b7451/greentea.webp</url>
-</media>
-<info>
-	<id>R0FE</id>
-	<date>20/10/2022</date>
-	<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
-	<category>Portfolio Item</category>
-	<url>portfolio-item</url>
-	<emojis>🆒</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>celcius</tag>
-	<tag>instacoffee</tag>
-	<tag>celsius</tag>
-	<tag>coffeelover</tag>
-	<tag>cafe</tag>
-	<tag>greentea</tag>
-</tags>
+	<excerpt>Ancient Mythical Green Tea</excerpt>
+	<description>From an ancient hidden village, a healthy ancestral recipe full of antioxidants that is perfect to enrich your daily lifestyle.</description>
+	<media>
+		<url>media/a8976dfc/greentea.webp</url>
+		<url>media/d28b7451/greentea.webp</url>
+	</media>
+	<info>
+		<id>R0FE</id>
+		<date>20/10/2022</date>
+		<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
+		<category>Portfolio Item</category>
+		<url>portfolio-item</url>
+		<emojis>🆒</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>celcius</tag>
+		<tag>instacoffee</tag>
+		<tag>celsius</tag>
+		<tag>coffeelover</tag>
+		<tag>cafe</tag>
+		<tag>greentea</tag>
+	</tags>
 </item>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Remember those dreamy pixelscapes? 🎮</title>
-<content>Revisit the childhood memories of hours spent on your couch playing games in front of the TV.
+	<title>Remember those dreamy pixelscapes? 🎮</title>
+	<content>Revisit the childhood memories of hours spent on your couch playing games in front of the TV.
 
 [Remember those dreamy pixelscapes? 🎮](https://youtu.be/7nu1ImwCeDI)
 
@@ -12,39 +12,39 @@ We know that spending hours playing video games on your couch can be the best th
 We made an HTML Demo version for you to enjoy those nostalgic dreamy pixelscapes on the snowy mountain and the side-scrolling nostalgia of yesterday.
 
 ### [Sidescrolling the Mountain](https://codepen.io/The_Phixel/pen/qBYvaLJ)[](https://codepen.io/The_Phixel/pen/qBYvaLJ)</content>
-<excerpt>Remember when you could spend hours playing pixelated video games in front of the TV?</excerpt>
-<description>Remember those dreamy pixelscapes that captured your imagination and made you feel like you were in a different world?</description>
-<media>
-	<url>media/dd0aaed7/tv-8-bit-game.mp4</url>
-	<url>media/baa771e2/dreamy-pixelscapes.webp</url>
-</media>
-<info>
-	<id>23P4</id>
-	<date>01/01/2022</date>
-	<url>https://phixel.net/en/dreamy-pixelscapes/</url>
-	<category>Blog</category>
-	<url>blog</url>
-	<emojis>🆒 🎮 🕹 ️⌨ 💾 🎹 ​​ 🍄 🅸</emojis>
-</info>
-<tags>
-	<tag>the90s</tag>
-	<tag>pixelart</tag>
-	<tag>retrogaming</tag>
-	<tag>nostalgia</tag>
-	<tag>HTML5game</tag>
-	<tag>pixelartgames</tag>
-	<tag>pixelartdemo</tag>
-	<tag>psx</tag>
-	<tag>nintendo64</tag>
-	<tag>supernes</tag>
-	<tag>gameboy</tag>
-	<tag>gameboycolor</tag>
-	<tag>nes</tag>
-	<tag>snes</tag>
-	<tag>pokemon</tag>
-	<tag>snesforever</tag>
-	<tag>psxforever</tag>
-	<tag>retrogaming</tag>
-	<tag>videogame</tag>
-</tags>
+	<excerpt>Remember when you could spend hours playing pixelated video games in front of the TV?</excerpt>
+	<description>Remember those dreamy pixelscapes that captured your imagination and made you feel like you were in a different world?</description>
+	<media>
+		<url>media/dd0aaed7/tv-8-bit-game.mp4</url>
+		<url>media/baa771e2/dreamy-pixelscapes.webp</url>
+	</media>
+	<info>
+		<id>23P4</id>
+		<date>01/01/2022</date>
+		<url>https://phixel.net/en/dreamy-pixelscapes/</url>
+		<category>Blog</category>
+		<url>blog</url>
+		<emojis>🆒 🎮 🕹 ️⌨ 💾 🎹 ​​ 🍄 🅸</emojis>
+	</info>
+	<tags>
+		<tag>the90s</tag>
+		<tag>pixelart</tag>
+		<tag>retrogaming</tag>
+		<tag>nostalgia</tag>
+		<tag>HTML5game</tag>
+		<tag>pixelartgames</tag>
+		<tag>pixelartdemo</tag>
+		<tag>psx</tag>
+		<tag>nintendo64</tag>
+		<tag>supernes</tag>
+		<tag>gameboy</tag>
+		<tag>gameboycolor</tag>
+		<tag>nes</tag>
+		<tag>snes</tag>
+		<tag>pokemon</tag>
+		<tag>snesforever</tag>
+		<tag>psxforever</tag>
+		<tag>retrogaming</tag>
+		<tag>videogame</tag>
+	</tags>
 </item>

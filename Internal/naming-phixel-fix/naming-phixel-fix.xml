@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Phix! 📡</title>
-<content>In English, the combination of P and H sounds like an F.
+	<title>Phix! 📡</title>
+	<content>In English, the combination of P and H sounds like an F.
 A little trick to make it easy to remember when you see a “PHONE”.
 
 So, what do you do when you combine the letters P, H, I and X?
 
 #### PHIX! You can “FIX” it with a little imagination!
 It's simple, at Phixel we want to help you fix your image and design, We're here to reinvent your design!</content>
-<excerpt>Pixel + PHP + Phoenix + Fix + X + Φ = Phixel</excerpt>
-<description>We love to think outside the box and "fix" things</description>
-<media>
-	<url>media/e3f44322/the-name-screen.jpg</url>
-</media>
-<info>
-	<id>QTOH</id>
-	<date>06/11/2022</date>
-	<url>https://phixel.net/en/about-us/naming-phixel/</url>
-	<category>Internal</category>
-	<url>internal</url>
-	<emojis>🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>pixel</tag>
-	<tag>PHP</tag>
-	<tag>phoenix</tag>
-	<tag>fenix</tag>
-	<tag>phix</tag>
-	<tag>fix</tag>
-	<tag>x</tag>
-	<tag>phi</tag>
-</tags>
+	<excerpt>Pixel + PHP + Phoenix + Fix + X + Φ = Phixel</excerpt>
+	<description>We love to think outside the box and "fix" things</description>
+	<media>
+		<url>media/e3f44322/the-name-screen.jpg</url>
+	</media>
+	<info>
+		<id>QTOH</id>
+		<date>06/11/2022</date>
+		<url>https://phixel.net/en/about-us/naming-phixel/</url>
+		<category>Internal</category>
+		<url>internal</url>
+		<emojis>🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>pixel</tag>
+		<tag>PHP</tag>
+		<tag>phoenix</tag>
+		<tag>fenix</tag>
+		<tag>phix</tag>
+		<tag>fix</tag>
+		<tag>x</tag>
+		<tag>phi</tag>
+	</tags>
 </item>

@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>IONIQ 5 🚙</title>
-<content>Client: Hyundai
+	<title>IONIQ 5 🚙</title>
+	<content>Client: Hyundai
 Year: 2022
 Role: Case study, Landing page, Interactive 3D
 
 In this case study, you’ll learn more about the design process that went into creating the landing page for the IONIQ 5. Hyundai’s newest electric SUV on the market and it’s quickly earning a reputation as one of the best.
 
 With its sleek, stylish design and top-of-the-line features, the IONIQ 5 is perfect for consumers who are looking for a vehicle that’s both environmentally friendly and high-performing.</content>
-<excerpt>Electric SUV (Case study)</excerpt>
-<description>In this case study, you&#039;ll learn more about the design process that went into creating the landing page for the IONIQ 5.</description>
-<media>
-	<url>media/808853fd/hyundai-ioniq-5-blender-visualstudio.jpg</url>
-	<url>media/6f848b38/hyundai-ioniq-5-cover.jpg</url>
-	<url>media/74d20c68/hyundai-ioniq-5-mobile-2.jpg</url>
-	<url>media/529d201a/hyundai-ioniq-5-mobile.jpg</url>
-	<url>media/de447bad/hyundai-ioniq-5-tablet-2.jpg</url>
-	<url>media/44b99514/hyundai-ioniq-5-tablet.jpg</url>
-	<url>media/19636d6b/hyundai-ioniq-5-video-mobile.jpg</url>
-	<url>media/051fa10f/hyundai-ioniq-5-video.jpg</url>
-	<url>media/7af94aaa/hyundai-ioniq-5-desktop-mobile-1.mp4</url>
-</media>
-<info>
-	<id>6IRK</id>
-	<date>18/11/2022</date>
-	<url>https://phixel.net/en/portfolio/ioniq/</url>
-	<category>Portfolio</category>
-	<url>portfolio</url>
-	<emojis>🆒 🚙 🔋</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>casestudy</tag>
-	<tag>portfolio</tag>
-	<tag>hyundai</tag>
-	<tag>IONIQ5</tag>
-	<tag>ioniq</tag>
-	<tag>landingpage</tag>
-	<tag>electric</tag>
-	<tag>suv</tag>
-	<tag>car</tag>
-	<tag>electricvehicle</tag>
-</tags>
+	<excerpt>Electric SUV (Case study)</excerpt>
+	<description>In this case study, you&#039;ll learn more about the design process that went into creating the landing page for the IONIQ 5.</description>
+	<media>
+		<url>media/808853fd/hyundai-ioniq-5-blender-visualstudio.jpg</url>
+		<url>media/6f848b38/hyundai-ioniq-5-cover.jpg</url>
+		<url>media/74d20c68/hyundai-ioniq-5-mobile-2.jpg</url>
+		<url>media/529d201a/hyundai-ioniq-5-mobile.jpg</url>
+		<url>media/de447bad/hyundai-ioniq-5-tablet-2.jpg</url>
+		<url>media/44b99514/hyundai-ioniq-5-tablet.jpg</url>
+		<url>media/19636d6b/hyundai-ioniq-5-video-mobile.jpg</url>
+		<url>media/051fa10f/hyundai-ioniq-5-video.jpg</url>
+		<url>media/7af94aaa/hyundai-ioniq-5-desktop-mobile-1.mp4</url>
+	</media>
+	<info>
+		<id>6IRK</id>
+		<date>18/11/2022</date>
+		<url>https://phixel.net/en/portfolio/ioniq/</url>
+		<category>Portfolio</category>
+		<url>portfolio</url>
+		<emojis>🆒 🚙 🔋</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>casestudy</tag>
+		<tag>portfolio</tag>
+		<tag>hyundai</tag>
+		<tag>IONIQ5</tag>
+		<tag>ioniq</tag>
+		<tag>landingpage</tag>
+		<tag>electric</tag>
+		<tag>suv</tag>
+		<tag>car</tag>
+		<tag>electricvehicle</tag>
+	</tags>
 </item>

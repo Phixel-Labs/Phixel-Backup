@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Deep in space, we design 🪐</title>
-<content>## The universe is a big place...
+	<title>Deep in space, we design 🪐</title>
+	<content>## The universe is a big place...
 
 [You are not alone](https://phixel.net/)
 
@@ -27,42 +27,42 @@ you should make it worthwhile
 ### Why not go big?
 
 ### Why not do it boldly?</content>
-<excerpt>The universe is a big place...
+	<excerpt>The universe is a big place...
 You should make it worthwhile...
 We design your brand for this deep space.</excerpt>
-<description>In the vastness of the universe, it can be easy to feel small and alone. But with the help of Phixel, you can create a brand that stands out and makes a statement in this deep space.</description>
-<media>
-	<url>media/26f3cb16/landing-space-cover.jpg</url>
-	<url>media/0ea998b1/landing-space-card-en.jpg</url>
-	<url>media/fc16ee22/landing-space-complete.jpg</url>
-	<url>media/9ea58add/3_1.jpg</url>
-	<url>media/ce327429/9_16.jpg</url>
-	<url>media/81ea670f/rogue-supernova.mp4</url>
-	<url>media/9c0f82c4/landing-space-astronaut..png</url>
-</media>
-<info>
-	<id>R34V</id>
-	<date>03/11/2022</date>
-	<url>https://phixel.net/en/deep-space/</url>
-	<category>Landing</category>
-	<url>landing</url>
-	<emojis>🌌 🚀 🪐 🛸 💫 ☄️ 🛰 👽 🔭</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>supernova</tag>
-	<tag>space</tag>
-	<tag>deepspace</tag>
-	<tag>universe</tag>
-	<tag>rogue</tag>
-	<tag>experience</tag>
-	<tag>together</tag>
-	<tag>landingpage</tag>
-	<tag>withlove</tag>
-	<tag>webdesigners</tag>
-	<tag>phixelstudio</tag>
-	<tag>animation</tag>
-	<tag>foryou</tag>
-	<tag>creativestudio</tag>
-</tags>
+	<description>In the vastness of the universe, it can be easy to feel small and alone. But with the help of Phixel, you can create a brand that stands out and makes a statement in this deep space.</description>
+	<media>
+		<url>media/26f3cb16/landing-space-cover.jpg</url>
+		<url>media/0ea998b1/landing-space-card-en.jpg</url>
+		<url>media/fc16ee22/landing-space-complete.jpg</url>
+		<url>media/9ea58add/3_1.jpg</url>
+		<url>media/ce327429/9_16.jpg</url>
+		<url>media/81ea670f/rogue-supernova.mp4</url>
+		<url>media/9c0f82c4/landing-space-astronaut..png</url>
+	</media>
+	<info>
+		<id>R34V</id>
+		<date>03/11/2022</date>
+		<url>https://phixel.net/en/deep-space/</url>
+		<category>Landing</category>
+		<url>landing</url>
+		<emojis>🌌 🚀 🪐 🛸 💫 ☄️ 🛰 👽 🔭</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>supernova</tag>
+		<tag>space</tag>
+		<tag>deepspace</tag>
+		<tag>universe</tag>
+		<tag>rogue</tag>
+		<tag>experience</tag>
+		<tag>together</tag>
+		<tag>landingpage</tag>
+		<tag>withlove</tag>
+		<tag>webdesigners</tag>
+		<tag>phixelstudio</tag>
+		<tag>animation</tag>
+		<tag>foryou</tag>
+		<tag>creativestudio</tag>
+	</tags>
 </item>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Celcius ☕</title>
-<content>Client: Celcius
+	<title>Celcius ☕</title>
+	<content>Client: Celcius
 Year: 2000
 Role: Website, Packaging, Branding, Original
 
@@ -9,47 +9,47 @@ The all-natural coffee grounds are blended with a secret blend of essential oils
 
 Celcius coffee is 15+ uniquely generated bottles.
 ## No two are exactly alike.</content>
-<excerpt>Really Instant Coffee</excerpt>
-<description>Celcius coffee is 15+ uniquely generated bottles. No two are exactly alike. No two are exactly alike.</description>
-<media>
-	<url>media/55fc1a70/celcius-bar-cut.jpg</url>
-	<url>media/80c68221/celcius-bar.jpg</url>
-	<url>media/598748d7/celcius-beach.jpg</url>
-	<url>media/cfd24a62/celcius-honey.jpg</url>
-	<url>media/ec9841eb/celcius-morning-cut.jpg</url>
-	<url>media/3f7aaecf/celcius-morning.jpg</url>
-	<url>media/0ac38715/all.jpg</url>
-	<url>media/7bd3a6aa/amaretto.jpg</url>
-	<url>media/8f5d4105/presentation.mp4</url>
-	<url>media/f713f605/loading.webp</url>
-</media>
-<info>
-	<id>4911</id>
-	<date>20/10/2022</date>
-	<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
-	<category>Portfolio</category>
-	<url>portfolio</url>
-	<emojis>🆒</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>celcius</tag>
-	<tag>instacoffee</tag>
-	<tag>celsius</tag>
-	<tag>coffeelover</tag>
-	<tag>cafe</tag>
-	<tag>tropical</tag>
-	<tag>chocolate</tag>
-	<tag>vanilla</tag>
-	<tag>mint</tag>
-	<tag>mojito</tag>
-	<tag>picante</tag>
-	<tag>cinnamon</tag>
-	<tag>apple</tag>
-	<tag>berries</tag>
-	<tag>honey</tag>
-	<tag>picante</tag>
-	<tag>greentea</tag>
-	<tag>foryou</tag>
-</tags>
+	<excerpt>Really Instant Coffee</excerpt>
+	<description>Celcius coffee is 15+ uniquely generated bottles. No two are exactly alike. No two are exactly alike.</description>
+	<media>
+		<url>media/55fc1a70/celcius-bar-cut.jpg</url>
+		<url>media/80c68221/celcius-bar.jpg</url>
+		<url>media/598748d7/celcius-beach.jpg</url>
+		<url>media/cfd24a62/celcius-honey.jpg</url>
+		<url>media/ec9841eb/celcius-morning-cut.jpg</url>
+		<url>media/3f7aaecf/celcius-morning.jpg</url>
+		<url>media/0ac38715/all.jpg</url>
+		<url>media/7bd3a6aa/amaretto.jpg</url>
+		<url>media/8f5d4105/presentation.mp4</url>
+		<url>media/f713f605/loading.webp</url>
+	</media>
+	<info>
+		<id>4911</id>
+		<date>20/10/2022</date>
+		<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
+		<category>Portfolio</category>
+		<url>portfolio</url>
+		<emojis>🆒</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>celcius</tag>
+		<tag>instacoffee</tag>
+		<tag>celsius</tag>
+		<tag>coffeelover</tag>
+		<tag>cafe</tag>
+		<tag>tropical</tag>
+		<tag>chocolate</tag>
+		<tag>vanilla</tag>
+		<tag>mint</tag>
+		<tag>mojito</tag>
+		<tag>picante</tag>
+		<tag>cinnamon</tag>
+		<tag>apple</tag>
+		<tag>berries</tag>
+		<tag>honey</tag>
+		<tag>picante</tag>
+		<tag>greentea</tag>
+		<tag>foryou</tag>
+	</tags>
 </item>

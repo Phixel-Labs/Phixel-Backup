@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Phixel 🌎</title>
-<content>## Phixel is a creative agency that pushes the boundaries of interactive design
+	<title>Phixel 🌎</title>
+	<content>## Phixel is a creative agency that pushes the boundaries of interactive design
 Creating websites, apps, custom platforms and unique experiences is our mission.
 
 Do you have a product or idea but need help to make it happened that's what Phixel is here for</content>
-<excerpt>The excellent web design studio</excerpt>
-<description>We're here to create beautiful and bold visuals</description>
-<media>
-	<url>media/82719c98/phixel-reel-1.mp4</url>
-	<url>media/a5a04954/television-deep-in-the-clouds.mp4</url>
-</media>
-<info>
-	<id>2LQA</id>
-	<date>01/01/2020</date>
-	<url>https://phixel.net/</url>
-	<category>Internal</category>
-	<url>internal</url>
-	<emojis>🆒 🌎 🌐 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>withlove</tag>
-	<tag>phixel</tag>
-	<tag>homepage</tag>
-	<tag>webdesigners</tag>
-	<tag>webdesignstudio</tag>
-	<tag>phixelstudio</tag>
-	<tag>design</tag>
-	<tag>designer</tag>
-	<tag>welcome</tag>
-	<tag>home</tag>
-	<tag>webdevelopers</tag>
-	<tag>videoeditors</tag>
-	<tag>studio</tag>
-	<tag>clients</tag>
-	<tag>ui</tag>
-	<tag>ux</tag>
-	<tag>gui</tag>
-	<tag>motiongraphics</tag>
-	<tag>animation</tag>
-	<tag>illustration</tag>
-	<tag>3d</tag>
-	<tag>animation</tag>
-	<tag>foryou</tag>
-	<tag>creativestudio</tag>
-</tags>
+	<excerpt>The excellent web design studio</excerpt>
+	<description>We're here to create beautiful and bold visuals</description>
+	<media>
+		<url>media/82719c98/phixel-reel-1.mp4</url>
+		<url>media/a5a04954/television-deep-in-the-clouds.mp4</url>
+	</media>
+	<info>
+		<id>2LQA</id>
+		<date>01/01/2020</date>
+		<url>https://phixel.net/</url>
+		<category>Internal</category>
+		<url>internal</url>
+		<emojis>🆒 🌎 🌐 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>withlove</tag>
+		<tag>phixel</tag>
+		<tag>homepage</tag>
+		<tag>webdesigners</tag>
+		<tag>webdesignstudio</tag>
+		<tag>phixelstudio</tag>
+		<tag>design</tag>
+		<tag>designer</tag>
+		<tag>welcome</tag>
+		<tag>home</tag>
+		<tag>webdevelopers</tag>
+		<tag>videoeditors</tag>
+		<tag>studio</tag>
+		<tag>clients</tag>
+		<tag>ui</tag>
+		<tag>ux</tag>
+		<tag>gui</tag>
+		<tag>motiongraphics</tag>
+		<tag>animation</tag>
+		<tag>illustration</tag>
+		<tag>3d</tag>
+		<tag>animation</tag>
+		<tag>foryou</tag>
+		<tag>creativestudio</tag>
+	</tags>
 </item>

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Celcius – Berries 🍒</title>
-<content>All you need is 5 minutes and 5 ingredients to make this slushy mixed berry lemonade!
+	<title>Celcius – Berries 🍒</title>
+	<content>All you need is 5 minutes and 5 ingredients to make this slushy mixed berry lemonade!
 
 ## This is the perfect drink for Summertime!
 
 Share the joy, share the love, share the berries!</content>
-<excerpt>Courageous Mix of Berries</excerpt>
-<description>This frozen mixed berry lemonade is super refreshing, perfectly tart, and just slightly sweet.</description>
-<media>
-	<url>media/06777208/berries.webp</url>
-	<url>media/b2cb6646/berries.webp</url>
-</media>
-<info>
-	<id>OY0U</id>
-	<date>20/10/2022</date>
-	<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
-	<category>Portfolio Item</category>
-	<url>portfolio-item</url>
-	<emojis>🆒</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>celcius</tag>
-	<tag>instacoffee</tag>
-	<tag>celsius</tag>
-	<tag>coffeelover</tag>
-	<tag>cafe</tag>
-	<tag>berries</tag>
-</tags>
+	<excerpt>Courageous Mix of Berries</excerpt>
+	<description>This frozen mixed berry lemonade is super refreshing, perfectly tart, and just slightly sweet.</description>
+	<media>
+		<url>media/06777208/berries.webp</url>
+		<url>media/b2cb6646/berries.webp</url>
+	</media>
+	<info>
+		<id>OY0U</id>
+		<date>20/10/2022</date>
+		<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
+		<category>Portfolio Item</category>
+		<url>portfolio-item</url>
+		<emojis>🆒</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>celcius</tag>
+		<tag>instacoffee</tag>
+		<tag>celsius</tag>
+		<tag>coffeelover</tag>
+		<tag>cafe</tag>
+		<tag>berries</tag>
+	</tags>
 </item>

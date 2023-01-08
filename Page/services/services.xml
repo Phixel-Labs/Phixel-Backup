@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Services 🔧</title>
-<content>### What We Do
+	<title>Services 🔧</title>
+	<content>### What We Do
 
 ## Services
 
@@ -34,61 +34,61 @@ A ground-up approach, we’ll work with you every step of the way to make sure y
 A focused, strategic approach, we’ll work with you to help you design what’s important to success.
 
 A systematic, proactive, and reactive approach, we’ll work with you ensuring your projects are successful, organized and on track.</content>
-<excerpt>Stunning services designed for your needs</excerpt>
-<description>At Phixel, we offer a wide range of services to help you get the most out of your business.</description>
-<media>
-	<url>media/9e24ad65/services.jpg</url>
-	<url>media/9d605e18/services-balanced.jpg</url>
-	<url>media/9e24ad65/services.jpg</url>
-	<url>media/bee92443/services-timeless.jpg</url>
-	<url>media/8addbb83/services-immersive.png</url>
-</media>
-<info>
-	<id>1B5V</id>
-	<date>20/01/2020</date>
-	<url>https://phixel.net/en/about-us/services/</url>
-	<category>Page</category>
-	<url>page</url>
-	<emojis>🆒 📀 🕶 💻 🖼 ️✏ ️⭐ 🦿 🖋 🎞 🏆 🦾 📹 🥽 📸 🎩 🧑 📏 🧰 🎶 🤩 🖱 ♂️ 💚 📷 💡 🖌 🦲 🎬 ✒️</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>withlove</tag>
-	<tag>build</tag>
-	<tag>ui</tag>
-	<tag>mobile</tag>
-	<tag>web</tag>
-	<tag>accessible</tag>
-	<tag>creative</tag>
-	<tag>ux</tag>
-	<tag>grow</tag>
-	<tag>virtual</tag>
-	<tag>augmented</tag>
-	<tag>variety</tag>
-	<tag>successful</tag>
-	<tag>design</tag>
-	<tag>offer</tag>
-	<tag>proactive</tag>
-	<tag>support</tag>
-	<tag>webdesign</tag>
-	<tag>organized</tag>
-	<tag>yourneeds</tag>
-	<tag>design</tag>
-	<tag>animation</tag>
-	<tag>branding</tag>
-	<tag>stunning</tag>
-	<tag>motiongraphic</tag>
-	<tag>logo</tag>
-	<tag>balanced</tag>
-	<tag>expertsnonexperts</tag>
-	<tag>vr</tag>
-	<tag>marketing</tag>
-	<tag>gui</tag>
-	<tag>webapp</tag>
-	<tag>timeless</tag>
-	<tag>simpleapproach</tag>
-	<tag>immersive</tag>
-	<tag>services</tag>
-	<tag>reality</tag>
-</tags>
+	<excerpt>Stunning services designed for your needs</excerpt>
+	<description>At Phixel, we offer a wide range of services to help you get the most out of your business.</description>
+	<media>
+		<url>media/9e24ad65/services.jpg</url>
+		<url>media/9d605e18/services-balanced.jpg</url>
+		<url>media/9e24ad65/services.jpg</url>
+		<url>media/bee92443/services-timeless.jpg</url>
+		<url>media/8addbb83/services-immersive.png</url>
+	</media>
+	<info>
+		<id>1B5V</id>
+		<date>20/01/2020</date>
+		<url>https://phixel.net/en/about-us/services/</url>
+		<category>Page</category>
+		<url>page</url>
+		<emojis>🆒 📀 🕶 💻 🖼 ️✏ ️⭐ 🦿 🖋 🎞 🏆 🦾 📹 🥽 📸 🎩 🧑 📏 🧰 🎶 🤩 🖱 ♂️ 💚 📷 💡 🖌 🦲 🎬 ✒️</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>withlove</tag>
+		<tag>build</tag>
+		<tag>ui</tag>
+		<tag>mobile</tag>
+		<tag>web</tag>
+		<tag>accessible</tag>
+		<tag>creative</tag>
+		<tag>ux</tag>
+		<tag>grow</tag>
+		<tag>virtual</tag>
+		<tag>augmented</tag>
+		<tag>variety</tag>
+		<tag>successful</tag>
+		<tag>design</tag>
+		<tag>offer</tag>
+		<tag>proactive</tag>
+		<tag>support</tag>
+		<tag>webdesign</tag>
+		<tag>organized</tag>
+		<tag>yourneeds</tag>
+		<tag>design</tag>
+		<tag>animation</tag>
+		<tag>branding</tag>
+		<tag>stunning</tag>
+		<tag>motiongraphic</tag>
+		<tag>logo</tag>
+		<tag>balanced</tag>
+		<tag>expertsnonexperts</tag>
+		<tag>vr</tag>
+		<tag>marketing</tag>
+		<tag>gui</tag>
+		<tag>webapp</tag>
+		<tag>timeless</tag>
+		<tag>simpleapproach</tag>
+		<tag>immersive</tag>
+		<tag>services</tag>
+		<tag>reality</tag>
+	</tags>
 </item>

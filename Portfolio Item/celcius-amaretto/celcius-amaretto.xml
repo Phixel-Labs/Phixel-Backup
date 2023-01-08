@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Celcius - Amaretto 🍾</title>
-<content>### A matter of taste is all that separates you from truly enjoying this unique, sophisticated flavor.
+	<title>Celcius - Amaretto 🍾</title>
+	<content>### A matter of taste is all that separates you from truly enjoying this unique, sophisticated flavor.
 
 Made exclusively with almonds grown in Italy's Piedmont region.
 
 It features an enticing blend of almonds, orange oils, aniseed and amaretti biscuits.</content>
-<excerpt>Spicy Coolness Amaretto</excerpt>
-<description>Almonds born of this unique and sophisticated flavor that is capable of leading the simple to the biggest feast of flavors.</description>
-<media>
-	<url>media/6ceb5d2b/amaretto.webp</url>
-	<url>media/6217ba77/amaretto.webp</url>
-</media>
-<info>
-	<id>52LH</id>
-	<date>20/10/2022</date>
-	<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
-	<category>Portfolio Item</category>
-	<url>portfolio-item</url>
-	<emojis>🆒</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>celcius</tag>
-	<tag>instacoffee</tag>
-	<tag>celsius</tag>
-	<tag>coffeelover</tag>
-	<tag>cafe</tag>
-	<tag>amaretto</tag>
-</tags>
+	<excerpt>Spicy Coolness Amaretto</excerpt>
+	<description>Almonds born of this unique and sophisticated flavor that is capable of leading the simple to the biggest feast of flavors.</description>
+	<media>
+		<url>media/6ceb5d2b/amaretto.webp</url>
+		<url>media/6217ba77/amaretto.webp</url>
+	</media>
+	<info>
+		<id>52LH</id>
+		<date>20/10/2022</date>
+		<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
+		<category>Portfolio Item</category>
+		<url>portfolio-item</url>
+		<emojis>🆒</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>celcius</tag>
+		<tag>instacoffee</tag>
+		<tag>celsius</tag>
+		<tag>coffeelover</tag>
+		<tag>cafe</tag>
+		<tag>amaretto</tag>
+	</tags>
 </item>

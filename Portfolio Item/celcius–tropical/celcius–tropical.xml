@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Celcius – Tropical Flavors 🌴</title>
-<content>## Our product is unique in that it features an essence of flavors from one of the most exotic, tropical islands.
+	<title>Celcius – Tropical Flavors 🌴</title>
+	<content>## Our product is unique in that it features an essence of flavors from one of the most exotic, tropical islands.
 
 With a combination of special ingredients and our expert craftsmanship, these fruits are brought together to create an explosion of flavor unlike anything else.
 
 ### Experience the exotic flavors of our tropical paradise, brought to you the sunsets on the beach.</content>
-<excerpt>Sunny Wave of Tropical Flavors</excerpt>
-<description>From the exotic Caribbean islands, we bring a wide variety of fruits which in themselves are impressive but with our exquisite secret combination creates an explosion of flavors that’s unmatched.</description>
-<media>
-	<url>media/fa34fdf0/tropical.webp</url>
-	<url>media/25367f49/tropical.webp</url>
-</media>
-<info>
-	<id>RDRU</id>
-	<date>20/10/2022</date>
-	<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
-	<category>Portfolio Item</category>
-	<url>portfolio-item</url>
-	<emojis>🆒</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>celcius</tag>
-	<tag>instacoffee</tag>
-	<tag>celsius</tag>
-	<tag>coffeelover</tag>
-	<tag>cafe</tag>
-	<tag>tropical</tag>
-</tags>
+	<excerpt>Sunny Wave of Tropical Flavors</excerpt>
+	<description>From the exotic Caribbean islands, we bring a wide variety of fruits which in themselves are impressive but with our exquisite secret combination creates an explosion of flavors that’s unmatched.</description>
+	<media>
+		<url>media/fa34fdf0/tropical.webp</url>
+		<url>media/25367f49/tropical.webp</url>
+	</media>
+	<info>
+		<id>RDRU</id>
+		<date>20/10/2022</date>
+		<url>https://phixel.net/en/portfolio/celcius-really-instant-coffee/</url>
+		<category>Portfolio Item</category>
+		<url>portfolio-item</url>
+		<emojis>🆒</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>celcius</tag>
+		<tag>instacoffee</tag>
+		<tag>celsius</tag>
+		<tag>coffeelover</tag>
+		<tag>cafe</tag>
+		<tag>tropical</tag>
+	</tags>
 </item>

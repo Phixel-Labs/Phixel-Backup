@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>Web Design ✒️</title>
-<content>## We specialize in creating user-friendly and visually appealing websites that will help your business stand out from the competition.
+	<title>Web Design ✒️</title>
+	<content>## We specialize in creating user-friendly and visually appealing websites that will help your business stand out from the competition.
 
 Our team of experts will work with you to create a website that represents your brand and meets your needs. We’ll also help you keep your website up-to-date and running smoothly.</content>
-<excerpt>We design web pages that look amazing and are easy to use.</excerpt>
-<description>Whether you need a brand-new website or just a few pages revamped, our team of experienced web designers can help.</description>
-<media>
-	<url>media/6889f86d/services-web-design.jpg</url>
-</media>
-<info>
-	<id>HO42</id>
-	<date>04/12/2022</date>
-	<url>https://phixel.net/en/service/web-design/</url>
-	<category>Service</category>
-	<url>service</url>
-	<emojis>🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌</emojis>
-</info>
-<tags>
-	<tag>phixel</tag>
-	<tag>withlove</tag>
-	<tag>phixel</tag>
-	<tag>withlove</tag>
-	<tag>webdesigners</tag>
-	<tag>webdesignstudio</tag>
-	<tag>phixelstudio</tag>
-	<tag>design</tag>
-	<tag>designer</tag>
-	<tag>welcome</tag>
-	<tag>webdevelopers</tag>
-	<tag>videoeditors</tag>
-	<tag>studio</tag>
-	<tag>clients</tag>
-	<tag>ui</tag>
-	<tag>ux</tag>
-	<tag>gui</tag>
-	<tag>motiongraphics</tag>
-	<tag>animation</tag>
-	<tag>illustration</tag>
-	<tag>3d</tag>
-	<tag>animation</tag>
-	<tag>foryou</tag>
-	<tag>creativestudio</tag>
-	<tag>foryou</tag>
-	<tag>creativestudio</tag>
-</tags>
+	<excerpt>We design web pages that look amazing and are easy to use.</excerpt>
+	<description>Whether you need a brand-new website or just a few pages revamped, our team of experienced web designers can help.</description>
+	<media>
+		<url>media/6889f86d/services-web-design.jpg</url>
+	</media>
+	<info>
+		<id>HO42</id>
+		<date>04/12/2022</date>
+		<url>https://phixel.net/en/service/web-design/</url>
+		<category>Service</category>
+		<url>service</url>
+		<emojis>🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌</emojis>
+	</info>
+	<tags>
+		<tag>phixel</tag>
+		<tag>withlove</tag>
+		<tag>phixel</tag>
+		<tag>withlove</tag>
+		<tag>webdesigners</tag>
+		<tag>webdesignstudio</tag>
+		<tag>phixelstudio</tag>
+		<tag>design</tag>
+		<tag>designer</tag>
+		<tag>welcome</tag>
+		<tag>webdevelopers</tag>
+		<tag>videoeditors</tag>
+		<tag>studio</tag>
+		<tag>clients</tag>
+		<tag>ui</tag>
+		<tag>ux</tag>
+		<tag>gui</tag>
+		<tag>motiongraphics</tag>
+		<tag>animation</tag>
+		<tag>illustration</tag>
+		<tag>3d</tag>
+		<tag>animation</tag>
+		<tag>foryou</tag>
+		<tag>creativestudio</tag>
+		<tag>foryou</tag>
+		<tag>creativestudio</tag>
+	</tags>
 </item>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<title>The Pumpkin Hunter’s Curse 🎃</title>
-<content>While a fearless local private detective, **Plisk**, investigates the disappearance of a young man named **Hunter** and his sister, he discovers a legend about an orange pumpkin with a supernatural curse found in an unknown location.
+	<title>The Pumpkin Hunter’s Curse 🎃</title>
+	<content>While a fearless local private detective, **Plisk**, investigates the disappearance of a young man named **Hunter** and his sister, he discovers a legend about an orange pumpkin with a supernatural curse found in an unknown location.
 
 > "As soon as someone sees the Pumpkin, they have exactly 3 days left before their presence fades."
 
@@ -18,47 +18,47 @@ Hunter and Jenna go on a quest to discover the meaning of the visions and find a
 At this moment, Plisk follows the trail of the youngsters, entering a cold room…
 
 ### Will they be able to stop the curse before the time runs out?</content>
-<excerpt>As soon as someone sees the Pumpkin, they have 3 before an unfortunate supernatural future occurs.</excerpt>
-<description>A private detective named Plisk investigates the disappearance of a young man named Hunter and his sister. While investigating, he discovers a legend about an orange pumpkin with a supernatural curse.</description>
-<media>
-	<url>media/f1474f9e/pumpkin-hunters-cover.jpg</url>
-	<url>media/b91521b8/pumpkin-hunters-brother-sister.jpg</url>
-	<url>media/361b776e/pumpkin-hunters-news.jpg</url>
-	<url>media/aeeecb91/pumpkin-hunters-detective.jpg</url>
-	<url>media/cc404681/the-pumpkin-hunters-curse.mp3</url>
-</media>
-<info>
-	<id>2S1X</id>
-	<date>31/10/2022</date>
-	<url>https://phixel.net/en/pumpkin-hunter/</url>
-	<category>Blog</category>
-	<url>blog</url>
-	<emojis>🙀 🎃 📺 🧥 🕯 🔍 💀 🕙 🕸 ️​ ​​ 📼 ​⏮ ⏭️ ⏯️</emojis>
-</info>
-<tags>
-	<tag>halloween</tag>
-	<tag>scary</tag>
-	<tag>halloweenparty</tag>
-	<tag>halloweenpumpkin</tag>
-	<tag>spooky</tag>
-	<tag>candy</tag>
-	<tag>sweets</tag>
-	<tag>pumpkin</tag>
-	<tag>orangepumpkin</tag>
-	<tag>curse</tag>
-	<tag>legend</tag>
-	<tag>supernatural</tag>
-	<tag>disappearance</tag>
-	<tag>hunter</tag>
-	<tag>detective</tag>
-	<tag>horror</tag>
-	<tag>investigator</tag>
-	<tag>apocalypse</tag>
-	<tag>legends</tag>
-	<tag>privateinvestigator</tag>
-	<tag>vhs</tag>
-	<tag>vhsfixer</tag>
-	<tag>mystery</tag>
-	<tag>suspense</tag>
-</tags>
+	<excerpt>As soon as someone sees the Pumpkin, they have 3 before an unfortunate supernatural future occurs.</excerpt>
+	<description>A private detective named Plisk investigates the disappearance of a young man named Hunter and his sister. While investigating, he discovers a legend about an orange pumpkin with a supernatural curse.</description>
+	<media>
+		<url>media/f1474f9e/pumpkin-hunters-cover.jpg</url>
+		<url>media/b91521b8/pumpkin-hunters-brother-sister.jpg</url>
+		<url>media/361b776e/pumpkin-hunters-news.jpg</url>
+		<url>media/aeeecb91/pumpkin-hunters-detective.jpg</url>
+		<url>media/cc404681/the-pumpkin-hunters-curse.mp3</url>
+	</media>
+	<info>
+		<id>2S1X</id>
+		<date>31/10/2022</date>
+		<url>https://phixel.net/en/pumpkin-hunter/</url>
+		<category>Blog</category>
+		<url>blog</url>
+		<emojis>🙀 🎃 📺 🧥 🕯 🔍 💀 🕙 🕸 ️​ ​​ 📼 ​⏮ ⏭️ ⏯️</emojis>
+	</info>
+	<tags>
+		<tag>halloween</tag>
+		<tag>scary</tag>
+		<tag>halloweenparty</tag>
+		<tag>halloweenpumpkin</tag>
+		<tag>spooky</tag>
+		<tag>candy</tag>
+		<tag>sweets</tag>
+		<tag>pumpkin</tag>
+		<tag>orangepumpkin</tag>
+		<tag>curse</tag>
+		<tag>legend</tag>
+		<tag>supernatural</tag>
+		<tag>disappearance</tag>
+		<tag>hunter</tag>
+		<tag>detective</tag>
+		<tag>horror</tag>
+		<tag>investigator</tag>
+		<tag>apocalypse</tag>
+		<tag>legends</tag>
+		<tag>privateinvestigator</tag>
+		<tag>vhs</tag>
+		<tag>vhsfixer</tag>
+		<tag>mystery</tag>
+		<tag>suspense</tag>
+	</tags>
 </item>
