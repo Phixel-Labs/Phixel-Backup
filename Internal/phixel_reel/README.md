@@ -5,7 +5,7 @@ Creating websites, apps, custom platforms and unique experiences is our mission.
 Do you have a product or idea but need help to make it happened that's what Phixel is here for
 ------------
 ## Exerpt
-The excellent web design studio
+beautiful and bold visuals
 ## Description
 We're here to create beautiful and bold visuals
 ## Media

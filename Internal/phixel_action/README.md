@@ -5,9 +5,9 @@ Extinguish any doubts, and focus on a great job.
 Without delays, complications, friction or doubts.
 ------------
 ## Exerpt
-The excellent web design studio
+The goal is simple
 ## Description
-The goal is simple, explore and bring your ideas to life
+The goal is simple, , explore and bring your ideas to life
 ## Media
 <img src="media/40963d44/development-loop.mp4">
 <img src="media/e1dc8308/we-are-phixel-celcius-development.mp4">
