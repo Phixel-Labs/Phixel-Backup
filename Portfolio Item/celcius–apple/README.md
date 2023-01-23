@@ -16,7 +16,7 @@ With it's round and red appearance is capable of generating an pleasure that can
 <img src="media/881d5afc/apple.png">
 
 ------------
-- **ID:** 1P5V
+- **Slug:** celcius–apple
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)

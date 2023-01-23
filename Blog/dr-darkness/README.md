@@ -19,7 +19,7 @@ Dr. Darkness is a mad scientist with a thirst for power who has been working on 
 <img src="media/a4bca298/dr.darkness.jpg">
 
 ------------
-- **ID:** 6A0X
+- **Slug:** dr-darkness
 - **Date:** 03/03/2022
 - **URL:** [https://phixel.net/en/story/mystery/dr-darkness/](https://phixel.net/en/story/mystery/dr-darkness/)
 - **Type:** [Blog](#blog)

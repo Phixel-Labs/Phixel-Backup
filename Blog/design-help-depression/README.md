@@ -22,7 +22,7 @@ Graphic design techniques, such as journaling, creating a vision board, using ph
 <img src="media/9cba05db/design-help-overcome-depression.jpg">
 
 ------------
-- **ID:** OZ6W
+- **Slug:** design-help-depression
 - **Date:** 30/12/2022
 - **URL:** [https://phixel.net/en/tips/mental-help/design-help-depression/](https://phixel.net/en/tips/mental-help/design-help-depression/)
 - **Type:** [Blog](#blog)

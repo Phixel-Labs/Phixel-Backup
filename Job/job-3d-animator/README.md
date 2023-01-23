@@ -47,7 +47,7 @@ We are looking for a 3D Animator to join our team and assist us with designing a
 <img src="media/5b621c62/job-3d-animator.jpg">
 
 ------------
-- **ID:** R1OL
+- **Slug:** job-3d-animator
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/3d-animator/](https://phixel.net/en/jobs/3d-animator/)
 - **Type:** [Job](#job)

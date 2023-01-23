@@ -22,7 +22,7 @@ Tips and strategies to cope with loneliness by using Design, from identifying th
 <img src="media/206ae481/design-help-loneliness.jpg">
 
 ------------
-- **ID:** DQ0N
+- **Slug:** design-for-coping-loneliness
 - **Date:** 20/01/2023
 - **URL:** [https://phixel.net/en/tips/mental-help/design-for-coping-loneliness/](https://phixel.net/en/tips/mental-help/design-for-coping-loneliness/)
 - **Type:** [Blog](#blog)

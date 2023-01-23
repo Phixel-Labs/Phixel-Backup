@@ -27,7 +27,7 @@ Celcius coffee is 15+ uniquely generated bottles. No two are exactly alike. No t
 <img src="media/8f5d4105/presentation.mp4">
 
 ------------
-- **ID:** 4911
+- **Slug:** celcius
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio](#portfolio)

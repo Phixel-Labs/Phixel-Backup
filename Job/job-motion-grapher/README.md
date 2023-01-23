@@ -50,7 +50,7 @@ We are looking for a creative Motion Grapher to develop excellent visual frames 
 <img src="media/fa157440/job-motion-grapher.jpg">
 
 ------------
-- **ID:** AU24
+- **Slug:** job-motion-grapher
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/motion-grapher/](https://phixel.net/en/jobs/motion-grapher/)
 - **Type:** [Job](#job)

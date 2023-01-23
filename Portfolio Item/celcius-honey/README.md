@@ -18,7 +18,7 @@ We've cut down on sugar, but not on deliciousness!
 <img src="media/f1c2c444/honey.png">
 
 ------------
-- **ID:** MV71
+- **Slug:** celcius-honey
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)

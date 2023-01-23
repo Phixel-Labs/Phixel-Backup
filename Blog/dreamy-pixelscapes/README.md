@@ -20,7 +20,7 @@ Remember those dreamy pixelscapes that captured your imagination and made you fe
 <img src="media/dd0aaed7/tv-8-bit-game.mp4">
 
 ------------
-- **ID:** 23P4
+- **Slug:** dreamy-pixelscapes
 - **Date:** 01/01/2022
 - **URL:** [https://phixel.net/en/dreamy-pixelscapes/](https://phixel.net/en/dreamy-pixelscapes/)
 - **Type:** [Blog](#blog)

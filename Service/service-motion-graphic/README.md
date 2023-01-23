@@ -13,7 +13,7 @@ In Phixel create stunning motion graphics that make your brand stand out from th
 <img src="media/19c77b06/services-motion-graphic.jpg">
 
 ------------
-- **ID:** OLLM
+- **Slug:** service-motion-graphic
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/service/motion-graphic/](https://phixel.net/en/service/motion-graphic/)
 - **Type:** [Service](#service)

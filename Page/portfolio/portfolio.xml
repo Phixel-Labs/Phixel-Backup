@@ -10,7 +10,7 @@ Unfortunately, most of our projects are under an NDA (Non-Disclosure Agreement),
 		<url>media/8ad46bbb/portfolio.jpg</url>
 	</media>
 	<info>
-		<id>OLML</id>
+		<slug>portfolio</slug>
 		<date>01/01/2000</date>
 		<url>https://phixel.net/en/portfolio/</url>
 		<category>Page</category>

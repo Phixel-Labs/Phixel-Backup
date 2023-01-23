@@ -13,7 +13,7 @@ We understand that in order to be successful, your app needs to look and feel gr
 <img src="media/7447e119/services-mobile-app-design.jpg">
 
 ------------
-- **ID:** J88T
+- **Slug:** service-mobile-app-design
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/service/mobile-app-design/](https://phixel.net/en/service/mobile-app-design/)
 - **Type:** [Service](#service)

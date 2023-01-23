@@ -22,7 +22,7 @@ The finest quality Top-quality meats and poultry, sourced carefully to ensure yo
 <img src="media/34742e5f/total-max-buffet-package.glb">
 
 ------------
-- **ID:** BS7N
+- **Slug:** max-buffet
 - **Date:** 29/10/2022
 - **URL:** [https://phixel.net/en/portfolio/repack-max-buffet/](https://phixel.net/en/portfolio/repack-max-buffet/)
 - **Type:** [Portfolio](#portfolio)

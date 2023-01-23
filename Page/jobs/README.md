@@ -11,7 +11,7 @@ We are always looking for talented and awesome people to work with us. and do so
 <img src="media/b199602b/jobs-1.jpg">
 
 ------------
-- **ID:** GE20
+- **Slug:** jobs
 - **Date:** 01/01/2017
 - **URL:** [https://phixel.net/en/about-us/jobs/](https://phixel.net/en/about-us/jobs/)
 - **Type:** [Page](#page)

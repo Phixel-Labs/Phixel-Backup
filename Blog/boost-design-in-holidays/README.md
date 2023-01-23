@@ -21,7 +21,7 @@ Designers can make the most of the holiday season by creating holiday-themed des
 <img src="media/22c85630/boosting-the-holidays.jpg">
 
 ------------
-- **ID:** 932K
+- **Slug:** boost-design-in-holidays
 - **Date:** 08/12/2022
 - **URL:** [https://phixel.net/en/boost-design-in-holidays/](https://phixel.net/en/boost-design-in-holidays/)
 - **Type:** [Blog](#blog)

@@ -21,7 +21,7 @@ As you sit and watch the clouds drift by, you can feel the stress and worries of
 <img src="media/605defc4/skyline-of-clouds.mp4">
 
 ------------
-- **ID:** 9XG4
+- **Slug:** skyline-clouds
 - **Date:** 01/01/2021
 - **URL:** [https://phixel.net/en/skyline-clouds/](https://phixel.net/en/skyline-clouds/)
 - **Type:** [Blog](#blog)

@@ -58,7 +58,7 @@ Your goal will be to develop high-quality software/web/apps that is aligned with
 		<url>media/cd01d87b/job-software-engineer.jpg</url>
 	</media>
 	<info>
-		<id>LURH</id>
+		<slug>job-software-engineer</slug>
 		<date>22/10/2022</date>
 		<url>https://phixel.net/en/jobs/software-engineer/</url>
 		<category>Job</category>

@@ -16,7 +16,7 @@ Take your love of cocktails and show it off with this traditional Cuban highball
 <img src="media/39af3b02/mojito.png">
 
 ------------
-- **ID:** 12PV
+- **Slug:** celcius–mojito
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)

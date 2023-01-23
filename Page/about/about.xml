@@ -73,7 +73,7 @@ Our clients know everything before it happens, so there are no unpleasant surpri
 		<url>media/5ab289b6/space-cover.jpg</url>
 	</media>
 	<info>
-		<id>1X22</id>
+		<slug>about</slug>
 		<date>01/01/2020</date>
 		<url>https://phixel.net/en/about-us/</url>
 		<category>Page</category>

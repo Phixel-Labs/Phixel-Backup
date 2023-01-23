@@ -12,7 +12,7 @@ The name Phixel is beautiful, elegant and unique, we love it and we take it to h
 <img src="media/3b11003d/the-name.jpg">
 
 ------------
-- **ID:** 3CGW
+- **Slug:** naming-phixel
 - **Date:** 06/11/2022
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Page](#page)

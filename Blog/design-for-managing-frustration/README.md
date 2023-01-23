@@ -25,7 +25,7 @@ Tips and strategies to manage frustration by using Design, from identifying the 
 <img src="media/b1377eb7/design-help-frustration.jpg">
 
 ------------
-- **ID:** LZ5J
+- **Slug:** design-for-managing-frustration
 - **Date:** 23/01/2023
 - **URL:** [https://phixel.net/en/tips/mental-help/design-for-managing-frustration/](https://phixel.net/en/tips/mental-help/design-for-managing-frustration/)
 - **Type:** [Blog](#blog)

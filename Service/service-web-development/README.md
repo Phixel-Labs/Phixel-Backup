@@ -13,7 +13,7 @@ Websites are the foundation of your online presence. These are how customers fin
 <img src="media/de3401c7/services-web-development.jpg">
 
 ------------
-- **ID:** QO4V
+- **Slug:** service-web-development
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/service/web-development/](https://phixel.net/en/service/web-development/)
 - **Type:** [Service](#service)

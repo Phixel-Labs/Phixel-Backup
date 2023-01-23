@@ -54,7 +54,7 @@ We are looking for a talented Web Designer to create amazing user experiences.
 <img src="media/d31b18a9/job-web-designer.jpg">
 
 ------------
-- **ID:** QDP1
+- **Slug:** job-web-designer
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/web-designer/](https://phixel.net/en/jobs/web-designer/)
 - **Type:** [Job](#job)

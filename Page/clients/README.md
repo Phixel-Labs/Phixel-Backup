@@ -128,7 +128,7 @@ We love making a difference in people's lives by connecting our clients with the
 <img src="media/db0db306/logo-xbox.png">
 
 ------------
-- **ID:** 5A8B
+- **Slug:** clients
 - **Date:** 23/10/2022
 - **URL:** [https://phixel.net/en/about-us/clients/](https://phixel.net/en/about-us/clients/)
 - **Type:** [Page](#page)

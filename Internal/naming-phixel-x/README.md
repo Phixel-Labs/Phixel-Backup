@@ -16,7 +16,7 @@ This letter is a mystery
 <img src="media/17f4f081/the-name-wildcard.jpg">
 
 ------------
-- **ID:** 0PQA
+- **Slug:** naming-phixel-x
 - **Date:** 06/11/2022
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Internal](#internal)

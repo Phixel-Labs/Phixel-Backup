@@ -45,7 +45,7 @@ At Phixel, we offer a wide range of services to help you get the most out of you
 <img src="media/9e24ad65/services.jpg">
 
 ------------
-- **ID:** 1B5V
+- **Slug:** services
 - **Date:** 20/01/2020
 - **URL:** [https://phixel.net/en/about-us/services/](https://phixel.net/en/about-us/services/)
 - **Type:** [Page](#page)

@@ -19,7 +19,7 @@ The pure chocolate flavor and smooth texture of this will leave you satisfied.
 <img src="media/69167005/chocolate.png">
 
 ------------
-- **ID:** LW2S
+- **Slug:** celcius–chocolate
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)

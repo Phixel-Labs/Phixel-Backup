@@ -16,7 +16,7 @@ Like every morning, you cannot start the day without enjoying a good coffee.
 <img src="media/e59ce74c/coffee.png">
 
 ------------
-- **ID:** FIPN
+- **Slug:** celcius–coffee
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)

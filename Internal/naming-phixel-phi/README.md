@@ -17,7 +17,7 @@ The first 3 letters, have plenty of reasons to exist;
 <img src="media/8076d8dc/the-name-golden-ratio.jpg">
 
 ------------
-- **ID:** R313
+- **Slug:** naming-phixel-phi
 - **Date:** 06/11/2022
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Internal](#internal)

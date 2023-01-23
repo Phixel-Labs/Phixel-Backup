@@ -24,7 +24,7 @@ Featuring graphic designs of small, colorful, isometric rooms. These designs sho
 <img src="media/1f6a5cea/tiny-space-study.jpg">
 
 ------------
-- **ID:** QJ2P
+- **Slug:** tiny-spaces
 - **Date:** 30/12/2022
 - **URL:** [https://phixel.net/en/gallery/tiny-spaces/](https://phixel.net/en/gallery/tiny-spaces/)
 - **Type:** [Gallery](#gallery)

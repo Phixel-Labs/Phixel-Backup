@@ -25,7 +25,7 @@ Tips and strategies to overcome shame by using Design, from identifying the sour
 <img src="media/976148d3/design-help-shame.jpg">
 
 ------------
-- **ID:** P7PK
+- **Slug:** design-for-beating-shame
 - **Date:** 27/01/2023
 - **URL:** [https://phixel.net/en/tips/mental-help/design-for-beating-shame/](https://phixel.net/en/tips/mental-help/design-for-beating-shame/)
 - **Type:** [Blog](#blog)

@@ -13,7 +13,7 @@ Phixel understand the importance of having a great logo and work tirelessly to c
 <img src="media/b8c26299/services-logo-design.jpg">
 
 ------------
-- **ID:** O6Q9
+- **Slug:** service-logo-design
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/service/logo-design/](https://phixel.net/en/service/logo-design/)
 - **Type:** [Service](#service)

@@ -116,7 +116,7 @@ From Mardi Gras in the USA to the Running of the Bulls in Spain, and from the La
 <img src="media/bbdf03c5/st-patricks-day-usa.jpg">
 
 ------------
-- **ID:** NN1F
+- **Slug:** celebrate-around-the-world
 - **Date:** 07/01/2023
 - **URL:** [https://phixel.net/en/gallery/celebrate-around-the-world/](https://phixel.net/en/gallery/celebrate-around-the-world/)
 - **Type:** [Gallery](#gallery)

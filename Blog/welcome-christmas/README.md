@@ -24,7 +24,7 @@ It's definitely exciting to think about what gifts we might receive during the h
 <img src="media/bfd0283b/welcome-christmas.jpg">
 
 ------------
-- **ID:** 3H2Y
+- **Slug:** welcome-christmas
 - **Date:** 01/12/2022
 - **URL:** [https://phixel.net/en/welcome-christmas/](https://phixel.net/en/welcome-christmas/)
 - **Type:** [Blog](#blog)

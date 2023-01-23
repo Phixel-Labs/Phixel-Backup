@@ -19,7 +19,7 @@ Lamentamos informarles que nuestro blog en español ya no será actualizado, deb
 <img src="media/c1971a57/no-blog.jpg">
 
 ------------
-- **ID:** OQ9H
+- **Slug:** goodbye-blog-in-spanish
 - **Date:** 18/01/2023
 - **URL:** [https://phixel.net/es/noticia/adios-blog-en-espanol/](https://phixel.net/es/noticia/adios-blog-en-espanol/)
 - **Type:** [Blog](#blog)

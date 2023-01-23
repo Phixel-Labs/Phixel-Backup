@@ -15,7 +15,7 @@ With Celcius you can satisfy your need for Digital Coffee in the Morning, at Nig
 <img src="media/2e17d12e/celcius.png">
 
 ------------
-- **ID:** S72H
+- **Slug:** celcius-instant
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)

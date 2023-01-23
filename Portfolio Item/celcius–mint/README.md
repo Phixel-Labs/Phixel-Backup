@@ -16,7 +16,7 @@ The freshness and the combination with the taste of peppermint, are able to brin
 <img src="media/5b99cb1e/mint.png">
 
 ------------
-- **ID:** 616D
+- **Slug:** celcius–mint
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)

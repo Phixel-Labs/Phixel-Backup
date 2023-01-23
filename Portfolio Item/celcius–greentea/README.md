@@ -14,7 +14,7 @@ From an ancient hidden village, a healthy ancestral recipe full of antioxidants 
 <img src="media/ea6c0b4b/greentea.png">
 
 ------------
-- **ID:** R0FE
+- **Slug:** celcius–greentea
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)

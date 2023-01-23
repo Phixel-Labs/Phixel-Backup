@@ -18,7 +18,7 @@ The white snowy mountains that creates a delicious sweetness…
 <img src="media/2eca3fe9/vanilla.png">
 
 ------------
-- **ID:** PQ21
+- **Slug:** celcius–vanilla
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)

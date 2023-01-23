@@ -23,7 +23,7 @@ We want to help you learn more about the world around you and make sure that you
 <img src="media/d6733980/monostereo.mp4">
 
 ------------
-- **ID:** 6225
+- **Slug:** monostereo
 - **Date:** 18/11/2022
 - **URL:** [https://phixel.net/en/portfolio/monostereo/](https://phixel.net/en/portfolio/monostereo/)
 - **Type:** [Portfolio](#portfolio)

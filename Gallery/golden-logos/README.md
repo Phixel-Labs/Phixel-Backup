@@ -17,7 +17,7 @@ Our gold logo gallery offers a wide range of design styles and inspiration for f
 <img src="media/115fb391/gold-logo-soccer.jpg">
 
 ------------
-- **ID:** R0BB
+- **Slug:** golden-logos
 - **Date:** 20/12/2022
 - **URL:** [https://phixel.net/en/gallery/golden-logos/](https://phixel.net/en/gallery/golden-logos/)
 - **Type:** [Gallery](#gallery)

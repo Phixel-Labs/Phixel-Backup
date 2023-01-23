@@ -59,7 +59,7 @@ We are looking for a Software Engineer to produce and implement functional softw
 <img src="media/cd01d87b/job-software-engineer.jpg">
 
 ------------
-- **ID:** LURH
+- **Slug:** job-software-engineer
 - **Date:** 22/10/2022
 - **URL:** [https://phixel.net/en/jobs/software-engineer/](https://phixel.net/en/jobs/software-engineer/)
 - **Type:** [Job](#job)

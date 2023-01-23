@@ -59,7 +59,7 @@ We are looking for a relentless team leader to manage our teams and provide effe
 <img src="media/467767f8/job-team-manager.jpg">
 
 ------------
-- **ID:** RGOO
+- **Slug:** job-team-manager
 - **Date:** 30/10/2022
 - **URL:** [https://phixel.net/en/jobs/team-manager/](https://phixel.net/en/jobs/team-manager/)
 - **Type:** [Job](#job)

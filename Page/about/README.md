@@ -74,7 +74,7 @@ The only thing you need to know about us it that the goal is simple; Do exceptio
 <img src="media/5ab289b6/space-cover.jpg">
 
 ------------
-- **ID:** 1X22
+- **Slug:** about
 - **Date:** 01/01/2020
 - **URL:** [https://phixel.net/en/about-us/](https://phixel.net/en/about-us/)
 - **Type:** [Page](#page)

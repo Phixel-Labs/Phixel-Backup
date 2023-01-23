@@ -52,7 +52,7 @@ We are Phixel, a team of specialized designers and developers with experience in
 <img src="media/829b093a/tv.glb">
 
 ------------
-- **ID:** 2X2R
+- **Slug:** phixel
 - **Date:** 01/01/2020
 - **URL:** [https://phixel.net/](https://phixel.net/)
 - **Type:** [Page](#page)

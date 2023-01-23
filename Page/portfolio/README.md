@@ -11,7 +11,7 @@ These are some of our favorite selected works in our Portfolio, showcasing cool,
 <img src="media/8ad46bbb/portfolio.jpg">
 
 ------------
-- **ID:** OLML
+- **Slug:** portfolio
 - **Date:** 01/01/2000
 - **URL:** [https://phixel.net/en/portfolio/](https://phixel.net/en/portfolio/)
 - **Type:** [Page](#page)

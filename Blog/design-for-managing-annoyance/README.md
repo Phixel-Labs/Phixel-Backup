@@ -24,7 +24,7 @@ Tips and strategies to manage annoyance by using Design, from identifying the so
 <img src="media/9e465e2f/design-help-annoyance.jpg">
 
 ------------
-- **ID:** 513R
+- **Slug:** design-for-managing-annoyance
 - **Date:** 18/01/2023
 - **URL:** [https://phixel.net/en/tips/mental-help/design-for-managing-annoyance/](https://phixel.net/en/tips/mental-help/design-for-managing-annoyance/)
 - **Type:** [Blog](#blog)

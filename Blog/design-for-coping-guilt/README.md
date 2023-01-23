@@ -24,7 +24,7 @@ Tips and strategies to cope with guilt by using Design, from identifying the sou
 <img src="media/d8581234/design-help-guilt.jpg">
 
 ------------
-- **ID:** S95P
+- **Slug:** design-for-coping-guilt
 - **Date:** 25/01/2023
 - **URL:** [https://phixel.net/en/tips/mental-help/design-for-coping-guilt/](https://phixel.net/en/tips/mental-help/design-for-coping-guilt/)
 - **Type:** [Blog](#blog)

@@ -21,7 +21,7 @@ Tips and tricks to overcome disgust by using Design, from identifying the source
 <img src="media/26c54e15/design-help-disgust.jpg">
 
 ------------
-- **ID:** R665
+- **Slug:** design-conquer-disgust
 - **Date:** 13/01/2023
 - **URL:** [https://phixel.net/en/tips/mental-help/design-conquer-disgust/](https://phixel.net/en/tips/mental-help/design-conquer-disgust/)
 - **Type:** [Blog](#blog)

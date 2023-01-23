@@ -13,7 +13,7 @@ We focus on creating fluid user experiences that make your customers happy.
 <img src="media/6dfff947/services-web-app-design.jpg">
 
 ------------
-- **ID:** NTGU
+- **Slug:** service-web-app-design
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/service/web-app-design/](https://phixel.net/en/service/web-app-design/)
 - **Type:** [Service](#service)

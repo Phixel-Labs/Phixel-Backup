@@ -77,7 +77,7 @@ Get design inspiration from these top anime series, including To Your Eternity, 
 <img src="media/2a267836/inspiration-from-anime.jpg">
 
 ------------
-- **ID:** LP1B
+- **Slug:** inspiration-from-anime
 - **Date:** 09/01/2023
 - **URL:** [https://phixel.net/en/blog/inspiration-from-anime](https://phixel.net/en/blog/inspiration-from-anime)
 - **Type:** [Blog](#blog)

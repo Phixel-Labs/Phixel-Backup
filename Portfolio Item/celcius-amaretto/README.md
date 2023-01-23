@@ -16,7 +16,7 @@ Almonds born of this unique and sophisticated flavor that is capable of leading 
 <img src="media/6e777cf4/amaretto.png">
 
 ------------
-- **ID:** 52LH
+- **Slug:** celcius-amaretto
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)

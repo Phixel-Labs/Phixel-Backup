@@ -24,7 +24,7 @@ In this case study, you&#039;ll learn more about the design process that went in
 <img src="media/8706258d/hyundai-ioniq-5.glb">
 
 ------------
-- **ID:** 6IRK
+- **Slug:** hyundai-ioniq
 - **Date:** 18/11/2022
 - **URL:** [https://phixel.net/en/portfolio/ioniq/](https://phixel.net/en/portfolio/ioniq/)
 - **Type:** [Portfolio](#portfolio)

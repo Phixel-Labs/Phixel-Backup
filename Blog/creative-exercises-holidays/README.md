@@ -18,7 +18,7 @@ From brainstorming sessions to trying out new techniques, these exercises can he
 <img src="media/f8fe415d/exercise-on-holliday.jpg">
 
 ------------
-- **ID:** SCG2
+- **Slug:** creative-exercises-holidays
 - **Date:** 13/12/2022
 - **URL:** [https://phixel.net/en/holiday/christmas/creative-exercises-holidays/](https://phixel.net/en/holiday/christmas/creative-exercises-holidays/)
 - **Type:** [Blog](#blog)

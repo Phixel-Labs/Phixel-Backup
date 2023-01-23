@@ -16,7 +16,7 @@ From the exotic Caribbean islands, we bring a wide variety of fruits which in th
 <img src="media/072c6c2c/tropical.png">
 
 ------------
-- **ID:** RDRU
+- **Slug:** celcius–tropical
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)

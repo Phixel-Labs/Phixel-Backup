@@ -21,7 +21,7 @@ Julibe, a highly skilled Front-End designer and developer, has joined the Phixel
 <img src="media/2477109b/julibe-phanto.jpg">
 
 ------------
-- **ID:** QF35
+- **Slug:** julibe
 - **Date:** 04/01/2023
 - **URL:** [https://phixel.net/en/julibe/](https://phixel.net/en/julibe/)
 - **Type:** [Internal](#internal)

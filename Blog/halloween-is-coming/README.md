@@ -18,7 +18,7 @@ Halloween is coming, and that means it's time to get ready for spooky stories, c
 <img src="media/955587e6/blog-what-is-your-emoji-this-halloween.jpg">
 
 ------------
-- **ID:** LT6M
+- **Slug:** halloween-is-coming
 - **Date:** 29/10/2022
 - **URL:** [https://phixel.net/en/halloween-is-coming/](https://phixel.net/en/halloween-is-coming/)
 - **Type:** [Blog](#blog)
