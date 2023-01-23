@@ -21,6 +21,7 @@ In this case study, you&#039;ll learn more about the design process that went in
 <img src="media/44b99514/hyundai-ioniq-5-tablet.jpg">
 <img src="media/19636d6b/hyundai-ioniq-5-video-mobile.jpg">
 <img src="media/051fa10f/hyundai-ioniq-5-video.jpg">
+<img src="media/8706258d/hyundai-ioniq-5.glb">
 
 ------------
 - **ID:** 6IRK

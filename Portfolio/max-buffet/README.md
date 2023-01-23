@@ -19,6 +19,7 @@ The finest quality Top-quality meats and poultry, sourced carefully to ensure yo
 <img src="media/4e9b3852/max-buffet-04-1.jpg">
 <img src="media/7152c41e/max-buffet-05-1.jpg">
 <img src="media/d4976e0c/max-buffet-06.jpg">
+<img src="media/34742e5f/total-max-buffet-package.glb">
 
 ------------
 - **ID:** BS7N

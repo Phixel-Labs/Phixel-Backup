@@ -42,6 +42,14 @@ We are Phixel, a team of specialized designers and developers with experience in
 <img src="media/a5a04954/television-deep-in-the-clouds.mp4">
 <img src="media/6b25fa3d/vhs-player.mp4">
 <img src="media/60c32789/we-are-phixel-celcius-development-mp4-image.jpg">
+<img src="media/829b093a/tv.glb">
+<img src="media/6bbe2302/terrain.glb">
+<img src="media/93dca06f/t_rex.glb">
+<img src="media/6d6fc497/mountains_4.glb">
+<img src="media/1b63f4b1/mountains_3.glb">
+<img src="media/c20cbb54/mountains_2.glb">
+<img src="media/843b7486/mountains.glb">
+<img src="media/7d4c1aa9/logo.glb">
 
 ------------
 - **ID:** 2X2R
