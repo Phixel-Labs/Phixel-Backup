@@ -21,16 +21,19 @@ It can mean everything at once. It can be a multiplier of your sales, your hidde
 		<category>Internal</category>
 		<url>internal</url>
 		<emojis>🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸</emojis>
+		<hashtags>
+			<hashtag>phixel</hashtag>
+			<hashtag>pixel</hashtag>
+			<hashtag>PHP</hashtag>
+			<hashtag>phoenix</hashtag>
+			<hashtag>fenix</hashtag>
+			<hashtag>phix</hashtag>
+			<hashtag>fix</hashtag>
+			<hashtag>x</hashtag>
+			<hashtag>phi</hashtag>
+		</hashtags>
+		<tags>
+			<tag> </tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>phixel</tag>
-		<tag>pixel</tag>
-		<tag>PHP</tag>
-		<tag>phoenix</tag>
-		<tag>fenix</tag>
-		<tag>phix</tag>
-		<tag>fix</tag>
-		<tag>x</tag>
-		<tag>phi</tag>
-	</tags>
 </item>

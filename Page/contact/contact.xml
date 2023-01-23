@@ -41,29 +41,41 @@ contact@phixel.net
 		<category>Page</category>
 		<url>page</url>
 		<emojis>📟 ✨✉ ️☎ 🤳 🏼 🖨 🤝 📫 📪 📭 📬 🗨 👋 🙋 ‍♂ ☎️ 💞 ♀️ 🖱 📨 👆 🏽 📢 📤</emojis>
+		<hashtags>
+			<hashtag>whatsapp</hashtag>
+			<hashtag>message</hashtag>
+			<hashtag>mail</hashtag>
+			<hashtag>@The_Phixel</hashtag>
+			<hashtag>Follow</hashtag>
+			<hashtag>msm</hashtag>
+			<hashtag>contact@phixel.net</hashtag>
+			<hashtag>wearehere</hashtag>
+			<hashtag>phixel</hashtag>
+			<hashtag>contactus</hashtag>
+			<hashtag>idea</hashtag>
+			<hashtag>help</hashtag>
+			<hashtag>business</hashtag>
+			<hashtag>chat</hashtag>
+			<hashtag>phone</hashtag>
+			<hashtag>email</hashtag>
+			<hashtag>job</hashtag>
+			<hashtag>contact</hashtag>
+			<hashtag>newproduct</hashtag>
+			<hashtag>help</hashtag>
+			<hashtag>phixelnet</hashtag>
+			<hashtag>foryou</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Contact</tag>
+			<tag> Help</tag>
+			<tag> Idea</tag>
+			<tag> Product</tag>
+			<tag> Reveal</tag>
+			<tag> Creative</tag>
+			<tag> Agency</tag>
+			<tag> Brands</tag>
+			<tag> Available</tag>
+			<tag> Amazing</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>whatsapp</tag>
-		<tag>message</tag>
-		<tag>mail</tag>
-		<tag>@The_Phixel</tag>
-		<tag>Follow</tag>
-		<tag>msm</tag>
-		<tag>contact@phixel.net</tag>
-		<tag>wearehere</tag>
-		<tag>phixel</tag>
-		<tag>contactus</tag>
-		<tag>idea</tag>
-		<tag>help</tag>
-		<tag>business</tag>
-		<tag>chat</tag>
-		<tag>phone</tag>
-		<tag>email</tag>
-		<tag>job</tag>
-		<tag>contact</tag>
-		<tag>newproduct</tag>
-		<tag>help</tag>
-		<tag>phixelnet</tag>
-		<tag>foryou</tag>
-	</tags>
 </item>

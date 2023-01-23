@@ -10,18 +10,19 @@ Marvelous & Breathtaking Mojito
 ## Description
 Take your love of cocktails and show it off with this traditional Cuban highball.
 ## Media
+<img src="media/e4126fe9/mojito.gltf">
+<img src="media/0d4f1289/mojito.jpg">
 <img src="media/10c81577/mojito.png">
 <img src="media/39af3b02/mojito.png">
-<img src="media/0d4f1289/mojito.jpg">
-<img src="media/e4126fe9/mojito.gltf">
 
 ------------
 - **ID:** 12PV
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)
+- **Hashtags:** #phixel #celcius #instacoffee #celsius #coffeelover #cafe #mojito
 - **Emojis:** 🆒
 
 ------------
 ## Tags
-[phixel](#phixel), [celcius](#celcius), [instacoffee](#instacoffee), [celsius](#celsius), [coffeelover](#coffeelover), [cafe](#cafe), [mojito](#mojito)
+[Celcius](#Celcius), [Coffee](#Coffee)

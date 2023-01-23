@@ -11,18 +11,19 @@ Tender & Lovely Cinnamon
 ## Description
 The ideal cereal for a cozy home-style breakfast or brunch.
 ## Media
+<img src="media/cecabd93/cinnamon.gltf">
+<img src="media/30313968/cinnamon.jpg">
 <img src="media/ebc70d3a/cinnamon.png">
 <img src="media/587dc79a/cinnamon.png">
-<img src="media/30313968/cinnamon.jpg">
-<img src="media/cecabd93/cinnamon.gltf">
 
 ------------
 - **ID:** S2LP
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)
+- **Hashtags:** #phixel #celcius #instacoffee #celsius #coffeelover #cafe #cinnamon
 - **Emojis:** 🆒
 
 ------------
 ## Tags
-[phixel](#phixel), [celcius](#celcius), [instacoffee](#instacoffee), [celsius](#celsius), [coffeelover](#coffeelover), [cafe](#cafe), [cinnamon](#cinnamon)
+[Celcius](#Celcius), [Coffee](#Coffee)

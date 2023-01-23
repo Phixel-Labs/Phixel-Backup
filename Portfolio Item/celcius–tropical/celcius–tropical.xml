@@ -9,10 +9,10 @@ With a combination of special ingredients and our expert craftsmanship, these fr
 	<excerpt>Sunny Wave of Tropical Flavors</excerpt>
 	<description>From the exotic Caribbean islands, we bring a wide variety of fruits which in themselves are impressive but with our exquisite secret combination creates an explosion of flavors that’s unmatched.</description>
 	<media>
+		<url>media/350c8866/tropical.gltf</url>
+		<url>media/4e6f62de/tropical.jpg</url>
 		<url>media/fea760e6/tropical.png</url>
 		<url>media/072c6c2c/tropical.png</url>
-		<url>media/4e6f62de/tropical.jpg</url>
-		<url>media/350c8866/tropical.gltf</url>
 	</media>
 	<info>
 		<id>RDRU</id>
@@ -21,14 +21,18 @@ With a combination of special ingredients and our expert craftsmanship, these fr
 		<category>Portfolio Item</category>
 		<url>portfolio-item</url>
 		<emojis>🆒</emojis>
+		<hashtags>
+			<hashtag>phixel</hashtag>
+			<hashtag>celcius</hashtag>
+			<hashtag>instacoffee</hashtag>
+			<hashtag>celsius</hashtag>
+			<hashtag>coffeelover</hashtag>
+			<hashtag>cafe</hashtag>
+			<hashtag>tropical</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Celcius</tag>
+			<tag> Coffee</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>phixel</tag>
-		<tag>celcius</tag>
-		<tag>instacoffee</tag>
-		<tag>celsius</tag>
-		<tag>coffeelover</tag>
-		<tag>cafe</tag>
-		<tag>tropical</tag>
-	</tags>
 </item>

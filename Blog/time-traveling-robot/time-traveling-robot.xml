@@ -23,17 +23,20 @@ The team at Phixel was grateful for the opportunity to share their knowledge and
 		<category>Blog</category>
 		<url>blog</url>
 		<emojis>🕰</emojis>
+		<hashtags>
+			<hashtag>timetravel</hashtag>
+			<hashtag>newyears</hashtag>
+			<hashtag>vhs</hashtag>
+			<hashtag>adventure</hashtag>
+			<hashtag>robot</hashtag>
+			<hashtag>timecapsule</hashtag>
+			<hashtag>timemachine</hashtag>
+			<hashtag>phixel</hashtag>
+			<hashtag>christmaseve</hashtag>
+			<hashtag>goldenratio</hashtag>
+		</hashtags>
+		<tags>
+			<tag> </tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>timetravel</tag>
-		<tag>newyears</tag>
-		<tag>vhs</tag>
-		<tag>adventure</tag>
-		<tag>robot</tag>
-		<tag>timecapsule</tag>
-		<tag>timemachine</tag>
-		<tag>phixel</tag>
-		<tag>christmaseve</tag>
-		<tag>goldenratio</tag>
-	</tags>
 </item>

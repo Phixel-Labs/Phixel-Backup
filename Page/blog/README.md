@@ -13,8 +13,9 @@ Under the neon light we contemplate the snowy pink mountain and write in this bl
 - **Date:** 01/01/2010
 - **URL:** [https://phixel.net/en/blog/](https://phixel.net/en/blog/)
 - **Type:** [Page](#page)
+- **Hashtags:** #mountain #blog #retrofuture videography #animation #retrofuturism #sci-fi #phixel #video #writer #sciencefiction #writing #blogging #writerstyle #canthelpbutfeelinspired #retro #retrofutureart #retrofuturistic
 - **Emojis:** 📢 📃 🔌 🦄 ✏️ 🧪 😎 📄 🐲 👓 🦉 👽 🎮 📼 🪄 🤖 🐇 📫 🪐 👨 📽 🦼 🐈 🏕 🧜 🏿 ⚗️ 📷 🏞 ♀️ 👺 🔥 ☂️ ☢️ 👍 🦾
 
 ------------
 ## Tags
-[mountain](#mountain), [blog](#blog), [retrofuture](#retrofuture), [videography](#videography), [animation](#animation), [retrofuturism](#retrofuturism), [sci-fi](#sci-fi), [phixel](#phixel), [video](#video), [writer](#writer), [sciencefiction](#sciencefiction), [writing](#writing), [blogging](#blogging), [writerstyle](#writerstyle), [canthelpbutfeelinspired](#canthelpbutfeelinspired), [retro](#retro), [retrofutureart](#retrofutureart), [retrofuturistic](#retrofuturistic)
+[Blog](#Blog), [Retro sci-fi](#Retro sci-fi), [Inspiration](#Inspiration), [Neon](#Neon), [Mountain](#Mountain), [Writing](#Writing), [Ideas](#Ideas), [Stories](#Stories), [Exploration](#Exploration), [Possibilities](#Possibilities)

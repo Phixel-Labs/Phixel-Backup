@@ -121,36 +121,39 @@ The Obon Festival is a traditional Japanese celebration that honors the spirits 
 		<category>Gallery</category>
 		<url>gallery</url>
 		<emojis>🎉 🎭 🐂 🏃 💨 🌍 💃 🏽 🎺 🎷 🎨 🍀 🏮 🍺 🍅 🔥 🌺 🕯</emojis>
+		<hashtags>
+			<hashtag>festivals</hashtag>
+			<hashtag>internationalcelebration</hashtag>
+			<hashtag>celebration</hashtag>
+			<hashtag>festivalsaroundtheworld</hashtag>
+			<hashtag>celebrationaroundtheworld</hashtag>
+			<hashtag>festivals</hashtag>
+			<hashtag>celebrations</hashtag>
+			<hashtag>culture</hashtag>
+			<hashtag>travel</hashtag>
+			<hashtag>carnival</hashtag>
+			<hashtag>MardiGras</hashtag>
+			<hashtag>RunningOfTheBulls</hashtag>
+			<hashtag>StPatricksDay</hashtag>
+			<hashtag>LanternFestivals</hashtag>
+			<hashtag>Oktoberfest</hashtag>
+			<hashtag>CarnivalOfVenice</hashtag>
+			<hashtag>LaTomatina</hashtag>
+			<hashtag>CarnivalInRio</hashtag>
+			<hashtag>BurningManFestival</hashtag>
+			<hashtag>Holi</hashtag>
+			<hashtag>Diwali</hashtag>
+			<hashtag>DiaDeLosMuertos</hashtag>
+			<hashtag>ReinadoDeLasFlores</hashtag>
+			<hashtag>SongkranFestival</hashtag>
+			<hashtag>SemanaSanta</hashtag>
+			<hashtag>QuebecWinterCarnival</hashtag>
+			<hashtag>BastilleDay</hashtag>
+			<hashtag>ObonFestival</hashtag>
+			<hashtag>SongkranFestival</hashtag>
+		</hashtags>
+		<tags>
+			<tag> </tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>festivals</tag>
-		<tag>internationalcelebration</tag>
-		<tag>celebration</tag>
-		<tag>festivalsaroundtheworld</tag>
-		<tag>celebrationaroundtheworld</tag>
-		<tag>festivals</tag>
-		<tag>celebrations</tag>
-		<tag>culture</tag>
-		<tag>travel</tag>
-		<tag>carnival</tag>
-		<tag>MardiGras</tag>
-		<tag>RunningOfTheBulls</tag>
-		<tag>StPatricksDay</tag>
-		<tag>LanternFestivals</tag>
-		<tag>Oktoberfest</tag>
-		<tag>CarnivalOfVenice</tag>
-		<tag>LaTomatina</tag>
-		<tag>CarnivalInRio</tag>
-		<tag>BurningManFestival</tag>
-		<tag>Holi</tag>
-		<tag>Diwali</tag>
-		<tag>DiaDeLosMuertos</tag>
-		<tag>ReinadoDeLasFlores</tag>
-		<tag>SongkranFestival</tag>
-		<tag>SemanaSanta</tag>
-		<tag>QuebecWinterCarnival</tag>
-		<tag>BastilleDay</tag>
-		<tag>ObonFestival</tag>
-		<tag>SongkranFestival</tag>
-	</tags>
 </item>

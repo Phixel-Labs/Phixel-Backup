@@ -24,8 +24,9 @@ Remember those dreamy pixelscapes that captured your imagination and made you fe
 - **Date:** 01/01/2022
 - **URL:** [https://phixel.net/en/dreamy-pixelscapes/](https://phixel.net/en/dreamy-pixelscapes/)
 - **Type:** [Blog](#blog)
+- **Hashtags:** #the90s #pixelart #retrogaming #nostalgia #HTML5game #pixelartgames #pixelartdemo #psx #nintendo64 #supernes #gameboy #gameboycolor #nes #snes #pokemon #snesforever #psxforever #retrogaming #videogame
 - **Emojis:** 🆒 🎮 🕹 ️⌨ 💾 🎹 ​​ 🍄 🅸
 
 ------------
 ## Tags
-[the90s](#the90s), [pixelart](#pixelart), [retrogaming](#retrogaming), [nostalgia](#nostalgia), [HTML5game](#HTML5game), [pixelartgames](#pixelartgames), [pixelartdemo](#pixelartdemo), [psx](#psx), [nintendo64](#nintendo64), [supernes](#supernes), [gameboy](#gameboy), [gameboycolor](#gameboycolor), [nes](#nes), [snes](#snes), [pokemon](#pokemon), [snesforever](#snesforever), [psxforever](#psxforever), [retrogaming](#retrogaming), [videogame](#videogame)
+[Pixelscapes](#Pixelscapes), [Video](#Video), [Games](#Games), [TV](#TV), [Childhood](#Childhood), [Memories](#Memories), [Dreamy](#Dreamy), [Nostalgia](#Nostalgia), [Sidescrolling](#Sidescrolling), [Mountain](#Mountain)

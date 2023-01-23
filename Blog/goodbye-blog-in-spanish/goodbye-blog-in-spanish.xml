@@ -24,17 +24,26 @@ En resumen, nuestra decisión de dejar de actualizar nuestro blog en español se
 		<category>Blog</category>
 		<url>blog</url>
 		<emojis>🔠 🙏 📝 📊 🙅 🔤 🌎 💻 📚 📖 🙋 🏻 📣 📄 📧</emojis>
+		<hashtags>
+			<hashtag>BlogDeIdiomas</hashtag>
+			<hashtag>DecisionDifícil</hashtag>
+			<hashtag>ContinuarEnInglés</hashtag>
+			<hashtag>RazonesExplicadas</hashtag>
+			<hashtag>LectoresComprendidos</hashtag>
+			<hashtag>DisculpasSinceras</hashtag>
+			<hashtag>ComentariosBienvenidos</hashtag>
+			<hashtag>MejorarEnInglés</hashtag>
+			<hashtag>AlcanceGlobal</hashtag>
+			<hashtag>IdiomaDominante</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Decision</tag>
+			<tag> English</tag>
+			<tag> Languages</tag>
+			<tag> Spanish</tag>
+			<tag> Language</tag>
+			<tag> Communication</tag>
+			<tag> Blog</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>BlogDeIdiomas</tag>
-		<tag>DecisionDifícil</tag>
-		<tag>ContinuarEnInglés</tag>
-		<tag>RazonesExplicadas</tag>
-		<tag>LectoresComprendidos</tag>
-		<tag>DisculpasSinceras</tag>
-		<tag>ComentariosBienvenidos</tag>
-		<tag>MejorarEnInglés</tag>
-		<tag>AlcanceGlobal</tag>
-		<tag>IdiomaDominante</tag>
-	</tags>
 </item>

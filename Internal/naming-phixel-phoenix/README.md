@@ -19,8 +19,9 @@ Have you ever heard of the legend of the Phoenix?
 - **Date:** 06/11/2022
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Internal](#internal)
+- **Hashtags:** #phixel #pixel #PHP #phoenix #fenix #phix #fix #x #phi
 - **Emojis:** 🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
 
 ------------
 ## Tags
-[phixel](#phixel), [pixel](#pixel), [PHP](#PHP), [phoenix](#phoenix), [fenix](#fenix), [phix](#phix), [fix](#fix), [x](#x), [phi](#phi)
+[ ](# )

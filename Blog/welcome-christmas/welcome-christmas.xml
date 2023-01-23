@@ -29,16 +29,19 @@ Creating the perfect Christmas wish list is an exciting and fun part of the holi
 		<category>Blog</category>
 		<url>blog</url>
 		<emojis>🎁 🎅 🏻 🎄 🦌 ❄️ 🤶 🏽 🛷 ☃️ 🥂 👨 👧 ️</emojis>
+		<hashtags>
+			<hashtag>christmas</hashtag>
+			<hashtag>christmastree</hashtag>
+			<hashtag>christmasgifts</hashtag>
+			<hashtag>xmas</hashtag>
+			<hashtag>wishlist</hashtag>
+			<hashtag>instagood</hashtag>
+			<hashtag>gift</hashtag>
+			<hashtag>wishing</hashtag>
+			<hashtag>wishes</hashtag>
+		</hashtags>
+		<tags>
+			<tag> </tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>christmas</tag>
-		<tag>christmastree</tag>
-		<tag>christmasgifts</tag>
-		<tag>xmas</tag>
-		<tag>wishlist</tag>
-		<tag>instagood</tag>
-		<tag>gift</tag>
-		<tag>wishing</tag>
-		<tag>wishes</tag>
-	</tags>
 </item>

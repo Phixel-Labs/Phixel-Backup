@@ -27,8 +27,9 @@ We want to help you learn more about the world around you and make sure that you
 - **Date:** 18/11/2022
 - **URL:** [https://phixel.net/en/portfolio/monostereo/](https://phixel.net/en/portfolio/monostereo/)
 - **Type:** [Portfolio](#portfolio)
+- **Hashtags:** #phixel #monostereo #mono #stereo #podcast #podcastapp #radio #chimpanzee #podcastaddict #monkeybussines #gorilla #monkey #primate #chimp
 - **Emojis:** 🐒 🎙 🦧 🔊 🎶
 
 ------------
 ## Tags
-[phixel](#phixel), [monostereo](#monostereo), [mono](#mono), [stereo](#stereo), [podcast](#podcast), [podcastapp](#podcastapp), [radio](#radio), [chimpanzee](#chimpanzee), [podcastaddict](#podcastaddict), [monkeybussines](#monkeybussines), [gorilla](#gorilla), [monkey](#monkey), [primate](#primate), [chimp](#chimp)
+[ ](# )

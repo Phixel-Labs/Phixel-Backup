@@ -68,8 +68,9 @@ We are seeking a Graphic Designer to create engaging, branded graphics for a var
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/graphic-designer/](https://phixel.net/en/jobs/graphic-designer/)
 - **Type:** [Job](#job)
+- **Hashtags:** #phixel #webdesigners #clients #ui #ux #videoeditors #webdevelopers #animation #webdesignstudio #design #workhard #designer #phixel #love #gui #animation #illustration #remotework #studio #motiongraphics #workfromanywhere #worksmart #3d #respet
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------
 ## Tags
-[phixel](#phixel), [webdesigners](#webdesigners), [clients](#clients), [ui](#ui), [ux](#ux), [videoeditors](#videoeditors), [webdevelopers](#webdevelopers), [animation](#animation), [webdesignstudio](#webdesignstudio), [design](#design), [workhard](#workhard), [designer](#designer), [phixel](#phixel), [love](#love), [gui](#gui), [animation](#animation), [illustration](#illustration), [remotework](#remotework), [studio](#studio), [motiongraphics](#motiongraphics), [workfromanywhere](#workfromanywhere), [worksmart](#worksmart), [3d](#3d), [respet](#respet)
+[Graphic Designer](#Graphic Designer), [Creative](#Creative), [Design](#Design), [Illustration](#Illustration), [Logo](#Logo), [Layout](#Layout), [Photography](#Photography), [Branding](#Branding), [Communication](#Communication), [Media](#Media), [Job](#Job)

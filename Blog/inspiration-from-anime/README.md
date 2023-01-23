@@ -81,8 +81,9 @@ Get design inspiration from these top anime series, including To Your Eternity, 
 - **Date:** 09/01/2023
 - **URL:** [https://phixel.net/en/blog/inspiration-from-anime](https://phixel.net/en/blog/inspiration-from-anime)
 - **Type:** [Blog](#blog)
+- **Hashtags:** anime #designinspiration #graphicdesign #motiondesign #webdesign #ToYourEternity #SummerTimeRendering #DressUpDarling #MushokuTensei #AstraLostinSpace #DrStone #Trigun #FLCL #Hellsing #OnePunchMan #DragonBall #Monogatari #TenchiMuyo #MyHeroAcademia #DeathNote #AttackonTitan #OuranHighSchoolHostClub #DemonSlayer #KareKano #CodeGeass #YuYuHakusho #NeonGenesisEvangelion #Naruto #CyberpunkEdgerunners #SailorMoon #HunterxHunter #MobPsycho100 #Monster #OnePiece #CowboyBebop #FullmetalAlchemist
 - **Emojis:** ⛩️ 🌸 🍥 💪 🐉 👑 🌟 🏰 🗡 🔮 💘 💣 💥
 
 ------------
 ## Tags
-[anime](#anime), [designinspiration](#designinspiration), [graphicdesign](#graphicdesign), [motiondesign](#motiondesign), [webdesign](#webdesign), [ToYourEternity](#ToYourEternity), [SummerTimeRendering](#SummerTimeRendering), [DressUpDarling](#DressUpDarling), [MushokuTensei](#MushokuTensei), [AstraLostinSpace](#AstraLostinSpace), [DrStone](#DrStone), [Trigun](#Trigun), [FLCL](#FLCL), [Hellsing](#Hellsing), [OnePunchMan](#OnePunchMan), [DragonBall](#DragonBall), [Monogatari](#Monogatari), [TenchiMuyo](#TenchiMuyo), [MyHeroAcademia](#MyHeroAcademia), [DeathNote](#DeathNote), [AttackonTitan](#AttackonTitan), [OuranHighSchoolHostClub](#OuranHighSchoolHostClub), [DemonSlayer](#DemonSlayer), [KareKano](#KareKano), [CodeGeass](#CodeGeass), [YuYuHakusho](#YuYuHakusho), [NeonGenesisEvangelion](#NeonGenesisEvangelion), [Naruto](#Naruto), [CyberpunkEdgerunners](#CyberpunkEdgerunners), [SailorMoon](#SailorMoon), [HunterxHunter](#HunterxHunter), [MobPsycho100](#MobPsycho100), [Monster](#Monster), [OnePiece](#OnePiece), [CowboyBebop](#CowboyBebop), [FullmetalAlchemist](#FullmetalAlchemist)
+[ ](# )

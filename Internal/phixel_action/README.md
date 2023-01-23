@@ -17,8 +17,9 @@ The goal is simple, , explore and bring your ideas to life
 - **Date:** 01/01/2020
 - **URL:** [https://phixel.net/](https://phixel.net/)
 - **Type:** [Internal](#internal)
+- **Hashtags:** #phixel #withlove #phixel #homepage #webdesigners #webdesignstudio #phixelstudio #design #designer #welcome #home #webdevelopers #videoeditors #studio #clients #ui #ux #gui #motiongraphics #animation #illustration #3d #animation #foryou #creativestudio
 - **Emojis:** 🆒 🌎 🌐 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
 
 ------------
 ## Tags
-[phixel](#phixel), [withlove](#withlove), [phixel](#phixel), [homepage](#homepage), [webdesigners](#webdesigners), [webdesignstudio](#webdesignstudio), [phixelstudio](#phixelstudio), [design](#design), [designer](#designer), [welcome](#welcome), [home](#home), [webdevelopers](#webdevelopers), [videoeditors](#videoeditors), [studio](#studio), [clients](#clients), [ui](#ui), [ux](#ux), [gui](#gui), [motiongraphics](#motiongraphics), [animation](#animation), [illustration](#illustration), [3d](#3d), [animation](#animation), [foryou](#foryou), [creativestudio](#creativestudio)
+[Phixel](#Phixel), [Goal](#Goal), [Simple](#Simple), [Explore](#Explore), [Ideas](#Ideas), [Life](#Life), [Help](#Help), [No-Doubts](#No-Doubts), [Great](#Great)

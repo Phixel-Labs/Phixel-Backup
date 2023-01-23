@@ -14,25 +14,37 @@
 		<category>Page</category>
 		<url>page</url>
 		<emojis>📢 📃 🔌 🦄 ✏️ 🧪 😎 📄 🐲 👓 🦉 👽 🎮 📼 🪄 🤖 🐇 📫 🪐 👨 📽 🦼 🐈 🏕 🧜 🏿 ⚗️ 📷 🏞 ♀️ 👺 🔥 ☂️ ☢️ 👍 🦾</emojis>
+		<hashtags>
+			<hashtag>mountain</hashtag>
+			<hashtag>blog</hashtag>
+			<hashtag>retrofuture</hashtag>
+			<hashtag>videography</hashtag>
+			<hashtag>animation</hashtag>
+			<hashtag>retrofuturism</hashtag>
+			<hashtag>sci-fi</hashtag>
+			<hashtag>phixel</hashtag>
+			<hashtag>video</hashtag>
+			<hashtag>writer</hashtag>
+			<hashtag>sciencefiction</hashtag>
+			<hashtag>writing</hashtag>
+			<hashtag>blogging</hashtag>
+			<hashtag>writerstyle</hashtag>
+			<hashtag>canthelpbutfeelinspired</hashtag>
+			<hashtag>retro</hashtag>
+			<hashtag>retrofutureart</hashtag>
+			<hashtag>retrofuturistic</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Blog</tag>
+			<tag> Retro sci-fi</tag>
+			<tag> Inspiration</tag>
+			<tag> Neon</tag>
+			<tag> Mountain</tag>
+			<tag> Writing</tag>
+			<tag> Ideas</tag>
+			<tag> Stories</tag>
+			<tag> Exploration</tag>
+			<tag> Possibilities</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>mountain</tag>
-		<tag>blog</tag>
-		<tag>retrofuture</tag>
-		<tag>videography</tag>
-		<tag>animation</tag>
-		<tag>retrofuturism</tag>
-		<tag>sci-fi</tag>
-		<tag>phixel</tag>
-		<tag>video</tag>
-		<tag>writer</tag>
-		<tag>sciencefiction</tag>
-		<tag>writing</tag>
-		<tag>blogging</tag>
-		<tag>writerstyle</tag>
-		<tag>canthelpbutfeelinspired</tag>
-		<tag>retro</tag>
-		<tag>retrofutureart</tag>
-		<tag>retrofuturistic</tag>
-	</tags>
 </item>

@@ -60,8 +60,9 @@ We are looking for a talented Illustrator to create original artwork for digital
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/illustrator/](https://phixel.net/en/jobs/illustrator/)
 - **Type:** [Job](#job)
+- **Hashtags:** #phixel #webdesigners #clients #ui #ux #videoeditors #webdevelopers #animation #webdesignstudio #design #workhard #designer #phixel #love #gui #animation #illustration #remotework #studio #motiongraphics #workfromanywhere #worksmart #3d #respet
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------
 ## Tags
-[phixel](#phixel), [webdesigners](#webdesigners), [clients](#clients), [ui](#ui), [ux](#ux), [videoeditors](#videoeditors), [webdevelopers](#webdevelopers), [animation](#animation), [webdesignstudio](#webdesignstudio), [design](#design), [workhard](#workhard), [designer](#designer), [phixel](#phixel), [love](#love), [gui](#gui), [animation](#animation), [illustration](#illustration), [remotework](#remotework), [studio](#studio), [motiongraphics](#motiongraphics), [workfromanywhere](#workfromanywhere), [worksmart](#worksmart), [3d](#3d), [respet](#respet)
+[3D](#3D), [Modeler](#Modeler), [Animator](#Animator), [Graphic Designer](#Graphic Designer), [Illustrator](#Illustrator), [Copywriter](#Copywriter), [Dr. Darkness](#Dr. Darkness), [Phixel](#Phixel), [Design](#Design), [Creativity](#Creativity), [Art](#Art), [Job](#Job)

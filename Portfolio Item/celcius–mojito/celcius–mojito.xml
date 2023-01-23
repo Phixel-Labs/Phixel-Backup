@@ -9,10 +9,10 @@ Ready to sip hot or on ice, it's a perfect summer drink for any occasion.</conte
 	<excerpt>Marvelous & Breathtaking Mojito</excerpt>
 	<description>Take your love of cocktails and show it off with this traditional Cuban highball.</description>
 	<media>
+		<url>media/e4126fe9/mojito.gltf</url>
+		<url>media/0d4f1289/mojito.jpg</url>
 		<url>media/10c81577/mojito.png</url>
 		<url>media/39af3b02/mojito.png</url>
-		<url>media/0d4f1289/mojito.jpg</url>
-		<url>media/e4126fe9/mojito.gltf</url>
 	</media>
 	<info>
 		<id>12PV</id>
@@ -21,14 +21,18 @@ Ready to sip hot or on ice, it's a perfect summer drink for any occasion.</conte
 		<category>Portfolio Item</category>
 		<url>portfolio-item</url>
 		<emojis>🆒</emojis>
+		<hashtags>
+			<hashtag>phixel</hashtag>
+			<hashtag>celcius</hashtag>
+			<hashtag>instacoffee</hashtag>
+			<hashtag>celsius</hashtag>
+			<hashtag>coffeelover</hashtag>
+			<hashtag>cafe</hashtag>
+			<hashtag>mojito</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Celcius</tag>
+			<tag> Coffee</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>phixel</tag>
-		<tag>celcius</tag>
-		<tag>instacoffee</tag>
-		<tag>celsius</tag>
-		<tag>coffeelover</tag>
-		<tag>cafe</tag>
-		<tag>mojito</tag>
-	</tags>
 </item>

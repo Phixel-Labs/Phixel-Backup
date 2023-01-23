@@ -24,15 +24,27 @@ In the end, Phixel emerged victorious, and the city was saved from the clutches 
 		<category>Blog</category>
 		<url>blog</url>
 		<emojis>😈 💣 😠 🗡 🌎 🖤 🌑</emojis>
+		<hashtags>
+			<hashtag>villain</hashtag>
+			<hashtag>darkness</hashtag>
+			<hashtag>revenge</hashtag>
+			<hashtag>evil</hashtag>
+			<hashtag>power</hashtag>
+			<hashtag>horror</hashtag>
+			<hashtag>mystery</hashtag>
+			<hashtag>thriller</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Darkness</tag>
+			<tag> Revenge</tag>
+			<tag> Fight</tag>
+			<tag> Evil</tag>
+			<tag> Plan</tag>
+			<tag> Machine</tag>
+			<tag> City</tag>
+			<tag> Power</tag>
+			<tag> Design</tag>
+			<tag> Victory</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>villain</tag>
-		<tag>darkness</tag>
-		<tag>revenge</tag>
-		<tag>evil</tag>
-		<tag>power</tag>
-		<tag>horror</tag>
-		<tag>mystery</tag>
-		<tag>thriller</tag>
-	</tags>
 </item>

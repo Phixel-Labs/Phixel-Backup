@@ -49,8 +49,9 @@ At Phixel, we offer a wide range of services to help you get the most out of you
 - **Date:** 20/01/2020
 - **URL:** [https://phixel.net/en/about-us/services/](https://phixel.net/en/about-us/services/)
 - **Type:** [Page](#page)
+- **Hashtags:** #phixel #withlove #build #ui #mobile #web #accessible #creative #ux #grow #virtual #augmented #variety #successful # #design #offer #proactive #support #webdesign #organized #yourneeds #design #animation branding #stunning #motiongraphic #logo #balanced #expertsnonexperts #vr #marketing #gui #webapp #timeless #simpleapproach #immersive #services #reality
 - **Emojis:** 🆒 📀 🕶 💻 🖼 ️✏ ️⭐ 🦿 🖋 🎞 🏆 🦾 📹 🥽 📸 🎩 🧑 📏 🧰 🎶 🤩 🖱 ♂️ 💚 📷 💡 🖌 🦲 🎬 ✒️
 
 ------------
 ## Tags
-[phixel](#phixel), [withlove](#withlove), [build](#build), [ui](#ui), [mobile](#mobile), [web](#web), [accessible](#accessible), [creative](#creative), [ux](#ux), [grow](#grow), [virtual](#virtual), [augmented](#augmented), [variety](#variety), [successful](#successful), [design](#design), [offer](#offer), [proactive](#proactive), [support](#support), [webdesign](#webdesign), [organized](#organized), [yourneeds](#yourneeds), [design](#design), [animation](#animation), [branding](#branding), [stunning](#stunning), [motiongraphic](#motiongraphic), [logo](#logo), [balanced](#balanced), [expertsnonexperts](#expertsnonexperts), [vr](#vr), [marketing](#marketing), [gui](#gui), [webapp](#webapp), [timeless](#timeless), [simpleapproach](#simpleapproach), [immersive](#immersive), [services](#services), [reality](#reality)
+[Services](#Services), [Stunning](#Stunning), [Phixel](#Phixel), [Business](#Business), [Product](#Product), [Development](#Development), [Website](#Website), [Visibility](#Visibility), [Design](#Design), [Affordable](#Affordable)

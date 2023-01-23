@@ -20,13 +20,24 @@ Best of all, we guarantee that it's caffeine free!
 		<category>Portfolio Item</category>
 		<url>portfolio-item</url>
 		<emojis>🆒</emojis>
+		<hashtags>
+			<hashtag>phixel</hashtag>
+			<hashtag>celcius</hashtag>
+			<hashtag>instacoffee</hashtag>
+			<hashtag>celsius</hashtag>
+			<hashtag>coffeelover</hashtag>
+			<hashtag>cafe</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Celcius</tag>
+			<tag> Instant</tag>
+			<tag> Coffee</tag>
+			<tag> Digital</tag>
+			<tag> Proactivity</tag>
+			<tag> Stress</tag>
+			<tag> Caffeine-Free</tag>
+			<tag> All-Natural</tag>
+			<tag> Aromas</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>phixel</tag>
-		<tag>celcius</tag>
-		<tag>instacoffee</tag>
-		<tag>celsius</tag>
-		<tag>coffeelover</tag>
-		<tag>cafe</tag>
-	</tags>
 </item>

@@ -39,21 +39,24 @@ Graphic design can be a powerful tool in managing anxiety and finding peace in d
 		<category>Blog</category>
 		<url>blog</url>
 		<emojis>🎨 💆 ‍♀ 🌅 🌄 🌃 🌉 🌠 🌌</emojis>
+		<hashtags>
+			<hashtag>anxiety</hashtag>
+			<hashtag>calmingcolors</hashtag>
+			<hashtag>moodboard</hashtag>
+			<hashtag>mindfulness</hashtag>
+			<hashtag>nature</hashtag>
+			<hashtag>typography</hashtag>
+			<hashtag>whitespace</hashtag>
+			<hashtag>doodling</hashtag>
+			<hashtag>breaks</hashtag>
+			<hashtag>creativity</hashtag>
+			<hashtag>positiveaffirmations</hashtag>
+			<hashtag>relaxation</hashtag>
+			<hashtag>peace</hashtag>
+			<hashtag>calm</hashtag>
+		</hashtags>
+		<tags>
+			<tag> </tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>anxiety</tag>
-		<tag>calmingcolors</tag>
-		<tag>moodboard</tag>
-		<tag>mindfulness</tag>
-		<tag>nature</tag>
-		<tag>typography</tag>
-		<tag>whitespace</tag>
-		<tag>doodling</tag>
-		<tag>breaks</tag>
-		<tag>creativity</tag>
-		<tag>positiveaffirmations</tag>
-		<tag>relaxation</tag>
-		<tag>peace</tag>
-		<tag>calm</tag>
-	</tags>
 </item>

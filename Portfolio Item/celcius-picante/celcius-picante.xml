@@ -10,10 +10,10 @@ Enjoy!</content>
 	<excerpt>Hot & Heat Picante Like Salsa</excerpt>
 	<description>Came from the farthest corners of Mexico a thousand Years recipe that is now available to those fans that cannot to enjoy resist the spicy of a great “Salsa”.</description>
 	<media>
+		<url>media/c6673b41/picante.gltf</url>
+		<url>media/90662d5f/picante.jpg</url>
 		<url>media/c9a7ea3c/picante.png</url>
 		<url>media/16a6d189/picante.png</url>
-		<url>media/90662d5f/picante.jpg</url>
-		<url>media/c6673b41/picante.gltf</url>
 	</media>
 	<info>
 		<id>2A5Z</id>
@@ -22,14 +22,28 @@ Enjoy!</content>
 		<category>Portfolio Item</category>
 		<url>portfolio-item</url>
 		<emojis>🆒 🥤</emojis>
+		<hashtags>
+			<hashtag>phixel</hashtag>
+			<hashtag>celcius</hashtag>
+			<hashtag>instacoffee</hashtag>
+			<hashtag>celsius</hashtag>
+			<hashtag>coffeelover</hashtag>
+			<hashtag>cafe</hashtag>
+			<hashtag>picante</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Salsa</tag>
+			<tag> Mexican</tag>
+			<tag> Spicy</tag>
+			<tag> Picante</tag>
+			<tag> Flavor</tag>
+			<tag> Heat</tag>
+			<tag> Hot</tag>
+			<tag> Familiar</tag>
+			<tag> Traditional</tag>
+			<tag> Recipe</tag>
+			<tag> Celcius</tag>
+			<tag> Coffee</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>phixel</tag>
-		<tag>celcius</tag>
-		<tag>instacoffee</tag>
-		<tag>celsius</tag>
-		<tag>coffeelover</tag>
-		<tag>cafe</tag>
-		<tag>picante</tag>
-	</tags>
 </item>

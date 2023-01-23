@@ -25,26 +25,38 @@ We made an HTML Demo version for you to enjoy those nostalgic dreamy pixelscapes
 		<category>Blog</category>
 		<url>blog</url>
 		<emojis>🆒 🎮 🕹 ️⌨ 💾 🎹 ​​ 🍄 🅸</emojis>
+		<hashtags>
+			<hashtag>the90s</hashtag>
+			<hashtag>pixelart</hashtag>
+			<hashtag>retrogaming</hashtag>
+			<hashtag>nostalgia</hashtag>
+			<hashtag>HTML5game</hashtag>
+			<hashtag>pixelartgames</hashtag>
+			<hashtag>pixelartdemo</hashtag>
+			<hashtag>psx</hashtag>
+			<hashtag>nintendo64</hashtag>
+			<hashtag>supernes</hashtag>
+			<hashtag>gameboy</hashtag>
+			<hashtag>gameboycolor</hashtag>
+			<hashtag>nes</hashtag>
+			<hashtag>snes</hashtag>
+			<hashtag>pokemon</hashtag>
+			<hashtag>snesforever</hashtag>
+			<hashtag>psxforever</hashtag>
+			<hashtag>retrogaming</hashtag>
+			<hashtag>videogame</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Pixelscapes</tag>
+			<tag> Video</tag>
+			<tag> Games</tag>
+			<tag> TV</tag>
+			<tag> Childhood</tag>
+			<tag> Memories</tag>
+			<tag> Dreamy</tag>
+			<tag> Nostalgia</tag>
+			<tag> Sidescrolling</tag>
+			<tag> Mountain</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>the90s</tag>
-		<tag>pixelart</tag>
-		<tag>retrogaming</tag>
-		<tag>nostalgia</tag>
-		<tag>HTML5game</tag>
-		<tag>pixelartgames</tag>
-		<tag>pixelartdemo</tag>
-		<tag>psx</tag>
-		<tag>nintendo64</tag>
-		<tag>supernes</tag>
-		<tag>gameboy</tag>
-		<tag>gameboycolor</tag>
-		<tag>nes</tag>
-		<tag>snes</tag>
-		<tag>pokemon</tag>
-		<tag>snesforever</tag>
-		<tag>psxforever</tag>
-		<tag>retrogaming</tag>
-		<tag>videogame</tag>
-	</tags>
 </item>

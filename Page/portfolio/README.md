@@ -15,8 +15,9 @@ These are some of our favorite selected works in our Portfolio, showcasing cool,
 - **Date:** 01/01/2000
 - **URL:** [https://phixel.net/en/portfolio/](https://phixel.net/en/portfolio/)
 - **Type:** [Page](#page)
+- **Hashtags:** #phixel #withlove #designthinking #creatives #creativity #creativeprocess #selectedworks #favorite #portfolio #creativework #creativethinking #design #graphicdesignlife #creativelife #graphicdesignerlife #graphicdesign #project #creativepeople #designer #designers #phixel #designerlife #foryou #creativestudio
 - **Emojis:** 🖼 ️​ 💼 ​✍ 🎩 🖍 🌠 ✒️ 🎨 🤸 ‍♀ ♠♥ ♦♣
 
 ------------
 ## Tags
-[phixel](#phixel), [withlove](#withlove), [designthinking](#designthinking), [creatives](#creatives), [creativity](#creativity), [creativeprocess](#creativeprocess), [selectedworks](#selectedworks), [favorite](#favorite), [portfolio](#portfolio), [creativework](#creativework), [creativethinking](#creativethinking), [design](#design), [graphicdesignlife](#graphicdesignlife), [creativelife](#creativelife), [graphicdesignerlife](#graphicdesignerlife), [graphicdesign](#graphicdesign), [project](#project), [creativepeople](#creativepeople), [designer](#designer), [designers](#designers), [phixel](#phixel), [designerlife](#designerlife), [foryou](#foryou), [creativestudio](#creativestudio)
+[Portfolio](#Portfolio), [Selected Works](#Selected Works), [NDA](#NDA), [Innovative](#Innovative), [Forward-thinking](#Forward-thinking), [Projects](#Projects), [Showcase](#Showcase), [Cool](#Cool), [Favorite](#Favorite)

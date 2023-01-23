@@ -9,10 +9,10 @@ The freshness and the combination with the taste of peppermint, are able to brin
 	<excerpt>Fresh Mint Breeze of The Morning</excerpt>
 	<description>The freshness and the combination with the taste of peppermint, are able to bring you the North Pole without leaving your home.</description>
 	<media>
+		<url>media/e6ca7136/mint.gltf</url>
+		<url>media/e3123138/mint.jpg</url>
 		<url>media/e9fce8e5/mint.png</url>
 		<url>media/5b99cb1e/mint.png</url>
-		<url>media/e3123138/mint.jpg</url>
-		<url>media/e6ca7136/mint.gltf</url>
 	</media>
 	<info>
 		<id>616D</id>
@@ -21,14 +21,18 @@ The freshness and the combination with the taste of peppermint, are able to brin
 		<category>Portfolio Item</category>
 		<url>portfolio-item</url>
 		<emojis>🆒</emojis>
+		<hashtags>
+			<hashtag>phixel</hashtag>
+			<hashtag>celcius</hashtag>
+			<hashtag>instacoffee</hashtag>
+			<hashtag>celsius</hashtag>
+			<hashtag>coffeelover</hashtag>
+			<hashtag>cafe</hashtag>
+			<hashtag>mint</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Celcius</tag>
+			<tag> Coffee</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>phixel</tag>
-		<tag>celcius</tag>
-		<tag>instacoffee</tag>
-		<tag>celsius</tag>
-		<tag>coffeelover</tag>
-		<tag>cafe</tag>
-		<tag>mint</tag>
-	</tags>
 </item>

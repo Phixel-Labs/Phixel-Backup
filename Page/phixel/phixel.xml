@@ -41,14 +41,14 @@ Our team of professionals has worked with some of these well-known brands
 		<url>media/a5a04954/television-deep-in-the-clouds.mp4</url>
 		<url>media/6b25fa3d/vhs-player.mp4</url>
 		<url>media/60c32789/we-are-phixel-celcius-development-mp4-image.jpg</url>
-		<url>media/829b093a/tv.glb</url>
-		<url>media/6bbe2302/terrain.glb</url>
-		<url>media/93dca06f/t_rex.glb</url>
-		<url>media/6d6fc497/mountains_4.glb</url>
-		<url>media/1b63f4b1/mountains_3.glb</url>
-		<url>media/c20cbb54/mountains_2.glb</url>
-		<url>media/843b7486/mountains.glb</url>
 		<url>media/7d4c1aa9/logo.glb</url>
+		<url>media/c20cbb54/mountains_2.glb</url>
+		<url>media/1b63f4b1/mountains_3.glb</url>
+		<url>media/6d6fc497/mountains_4.glb</url>
+		<url>media/843b7486/mountains.glb</url>
+		<url>media/93dca06f/t_rex.glb</url>
+		<url>media/6bbe2302/terrain.glb</url>
+		<url>media/829b093a/tv.glb</url>
 	</media>
 	<info>
 		<id>2X2R</id>
@@ -57,32 +57,44 @@ Our team of professionals has worked with some of these well-known brands
 		<category>Page</category>
 		<url>page</url>
 		<emojis>🆒 🌎 🌐 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸</emojis>
+		<hashtags>
+			<hashtag>phixel</hashtag>
+			<hashtag>withlove</hashtag>
+			<hashtag>phixel</hashtag>
+			<hashtag>homepage</hashtag>
+			<hashtag>webdesigners</hashtag>
+			<hashtag>webdesignstudio</hashtag>
+			<hashtag>phixelstudio</hashtag>
+			<hashtag>design</hashtag>
+			<hashtag>designer</hashtag>
+			<hashtag>welcome</hashtag>
+			<hashtag>home</hashtag>
+			<hashtag>webdevelopers</hashtag>
+			<hashtag>videoeditors</hashtag>
+			<hashtag>studio</hashtag>
+			<hashtag>clients</hashtag>
+			<hashtag>ui</hashtag>
+			<hashtag>ux</hashtag>
+			<hashtag>gui</hashtag>
+			<hashtag>motiongraphics</hashtag>
+			<hashtag>animation</hashtag>
+			<hashtag>illustration</hashtag>
+			<hashtag>3d</hashtag>
+			<hashtag>animation</hashtag>
+			<hashtag>foryou</hashtag>
+			<hashtag>creativestudio</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Phixel</tag>
+			<tag> Team</tag>
+			<tag> Designers</tag>
+			<tag> Developers</tag>
+			<tag> Experience</tag>
+			<tag> Personalized</tag>
+			<tag> Unique</tag>
+			<tag> Digital</tag>
+			<tag> Solutions</tag>
+			<tag> Help</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>phixel</tag>
-		<tag>withlove</tag>
-		<tag>phixel</tag>
-		<tag>homepage</tag>
-		<tag>webdesigners</tag>
-		<tag>webdesignstudio</tag>
-		<tag>phixelstudio</tag>
-		<tag>design</tag>
-		<tag>designer</tag>
-		<tag>welcome</tag>
-		<tag>home</tag>
-		<tag>webdevelopers</tag>
-		<tag>videoeditors</tag>
-		<tag>studio</tag>
-		<tag>clients</tag>
-		<tag>ui</tag>
-		<tag>ux</tag>
-		<tag>gui</tag>
-		<tag>motiongraphics</tag>
-		<tag>animation</tag>
-		<tag>illustration</tag>
-		<tag>3d</tag>
-		<tag>animation</tag>
-		<tag>foryou</tag>
-		<tag>creativestudio</tag>
-	</tags>
 </item>

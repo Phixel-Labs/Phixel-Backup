@@ -19,20 +19,21 @@ Celcius coffee is 15+ uniquely generated bottles. No two are exactly alike. No t
 <img src="media/cfd24a62/celcius-honey.jpg">
 <img src="media/ec9841eb/celcius-morning-cut.jpg">
 <img src="media/3f7aaecf/celcius-morning.jpg">
+<img src="media/4c264249/bottle-splash.bin">
+<img src="media/6d067d19/bottle.bin">
 <img src="media/0ac38715/all.jpg">
 <img src="media/7bd3a6aa/amaretto.jpg">
 <img src="media/f713f605/loading.webp">
 <img src="media/8f5d4105/presentation.mp4">
-<img src="media/4c264249/bottle-splash.bin">
-<img src="media/6d067d19/bottle.bin">
 
 ------------
 - **ID:** 4911
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio](#portfolio)
+- **Hashtags:** #phixel #celcius #instacoffee #celsius #coffeelover #cafe #tropical #chocolate #vanilla #mint #mojito #picante #cinnamon #apple #berries #honey #picante #greentea #foryou
 - **Emojis:** 🆒
 
 ------------
 ## Tags
-[phixel](#phixel), [celcius](#celcius), [instacoffee](#instacoffee), [celsius](#celsius), [coffeelover](#coffeelover), [cafe](#cafe), [tropical](#tropical), [chocolate](#chocolate), [vanilla](#vanilla), [mint](#mint), [mojito](#mojito), [picante](#picante), [cinnamon](#cinnamon), [apple](#apple), [berries](#berries), [honey](#honey), [picante](#picante), [greentea](#greentea), [foryou](#foryou)
+[Celcius](#Celcius), [Coffee](#Coffee), [Unique](#Unique), [Blend](#Blend), [Aroma](#Aroma), [Natural](#Natural), [Essential oils](#Essential oils), [Packaging](#Packaging), [Branding](#Branding), [Website](#Website), [Original](#Original)

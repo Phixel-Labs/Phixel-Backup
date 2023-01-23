@@ -9,10 +9,10 @@ Made of the highest quality materials, so that you can enjoy its sensational tas
 	<excerpt>Sensual Apple for Lovers</excerpt>
 	<description>With it's round and red appearance is capable of generating an pleasure that can only be reached to with its delightful sweetness.</description>
 	<media>
+		<url>media/4057ab05/apple.gltf</url>
+		<url>media/edc32123/apple.jpg</url>
 		<url>media/931d3071/apple.png</url>
 		<url>media/881d5afc/apple.png</url>
-		<url>media/edc32123/apple.jpg</url>
-		<url>media/4057ab05/apple.gltf</url>
 	</media>
 	<info>
 		<id>1P5V</id>
@@ -21,14 +21,18 @@ Made of the highest quality materials, so that you can enjoy its sensational tas
 		<category>Portfolio Item</category>
 		<url>portfolio-item</url>
 		<emojis>🆒</emojis>
+		<hashtags>
+			<hashtag>phixel</hashtag>
+			<hashtag>celcius</hashtag>
+			<hashtag>instacoffee</hashtag>
+			<hashtag>celsius</hashtag>
+			<hashtag>coffeelover</hashtag>
+			<hashtag>cafe</hashtag>
+			<hashtag>apple</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Celcius</tag>
+			<tag> Coffee</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>phixel</tag>
-		<tag>celcius</tag>
-		<tag>instacoffee</tag>
-		<tag>celsius</tag>
-		<tag>coffeelover</tag>
-		<tag>cafe</tag>
-		<tag>apple</tag>
-	</tags>
 </item>

@@ -22,18 +22,21 @@ Photoshop is a powerful tool with endless potential. By learning the basics, exp
 		<category>Blog</category>
 		<url>blog</url>
 		<emojis>💻 ✂️ 🖌 ️</emojis>
+		<hashtags>
+			<hashtag>photoshop</hashtag>
+			<hashtag>design</hashtag>
+			<hashtag>graphicdesign</hashtag>
+			<hashtag>digitalart</hashtag>
+			<hashtag>photoshoptips</hashtag>
+			<hashtag>creativity</hashtag>
+			<hashtag>photoshopsecrets</hashtag>
+			<hashtag>photoshoptutorial</hashtag>
+			<hashtag>editing</hashtag>
+			<hashtag>photography</hashtag>
+			<hashtag>digitalartwork</hashtag>
+		</hashtags>
+		<tags>
+			<tag> </tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>photoshop</tag>
-		<tag>design</tag>
-		<tag>graphicdesign</tag>
-		<tag>digitalart</tag>
-		<tag>photoshoptips</tag>
-		<tag>creativity</tag>
-		<tag>photoshopsecrets</tag>
-		<tag>photoshoptutorial</tag>
-		<tag>editing</tag>
-		<tag>photography</tag>
-		<tag>digitalartwork</tag>
-	</tags>
 </item>

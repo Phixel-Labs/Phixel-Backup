@@ -9,10 +9,10 @@ Whether you're craving something hot or burnt, we've got the perfect beverage fo
 	<excerpt>Morning Coffee for All Days</excerpt>
 	<description>Like every morning, you cannot start the day without enjoying a good coffee.</description>
 	<media>
+		<url>media/2830a7d0/coffee.gltf</url>
+		<url>media/88cc06ad/coffee.jpg</url>
 		<url>media/ee3c2260/coffee.png</url>
 		<url>media/e59ce74c/coffee.png</url>
-		<url>media/88cc06ad/coffee.jpg</url>
-		<url>media/2830a7d0/coffee.gltf</url>
 	</media>
 	<info>
 		<id>FIPN</id>
@@ -21,13 +21,17 @@ Whether you're craving something hot or burnt, we've got the perfect beverage fo
 		<category>Portfolio Item</category>
 		<url>portfolio-item</url>
 		<emojis>🆒</emojis>
+		<hashtags>
+			<hashtag>phixel</hashtag>
+			<hashtag>celcius</hashtag>
+			<hashtag>instacoffee</hashtag>
+			<hashtag>celsius</hashtag>
+			<hashtag>coffeelover</hashtag>
+			<hashtag>cafe</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Celcius</tag>
+			<tag> Coffee</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>phixel</tag>
-		<tag>celcius</tag>
-		<tag>instacoffee</tag>
-		<tag>celsius</tag>
-		<tag>coffeelover</tag>
-		<tag>cafe</tag>
-	</tags>
 </item>

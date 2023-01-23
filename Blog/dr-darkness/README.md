@@ -23,8 +23,9 @@ Dr. Darkness is a mad scientist with a thirst for power who has been working on 
 - **Date:** 03/03/2022
 - **URL:** [https://phixel.net/en/story/mystery/dr-darkness/](https://phixel.net/en/story/mystery/dr-darkness/)
 - **Type:** [Blog](#blog)
+- **Hashtags:** #villain #DrDarkness #darkness #worlddomination #evil #power #horror #mystery #thriller
 - **Emojis:** 😈 🦹 🏾 🌎 🖤 🌑
 
 ------------
 ## Tags
-[villain](#villain), [DrDarkness](#DrDarkness), [darkness](#darkness), [worlddomination](#worlddomination), [evil](#evil), [power](#power), [horror](#horror), [mystery](#mystery), [thriller](#thriller)
+[Terror](#Terror), [Power](#Power), [Domination](#Domination), [Scientist](#Scientist), [Weapon](#Weapon), [Heroes](#Heroes), [Phixel](#Phixel), [Robot](#Robot), [Defeat](#Defeat), [Victory](#Victory)

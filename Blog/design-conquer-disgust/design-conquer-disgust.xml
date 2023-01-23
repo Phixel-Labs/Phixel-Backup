@@ -26,18 +26,28 @@ Design is a powerful tool that can be used to overcome disgust and unlock your t
 		<category>Blog</category>
 		<url>blog</url>
 		<emojis>🤢 🤮 😫 🎨 🙌 🏼 😬 💥 🌈 🌸 🐾 🤣 💭</emojis>
+		<hashtags>
+			<hashtag>graphicdesign</hashtag>
+			<hashtag>overcomingdisgust</hashtag>
+			<hashtag>disgust</hashtag>
+			<hashtag>emotiondesign</hashtag>
+			<hashtag>designthinking</hashtag>
+			<hashtag>colorpsychology</hashtag>
+			<hashtag>texture</hashtag>
+			<hashtag>humor</hashtag>
+			<hashtag>positiveaffirmations</hashtag>
+			<hashtag>symmetry</hashtag>
+			<hashtag>asymmetry</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Affirmation</tag>
+			<tag> Color</tag>
+			<tag> Design</tag>
+			<tag> Disgust</tag>
+			<tag> Emotion</tag>
+			<tag> Graphic</tag>
+			<tag> Humor</tag>
+			<tag> Texture</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>graphicdesign</tag>
-		<tag>overcomingdisgust</tag>
-		<tag>disgust</tag>
-		<tag>emotiondesign</tag>
-		<tag>designthinking</tag>
-		<tag>colorpsychology</tag>
-		<tag>texture</tag>
-		<tag>humor</tag>
-		<tag>positiveaffirmations</tag>
-		<tag>symmetry</tag>
-		<tag>asymmetry</tag>
-	</tags>
 </item>

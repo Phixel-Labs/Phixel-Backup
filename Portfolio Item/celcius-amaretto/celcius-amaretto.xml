@@ -9,10 +9,10 @@ It features an enticing blend of almonds, orange oils, aniseed and amaretti bisc
 	<excerpt>Spicy Coolness Amaretto</excerpt>
 	<description>Almonds born of this unique and sophisticated flavor that is capable of leading the simple to the biggest feast of flavors.</description>
 	<media>
+		<url>media/d9bca570/amaretto.gltf</url>
+		<url>media/214578c8/amaretto.jpg</url>
 		<url>media/52dbea00/amaretto.png</url>
 		<url>media/6e777cf4/amaretto.png</url>
-		<url>media/214578c8/amaretto.jpg</url>
-		<url>media/d9bca570/amaretto.gltf</url>
 	</media>
 	<info>
 		<id>52LH</id>
@@ -21,14 +21,28 @@ It features an enticing blend of almonds, orange oils, aniseed and amaretti bisc
 		<category>Portfolio Item</category>
 		<url>portfolio-item</url>
 		<emojis>🆒</emojis>
+		<hashtags>
+			<hashtag>phixel</hashtag>
+			<hashtag>celcius</hashtag>
+			<hashtag>instacoffee</hashtag>
+			<hashtag>celsius</hashtag>
+			<hashtag>coffeelover</hashtag>
+			<hashtag>cafe</hashtag>
+			<hashtag>amaretto</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Amaretto</tag>
+			<tag> Almond</tag>
+			<tag> Orange</tag>
+			<tag> Aniseed</tag>
+			<tag> Piedmont</tag>
+			<tag> Italy</tag>
+			<tag> Flavor</tag>
+			<tag> Sophisticated</tag>
+			<tag> Unique</tag>
+			<tag> Biscuit</tag>
+			<tag> Celcius</tag>
+			<tag> Coffee</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>phixel</tag>
-		<tag>celcius</tag>
-		<tag>instacoffee</tag>
-		<tag>celsius</tag>
-		<tag>coffeelover</tag>
-		<tag>cafe</tag>
-		<tag>amaretto</tag>
-	</tags>
 </item>

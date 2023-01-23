@@ -30,18 +30,30 @@ Design is a powerful tool that can be used to overcome shame and boost confidenc
 		<category>Blog</category>
 		<url>blog</url>
 		<emojis>😳 🎨 💪 🏼 😌 🌟 🛡 ♂️ 🦸 ‍♀</emojis>
+		<hashtags>
+			<hashtag>graphicdesign</hashtag>
+			<hashtag>shame</hashtag>
+			<hashtag>confidence</hashtag>
+			<hashtag>designthinking</hashtag>
+			<hashtag>colorpsychology</hashtag>
+			<hashtag>negativespace</hashtag>
+			<hashtag>strength</hashtag>
+			<hashtag>storytelling</hashtag>
+			<hashtag>positivity</hashtag>
+			<hashtag>symmetry</hashtag>
+			<hashtag>asymmetry</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Shame</tag>
+			<tag> Color</tag>
+			<tag> Negative Space</tag>
+			<tag> Imagery</tag>
+			<tag> Storytelling</tag>
+			<tag> Affirmations</tag>
+			<tag> Symmetry</tag>
+			<tag> Asymmetry</tag>
+			<tag> Movement</tag>
+			<tag> Typography</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>graphicdesign</tag>
-		<tag>shame</tag>
-		<tag>confidence</tag>
-		<tag>designthinking</tag>
-		<tag>colorpsychology</tag>
-		<tag>negativespace</tag>
-		<tag>strength</tag>
-		<tag>storytelling</tag>
-		<tag>positivity</tag>
-		<tag>symmetry</tag>
-		<tag>asymmetry</tag>
-	</tags>
 </item>

@@ -23,14 +23,17 @@ On Halloween, you’re free to be whoever you want and go anywhere. The only rul
 		<category>Blog</category>
 		<url>blog</url>
 		<emojis>👹 🕷 🎃 🧙 🏚 🧚 ⚱️ 🕴 🍬 🧞 ⚡️ 😱 👾 🌩 🤡 ☠️ 🔮 🍫 🌕 👿 🦄</emojis>
+		<hashtags>
+			<hashtag>halloween</hashtag>
+			<hashtag>scary</hashtag>
+			<hashtag>halloweenparty</hashtag>
+			<hashtag>halloweenpumpkin</hashtag>
+			<hashtag>spooky</hashtag>
+			<hashtag>candy</hashtag>
+			<hashtag>sweets</hashtag>
+		</hashtags>
+		<tags>
+			<tag> </tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>halloween</tag>
-		<tag>scary</tag>
-		<tag>halloweenparty</tag>
-		<tag>halloweenpumpkin</tag>
-		<tag>spooky</tag>
-		<tag>candy</tag>
-		<tag>sweets</tag>
-	</tags>
 </item>

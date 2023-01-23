@@ -63,8 +63,9 @@ We are looking for a relentless team leader to manage our teams and provide effe
 - **Date:** 30/10/2022
 - **URL:** [https://phixel.net/en/jobs/team-manager/](https://phixel.net/en/jobs/team-manager/)
 - **Type:** [Job](#job)
+- **Hashtags:** #phixel #webdesigners #clients #ui #ux #videoeditors #webdevelopers #animation #webdesignstudio #design #workhard #designer #phixel #love #gui #animation #illustration #remotework #studio #motiongraphics #workfromanywhere #worksmart #3d #respet
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------
 ## Tags
-[phixel](#phixel), [webdesigners](#webdesigners), [clients](#clients), [ui](#ui), [ux](#ux), [videoeditors](#videoeditors), [webdevelopers](#webdevelopers), [animation](#animation), [webdesignstudio](#webdesignstudio), [design](#design), [workhard](#workhard), [designer](#designer), [phixel](#phixel), [love](#love), [gui](#gui), [animation](#animation), [illustration](#illustration), [remotework](#remotework), [studio](#studio), [motiongraphics](#motiongraphics), [workfromanywhere](#workfromanywhere), [worksmart](#worksmart), [3d](#3d), [respet](#respet)
+[ ](# )

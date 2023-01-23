@@ -38,8 +38,9 @@ Graphic design can be a helpful tool in managing anxiety and finding calm in dai
 - **Date:** 27/12/2022
 - **URL:** [https://phixel.net/en/activity/design/design-to-overcome-anxiety/](https://phixel.net/en/activity/design/design-to-overcome-anxiety/)
 - **Type:** [Blog](#blog)
+- **Hashtags:** #anxiety #calmingcolors #moodboard #mindfulness #nature #typography #whitespace #doodling #breaks #creativity #positiveaffirmations #relaxation #peace #calm
 - **Emojis:** 🎨 💆 ‍♀ 🌅 🌄 🌃 🌉 🌠 🌌
 
 ------------
 ## Tags
-[anxiety](#anxiety), [calmingcolors](#calmingcolors), [moodboard](#moodboard), [mindfulness](#mindfulness), [nature](#nature), [typography](#typography), [whitespace](#whitespace), [doodling](#doodling), [breaks](#breaks), [creativity](#creativity), [positiveaffirmations](#positiveaffirmations), [relaxation](#relaxation), [peace](#peace), [calm](#calm)
+[ ](# )

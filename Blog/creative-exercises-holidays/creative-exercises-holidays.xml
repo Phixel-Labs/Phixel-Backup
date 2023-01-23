@@ -23,21 +23,24 @@ By incorporating these creative exercises into your routine, you can stay inspir
 		<category>Blog</category>
 		<url>blog</url>
 		<emojis>🦌 🛷 🎅 🎄 💡 🎨 🖌 👩 💭 🧠 🏃 ‍♀ ♂️ 🧘 ‍♂</emojis>
+		<hashtags>
+			<hashtag>holidays</hashtag>
+			<hashtag>exercise</hashtag>
+			<hashtag>brainstorming</hashtag>
+			<hashtag>techniques</hashtag>
+			<hashtag>software</hashtag>
+			<hashtag>museum</hashtag>
+			<hashtag>art</hashtag>
+			<hashtag>collaboration</hashtag>
+			<hashtag>colorpalette</hashtag>
+			<hashtag>creativity</hashtag>
+			<hashtag>inspiration</hashtag>
+			<hashtag>productivity</hashtag>
+			<hashtag>skills</hashtag>
+			<hashtag>mindfulness</hashtag>
+		</hashtags>
+		<tags>
+			<tag> </tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>holidays</tag>
-		<tag>exercise</tag>
-		<tag>brainstorming</tag>
-		<tag>techniques</tag>
-		<tag>software</tag>
-		<tag>museum</tag>
-		<tag>art</tag>
-		<tag>collaboration</tag>
-		<tag>colorpalette</tag>
-		<tag>creativity</tag>
-		<tag>inspiration</tag>
-		<tag>productivity</tag>
-		<tag>skills</tag>
-		<tag>mindfulness</tag>
-	</tags>
 </item>

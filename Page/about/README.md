@@ -78,8 +78,9 @@ The only thing you need to know about us it that the goal is simple; Do exceptio
 - **Date:** 01/01/2020
 - **URL:** [https://phixel.net/en/about-us/](https://phixel.net/en/about-us/)
 - **Type:** [Page](#page)
+- **Hashtags:** #phixel #withlove #phixel #real #weare #sci-fi #retrofuturistic #exceptional #who #retrostyledesign #mission #secret #truth #futuristic #simple #retrofuturism #work #story #idea #industry #graphicdesigns #retro #vintage #foryou #creativestudio
 - **Emojis:** 🆒 👽 🎩 🌟 😱 🚀 ​​ 🌜 ☄️ 🌌 🦠 🔫 👨 🏿 💫 🤖 👾 📡 ⚡​ ​
 
 ------------
 ## Tags
-[phixel](#phixel), [withlove](#withlove), [phixel](#phixel), [real](#real), [weare](#weare), [sci-fi](#sci-fi), [retrofuturistic](#retrofuturistic), [exceptional](#exceptional), [who](#who), [retrostyledesign](#retrostyledesign), [mission](#mission), [secret](#secret), [truth](#truth), [futuristic](#futuristic), [simple](#simple), [retrofuturism](#retrofuturism), [work](#work), [story](#story), [idea](#idea), [industry](#industry), [graphicdesigns](#graphicdesigns), [retro](#retro), [vintage](#vintage), [foryou](#foryou), [creativestudio](#creativestudio)
+[About](#About), [Retro](#Retro), [Sci-fi](#Sci-fi), [Goals](#Goals), [Exceptional](#Exceptional), [Delight](#Delight), [Creative](#Creative), [Innovation](#Innovation), [Studio](#Studio), [Websites](#Websites)

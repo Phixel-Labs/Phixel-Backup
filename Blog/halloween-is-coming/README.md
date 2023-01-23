@@ -22,8 +22,9 @@ Halloween is coming, and that means it's time to get ready for spooky stories, c
 - **Date:** 29/10/2022
 - **URL:** [https://phixel.net/en/halloween-is-coming/](https://phixel.net/en/halloween-is-coming/)
 - **Type:** [Blog](#blog)
+- **Hashtags:** #halloween #scary #halloweenparty #halloweenpumpkin #spooky #candy #sweets
 - **Emojis:** 👹 🕷 🎃 🧙 🏚 🧚 ⚱️ 🕴 🍬 🧞 ⚡️ 😱 👾 🌩 🤡 ☠️ 🔮 🍫 🌕 👿 🦄
 
 ------------
 ## Tags
-[halloween](#halloween), [scary](#scary), [halloweenparty](#halloweenparty), [halloweenpumpkin](#halloweenpumpkin), [spooky](#spooky), [candy](#candy), [sweets](#sweets)
+[ ](# )

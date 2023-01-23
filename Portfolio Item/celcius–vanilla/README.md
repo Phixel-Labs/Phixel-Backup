@@ -12,18 +12,19 @@ Who does not like ice cream?
 
 The white snowy mountains that creates a delicious sweetness…
 ## Media
+<img src="media/5342e257/vanilla.gltf">
+<img src="media/de20938d/vanilla.jpg">
 <img src="media/d44ba06c/vanilla.png">
 <img src="media/2eca3fe9/vanilla.png">
-<img src="media/de20938d/vanilla.jpg">
-<img src="media/5342e257/vanilla.gltf">
 
 ------------
 - **ID:** PQ21
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)
+- **Hashtags:** #phixel #celcius #instacoffee #celsius #coffeelover #cafe #vanilla
 - **Emojis:** 🆒
 
 ------------
 ## Tags
-[phixel](#phixel), [celcius](#celcius), [instacoffee](#instacoffee), [celsius](#celsius), [coffeelover](#coffeelover), [cafe](#cafe), [vanilla](#vanilla)
+[Celcius](#Celcius), [Coffee](#Coffee)

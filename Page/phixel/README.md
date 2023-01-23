@@ -42,22 +42,23 @@ We are Phixel, a team of specialized designers and developers with experience in
 <img src="media/a5a04954/television-deep-in-the-clouds.mp4">
 <img src="media/6b25fa3d/vhs-player.mp4">
 <img src="media/60c32789/we-are-phixel-celcius-development-mp4-image.jpg">
-<img src="media/829b093a/tv.glb">
-<img src="media/6bbe2302/terrain.glb">
-<img src="media/93dca06f/t_rex.glb">
-<img src="media/6d6fc497/mountains_4.glb">
-<img src="media/1b63f4b1/mountains_3.glb">
-<img src="media/c20cbb54/mountains_2.glb">
-<img src="media/843b7486/mountains.glb">
 <img src="media/7d4c1aa9/logo.glb">
+<img src="media/c20cbb54/mountains_2.glb">
+<img src="media/1b63f4b1/mountains_3.glb">
+<img src="media/6d6fc497/mountains_4.glb">
+<img src="media/843b7486/mountains.glb">
+<img src="media/93dca06f/t_rex.glb">
+<img src="media/6bbe2302/terrain.glb">
+<img src="media/829b093a/tv.glb">
 
 ------------
 - **ID:** 2X2R
 - **Date:** 01/01/2020
 - **URL:** [https://phixel.net/](https://phixel.net/)
 - **Type:** [Page](#page)
+- **Hashtags:** #phixel #withlove #phixel #homepage #webdesigners #webdesignstudio #phixelstudio #design #designer #welcome #home #webdevelopers #videoeditors #studio #clients #ui #ux #gui #motiongraphics #animation #illustration #3d #animation #foryou #creativestudio
 - **Emojis:** 🆒 🌎 🌐 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
 
 ------------
 ## Tags
-[phixel](#phixel), [withlove](#withlove), [phixel](#phixel), [homepage](#homepage), [webdesigners](#webdesigners), [webdesignstudio](#webdesignstudio), [phixelstudio](#phixelstudio), [design](#design), [designer](#designer), [welcome](#welcome), [home](#home), [webdevelopers](#webdevelopers), [videoeditors](#videoeditors), [studio](#studio), [clients](#clients), [ui](#ui), [ux](#ux), [gui](#gui), [motiongraphics](#motiongraphics), [animation](#animation), [illustration](#illustration), [3d](#3d), [animation](#animation), [foryou](#foryou), [creativestudio](#creativestudio)
+[Phixel](#Phixel), [Team](#Team), [Designers](#Designers), [Developers](#Developers), [Experience](#Experience), [Personalized](#Personalized), [Unique](#Unique), [Digital](#Digital), [Solutions](#Solutions), [Help](#Help)

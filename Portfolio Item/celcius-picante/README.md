@@ -11,18 +11,19 @@ Hot & Heat Picante Like Salsa
 ## Description
 Came from the farthest corners of Mexico a thousand Years recipe that is now available to those fans that cannot to enjoy resist the spicy of a great “Salsa”.
 ## Media
+<img src="media/c6673b41/picante.gltf">
+<img src="media/90662d5f/picante.jpg">
 <img src="media/c9a7ea3c/picante.png">
 <img src="media/16a6d189/picante.png">
-<img src="media/90662d5f/picante.jpg">
-<img src="media/c6673b41/picante.gltf">
 
 ------------
 - **ID:** 2A5Z
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)
+- **Hashtags:** #phixel #celcius #instacoffee #celsius #coffeelover #cafe #picante
 - **Emojis:** 🆒 🥤
 
 ------------
 ## Tags
-[phixel](#phixel), [celcius](#celcius), [instacoffee](#instacoffee), [celsius](#celsius), [coffeelover](#coffeelover), [cafe](#cafe), [picante](#picante)
+[Salsa](#Salsa), [Mexican](#Mexican), [Spicy](#Spicy), [Picante](#Picante), [Flavor](#Flavor), [Heat](#Heat), [Hot](#Hot), [Familiar](#Familiar), [Traditional](#Traditional), [Recipe](#Recipe), [Celcius](#Celcius), [Coffee](#Coffee)

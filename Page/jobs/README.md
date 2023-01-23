@@ -15,8 +15,9 @@ We are always looking for talented and awesome people to work with us. and do so
 - **Date:** 01/01/2017
 - **URL:** [https://phixel.net/en/about-us/jobs/](https://phixel.net/en/about-us/jobs/)
 - **Type:** [Page](#page)
+- **Hashtags:** #phixel #withlove #webdesigners #clients #ui #ux #videoeditors #webdevelopers #animation #webdesignstudio #design #workhard #designer #phixel #love #gui #animation #illustration #remotework #studio #motiongraphics #workfromanywhere #worksmart #3d #respet #phixelstudio #foryou #creativestudio
 - **Emojis:** 🆒 💼 💪 🏼 💕 🎒 💖 📠 💸 💞 💟 💙 👨 👩 🏽 🎓 📈 🧰 💛 👷 ‍♂ ️❤ 🎯 💓 🤗 🤲 🔨 📐 ️‍ 🚩 🌳 ❣️ 🤝 🏅 🔧 👏 🔥 🌠 💯
 
 ------------
 ## Tags
-[phixel](#phixel), [withlove](#withlove), [webdesigners](#webdesigners), [clients](#clients), [ui](#ui), [ux](#ux), [videoeditors](#videoeditors), [webdevelopers](#webdevelopers), [animation](#animation), [webdesignstudio](#webdesignstudio), [design](#design), [workhard](#workhard), [designer](#designer), [phixel](#phixel), [love](#love), [gui](#gui), [animation](#animation), [illustration](#illustration), [remotework](#remotework), [studio](#studio), [motiongraphics](#motiongraphics), [workfromanywhere](#workfromanywhere), [worksmart](#worksmart), [3d](#3d), [respet](#respet), [phixelstudio](#phixelstudio), [foryou](#foryou), [creativestudio](#creativestudio)
+[Jobs](#Jobs), [Opportunities](#Opportunities), [Team](#Team), [Talented](#Talented), [Awesome](#Awesome), [Cool](#Cool)

@@ -31,21 +31,24 @@ We want to help you learn more about the world around you and make sure that you
 		<category>Portfolio Item</category>
 		<url>portfolio-item</url>
 		<emojis>🐒 🎙 🦧 🔊 🎶</emojis>
+		<hashtags>
+			<hashtag>phixel</hashtag>
+			<hashtag>monostereo</hashtag>
+			<hashtag>mono</hashtag>
+			<hashtag>stereo</hashtag>
+			<hashtag>podcast</hashtag>
+			<hashtag>podcastapp</hashtag>
+			<hashtag>radio</hashtag>
+			<hashtag>chimpanzee</hashtag>
+			<hashtag>podcastaddict</hashtag>
+			<hashtag>monkeybussines</hashtag>
+			<hashtag>gorilla</hashtag>
+			<hashtag>monkey</hashtag>
+			<hashtag>primate</hashtag>
+			<hashtag>chimp</hashtag>
+		</hashtags>
+		<tags>
+			<tag> </tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>phixel</tag>
-		<tag>monostereo</tag>
-		<tag>mono</tag>
-		<tag>stereo</tag>
-		<tag>podcast</tag>
-		<tag>podcastapp</tag>
-		<tag>radio</tag>
-		<tag>chimpanzee</tag>
-		<tag>podcastaddict</tag>
-		<tag>monkeybussines</tag>
-		<tag>gorilla</tag>
-		<tag>monkey</tag>
-		<tag>primate</tag>
-		<tag>chimp</tag>
-	</tags>
 </item>

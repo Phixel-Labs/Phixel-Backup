@@ -10,18 +10,19 @@ Sunny Wave of Tropical Flavors
 ## Description
 From the exotic Caribbean islands, we bring a wide variety of fruits which in themselves are impressive but with our exquisite secret combination creates an explosion of flavors that’s unmatched.
 ## Media
+<img src="media/350c8866/tropical.gltf">
+<img src="media/4e6f62de/tropical.jpg">
 <img src="media/fea760e6/tropical.png">
 <img src="media/072c6c2c/tropical.png">
-<img src="media/4e6f62de/tropical.jpg">
-<img src="media/350c8866/tropical.gltf">
 
 ------------
 - **ID:** RDRU
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)
+- **Hashtags:** #phixel #celcius #instacoffee #celsius #coffeelover #cafe #tropical
 - **Emojis:** 🆒
 
 ------------
 ## Tags
-[phixel](#phixel), [celcius](#celcius), [instacoffee](#instacoffee), [celsius](#celsius), [coffeelover](#coffeelover), [cafe](#cafe), [tropical](#tropical)
+[Celcius](#Celcius), [Coffee](#Coffee)

@@ -34,31 +34,34 @@ At this moment, Plisk follows the trail of the youngsters, entering a cold room�
 		<category>Blog</category>
 		<url>blog</url>
 		<emojis>🙀 🎃 📺 🧥 🕯 🔍 💀 🕙 🕸 ️​ ​​ 📼 ​⏮ ⏭️ ⏯️</emojis>
+		<hashtags>
+			<hashtag>halloween</hashtag>
+			<hashtag>scary</hashtag>
+			<hashtag>halloweenparty</hashtag>
+			<hashtag>halloweenpumpkin</hashtag>
+			<hashtag>spooky</hashtag>
+			<hashtag>candy</hashtag>
+			<hashtag>sweets</hashtag>
+			<hashtag>pumpkin</hashtag>
+			<hashtag>orangepumpkin</hashtag>
+			<hashtag>curse</hashtag>
+			<hashtag>legend</hashtag>
+			<hashtag>supernatural</hashtag>
+			<hashtag>disappearance</hashtag>
+			<hashtag>hunter</hashtag>
+			<hashtag>detective</hashtag>
+			<hashtag>horror</hashtag>
+			<hashtag>investigator</hashtag>
+			<hashtag>apocalypse</hashtag>
+			<hashtag>legends</hashtag>
+			<hashtag>privateinvestigator</hashtag>
+			<hashtag>vhs</hashtag>
+			<hashtag>vhsfixer</hashtag>
+			<hashtag>mystery</hashtag>
+			<hashtag>suspense</hashtag>
+		</hashtags>
+		<tags>
+			<tag> </tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>halloween</tag>
-		<tag>scary</tag>
-		<tag>halloweenparty</tag>
-		<tag>halloweenpumpkin</tag>
-		<tag>spooky</tag>
-		<tag>candy</tag>
-		<tag>sweets</tag>
-		<tag>pumpkin</tag>
-		<tag>orangepumpkin</tag>
-		<tag>curse</tag>
-		<tag>legend</tag>
-		<tag>supernatural</tag>
-		<tag>disappearance</tag>
-		<tag>hunter</tag>
-		<tag>detective</tag>
-		<tag>horror</tag>
-		<tag>investigator</tag>
-		<tag>apocalypse</tag>
-		<tag>legends</tag>
-		<tag>privateinvestigator</tag>
-		<tag>vhs</tag>
-		<tag>vhsfixer</tag>
-		<tag>mystery</tag>
-		<tag>suspense</tag>
-	</tags>
 </item>

@@ -10,18 +10,19 @@ Morning Coffee for All Days
 ## Description
 Like every morning, you cannot start the day without enjoying a good coffee.
 ## Media
+<img src="media/2830a7d0/coffee.gltf">
+<img src="media/88cc06ad/coffee.jpg">
 <img src="media/ee3c2260/coffee.png">
 <img src="media/e59ce74c/coffee.png">
-<img src="media/88cc06ad/coffee.jpg">
-<img src="media/2830a7d0/coffee.gltf">
 
 ------------
 - **ID:** FIPN
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)
+- **Hashtags:** #phixel #celcius #instacoffee #celsius #coffeelover #cafe
 - **Emojis:** 🆒
 
 ------------
 ## Tags
-[phixel](#phixel), [celcius](#celcius), [instacoffee](#instacoffee), [celsius](#celsius), [coffeelover](#coffeelover), [cafe](#cafe)
+[Celcius](#Celcius), [Coffee](#Coffee)

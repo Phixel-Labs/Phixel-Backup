@@ -19,8 +19,9 @@ With Celcius you can satisfy your need for Digital Coffee in the Morning, at Nig
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)
+- **Hashtags:** #phixel #celcius #instacoffee #celsius #coffeelover #cafe
 - **Emojis:** 🆒
 
 ------------
 ## Tags
-[phixel](#phixel), [celcius](#celcius), [instacoffee](#instacoffee), [celsius](#celsius), [coffeelover](#coffeelover), [cafe](#cafe)
+[Celcius](#Celcius), [Instant](#Instant), [Coffee](#Coffee), [Digital](#Digital), [Proactivity](#Proactivity), [Stress](#Stress), [Caffeine-Free](#Caffeine-Free), [All-Natural](#All-Natural), [Aromas](#Aromas)

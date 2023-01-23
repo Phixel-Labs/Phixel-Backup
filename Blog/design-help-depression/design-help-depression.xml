@@ -27,20 +27,23 @@ Graphic design can be a helpful tool in managing depression and improving your o
 		<category>Blog</category>
 		<url>blog</url>
 		<emojis>🖤 😔 💔 🥀 😭 😧 😞</emojis>
+		<hashtags>
+			<hashtag>graphicdesign</hashtag>
+			<hashtag>depression</hashtag>
+			<hashtag>selfcare</hashtag>
+			<hashtag>journaling</hashtag>
+			<hashtag>visionboard</hashtag>
+			<hashtag>photography</hashtag>
+			<hashtag>mindfulness</hashtag>
+			<hashtag>selfcareplan</hashtag>
+			<hashtag>creativity</hashtag>
+			<hashtag>gratitude</hashtag>
+			<hashtag>moodboard</hashtag>
+			<hashtag>affirmations</hashtag>
+			<hashtag>colortherapy</hashtag>
+		</hashtags>
+		<tags>
+			<tag> </tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>graphicdesign</tag>
-		<tag>depression</tag>
-		<tag>selfcare</tag>
-		<tag>journaling</tag>
-		<tag>visionboard</tag>
-		<tag>photography</tag>
-		<tag>mindfulness</tag>
-		<tag>selfcareplan</tag>
-		<tag>creativity</tag>
-		<tag>gratitude</tag>
-		<tag>moodboard</tag>
-		<tag>affirmations</tag>
-		<tag>colortherapy</tag>
-	</tags>
 </item>

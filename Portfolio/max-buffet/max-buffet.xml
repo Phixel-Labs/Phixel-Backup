@@ -27,18 +27,21 @@ Top-quality meats and poultry, sourced carefully to ensure your dog gets the bes
 		<category>Portfolio</category>
 		<url>portfolio</url>
 		<emojis>🐶 🐩 🐕 🦺</emojis>
+		<hashtags>
+			<hashtag>phixel</hashtag>
+			<hashtag>dogfood</hashtag>
+			<hashtag>doglovers</hashtag>
+			<hashtag>dog</hashtag>
+			<hashtag>pet</hashtag>
+			<hashtag>beef</hashtag>
+			<hashtag>meat</hashtag>
+			<hashtag>pork</hashtag>
+			<hashtag>chicken</hashtag>
+			<hashtag>repack</hashtag>
+			<hashtag>maxbuffet</hashtag>
+		</hashtags>
+		<tags>
+			<tag> </tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>phixel</tag>
-		<tag>dogfood</tag>
-		<tag>doglovers</tag>
-		<tag>dog</tag>
-		<tag>pet</tag>
-		<tag>beef</tag>
-		<tag>meat</tag>
-		<tag>pork</tag>
-		<tag>chicken</tag>
-		<tag>repack</tag>
-		<tag>maxbuffet</tag>
-	</tags>
 </item>

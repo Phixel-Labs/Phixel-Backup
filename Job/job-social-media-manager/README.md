@@ -63,8 +63,9 @@ We are looking for a talented Social media manager to administer our and pur cli
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/social-media-manager/](https://phixel.net/en/jobs/social-media-manager/)
 - **Type:** [Job](#job)
+- **Hashtags:** #phixel #webdesigners #clients #ui #ux #videoeditors #webdevelopers #animation #webdesignstudio #design #workhard #designer #phixel #love #gui #animation #illustration #remotework #studio #motiongraphics #workfromanywhere #worksmart #3d #respet
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------
 ## Tags
-[phixel](#phixel), [webdesigners](#webdesigners), [clients](#clients), [ui](#ui), [ux](#ux), [videoeditors](#videoeditors), [webdevelopers](#webdevelopers), [animation](#animation), [webdesignstudio](#webdesignstudio), [design](#design), [workhard](#workhard), [designer](#designer), [phixel](#phixel), [love](#love), [gui](#gui), [animation](#animation), [illustration](#illustration), [remotework](#remotework), [studio](#studio), [motiongraphics](#motiongraphics), [workfromanywhere](#workfromanywhere), [worksmart](#worksmart), [3d](#3d), [respet](#respet)
+[Social Media](#Social Media), [Manager](#Manager), [Marketing](#Marketing), [Communications](#Communications), [Content](#Content), [Research](#Research), [Design](#Design), [Implement](#Implement), [Goals](#Goals), [Traffic](#Traffic), [SEO](#SEO), [Followers](#Followers), [Engagement](#Engagement), [Creativity](#Creativity), [Web](#Web), [Trends](#Trends), [Job](#Job)

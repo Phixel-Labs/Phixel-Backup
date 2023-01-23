@@ -18,12 +18,12 @@ Celcius coffee is 15+ uniquely generated bottles.
 		<url>media/cfd24a62/celcius-honey.jpg</url>
 		<url>media/ec9841eb/celcius-morning-cut.jpg</url>
 		<url>media/3f7aaecf/celcius-morning.jpg</url>
+		<url>media/4c264249/bottle-splash.bin</url>
+		<url>media/6d067d19/bottle.bin</url>
 		<url>media/0ac38715/all.jpg</url>
 		<url>media/7bd3a6aa/amaretto.jpg</url>
 		<url>media/f713f605/loading.webp</url>
 		<url>media/8f5d4105/presentation.mp4</url>
-		<url>media/4c264249/bottle-splash.bin</url>
-		<url>media/6d067d19/bottle.bin</url>
 	</media>
 	<info>
 		<id>4911</id>
@@ -32,26 +32,39 @@ Celcius coffee is 15+ uniquely generated bottles.
 		<category>Portfolio</category>
 		<url>portfolio</url>
 		<emojis>🆒</emojis>
+		<hashtags>
+			<hashtag>phixel</hashtag>
+			<hashtag>celcius</hashtag>
+			<hashtag>instacoffee</hashtag>
+			<hashtag>celsius</hashtag>
+			<hashtag>coffeelover</hashtag>
+			<hashtag>cafe</hashtag>
+			<hashtag>tropical</hashtag>
+			<hashtag>chocolate</hashtag>
+			<hashtag>vanilla</hashtag>
+			<hashtag>mint</hashtag>
+			<hashtag>mojito</hashtag>
+			<hashtag>picante</hashtag>
+			<hashtag>cinnamon</hashtag>
+			<hashtag>apple</hashtag>
+			<hashtag>berries</hashtag>
+			<hashtag>honey</hashtag>
+			<hashtag>picante</hashtag>
+			<hashtag>greentea</hashtag>
+			<hashtag>foryou</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Celcius</tag>
+			<tag> Coffee</tag>
+			<tag> Unique</tag>
+			<tag> Blend</tag>
+			<tag> Aroma</tag>
+			<tag> Natural</tag>
+			<tag> Essential oils</tag>
+			<tag> Packaging</tag>
+			<tag> Branding</tag>
+			<tag> Website</tag>
+			<tag> Original</tag>
+		</tags>
 	</info>
-	<tags>
-		<tag>phixel</tag>
-		<tag>celcius</tag>
-		<tag>instacoffee</tag>
-		<tag>celsius</tag>
-		<tag>coffeelover</tag>
-		<tag>cafe</tag>
-		<tag>tropical</tag>
-		<tag>chocolate</tag>
-		<tag>vanilla</tag>
-		<tag>mint</tag>
-		<tag>mojito</tag>
-		<tag>picante</tag>
-		<tag>cinnamon</tag>
-		<tag>apple</tag>
-		<tag>berries</tag>
-		<tag>honey</tag>
-		<tag>picante</tag>
-		<tag>greentea</tag>
-		<tag>foryou</tag>
-	</tags>
 </item>
