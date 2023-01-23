@@ -10,8 +10,10 @@ Marvelous & Breathtaking Mojito
 ## Description
 Take your love of cocktails and show it off with this traditional Cuban highball.
 ## Media
-<img src="media/52898335/mojito.webp">
-<img src="media/be484e63/mojito.webp">
+<img src="media/10c81577/mojito.png">
+<img src="media/39af3b02/mojito.png">
+<img src="media/0d4f1289/mojito.jpg">
+<img src="media/e4126fe9/mojito.gltf">
 
 ------------
 - **ID:** 12PV

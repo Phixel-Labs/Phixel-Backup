@@ -22,10 +22,10 @@ As soon as someone sees the Pumpkin, they have 3 before an unfortunate supernatu
 ## Description
 A private detective named Plisk investigates the disappearance of a young man named Hunter and his sister. While investigating, he discovers a legend about an orange pumpkin with a supernatural curse.
 ## Media
-<img src="media/f1474f9e/pumpkin-hunters-cover.jpg">
 <img src="media/b91521b8/pumpkin-hunters-brother-sister.jpg">
-<img src="media/361b776e/pumpkin-hunters-news.jpg">
+<img src="media/f1474f9e/pumpkin-hunters-cover.jpg">
 <img src="media/aeeecb91/pumpkin-hunters-detective.jpg">
+<img src="media/361b776e/pumpkin-hunters-news.jpg">
 <img src="media/cc404681/the-pumpkin-hunters-curse.mp3">
 
 ------------

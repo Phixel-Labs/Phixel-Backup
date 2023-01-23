@@ -14,13 +14,13 @@ A place where you can find podcasts on all kinds of topics, from science to phil
 
 We want to help you learn more about the world around you and make sure that you don’t miss out on anything interesting.
 ## Media
+<img src="media/04d58242/monostereo-logo.png">
 <img src="media/714efd62/monostereo-mockup-01.jpg">
 <img src="media/0bb155d2/monostereo-mockup-02.jpg">
 <img src="media/27a0a715/monostereo-mockup-03.jpg">
 <img src="media/f0298ecb/monostereo-mockup-04.jpg">
 <img src="media/ce68ce3a/monostereo.jpg">
 <img src="media/d6733980/monostereo.mp4">
-<img src="media/04d58242/monostereo-logo.png">
 
 ------------
 - **ID:** 6225

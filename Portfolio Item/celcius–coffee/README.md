@@ -10,8 +10,10 @@ Morning Coffee for All Days
 ## Description
 Like every morning, you cannot start the day without enjoying a good coffee.
 ## Media
-<img src="media/5c64fe85/coffee.webp">
-<img src="media/cb258a4a/coffee.webp">
+<img src="media/ee3c2260/coffee.png">
+<img src="media/e59ce74c/coffee.png">
+<img src="media/88cc06ad/coffee.jpg">
+<img src="media/2830a7d0/coffee.gltf">
 
 ------------
 - **ID:** FIPN

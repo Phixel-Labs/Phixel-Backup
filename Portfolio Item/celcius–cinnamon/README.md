@@ -11,8 +11,10 @@ Tender & Lovely Cinnamon
 ## Description
 The ideal cereal for a cozy home-style breakfast or brunch.
 ## Media
-<img src="media/d571beec/cinnamon.webp">
-<img src="media/988d73a6/cinnamon.webp">
+<img src="media/ebc70d3a/cinnamon.png">
+<img src="media/587dc79a/cinnamon.png">
+<img src="media/30313968/cinnamon.jpg">
+<img src="media/cecabd93/cinnamon.gltf">
 
 ------------
 - **ID:** S2LP

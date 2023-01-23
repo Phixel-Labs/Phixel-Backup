@@ -12,8 +12,10 @@ Who does not like ice cream?
 
 The white snowy mountains that creates a delicious sweetness…
 ## Media
-<img src="media/f3c1f91d/vanilla.webp">
-<img src="media/ed7ea311/vanilla.webp">
+<img src="media/d44ba06c/vanilla.png">
+<img src="media/2eca3fe9/vanilla.png">
+<img src="media/de20938d/vanilla.jpg">
+<img src="media/5342e257/vanilla.gltf">
 
 ------------
 - **ID:** PQ21

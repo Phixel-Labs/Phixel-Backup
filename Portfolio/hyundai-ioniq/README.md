@@ -14,13 +14,13 @@ In this case study, you&#039;ll learn more about the design process that went in
 ## Media
 <img src="media/808853fd/hyundai-ioniq-5-blender-visualstudio.jpg">
 <img src="media/6f848b38/hyundai-ioniq-5-cover.jpg">
+<img src="media/7af94aaa/hyundai-ioniq-5-desktop-mobile-1.mp4">
 <img src="media/74d20c68/hyundai-ioniq-5-mobile-2.jpg">
 <img src="media/529d201a/hyundai-ioniq-5-mobile.jpg">
 <img src="media/de447bad/hyundai-ioniq-5-tablet-2.jpg">
 <img src="media/44b99514/hyundai-ioniq-5-tablet.jpg">
 <img src="media/19636d6b/hyundai-ioniq-5-video-mobile.jpg">
 <img src="media/051fa10f/hyundai-ioniq-5-video.jpg">
-<img src="media/7af94aaa/hyundai-ioniq-5-desktop-mobile-1.mp4">
 
 ------------
 - **ID:** 6IRK

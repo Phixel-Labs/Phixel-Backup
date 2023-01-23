@@ -10,8 +10,10 @@ Spicy Coolness Amaretto
 ## Description
 Almonds born of this unique and sophisticated flavor that is capable of leading the simple to the biggest feast of flavors.
 ## Media
-<img src="media/6ceb5d2b/amaretto.webp">
-<img src="media/6217ba77/amaretto.webp">
+<img src="media/52dbea00/amaretto.png">
+<img src="media/6e777cf4/amaretto.png">
+<img src="media/214578c8/amaretto.jpg">
+<img src="media/d9bca570/amaretto.gltf">
 
 ------------
 - **ID:** 52LH

@@ -10,8 +10,10 @@ Sensual Apple for Lovers
 ## Description
 With it's round and red appearance is capable of generating an pleasure that can only be reached to with its delightful sweetness.
 ## Media
-<img src="media/3d870c99/apple.webp">
-<img src="media/827fde9f/apple.webp">
+<img src="media/931d3071/apple.png">
+<img src="media/881d5afc/apple.png">
+<img src="media/edc32123/apple.jpg">
+<img src="media/4057ab05/apple.gltf">
 
 ------------
 - **ID:** 1P5V
