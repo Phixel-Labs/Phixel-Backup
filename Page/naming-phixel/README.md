@@ -8,8 +8,8 @@ The interesting meaning of the name Phixel
 ## Description
 The name Phixel is beautiful, elegant and unique, we love it and we take it to heart. Learn what it took to get there!
 ## Media
-<img src="media/be339840/the-name-x.jpg">
-<img src="media/3b11003d/the-name.jpg">
+<img src="media/761742dd/the-name-x.jpg">
+<img src="media/b96c451e/the-name.jpg">
 
 ------------
 - **Slug:** naming-phixel

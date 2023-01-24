@@ -50,7 +50,7 @@ We are looking for an marvelous Photographer
 ## Description
 We are looking for a passionate Photographer to capture moments on film and to use images to tell a story.
 ## Media
-<img src="media/cc139c8d/job-photographer.jpg">
+<img src="media/36664396/job-photographer.jpg">
 
 ------------
 - **Slug:** job-photographer

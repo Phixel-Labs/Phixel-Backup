@@ -12,7 +12,7 @@ Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
 ## Description
 We love to think outside the box and "fix" things
 ## Media
-<img src="media/e3f44322/the-name-screen.jpg">
+<img src="media/893a3792/the-name-screen.jpg">
 
 ------------
 - **Slug:** naming-phixel-fix

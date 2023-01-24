@@ -56,7 +56,7 @@ We are looking for a sagacious Team Manager
 ## Description
 We are looking for a relentless team leader to manage our teams and provide effective guidance.
 ## Media
-<img src="media/467767f8/job-team-manager.jpg">
+<img src="media/13f61f7f/job-team-manager.jpg">
 
 ------------
 - **Slug:** job-team-manager

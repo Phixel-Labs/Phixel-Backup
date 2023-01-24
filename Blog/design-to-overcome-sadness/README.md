@@ -19,7 +19,7 @@ If you're looking for more ways to use graphic design to manage sadness, be sure
 ## Description
 Graphic design can be a powerful tool in managing sadness and improving mental well-being. From creating a vision board and practicing gratitude, to getting creative and using positive affirmations, there are many ways to incorporate design techniques into your routine to help overcome sadness. Other helpful techniques include using photography, making a mood board, experimenting with color, practicing mindfulness, and journaling. By incorporating some of these techniques into your daily routine, you can find relief from negative emotions and improve your overall well-being.
 ## Media
-<img src="media/e019cb64/design-to-overcome-sadness.jpg">
+<img src="media/9c418f4c/design-to-overcome-sadness.jpg">
 
 ------------
 - **Slug:** design-to-overcome-sadness

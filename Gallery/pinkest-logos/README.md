@@ -17,16 +17,16 @@ Here’s a collection of our favorite pink logos.
 
 In this Second volume, we have collected our pinkest logos.
 ## Media
-<img src="media/8d88c148/pink-logo-boom.jpg">
-<img src="media/faf7251f/pink-logo-brain.jpg">
-<img src="media/5ddeef43/pink-logo-buterfly-leaf.jpg">
-<img src="media/12634379/pink-logo-cookie.jpg">
-<img src="media/b881f92a/pink-logo-cool-girl.jpg">
-<img src="media/684153db/pink-logo-flamingo.jpg">
-<img src="media/dddf10ae/pink-logo-gun.jpg">
-<img src="media/20855e7f/pink-logo-hemet-girl.jpg">
-<img src="media/50262297/pink-logo-prr-girl.jpg">
-<img src="media/83361226/pink-logo-unicorn.jpg">
+<img src="media/9ffeff3a/pink-logo-boom.jpg">
+<img src="media/1fcca5e2/pink-logo-brain.jpg">
+<img src="media/b6817290/pink-logo-buterfly-leaf.jpg">
+<img src="media/f7f1400f/pink-logo-cookie.jpg">
+<img src="media/05e4242e/pink-logo-cool-girl.jpg">
+<img src="media/8178c21c/pink-logo-flamingo.jpg">
+<img src="media/b625043d/pink-logo-gun.jpg">
+<img src="media/e4a65732/pink-logo-hemet-girl.jpg">
+<img src="media/1c133b03/pink-logo-prr-girl.jpg">
+<img src="media/7ba33225/pink-logo-unicorn.jpg">
 
 ------------
 - **Slug:** pinkest-logos

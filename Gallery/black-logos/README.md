@@ -15,14 +15,14 @@ Welcome to the first installment of our new series on our logos.
 
 We like to brag about our ability to design amazing things, check out some awesome and beautiful black logos we’ve created!
 ## Media
-<img src="media/75b8e52e/black-logo-001.jpg">
-<img src="media/d737d7ee/black-logo-003.jpg">
-<img src="media/327fb539/black-logo-004.jpg">
-<img src="media/0d284d8b/black-logo-005.jpg">
-<img src="media/1c774fbd/black-logo-006.jpg">
-<img src="media/35804932/black-logo-007.jpg">
-<img src="media/af91de73/black-logo-008.jpg">
-<img src="media/9f4a798c/black-logo-009.jpg">
+<img src="media/8db6e988/black-logo-001.jpg">
+<img src="media/761059f5/black-logo-003.jpg">
+<img src="media/85fe1f3b/black-logo-004.jpg">
+<img src="media/86185cd8/black-logo-005.jpg">
+<img src="media/0f0f0192/black-logo-006.jpg">
+<img src="media/02037d05/black-logo-007.jpg">
+<img src="media/1ad4a19a/black-logo-008.jpg">
+<img src="media/fa05fd04/black-logo-009.jpg">
 
 ------------
 - **Slug:** black-logos

@@ -47,7 +47,7 @@ We are looking for an polite Promoter
 ## Description
 We are looking for a pleasant and competitive Promoter that thrives in attracting new customers.
 ## Media
-<img src="media/d6349daa/job-promoter.jpg">
+<img src="media/3c2c825b/job-promoter.jpg">
 
 ------------
 - **Slug:** job-promoter

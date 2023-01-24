@@ -55,7 +55,7 @@ We are looking for an amazing Content Marketing Manager
 ## Description
 We are looking for a talented Content marketing manager to take responsibility of our inbound marketing strategies including social media, blogs and lead generation.
 ## Media
-<img src="media/3f6aba2a/job-content-marketing.jpg">
+<img src="media/490ca7f5/job-content-marketing.jpg">
 
 ------------
 - **Slug:** job-content-marketing

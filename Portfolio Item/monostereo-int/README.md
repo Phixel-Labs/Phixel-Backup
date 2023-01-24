@@ -14,16 +14,16 @@ A place where you can find podcasts on all kinds of topics, from science to phil
 
 We want to help you learn more about the world around you and make sure that you don’t miss out on anything interesting.
 ## Media
-<img src="media/b1ba92b8/monostereo-podcast-01.jpg">
-<img src="media/483e7e57/monostereo-podcast-02.jpg">
-<img src="media/e4c4cfe0/monostereo-podcast-03.jpg">
-<img src="media/3cd457e0/monostereo-podcast-04.jpg">
-<img src="media/a3970f4c/monostereo-podcast-05.jpg">
-<img src="media/b786d166/monostereo-podcast-06.jpg">
-<img src="media/8db4f551/monostereo-podcast-07.jpg">
-<img src="media/5d003700/monostereo-podcast-08.jpg">
-<img src="media/8c5c5829/monostereo-podcast-09.jpg">
-<img src="media/b3366b97/monostereo-podcast-10.jpg">
+<img src="media/e36136bb/monostereo-podcast-01.jpg">
+<img src="media/85ad104d/monostereo-podcast-02.jpg">
+<img src="media/f1ad3066/monostereo-podcast-03.jpg">
+<img src="media/434a518d/monostereo-podcast-04.jpg">
+<img src="media/f27293e6/monostereo-podcast-05.jpg">
+<img src="media/39e34121/monostereo-podcast-06.jpg">
+<img src="media/b8988f0a/monostereo-podcast-07.jpg">
+<img src="media/49f36394/monostereo-podcast-08.jpg">
+<img src="media/e905970a/monostereo-podcast-09.jpg">
+<img src="media/990363f4/monostereo-podcast-10.jpg">
 
 ------------
 - **Slug:** monostereo-int

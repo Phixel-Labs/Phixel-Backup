@@ -16,7 +16,7 @@ Lamentamos informarles que nuestro blog en español no se actualizará de manera
 ## Description
 Lamentamos informarles que nuestro blog en español ya no será actualizado, debido a la popularidad del blog en inglés. Agradecemos a nuestros seguidores y pedimos disculpas por cualquier inconveniente causado. A pesar de esta decisión difícil, esperamos seguir ofreciendo contenido valioso en inglés en el futuro.
 ## Media
-<img src="media/c1971a57/no-blog.jpg">
+<img src="media/a89ef371/no-blog.jpg">
 
 ------------
 - **Slug:** goodbye-blog-in-spanish

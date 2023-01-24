@@ -33,7 +33,7 @@ We're here to help you bring your idea to life
 ## Description
 Do you have a product to reveal to the world? Contact us and we here will help you bring your idea to life.
 ## Media
-<img src="media/65b0d840/contact-background.png">
+<img src="media/0f28de38/contact-background.png">
 
 ------------
 - **Slug:** contact

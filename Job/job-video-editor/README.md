@@ -47,7 +47,7 @@ We are looking for an astounding Video Editor
 ## Description
 We are looking for a talented Video Editor to assemble recorded footage into a finished project that matches our vision and is suitable for broadcasting.
 ## Media
-<img src="media/3a661af5/job-video-editor.jpg">
+<img src="media/d67d4b0a/job-video-editor.jpg">
 
 ------------
 - **Slug:** job-video-editor

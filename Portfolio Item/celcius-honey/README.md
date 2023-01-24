@@ -12,10 +12,10 @@ The Royal Honey is perfect for when you want a little extra sweetness boost in y
 
 We've cut down on sugar, but not on deliciousness!
 ## Media
-<img src="media/903f8ebb/honey.gltf">
-<img src="media/3fc651b7/honey.jpg">
-<img src="media/e0c33fb9/honey.png">
-<img src="media/f1c2c444/honey.png">
+<img src="media/ffd4a2b5/honey.gltf">
+<img src="media/c82be806/honey.jpg">
+<img src="media/970d2278/honey.png">
+<img src="media/17e567c5/honey.png">
 
 ------------
 - **Slug:** celcius-honey

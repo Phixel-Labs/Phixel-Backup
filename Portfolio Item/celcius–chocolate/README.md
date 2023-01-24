@@ -13,10 +13,10 @@ Elegance Chocolate Kingdom
 The pure chocolate flavor and smooth texture of this will leave you satisfied.
 ## “Our chocolate is not fattening”
 ## Media
-<img src="media/73877036/chocolate.gltf">
-<img src="media/72dd252c/chocolate.jpg">
-<img src="media/13ac3a31/chocolate.png">
-<img src="media/69167005/chocolate.png">
+<img src="media/bf6cae3f/chocolate.gltf">
+<img src="media/f24e873c/chocolate.jpg">
+<img src="media/1fa1cf49/chocolate.png">
+<img src="media/f4dc65fd/chocolate.png">
 
 ------------
 - **Slug:** celcius–chocolate

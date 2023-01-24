@@ -44,7 +44,7 @@ We are looking for an alluring 3D Animator
 ## Description
 We are looking for a 3D Animator to join our team and assist us with designing and developing video games, interactive content and motion videos for our customers.
 ## Media
-<img src="media/5b621c62/job-3d-animator.jpg">
+<img src="media/ff2b6a04/job-3d-animator.jpg">
 
 ------------
 - **Slug:** job-3d-animator

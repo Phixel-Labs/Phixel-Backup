@@ -14,8 +14,8 @@ Halloween is just around the corner, and that means two things: candy and scary 
 ## Description
 Halloween is coming, and that means it's time to get ready for spooky stories, costumes, and candy. We're excited to celebrate the holiday and enjoy all the fun it has to offer.
 ## Media
-<img src="media/c1c6af98/blog-halloween-is-coming.jpg">
-<img src="media/955587e6/blog-what-is-your-emoji-this-halloween.jpg">
+<img src="media/2c50d484/blog-halloween-is-coming.jpg">
+<img src="media/9761c8f5/blog-what-is-your-emoji-this-halloween.jpg">
 
 ------------
 - **Slug:** halloween-is-coming

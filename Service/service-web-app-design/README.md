@@ -10,7 +10,7 @@ In Phixel we design web apps that are easy to use and look great.
 ## Description
 We focus on creating fluid user experiences that make your customers happy.
 ## Media
-<img src="media/6dfff947/services-web-app-design.jpg">
+<img src="media/a8632bc5/services-web-app-design.jpg">
 
 ------------
 - **Slug:** service-web-app-design

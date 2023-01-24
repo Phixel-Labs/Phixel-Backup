@@ -13,18 +13,18 @@ Really Instant Coffee
 ## Description
 Celcius coffee is 15+ uniquely generated bottles. No two are exactly alike. No two are exactly alike.
 ## Media
-<img src="media/55fc1a70/celcius-bar-cut.jpg">
-<img src="media/80c68221/celcius-bar.jpg">
-<img src="media/598748d7/celcius-beach.jpg">
-<img src="media/cfd24a62/celcius-honey.jpg">
-<img src="media/ec9841eb/celcius-morning-cut.jpg">
-<img src="media/3f7aaecf/celcius-morning.jpg">
-<img src="media/4c264249/bottle-splash.bin">
-<img src="media/6d067d19/bottle.bin">
-<img src="media/0ac38715/all.jpg">
-<img src="media/7bd3a6aa/amaretto.jpg">
-<img src="media/f713f605/loading.webp">
-<img src="media/8f5d4105/presentation.mp4">
+<img src="media/51e8a9e8/celcius-bar-cut.jpg">
+<img src="media/96e90ad5/celcius-bar.jpg">
+<img src="media/fe5ca1ee/celcius-beach.jpg">
+<img src="media/46e6ca5c/celcius-honey.jpg">
+<img src="media/fb299afb/celcius-morning-cut.jpg">
+<img src="media/b55b3780/celcius-morning.jpg">
+<img src="media/a3345082/bottle-splash.bin">
+<img src="media/e7744bd6/bottle.bin">
+<img src="media/6f2adee2/all.jpg">
+<img src="media/a4b4d0ba/amaretto.jpg">
+<img src="media/de6eb353/loading.webp">
+<img src="media/7829be52/presentation.mp4">
 
 ------------
 - **Slug:** celcius

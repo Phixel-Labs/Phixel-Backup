@@ -19,7 +19,7 @@ If you're interested in exploring the potential benefits of graphic design for m
 ## Description
 Graphic design techniques, such as journaling, creating a vision board, using photography, practicing mindfulness, and experimenting with color, can be helpful in managing depression and improving overall well-being.
 ## Media
-<img src="media/9cba05db/design-help-overcome-depression.jpg">
+<img src="media/24f85297/design-help-overcome-depression.jpg">
 
 ------------
 - **Slug:** design-help-depression

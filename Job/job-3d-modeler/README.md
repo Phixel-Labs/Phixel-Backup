@@ -50,7 +50,7 @@ We are looking for an stupendous 3D Modeler
 ## Description
 We are looking for a 3D Modeler to work on various products we develop for our customers.
 ## Media
-<img src="media/38daf13c/job-3d-modeler.jpg">
+<img src="media/63372c97/job-3d-modeler.jpg">
 
 ------------
 - **Slug:** job-3d-modeler

@@ -4,13 +4,13 @@
     "excerpt": "The podcast platform for primates",
     "description": "A place where you can find podcasts on all kinds of topics, from science to philosophy to politics and everything in between!\n\nWe want to help you learn more about the world around you and make sure that you don\u2019t miss out on anything interesting.",
     "media": [
-        "https:\/\/phixel.net\/media\/MonoStereo-Logo.png",
-        "https:\/\/phixel.net\/media\/MonoStereo-Mockup-01.jpg",
-        "https:\/\/phixel.net\/media\/MonoStereo-Mockup-02.jpg",
-        "https:\/\/phixel.net\/media\/MonoStereo-Mockup-03.jpg",
-        "https:\/\/phixel.net\/media\/MonoStereo-Mockup-04.jpg",
-        "https:\/\/phixel.net\/media\/MonoStereo.jpg",
-        "https:\/\/phixel.net\/media\/MonoStereo.mp4"
+        "https:\/\/phixel.net\/wp-content\/uploads\/MonoStereo-Logo.png",
+        "https:\/\/phixel.net\/wp-content\/uploads\/MonoStereo-Mockup-01.jpg",
+        "https:\/\/phixel.net\/wp-content\/uploads\/MonoStereo-Mockup-02.jpg",
+        "https:\/\/phixel.net\/wp-content\/uploads\/MonoStereo-Mockup-03.jpg",
+        "https:\/\/phixel.net\/wp-content\/uploads\/MonoStereo-Mockup-04.jpg",
+        "https:\/\/phixel.net\/wp-content\/uploads\/MonoStereo.jpg",
+        "https:\/\/phixel.net\/wp-content\/uploads\/MonoStereo.mp4"
     ],
     "info": {
         "slug": "monostereo",

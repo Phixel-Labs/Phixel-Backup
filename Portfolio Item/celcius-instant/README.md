@@ -11,8 +11,8 @@ Really Instant Coffee
 ## Description
 With Celcius you can satisfy your need for Digital Coffee in the Morning, at Night, or at any time of the day, a great way to start or continue your proactivity.
 ## Media
-<img src="media/972e11e4/celcius.png">
-<img src="media/2e17d12e/celcius.png">
+<img src="media/5daad8ca/celcius.png">
+<img src="media/f42304d3/celcius.png">
 
 ------------
 - **Slug:** celcius-instant

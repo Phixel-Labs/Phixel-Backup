@@ -8,20 +8,20 @@ Graphic design featuring tiny isometric rooms with a splash of color.
 ## Description
 Featuring graphic designs of small, colorful, isometric rooms. These designs showcase the aesthetic appeal of isometric design and can serve as inspiration for home design projects or simply be enjoyed for their artistic value.
 ## Media
-<img src="media/8c8638b2/tiny-space-bathroom.jpg">
-<img src="media/2ee68c2f/tiny-space-bedroom.jpg">
-<img src="media/577836e4/tiny-space-dining-room.jpg">
-<img src="media/ba63aa1d/tiny-space-hall.jpg">
-<img src="media/dc671033/tiny-space-hallway.jpg">
-<img src="media/4b23bea8/tiny-space-kids-bedroom.jpg">
-<img src="media/26a40b44/tiny-space-kitchen.jpg">
-<img src="media/6009791a/tiny-space-laundry.jpg">
-<img src="media/31abfa22/tiny-space-library.jpg">
-<img src="media/5460a33e/tiny-space-living-room.jpg">
-<img src="media/9c1860d7/tiny-space-lobby.jpg">
-<img src="media/0b9e7a4f/tiny-space-porch.jpg">
-<img src="media/3545b2d6/tiny-space-storage.jpg">
-<img src="media/1f6a5cea/tiny-space-study.jpg">
+<img src="media/67320b85/tiny-space-bathroom.jpg">
+<img src="media/60ecf31c/tiny-space-bedroom.jpg">
+<img src="media/1287cc89/tiny-space-dining-room.jpg">
+<img src="media/62358848/tiny-space-hall.jpg">
+<img src="media/59f0ac10/tiny-space-hallway.jpg">
+<img src="media/bd082064/tiny-space-kids-bedroom.jpg">
+<img src="media/e4dd0a7f/tiny-space-kitchen.jpg">
+<img src="media/a6db3a75/tiny-space-laundry.jpg">
+<img src="media/30a42884/tiny-space-library.jpg">
+<img src="media/8ed7181d/tiny-space-living-room.jpg">
+<img src="media/04953aff/tiny-space-lobby.jpg">
+<img src="media/f8b39a01/tiny-space-porch.jpg">
+<img src="media/f430a76c/tiny-space-storage.jpg">
+<img src="media/23a8b87e/tiny-space-study.jpg">
 
 ------------
 - **Slug:** tiny-spaces

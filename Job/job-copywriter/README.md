@@ -54,7 +54,7 @@ We are looking for an elegant Copywriter
 ## Description
 We are looking for a creative Copywriter to write clear and concise copy for ads, publications and websites. Your words will inform and engage target audiences.
 ## Media
-<img src="media/767d5726/job-copywriter.jpg">
+<img src="media/ffde38bd/job-copywriter.jpg">
 
 ------------
 - **Slug:** job-copywriter
