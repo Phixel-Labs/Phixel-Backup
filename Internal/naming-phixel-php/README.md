@@ -15,7 +15,7 @@ The most used code in the world
 - **Date:** 06/11/2022
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Internal](#internal)
-- **Hashtags:** #phixel #pixel #PHP #phoenix #fenix #phix #fix #x #phi
+- **Hashtags:** #phixel, #pixel, #PHP, #phoenix, #fenix, #phix, #fix, #x, #phi
 - **Emojis:** 🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
 
 ------------

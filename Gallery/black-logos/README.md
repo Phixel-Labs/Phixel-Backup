@@ -29,7 +29,7 @@ We like to brag about our ability to design amazing things, check out some aweso
 - **Date:** 03/12/2022
 - **URL:** [https://phixel.net/en/gallery/black-logos/](https://phixel.net/en/gallery/black-logos/)
 - **Type:** [Gallery](#gallery)
-- **Hashtags:** #phixel #logo #blacklogos #logos #onyx #ink #blacklogo #logoscollection #darken #pitchblack #logodesign #jetblack #logocreative #dark #logocreator #logoinspiration #noire
+- **Hashtags:** #phixel, #logo, #blacklogos, #logos, #onyx, #ink, #blacklogo, #logoscollection, #darken, #pitchblack, #logodesign, #jetblack, #logocreative, #dark, #logocreator, #logoinspiration, #noire
 - **Emojis:** 🖤 ▪️ 🦳 ◼️
 
 ------------

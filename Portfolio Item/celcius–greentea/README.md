@@ -18,7 +18,7 @@ From an ancient hidden village, a healthy ancestral recipe full of antioxidants 
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)
-- **Hashtags:** #phixel #celcius #instacoffee #celsius #coffeelover #cafe #greentea
+- **Hashtags:** #phixel, #celcius, #instacoffee, #celsius, #coffeelover, #cafe, #greentea
 - **Emojis:** 🆒
 
 ------------

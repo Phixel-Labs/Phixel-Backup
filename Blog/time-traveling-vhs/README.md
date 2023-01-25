@@ -20,7 +20,7 @@ A team of workers at a company called Phixel discover an old VHS player with a t
 - **Date:** 31/12/2022
 - **URL:** [https://phixel.net/en/story/time-traveling-vhs/](https://phixel.net/en/story/time-traveling-vhs/)
 - **Type:** [Blog](#blog)
-- **Hashtags:** #timetravel #newyears #vhs #adventure #newyearsadventure #timecapsule #timemachine #retro #throwback #timetraveler #newyearscelebration
+- **Hashtags:** #timetravel, #newyears, #vhs, #adventure, #newyearsadventure, #timecapsule, #timemachine, #retro, #throwback, #timetraveler, #newyearscelebration
 - **Emojis:** 🕰
 
 ------------

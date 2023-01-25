@@ -58,7 +58,7 @@ We are looking for a talented UI Designer to create amazing user experiences.
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/ui-designer/](https://phixel.net/en/jobs/ui-designer/)
 - **Type:** [Job](#job)
-- **Hashtags:** #phixel #webdesigners #clients #ui #ux #videoeditors #webdevelopers #animation #webdesignstudio #design #workhard #designer #phixel #love #gui #animation #illustration #remotework #studio #motiongraphics #workfromanywhere #worksmart #3d #respet
+- **Hashtags:** #phixel, #webdesigners, #clients, #ui, #ux, #videoeditors, #webdevelopers, #animation, #webdesignstudio, #design, #workhard, #designer, #love, #gui, #illustration, #remotework, #studio, #motiongraphics, #workfromanywhere, #worksmart, #3d, #respet
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

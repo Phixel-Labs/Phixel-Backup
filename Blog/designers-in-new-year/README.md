@@ -21,7 +21,7 @@ As the new year approaches, it's a great time for graphic designers to set goals
 - **Date:** 01/01/2023
 - **URL:** [https://phixel.net/en/tips/designers-in-new-year/](https://phixel.net/en/tips/designers-in-new-year/)
 - **Type:** [Blog](#blog)
-- **Hashtags:** #designergoals #newyearnewyou #designerinspiration #graphicdesigner #designerlife #professionalgoals #designertips #newyeardesign #successfuldesigner #designeradvice
+- **Hashtags:** #designergoals, #newyearnewyou, #designerinspiration, #graphicdesigner, #designerlife, #professionalgoals, #designertips, #newyeardesign, #successfuldesigner, #designeradvice
 - **Emojis:** 🎉 🎊 📈 💡 📚 👩
 
 ------------

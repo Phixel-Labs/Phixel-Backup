@@ -28,7 +28,7 @@ Dive into the party!
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/gallery/robot-pool-party/](https://phixel.net/en/gallery/robot-pool-party/)
 - **Type:** [Gallery](#gallery)
-- **Hashtags:** #phixel #robot #robotpoolparty #poolparty #robotparty #poolside #party #fun #robots #robotmeetup #robotselfie #poolfun #robotstyle
+- **Hashtags:** #phixel, #robot, #robotpoolparty, #poolparty, #robotparty, #poolside, #party, #fun, #robots, #robotmeetup, #robotselfie, #poolfun, #robotstyle
 - **Emojis:** 🆒 🌊 ☀️ 🕶 🎉 🤖 🏊 🦾 🛹 ⚙️ ⚡️ 🏄 👙 🩳 🍹 🥳 🍨 🎈 🤽 ‍♀ 💦 🏻
 
 ------------

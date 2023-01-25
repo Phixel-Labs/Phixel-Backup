@@ -22,7 +22,7 @@ We've cut down on sugar, but not on deliciousness!
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)
-- **Hashtags:** #phixel #celcius #instacoffee #celsius #coffeelover #cafe #honey
+- **Hashtags:** #phixel, #celcius, #instacoffee, #celsius, #coffeelover, #cafe, #honey
 - **Emojis:** 🆒
 
 ------------

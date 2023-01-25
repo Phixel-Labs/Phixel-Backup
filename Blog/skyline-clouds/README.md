@@ -25,7 +25,7 @@ As you sit and watch the clouds drift by, you can feel the stress and worries of
 - **Date:** 01/01/2021
 - **URL:** [https://phixel.net/en/skyline-clouds/](https://phixel.net/en/skyline-clouds/)
 - **Type:** [Blog](#blog)
-- **Hashtags:** #skyline #cloudsloops #loop #mountain #breathe #relax #clouds #beauty #calm #calming #nature
+- **Hashtags:** #skyline, #cloudsloops, #loop, #mountain, #breathe, #relax, #clouds, #beauty, #calm, #calming, #nature
 - **Emojis:** 🍂 🗻 🌄 🍃 🪂 ☁️ ♾️ 😮
 
 ------------

@@ -40,7 +40,7 @@ Do you have a product to reveal to the world? Contact us and we here will help y
 - **Date:** 01/01/2020
 - **URL:** [https://phixel.net/en/contact/](https://phixel.net/en/contact/)
 - **Type:** [Page](#page)
-- **Hashtags:** #whatsapp #message #mail @The_Phixel #Follow #msm contact@phixel.net #wearehere #phixel #contactus #idea #help #business #chat #phone #email #job #contact #newproduct #help #phixelnet #foryou
+- **Hashtags:** #whatsapp, #message, #mail, #@The_Phixel, #Follow, #msm, #contact@phixel.net, #wearehere, #phixel, #contactus, #idea, #help, #business, #chat, #phone, #email, #job, #contact, #newproduct, #phixelnet, #foryou
 - **Emojis:** 📟 ✨✉ ️☎ 🤳 🏼 🖨 🤝 📫 📪 📭 📬 🗨 👋 🙋 ‍♂ ☎️ 💞 ♀️ 🖱 📨 👆 🏽 📢 📤
 
 ------------

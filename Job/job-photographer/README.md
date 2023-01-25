@@ -57,7 +57,7 @@ We are looking for a passionate Photographer to capture moments on film and to u
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/photographer/](https://phixel.net/en/jobs/photographer/)
 - **Type:** [Job](#job)
-- **Hashtags:** #phixel #webdesigners #clients #ui #ux #videoeditors #webdevelopers #animation #webdesignstudio #design #workhard #designer #phixel #love #gui #animation #illustration #remotework #studio #motiongraphics #workfromanywhere #worksmart #3d #respet
+- **Hashtags:** #phixel, #webdesigners, #clients, #ui, #ux, #videoeditors, #webdevelopers, #animation, #webdesignstudio, #design, #workhard, #designer, #love, #gui, #illustration, #remotework, #studio, #motiongraphics, #workfromanywhere, #worksmart, #3d, #respet
 - **Emojis:** 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌
 
 ------------

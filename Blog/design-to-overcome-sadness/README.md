@@ -26,7 +26,7 @@ Graphic design can be a powerful tool in managing sadness and improving mental w
 - **Date:** 04/01/2023
 - **URL:** [https://phixel.net/en/tips/mental-help/design-to-overcome-sadness/](https://phixel.net/en/tips/mental-help/design-to-overcome-sadness/)
 - **Type:** [Blog](#blog)
-- **Hashtags:** #withlove #graphicdesign #sadness #selfcare #journaling #visionboard #photography #mindfulness #selfcareplan #creativity #gratitude #moodboard #affirmations #colortherapy
+- **Hashtags:** #withlove, #graphicdesign, #sadness, #selfcare, #journaling, #visionboard, #photography, #mindfulness, #selfcareplan, #creativity, #gratitude, #moodboard, #affirmations, #colortherapy
 - **Emojis:** 😫 🙇 ‍♀ ♀️ 😖 😞 😭 ‍♂ 🤦 ️
 
 ------------

@@ -17,7 +17,7 @@ We're here to create beautiful and bold visuals
 - **Date:** 01/01/2020
 - **URL:** [https://phixel.net/](https://phixel.net/)
 - **Type:** [Internal](#internal)
-- **Hashtags:** #phixel #withlove #phixel #homepage #webdesigners #webdesignstudio #phixelstudio #design #designer #welcome #home #webdevelopers #videoeditors #studio #clients #ui #ux #gui #motiongraphics #animation #illustration #3d #animation #foryou #creativestudio
+- **Hashtags:** #phixel, #withlove, #homepage, #webdesigners, #webdesignstudio, #phixelstudio, #design, #designer, #welcome, #home, #webdevelopers, #videoeditors, #studio, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
 - **Emojis:** 🆒 🌎 🌐 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
 
 ------------

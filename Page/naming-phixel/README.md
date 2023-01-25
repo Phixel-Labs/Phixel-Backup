@@ -16,7 +16,7 @@ The name Phixel is beautiful, elegant and unique, we love it and we take it to h
 - **Date:** 06/11/2022
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Page](#page)
-- **Hashtags:** #phixel #withlove #phixel #withlove #webdesigners #webdesignstudio #phixelstudio #design #designer #welcome #home #webdevelopers #videoeditors #studio #clients #ui #ux #gui #motiongraphics #animation #illustration #3d #animation #foryou #creativestudio #foryou #creativestudio
+- **Hashtags:** #phixel, #withlove, #webdesigners, #webdesignstudio, #phixelstudio, #design, #designer, #welcome, #home, #webdevelopers, #videoeditors, #studio, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
 - **Emojis:** 🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
 
 ------------

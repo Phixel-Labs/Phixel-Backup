@@ -48,7 +48,7 @@ At Phixel, we offer a wide range of services to help you get the most out of you
 - **Date:** 20/01/2020
 - **URL:** [https://phixel.net/en/about-us/services/](https://phixel.net/en/about-us/services/)
 - **Type:** [Page](#page)
-- **Hashtags:** #phixel #withlove #build #ui #mobile #web #accessible #creative #ux #grow #virtual #augmented #variety #successful # #design #offer #proactive #support #webdesign #organized #yourneeds #design #animation branding #stunning #motiongraphic #logo #balanced #expertsnonexperts #vr #marketing #gui #webapp #timeless #simpleapproach #immersive #services #reality
+- **Hashtags:** #phixel, #withlove, #build, #ui, #mobile, #web, #accessible, #creative, #ux, #grow, #virtual, #augmented, #variety, #successful, #design, #offer, #proactive, #support, #webdesign, #organized, #yourneeds, #animation, #branding, #stunning, #motiongraphic, #logo, #balanced, #expertsnonexperts, #vr, #marketing, #gui, #webapp, #timeless, #simpleapproach, #immersive, #services, #reality
 - **Emojis:** 🆒 📀 🕶 💻 🖼 ️✏ ️⭐ 🦿 🖋 🎞 🏆 🦾 📹 🥽 📸 🎩 🧑 📏 🧰 🎶 🤩 🖱 ♂️ 💚 📷 💡 🖌 🦲 🎬 ✒️
 
 ------------

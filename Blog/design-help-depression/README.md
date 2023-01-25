@@ -26,7 +26,7 @@ Graphic design techniques, such as journaling, creating a vision board, using ph
 - **Date:** 30/12/2022
 - **URL:** [https://phixel.net/en/tips/mental-help/design-help-depression/](https://phixel.net/en/tips/mental-help/design-help-depression/)
 - **Type:** [Blog](#blog)
-- **Hashtags:** #graphicdesign #depression #selfcare #journaling #visionboard #photography #mindfulness #selfcareplan #creativity #gratitude #moodboard #affirmations #colortherapy
+- **Hashtags:** #graphicdesign, #depression, #selfcare, #journaling, #visionboard, #photography, #mindfulness, #selfcareplan, #creativity, #gratitude, #moodboard, #affirmations, #colortherapy
 - **Emojis:** 🖤 😔 💔 🥀 😭 😧 😞
 
 ------------

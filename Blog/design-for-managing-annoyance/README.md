@@ -28,7 +28,7 @@ Tips and strategies to manage annoyance by using Design, from identifying the so
 - **Date:** 18/01/2023
 - **URL:** [https://phixel.net/en/tips/mental-help/design-for-managing-annoyance/](https://phixel.net/en/tips/mental-help/design-for-managing-annoyance/)
 - **Type:** [Blog](#blog)
-- **Hashtags:** #graphicdesign #annoyance #management #designthinking #emotiondesign #colorpsychology #shape #overcomingobstacles #storytelling #positivity #symmetry #asymmetry
+- **Hashtags:** #graphicdesign, #annoyance, #management, #designthinking, #emotiondesign, #colorpsychology, #shape, #overcomingobstacles, #storytelling, #positivity, #symmetry, #asymmetry
 - **Emojis:** 😑 😒 😤 😖 😩 🎨 😠 🛠 ‍♂ 💭 💡 🌟 ✨
 
 ------------

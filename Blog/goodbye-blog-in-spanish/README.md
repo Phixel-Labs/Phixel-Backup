@@ -23,7 +23,7 @@ Lamentamos informarles que nuestro blog en español ya no será actualizado, deb
 - **Date:** 18/01/2023
 - **URL:** [https://phixel.net/es/noticia/adios-blog-en-espanol/](https://phixel.net/es/noticia/adios-blog-en-espanol/)
 - **Type:** [Blog](#blog)
-- **Hashtags:** BlogDeIdiomas #DecisionDifícil #ContinuarEnInglés #RazonesExplicadas #LectoresComprendidos #DisculpasSinceras #ComentariosBienvenidos #MejorarEnInglés #AlcanceGlobal #IdiomaDominante
+- **Hashtags:** #BlogDeIdiomas, #DecisionDifícil, #ContinuarEnInglés, #RazonesExplicadas, #LectoresComprendidos, #DisculpasSinceras, #ComentariosBienvenidos, #MejorarEnInglés, #AlcanceGlobal, #IdiomaDominante
 - **Emojis:** 🔠 🙏 📝 📊 🙅 🔤 🌎 💻 📚 📖 🙋 🏻 📣 📄 📧
 
 ------------

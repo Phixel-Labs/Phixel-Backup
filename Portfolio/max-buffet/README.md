@@ -26,7 +26,7 @@ The finest quality Top-quality meats and poultry, sourced carefully to ensure yo
 - **Date:** 29/10/2022
 - **URL:** [https://phixel.net/en/portfolio/repack-max-buffet/](https://phixel.net/en/portfolio/repack-max-buffet/)
 - **Type:** [Portfolio](#portfolio)
-- **Hashtags:** #phixel #dogfood #doglovers #dog #pet #beef #meat #pork #chicken #repack #maxbuffet
+- **Hashtags:** #phixel, #dogfood, #doglovers, #dog, #pet, #beef, #meat, #pork, #chicken, #repack, #maxbuffet
 - **Emojis:** 🐶 🐩 🐕 🦺
 
 ------------

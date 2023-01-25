@@ -20,7 +20,7 @@ This frozen mixed berry lemonade is super refreshing, perfectly tart, and just s
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)
-- **Hashtags:** #phixel #celcius #instacoffee #celsius #coffeelover #cafe #berries
+- **Hashtags:** #phixel, #celcius, #instacoffee, #celsius, #coffeelover, #cafe, #berries
 - **Emojis:** 🆒
 
 ------------

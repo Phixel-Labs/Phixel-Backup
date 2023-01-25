@@ -22,7 +22,7 @@ From brainstorming sessions to trying out new techniques, these exercises can he
 - **Date:** 13/12/2022
 - **URL:** [https://phixel.net/en/holiday/christmas/creative-exercises-holidays/](https://phixel.net/en/holiday/christmas/creative-exercises-holidays/)
 - **Type:** [Blog](#blog)
-- **Hashtags:** #holidays #exercise #brainstorming #techniques #software #museum #art #collaboration #colorpalette #creativity #inspiration #productivity #skills #mindfulness
+- **Hashtags:** #holidays, #exercise, #brainstorming, #techniques, #software, #museum, #art, #collaboration, #colorpalette, #creativity, #inspiration, #productivity, #skills, #mindfulness
 - **Emojis:** 🦌 🛷 🎅 🎄 💡 🎨 🖌 👩 💭 🧠 🏃 ‍♀ ♂️ 🧘 ‍♂
 
 ------------
