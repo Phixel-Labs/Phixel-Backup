@@ -1,5 +1,5 @@
 
-<a href="https://phixel.net" target="_blank"><img src="Page/phixel/media/e05d2133/logo-h.png" width="300px" alt="Phixel" title="Phixel"></a>
+<a href="https://phixel.net" target="_blank"><img src="Page/phixel/media/9aafa887/logo-h.png" width="300px" alt="Phixel" title="Phixel"></a>
 
 # Phixel Backup 🌎
 
