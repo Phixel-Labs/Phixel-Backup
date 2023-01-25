@@ -4,7 +4,7 @@
 
 You’ll need to collaborate with clients, publishers, and marketers to make sure your jaw drops and outlines their business needs to engage their audience.
 
-You will use your creative skills to turn messages and ideas into attractive illustrations,
+You will use your creative skills to turn messages and ideas into attractive illustrations, 
 
 Ultimately, you’ll create artwork that meets quality standards on time.
 ## Job Responsibilities

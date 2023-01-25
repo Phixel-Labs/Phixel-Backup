@@ -22,7 +22,7 @@ By following these 15 tips, you can use graphic design as a powerful tool for ov
 ## Exerpt
 Use graphic design to overcome your fears and live a more confident life. 15 tips and tricks included.
 ## Description
-Graphic design can be a powerful tool for overcoming fears and anxiety. By identifying and visually representing your fears, you can gain a better understanding and control over them. There are several techniques you can use, such as creating a "fear portfolio" or "fear map," experimenting with different design styles, using typography to communicate your emotions, creating visual metaphors, and reframing your fears. You can also use graphic design to set achievable goals, practice self-care, build a supportive network, and find inspiration and motivation. Finally, don't be afraid to seek professional help if you need it, as overcoming your fears can be a challenging and emotional process.
+Graphic design can be a powerful tool for overcoming fears and anxiety. By identifying and visually representing your fears, you can gain a better understanding and control over them. There are several techniques you can use, such as creating a "fear portfolio" or "fear map, " experimenting with different design styles, using typography to communicate your emotions, creating visual metaphors, and reframing your fears. You can also use graphic design to set achievable goals, practice self-care, build a supportive network, and find inspiration and motivation. Finally, don't be afraid to seek professional help if you need it, as overcoming your fears can be a challenging and emotional process.
 ## Media
 <img src="media/22c4c655/design-for-overcoming-fears.jpg">
 

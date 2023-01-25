@@ -3,7 +3,7 @@
 
 [You are not alone](https://phixel.net/)
 
-## We design your brand for this deep space,
+## We design your brand for this deep space, 
 Your way.
 
 [Our stunning services](https://phixel.net/en/about-us/services/)
@@ -17,7 +17,7 @@ website, brand, logo and more to anywhere...
 
 [Selected Works](https://phixel.net/en/portfolio/)
 
-## If you are going to invest in your image,
+## If you are going to invest in your image, 
 you should make it worthwhile
 
 ### Why not go with everything?

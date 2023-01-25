@@ -5,7 +5,7 @@ For years, Dr. Darkness had been plotting to take over the world, and tonight wa
 
 But just as Dr. Darkness was about to celebrate his victory; a loud crash shook the building. The door to his lair burst open, and in walked Phixel, the city’s most powerful and skilled design agency.
 
-“You may have your fancy machine, Dr. Darkness,” said Phixel’s fearless leader, “but you can’t defeat the power of design!”
+“You may have your fancy machine, Dr. Darkness, ” said Phixel’s fearless leader, “but you can’t defeat the power of design!”
 
 With that, Phixel unleashed their full arsenal of design skills, using their expertise in website design, logo creation, and branding to battle Dr. Darkness and his evil minions.
 
