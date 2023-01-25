@@ -36,7 +36,6 @@
             "3": "celebration",
             "4": "festivalsaroundtheworld",
             "5": "celebrationaroundtheworld",
-            "6": "festivals",
             "7": "celebrations",
             "8": "culture",
             "9": "travel",
@@ -58,8 +57,7 @@
             "25": "SemanaSanta",
             "26": "QuebecWinterCarnival",
             "27": "BastilleDay",
-            "28": "ObonFestival",
-            "29": "SongkranFestival"
+            "28": "ObonFestival"
         },
         "tags": [
             "\u00a0"

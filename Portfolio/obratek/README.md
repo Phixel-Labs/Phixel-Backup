@@ -13,7 +13,6 @@ Hi-end Urban Design Architecture
 A hi-end urban design architecture firm based in Bogotá that provides cutting-edge design and consulting services for both public and private sector clients.
 ## Media
 <img src="media/01ccb61c/obratek-broshure.jpg">
-<img src="media/01ccb61c/obratek-broshure.jpg">
 <img src="media/c175bf6d/obratek-card.jpg">
 <img src="media/b38913c4/obratek-logo-presentation.jpg">
 <img src="media/ed4db3b6/obratek-logo.png">

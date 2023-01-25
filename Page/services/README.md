@@ -42,7 +42,6 @@ At Phixel, we offer a wide range of services to help you get the most out of you
 <img src="media/1cd345da/services-immersive.png">
 <img src="media/429b5ef5/services-timeless.jpg">
 <img src="media/bfd30872/services.jpg">
-<img src="media/bfd30872/services.jpg">
 
 ------------
 - **Slug:** services

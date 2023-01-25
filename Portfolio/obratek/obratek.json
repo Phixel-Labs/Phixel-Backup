@@ -3,17 +3,16 @@
     "content": "Client: Obratek\nYear: 2018\nRole: Rebranding, Logo, Motion Graphic, Stationery\n\nObratek is a hi-end urban design architecture firm based in Bogot\u00e1 that provides cutting-edge design and consulting services for both public and private sector clients. Their team of architects, urban planners, and engineers have years of experience in delivering innovative, efficient, and sustainable solutions for some of the most complex challenges facing Latin American cities today.\n\nSpecializing in new construction and street restoration projects, Obratek has a proven track record of excellence and customer satisfaction.",
     "excerpt": "Hi-end Urban Design Architecture",
     "description": "A hi-end urban design architecture firm based in Bogot\u00e1 that provides cutting-edge design and consulting services for both public and private sector clients.",
-    "media": [
-        "https:\/\/phixel.net\/wp-content\/uploads\/Obratek-Broshure.jpg",
-        "https:\/\/phixel.net\/wp-content\/uploads\/Obratek-Broshure.jpg",
-        "https:\/\/phixel.net\/wp-content\/uploads\/Obratek-Card.jpg",
-        "https:\/\/phixel.net\/wp-content\/uploads\/Obratek-Logo-presentation.jpg",
-        "https:\/\/phixel.net\/wp-content\/uploads\/Obratek-Logo.png",
-        "https:\/\/phixel.net\/wp-content\/uploads\/Obratek-Office-wall.jpg",
-        "https:\/\/phixel.net\/wp-content\/uploads\/Obratek-Stationery.jpg",
-        "https:\/\/phixel.net\/wp-content\/uploads\/Obratek-Video.mp4",
-        "https:\/\/phixel.net\/wp-content\/uploads\/obratek.glb"
-    ],
+    "media": {
+        "0": "https:\/\/phixel.net\/wp-content\/uploads\/Obratek-Broshure.jpg",
+        "2": "https:\/\/phixel.net\/wp-content\/uploads\/Obratek-Card.jpg",
+        "3": "https:\/\/phixel.net\/wp-content\/uploads\/Obratek-Logo-presentation.jpg",
+        "4": "https:\/\/phixel.net\/wp-content\/uploads\/Obratek-Logo.png",
+        "5": "https:\/\/phixel.net\/wp-content\/uploads\/Obratek-Office-wall.jpg",
+        "6": "https:\/\/phixel.net\/wp-content\/uploads\/Obratek-Stationery.jpg",
+        "7": "https:\/\/phixel.net\/wp-content\/uploads\/Obratek-Video.mp4",
+        "8": "https:\/\/phixel.net\/wp-content\/uploads\/obratek.glb"
+    },
     "info": {
         "slug": "obratek",
         "date": "18\/11\/2022",
