@@ -28,4 +28,4 @@ The evil Dr. Darkness plans to take over the city using a machine that plunges i
 
 ------------
 ## Tags
-[Darkness](#Darkness), [Revenge](#Revenge), [Fight](#Fight), [Evil](#Evil), [Plan](#Plan), [Machine](#Machine), [City](#City), [Power](#Power), [Design](#Design), [Victory](#Victory)
+[Darkness](#darkness), [Revenge](#revenge), [Fight](#fight), [Evil](#evil), [Plan](#plan), [Machine](#machine), [City](#city), [Power](#power), [Design](#design), [Victory](#victory)

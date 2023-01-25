@@ -33,4 +33,4 @@ Tips and strategies to manage annoyance by using Design, from identifying the so
 
 ------------
 ## Tags
-[Graphic](#Graphic), [Design](#Design), [Emotion](#Emotion), [Therapy](#Therapy), [Mental](#Mental), [Wellness](#Wellness), [Annoyance](#Annoyance)
+[Graphic](#graphic), [Design](#design), [Emotion](#emotion), [Therapy](#therapy), [Mental](#mental), [Wellness](#wellness), [Annoyance](#annoyance)

@@ -37,4 +37,4 @@ This article discusses the importance of good design in visual communication and
 
 ------------
 ## Tags
-[Communication](#Communication), [Design](#Design), [Engagement](#Engagement), [Graphic](#Graphic), [User Experience](#User Experience), [Visual](#Visual)
+[Communication](#communication), [Design](#design), [Engagement](#engagement), [Graphic](#graphic), [User Experience](#user-experience), [Visual](#visual)

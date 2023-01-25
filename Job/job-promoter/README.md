@@ -59,4 +59,4 @@ We are looking for a pleasant and competitive Promoter that thrives in attractin
 
 ------------
 ## Tags
-[Promoter](#Promoter), [Marketing](#Marketing), [Sales](#Sales), [Communication](#Communication), [Presentation](#Presentation), [Customer acquisition](#Customer acquisition), [Revenue growth](#Revenue growth), [Demonstration](#Demonstration), [Advertising](#Advertising), [Sales prospect](#Sales prospect), [Product promotion](#Product promotion), [Social skills](#Social skills), [Job](#Job)
+[Promoter](#promoter), [Marketing](#marketing), [Sales](#sales), [Communication](#communication), [Presentation](#presentation), [Customer Acquisition](#customer-acquisition), [Revenue Growth](#revenue-growth), [Demonstration](#demonstration), [Advertising](#advertising), [Sales Prospect](#sales-prospect), [Product Promotion](#product-promotion), [Social Skills](#social-skills), [Job](#job)

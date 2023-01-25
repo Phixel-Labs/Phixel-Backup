@@ -27,4 +27,4 @@ We've cut down on sugar, but not on deliciousness!
 
 ------------
 ## Tags
-[Honey](#Honey), [Sweetness](#Sweetness), [Natural](#Natural), [Health](#Health), [Taste](#Taste), [Early-Workers](#Early-Workers), [Royal](#Royal), [Celcius](#Celcius), [Coffee](#Coffee)
+[Honey](#honey), [Sweetness](#sweetness), [Natural](#natural), [Health](#health), [Taste](#taste), [Early-Workers](#early-workers), [Royal](#royal), [Celcius](#celcius), [Coffee](#coffee)

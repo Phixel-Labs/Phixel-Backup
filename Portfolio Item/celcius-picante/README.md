@@ -26,4 +26,4 @@ Came from the farthest corners of Mexico a thousand Years recipe that is now ava
 
 ------------
 ## Tags
-[Salsa](#Salsa), [Mexican](#Mexican), [Spicy](#Spicy), [Picante](#Picante), [Flavor](#Flavor), [Heat](#Heat), [Hot](#Hot), [Familiar](#Familiar), [Traditional](#Traditional), [Recipe](#Recipe), [Celcius](#Celcius), [Coffee](#Coffee)
+[Salsa](#salsa), [Mexican](#mexican), [Spicy](#spicy), [Picante](#picante), [Flavor](#flavor), [Heat](#heat), [Hot](#hot), [Familiar](#familiar), [Traditional](#traditional), [Recipe](#recipe), [Celcius](#celcius), [Coffee](#coffee)

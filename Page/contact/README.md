@@ -45,4 +45,4 @@ Do you have a product to reveal to the world? Contact us and we here will help y
 
 ------------
 ## Tags
-[Contact](#Contact), [Help](#Help), [Idea](#Idea), [Product](#Product), [Reveal](#Reveal), [Creative](#Creative), [Agency](#Agency), [Brands](#Brands), [Available](#Available), [Amazing](#Amazing)
+[Contact](#contact), [Help](#help), [Idea](#idea), [Product](#product), [Reveal](#reveal), [Creative](#creative), [Agency](#agency), [Brands](#brands), [Available](#available), [Amazing](#amazing)

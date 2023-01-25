@@ -34,4 +34,4 @@ Tips and strategies to overcome shame by using Design, from identifying the sour
 
 ------------
 ## Tags
-[Shame](#Shame), [Color](#Color), [Negative Space](#Negative Space), [Imagery](#Imagery), [Storytelling](#Storytelling), [Affirmations](#Affirmations), [Symmetry](#Symmetry), [Asymmetry](#Asymmetry), [Movement](#Movement), [Typography](#Typography)
+[Shame](#shame), [Color](#color), [Negative Space](#negative-space), [Imagery](#imagery), [Storytelling](#storytelling), [Affirmations](#affirmations), [Symmetry](#symmetry), [Asymmetry](#asymmetry), [Movement](#movement), [Typography](#typography)

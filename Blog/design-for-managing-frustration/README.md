@@ -34,4 +34,4 @@ Tips and strategies to manage frustration by using Design, from identifying the 
 
 ------------
 ## Tags
-[Graphic](#Graphic), [Design](#Design), [Emotion](#Emotion), [Therapy Stress](#Therapy Stress), [Management](#Management), [Mental](#Mental), [Wellness](#Wellness)
+[Graphic](#graphic), [Design](#design), [Emotion](#emotion), [Therapy Stress](#therapy-stress), [Management](#management), [Mental](#mental), [Wellness](#wellness)

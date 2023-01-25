@@ -28,4 +28,4 @@ The pure chocolate flavor and smooth texture of this will leave you satisfied.
 
 ------------
 ## Tags
-[Celcius](#Celcius), [Coffee](#Coffee)
+[Celcius](#celcius), [Coffee](#coffee)

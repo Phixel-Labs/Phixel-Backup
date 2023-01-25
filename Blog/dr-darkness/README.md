@@ -28,4 +28,4 @@ Dr. Darkness is a mad scientist with a thirst for power who has been working on 
 
 ------------
 ## Tags
-[Terror](#Terror), [Power](#Power), [Domination](#Domination), [Scientist](#Scientist), [Weapon](#Weapon), [Heroes](#Heroes), [Phixel](#Phixel), [Robot](#Robot), [Defeat](#Defeat), [Victory](#Victory)
+[Terror](#terror), [Power](#power), [Domination](#domination), [Scientist](#scientist), [Weapon](#weapon), [Heroes](#heroes), [Phixel](#phixel), [Robot](#robot), [Defeat](#defeat), [Victory](#victory)

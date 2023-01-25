@@ -62,4 +62,4 @@ We are looking for a passionate Photographer to capture moments on film and to u
 
 ------------
 ## Tags
-[Photographer](#Photographer), [Technical](#Technical), [Quality](#Quality), [Quantitative](#Quantitative), [Deadline](#Deadline), [Concept](#Concept), [Image](#Image), [Equipment](#Equipment), [Editing](#Editing), [Photo](#Photo), [Job](#Job)
+[Photographer](#photographer), [Technical](#technical), [Quality](#quality), [Quantitative](#quantitative), [Deadline](#deadline), [Concept](#concept), [Image](#image), [Equipment](#equipment), [Editing](#editing), [Photo](#photo), [Job](#job)

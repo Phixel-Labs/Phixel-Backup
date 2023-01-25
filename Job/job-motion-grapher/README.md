@@ -59,4 +59,4 @@ We are looking for a creative Motion Grapher to develop excellent visual frames 
 
 ------------
 ## Tags
-[Animation](#Animation), [CGI](#CGI), [Storytelling](#Storytelling), [Design](#Design), [Teamwork](#Teamwork), [Communication](#Communication), [Adaptability](#Adaptability), [Deadlines](#Deadlines), [Budget](#Budget), [Project Management](#Project Management), [Job](#Job)
+[Animation](#animation), [CGI](#cgi), [Storytelling](#storytelling), [Design](#design), [Teamwork](#teamwork), [Communication](#communication), [Adaptability](#adaptability), [Deadlines](#deadlines), [Budget](#budget), [Project Management](#project-management), [Job](#job)

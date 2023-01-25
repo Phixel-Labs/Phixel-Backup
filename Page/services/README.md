@@ -54,4 +54,4 @@ At Phixel, we offer a wide range of services to help you get the most out of you
 
 ------------
 ## Tags
-[Services](#Services), [Stunning](#Stunning), [Phixel](#Phixel), [Business](#Business), [Product](#Product), [Development](#Development), [Website](#Website), [Visibility](#Visibility), [Design](#Design), [Affordable](#Affordable)
+[Services](#services), [Stunning](#stunning), [Phixel](#phixel), [Business](#business), [Product](#product), [Development](#development), [Website](#website), [Visibility](#visibility), [Design](#design), [Affordable](#affordable)

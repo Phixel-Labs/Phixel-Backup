@@ -56,4 +56,4 @@ We are looking for a 3D Animator to join our team and assist us with designing a
 
 ------------
 ## Tags
-[3D](#3D), [Animator](#Animator), [Games](#Games), [Video](#Video), [Interactive](#Interactive), [Content](#Content), [Motion](#Motion), [Design](#Design), [Develop](#Develop), [Quality](#Quality), [Job](#Job)
+[3D](#3d), [Animator](#animator), [Games](#games), [Video](#video), [Interactive](#interactive), [Content](#content), [Motion](#motion), [Design](#design), [Develop](#develop), [Quality](#quality), [Job](#job)

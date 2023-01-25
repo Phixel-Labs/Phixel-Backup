@@ -27,4 +27,4 @@ The white snowy mountains that creates a delicious sweetness…
 
 ------------
 ## Tags
-[Celcius](#Celcius), [Coffee](#Coffee)
+[Celcius](#celcius), [Coffee](#coffee)

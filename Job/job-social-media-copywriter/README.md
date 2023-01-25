@@ -66,4 +66,4 @@ We are looking for a Social Media Copywriter to engage with our users and promot
 
 ------------
 ## Tags
-[Copywriter](#Copywriter), [Social](#Social), [Media](#Media), [Advertising](#Advertising), [SEO](#SEO), [Analytics](#Analytics), [Marketing](#Marketing), [Communications](#Communications), [Creative](#Creative), [Web](#Web), [Content](#Content), [Writing](#Writing), [Engagement](#Engagement), [Tracking](#Tracking), [Networking](#Networking), [Job](#Job)
+[Copywriter](#copywriter), [Social](#social), [Media](#media), [Advertising](#advertising), [SEO](#seo), [Analytics](#analytics), [Marketing](#marketing), [Communications](#communications), [Creative](#creative), [Web](#web), [Content](#content), [Writing](#writing), [Engagement](#engagement), [Tracking](#tracking), [Networking](#networking), [Job](#job)

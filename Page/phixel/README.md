@@ -61,4 +61,4 @@ We are Phixel, a team of specialized designers and developers with experience in
 
 ------------
 ## Tags
-[Phixel](#Phixel), [Team](#Team), [Designers](#Designers), [Developers](#Developers), [Experience](#Experience), [Personalized](#Personalized), [Unique](#Unique), [Digital](#Digital), [Solutions](#Solutions), [Help](#Help)
+[Phixel](#phixel), [Team](#team), [Designers](#designers), [Developers](#developers), [Experience](#experience), [Personalized](#personalized), [Unique](#unique), [Digital](#digital), [Solutions](#solutions), [Help](#help)

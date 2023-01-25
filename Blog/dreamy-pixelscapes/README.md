@@ -29,4 +29,4 @@ Remember those dreamy pixelscapes that captured your imagination and made you fe
 
 ------------
 ## Tags
-[Pixelscapes](#Pixelscapes), [Video](#Video), [Games](#Games), [TV](#TV), [Childhood](#Childhood), [Memories](#Memories), [Dreamy](#Dreamy), [Nostalgia](#Nostalgia), [Sidescrolling](#Sidescrolling), [Mountain](#Mountain)
+[Pixelscapes](#pixelscapes), [Video](#video), [Games](#games), [TV](#tv), [Childhood](#childhood), [Memories](#memories), [Dreamy](#dreamy), [Nostalgia](#nostalgia), [Sidescrolling](#sidescrolling), [Mountain](#mountain)

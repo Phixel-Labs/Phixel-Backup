@@ -25,4 +25,4 @@ The freshness and the combination with the taste of peppermint, are able to brin
 
 ------------
 ## Tags
-[Celcius](#Celcius), [Coffee](#Coffee)
+[Celcius](#celcius), [Coffee](#coffee)

@@ -73,4 +73,4 @@ We are seeking a Graphic Designer to create engaging, branded graphics for a var
 
 ------------
 ## Tags
-[Graphic Designer](#Graphic Designer), [Creative](#Creative), [Design](#Design), [Illustration](#Illustration), [Logo](#Logo), [Layout](#Layout), [Photography](#Photography), [Branding](#Branding), [Communication](#Communication), [Media](#Media), [Job](#Job)
+[Graphic Designer](#graphic-designer), [Creative](#creative), [Design](#design), [Illustration](#illustration), [Logo](#logo), [Layout](#layout), [Photography](#photography), [Branding](#branding), [Communication](#communication), [Media](#media), [Job](#job)

@@ -63,4 +63,4 @@ We are looking for a talented Web Designer to create amazing user experiences.
 
 ------------
 ## Tags
-[Web Design](#Web Design), [UI Design](#UI Design), [User Experience](#User Experience), [Graphic Design](#Graphic Design), [Wireframing](#Wireframing), [HTML](#HTML), [CSS](#CSS), [JavaScript](#JavaScript), [Rapid Prototyping](#Rapid Prototyping), [Web Technologies](#Web Technologies), [Job](#Job)
+[Web Design](#web-design), [UI Design](#ui-design), [User Experience](#user-experience), [Graphic Design](#graphic-design), [Wireframing](#wireframing), [HTML](#html), [CSS](#css), [JavaScript](#javascript), [Rapid Prototyping](#rapid-prototyping), [Web Technologies](#web-technologies), [Job](#job)

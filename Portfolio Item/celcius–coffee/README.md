@@ -25,4 +25,4 @@ Like every morning, you cannot start the day without enjoying a good coffee.
 
 ------------
 ## Tags
-[Celcius](#Celcius), [Coffee](#Coffee)
+[Celcius](#celcius), [Coffee](#coffee)

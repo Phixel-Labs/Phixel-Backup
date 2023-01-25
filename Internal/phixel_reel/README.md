@@ -22,4 +22,4 @@ We're here to create beautiful and bold visuals
 
 ------------
 ## Tags
-[Phixel](#Phixel), [Creativity](#Creativity), [Bold](#Bold), [Visuals](#Visuals), [Websites](#Websites), [Apps](#Apps), [Custom](#Custom), [Unique](#Unique), [Experience](#Experience), [Help](#Help)
+[Phixel](#phixel), [Creativity](#creativity), [Bold](#bold), [Visuals](#visuals), [Websites](#websites), [Apps](#apps), [Custom](#custom), [Unique](#unique), [Experience](#experience), [Help](#help)

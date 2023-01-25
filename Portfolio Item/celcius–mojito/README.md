@@ -25,4 +25,4 @@ Take your love of cocktails and show it off with this traditional Cuban highball
 
 ------------
 ## Tags
-[Celcius](#Celcius), [Coffee](#Coffee)
+[Celcius](#celcius), [Coffee](#coffee)

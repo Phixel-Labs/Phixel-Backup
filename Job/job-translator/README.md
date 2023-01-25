@@ -66,4 +66,4 @@ We are looking for a translator to interpret written and audio pieces in differe
 
 ------------
 ## Tags
-[Translation](#Translation), [Interpreter](#Interpreter), [Multilingual](#Multilingual), [Communication](#Communication), [Proofreading](#Proofreading), [Content Editing](#Content Editing), [Linguistics](#Linguistics), [Localization](#Localization), [Cultural Awareness](#Cultural Awareness), [Job](#Job)
+[Translation](#translation), [Interpreter](#interpreter), [Multilingual](#multilingual), [Communication](#communication), [Proofreading](#proofreading), [Content Editing](#content-editing), [Linguistics](#linguistics), [Localization](#localization), [Cultural Awareness](#cultural-awareness), [Job](#job)

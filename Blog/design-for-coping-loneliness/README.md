@@ -31,4 +31,4 @@ Tips and strategies to cope with loneliness by using Design, from identifying th
 
 ------------
 ## Tags
-[Design](#Design), [Emotion](#Emotion), [Therapy](#Therapy), [Mental Wellness](#Mental Wellness), [Loneliness](#Loneliness)
+[Design](#design), [Emotion](#emotion), [Therapy](#therapy), [Mental Wellness](#mental-wellness), [Loneliness](#loneliness)

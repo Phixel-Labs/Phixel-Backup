@@ -36,4 +36,4 @@ Celcius coffee is 15+ uniquely generated bottles. No two are exactly alike. No t
 
 ------------
 ## Tags
-[Celcius](#Celcius), [Coffee](#Coffee), [Unique](#Unique), [Blend](#Blend), [Aroma](#Aroma), [Natural](#Natural), [Essential oils](#Essential oils), [Packaging](#Packaging), [Branding](#Branding), [Website](#Website), [Original](#Original)
+[Celcius](#celcius), [Coffee](#coffee), [Unique](#unique), [Blend](#blend), [Aroma](#aroma), [Natural](#natural), [Essential Oils](#essential-oils), [Packaging](#packaging), [Branding](#branding), [Website](#website), [Original](#original)

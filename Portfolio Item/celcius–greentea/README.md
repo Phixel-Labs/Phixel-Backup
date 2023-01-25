@@ -23,4 +23,4 @@ From an ancient hidden village, a healthy ancestral recipe full of antioxidants 
 
 ------------
 ## Tags
-[Celcius](#Celcius), [Coffee](#Coffee)
+[Celcius](#celcius), [Coffee](#coffee)

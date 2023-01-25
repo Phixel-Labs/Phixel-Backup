@@ -26,4 +26,4 @@ The ideal cereal for a cozy home-style breakfast or brunch.
 
 ------------
 ## Tags
-[Celcius](#Celcius), [Coffee](#Coffee)
+[Celcius](#celcius), [Coffee](#coffee)

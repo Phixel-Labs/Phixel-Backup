@@ -25,4 +25,4 @@ With it's round and red appearance is capable of generating an pleasure that can
 
 ------------
 ## Tags
-[Celcius](#Celcius), [Coffee](#Coffee)
+[Celcius](#celcius), [Coffee](#coffee)

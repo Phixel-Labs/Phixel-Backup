@@ -30,4 +30,4 @@ Tips and tricks to overcome disgust by using Design, from identifying the source
 
 ------------
 ## Tags
-[Affirmation](#Affirmation), [Color](#Color), [Design](#Design), [Disgust](#Disgust), [Emotion](#Emotion), [Graphic](#Graphic), [Humor](#Humor), [Texture](#Texture)
+[Affirmation](#affirmation), [Color](#color), [Design](#design), [Disgust](#disgust), [Emotion](#emotion), [Graphic](#graphic), [Humor](#humor), [Texture](#texture)

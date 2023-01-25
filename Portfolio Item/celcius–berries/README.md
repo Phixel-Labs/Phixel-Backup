@@ -25,4 +25,4 @@ This frozen mixed berry lemonade is super refreshing, perfectly tart, and just s
 
 ------------
 ## Tags
-[Celcius](#Celcius), [Coffee](#Coffee)
+[Celcius](#celcius), [Coffee](#coffee)

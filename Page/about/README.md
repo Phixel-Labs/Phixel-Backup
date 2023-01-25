@@ -83,4 +83,4 @@ The only thing you need to know about us it that the goal is simple; Do exceptio
 
 ------------
 ## Tags
-[About](#About), [Retro](#Retro), [Sci-fi](#Sci-fi), [Goals](#Goals), [Exceptional](#Exceptional), [Delight](#Delight), [Creative](#Creative), [Innovation](#Innovation), [Studio](#Studio), [Websites](#Websites)
+[About](#about), [Retro](#retro), [Sci-fi](#sci-fi), [Goals](#goals), [Exceptional](#exceptional), [Delight](#delight), [Creative](#creative), [Innovation](#innovation), [Studio](#studio), [Websites](#websites)

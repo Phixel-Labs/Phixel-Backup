@@ -22,4 +22,4 @@ The goal is simple, , explore and bring your ideas to life
 
 ------------
 ## Tags
-[Phixel](#Phixel), [Goal](#Goal), [Simple](#Simple), [Explore](#Explore), [Ideas](#Ideas), [Life](#Life), [Help](#Help), [No-Doubts](#No-Doubts), [Great](#Great)
+[Phixel](#phixel), [Goal](#goal), [Simple](#simple), [Explore](#explore), [Ideas](#ideas), [Life](#life), [Help](#help), [No-Doubts](#no-doubts), [Great](#great)

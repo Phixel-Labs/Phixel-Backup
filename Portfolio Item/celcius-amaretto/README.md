@@ -25,4 +25,4 @@ Almonds born of this unique and sophisticated flavor that is capable of leading 
 
 ------------
 ## Tags
-[Amaretto](#Amaretto), [Almond](#Almond), [Orange](#Orange), [Aniseed](#Aniseed), [Piedmont](#Piedmont), [Italy](#Italy), [Flavor](#Flavor), [Sophisticated](#Sophisticated), [Unique](#Unique), [Biscuit](#Biscuit), [Celcius](#Celcius), [Coffee](#Coffee)
+[Amaretto](#amaretto), [Almond](#almond), [Orange](#orange), [Aniseed](#aniseed), [Piedmont](#piedmont), [Italy](#italy), [Flavor](#flavor), [Sophisticated](#sophisticated), [Unique](#unique), [Biscuit](#biscuit), [Celcius](#celcius), [Coffee](#coffee)

@@ -20,4 +20,4 @@ We are always looking for talented and awesome people to work with us. and do so
 
 ------------
 ## Tags
-[Jobs](#Jobs), [Opportunities](#Opportunities), [Team](#Team), [Talented](#Talented), [Awesome](#Awesome), [Cool](#Cool)
+[Jobs](#jobs), [Opportunities](#opportunities), [Team](#team), [Talented](#talented), [Awesome](#awesome), [Cool](#cool)

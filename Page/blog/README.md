@@ -18,4 +18,4 @@ Under the neon light we contemplate the snowy pink mountain and write in this bl
 
 ------------
 ## Tags
-[Blog](#Blog), [Retro sci-fi](#Retro sci-fi), [Inspiration](#Inspiration), [Neon](#Neon), [Mountain](#Mountain), [Writing](#Writing), [Ideas](#Ideas), [Stories](#Stories), [Exploration](#Exploration), [Possibilities](#Possibilities)
+[Blog](#blog), [Retro Sci-fi](#retro-sci-fi), [Inspiration](#inspiration), [Neon](#neon), [Mountain](#mountain), [Writing](#writing), [Ideas](#ideas), [Stories](#stories), [Exploration](#exploration), [Possibilities](#possibilities)

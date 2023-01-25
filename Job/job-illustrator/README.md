@@ -65,4 +65,4 @@ We are looking for a talented Illustrator to create original artwork for digital
 
 ------------
 ## Tags
-[3D](#3D), [Modeler](#Modeler), [Animator](#Animator), [Graphic Designer](#Graphic Designer), [Illustrator](#Illustrator), [Copywriter](#Copywriter), [Dr. Darkness](#Dr. Darkness), [Phixel](#Phixel), [Design](#Design), [Creativity](#Creativity), [Art](#Art), [Job](#Job)
+[3D](#3d), [Modeler](#modeler), [Animator](#animator), [Graphic Designer](#graphic-designer), [Illustrator](#illustrator), [Copywriter](#copywriter), [Dr. Darkness](#dr.-darkness), [Phixel](#phixel), [Design](#design), [Creativity](#creativity), [Art](#art), [Job](#job)

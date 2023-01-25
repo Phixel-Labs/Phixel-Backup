@@ -62,4 +62,4 @@ We are looking for a 3D Modeler to work on various products we develop for our c
 
 ------------
 ## Tags
-[CAD](#CAD), [3D](#3D), [Modeler](#Modeler), [Software](#Software), [Creativity](#Creativity), [Design](#Design), [Illustrator](#Illustrator), [Photoshop](#Photoshop), [Storytelling](#Storytelling), [Communication](#Communication), [Job](#Job)
+[CAD](#cad), [3D](#3d), [Modeler](#modeler), [Software](#software), [Creativity](#creativity), [Design](#design), [Illustrator](#illustrator), [Photoshop](#photoshop), [Storytelling](#storytelling), [Communication](#communication), [Job](#job)

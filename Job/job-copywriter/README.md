@@ -66,4 +66,4 @@ We are looking for a creative Copywriter to write clear and concise copy for ads
 
 ------------
 ## Tags
-[Copywriter](#Copywriter), [Writing](#Writing), [Clear](#Clear), [Concise](#Concise), [Attractive](#Attractive), [Voice](#Voice), [Research](#Research), [SEO](#SEO), [Online](#Online), [Content](#Content), [Job](#Job)
+[Copywriter](#copywriter), [Writing](#writing), [Clear](#clear), [Concise](#concise), [Attractive](#attractive), [Voice](#voice), [Research](#research), [SEO](#seo), [Online](#online), [Content](#content), [Job](#job)

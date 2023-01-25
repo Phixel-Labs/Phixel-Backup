@@ -28,4 +28,4 @@ Lamentamos informarles que nuestro blog en español ya no será actualizado, deb
 
 ------------
 ## Tags
-[Decision](#Decision), [English](#English), [Languages](#Languages), [Spanish](#Spanish), [Language](#Language), [Communication](#Communication), [Blog](#Blog)
+[Decision](#decision), [English](#english), [Languages](#languages), [Spanish](#spanish), [Language](#language), [Communication](#communication), [Blog](#blog)

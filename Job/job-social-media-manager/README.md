@@ -68,4 +68,4 @@ We are looking for a talented Social media manager to administer our and pur cli
 
 ------------
 ## Tags
-[Social Media](#Social Media), [Manager](#Manager), [Marketing](#Marketing), [Communications](#Communications), [Content](#Content), [Research](#Research), [Design](#Design), [Implement](#Implement), [Goals](#Goals), [Traffic](#Traffic), [SEO](#SEO), [Followers](#Followers), [Engagement](#Engagement), [Creativity](#Creativity), [Web](#Web), [Trends](#Trends), [Job](#Job)
+[Social Media](#social-media), [Manager](#manager), [Marketing](#marketing), [Communications](#communications), [Content](#content), [Research](#research), [Design](#design), [Implement](#implement), [Goals](#goals), [Traffic](#traffic), [SEO](#seo), [Followers](#followers), [Engagement](#engagement), [Creativity](#creativity), [Web](#web), [Trends](#trends), [Job](#job)

@@ -59,4 +59,4 @@ We are looking for a talented Video Editor to assemble recorded footage into a f
 
 ------------
 ## Tags
-[Video Editing](#Video Editing), [Filmmaking](#Filmmaking), [Storytelling](#Storytelling), [Post-Production](#Post-Production), [3D](#3D), [Compositing](#Compositing), [Film](#Film), [Job](#Job)
+[Video Editing](#video-editing), [Filmmaking](#filmmaking), [Storytelling](#storytelling), [Post-Production](#post-production), [3D](#3d), [Compositing](#compositing), [Film](#film), [Job](#job)

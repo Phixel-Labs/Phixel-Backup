@@ -25,4 +25,4 @@ From the exotic Caribbean islands, we bring a wide variety of fruits which in th
 
 ------------
 ## Tags
-[Celcius](#Celcius), [Coffee](#Coffee)
+[Celcius](#celcius), [Coffee](#coffee)

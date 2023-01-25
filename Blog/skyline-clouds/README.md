@@ -30,4 +30,4 @@ As you sit and watch the clouds drift by, you can feel the stress and worries of
 
 ------------
 ## Tags
-[Mountain](#Mountain), [Fresh](#Fresh), [Air](#Air), [Relaxing](#Relaxing), [Feel](#Feel), [Clouds](#Clouds), [Scenery](#Scenery), [Attraction](#Attraction), [Artistic](#Artistic), [Tool](#Tool)
+[Mountain](#mountain), [Fresh](#fresh), [Air](#air), [Relaxing](#relaxing), [Feel](#feel), [Clouds](#clouds), [Scenery](#scenery), [Attraction](#attraction), [Artistic](#artistic), [Tool](#tool)

@@ -67,4 +67,4 @@ We are looking for an outstanding Web Developer to be responsible for coding, in
 
 ------------
 ## Tags
-[Web Developer](#Web Developer), [Coding](#Coding), [Innovative](#Innovative), [Design](#Design), [Layout](#Layout), [HTML](#HTML), [CSS](#CSS), [Programming](#Programming), [PHP](#PHP), [JavaScript](#JavaScript), [SQL](#SQL), [Python](#Python), [Security](#Security), [Session](#Session), [Optimization](#Optimization), [Network](#Network), [Diagnostics](#Diagnostics), [Analysis](#Analysis), [Web Technologies](#Web Technologies), [Job](#Job)
+[Web Developer](#web-developer), [Coding](#coding), [Innovative](#innovative), [Design](#design), [Layout](#layout), [HTML](#html), [CSS](#css), [Programming](#programming), [PHP](#php), [JavaScript](#javascript), [SQL](#sql), [Python](#python), [Security](#security), [Session](#session), [Optimization](#optimization), [Network](#network), [Diagnostics](#diagnostics), [Analysis](#analysis), [Web Technologies](#web-technologies), [Job](#job)

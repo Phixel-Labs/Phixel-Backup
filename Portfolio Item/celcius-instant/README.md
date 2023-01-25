@@ -24,4 +24,4 @@ With Celcius you can satisfy your need for Digital Coffee in the Morning, at Nig
 
 ------------
 ## Tags
-[Celcius](#Celcius), [Instant](#Instant), [Coffee](#Coffee), [Digital](#Digital), [Proactivity](#Proactivity), [Stress](#Stress), [Caffeine-Free](#Caffeine-Free), [All-Natural](#All-Natural), [Aromas](#Aromas)
+[Celcius](#celcius), [Instant](#instant), [Coffee](#coffee), [Digital](#digital), [Proactivity](#proactivity), [Stress](#stress), [Caffeine-Free](#caffeine-free), [All-Natural](#all-natural), [Aromas](#aromas)

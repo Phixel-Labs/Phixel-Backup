@@ -63,4 +63,4 @@ We are looking for a talented UI Designer to create amazing user experiences.
 
 ------------
 ## Tags
-[UI](#UI), [Designer](#Designer), [User-Experience](#User-Experience), [Interaction](#Interaction), [Creative](#Creative), [Storytelling](#Storytelling), [Web](#Web), [App](#App), [Video](#Video), [Teamwork](#Teamwork), [Communication](#Communication), [Industry](#Industry), [Production](#Production), [Job](#Job)
+[UI](#ui), [Designer](#designer), [User-Experience](#user-experience), [Interaction](#interaction), [Creative](#creative), [Storytelling](#storytelling), [Web](#web), [App](#app), [Video](#video), [Teamwork](#teamwork), [Communication](#communication), [Industry](#industry), [Production](#production), [Job](#job)

@@ -33,4 +33,4 @@ Tips and strategies to cope with guilt by using Design, from identifying the sou
 
 ------------
 ## Tags
-[Frustration](#Frustration), [Color](#Color), [Shape](#Shape), [Imagery](#Imagery), [Storytelling](#Storytelling), [Affirmations](#Affirmations), [Symmetry](#Symmetry), [Asymmetry](#Asymmetry), [Movement](#Movement), [Typography](#Typography)
+[Frustration](#frustration), [Color](#color), [Shape](#shape), [Imagery](#imagery), [Storytelling](#storytelling), [Affirmations](#affirmations), [Symmetry](#symmetry), [Asymmetry](#asymmetry), [Movement](#movement), [Typography](#typography)

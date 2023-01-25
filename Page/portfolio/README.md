@@ -20,4 +20,4 @@ These are some of our favorite selected works in our Portfolio, showcasing cool,
 
 ------------
 ## Tags
-[Portfolio](#Portfolio), [Selected Works](#Selected Works), [NDA](#NDA), [Innovative](#Innovative), [Forward-thinking](#Forward-thinking), [Projects](#Projects), [Showcase](#Showcase), [Cool](#Cool), [Favorite](#Favorite)
+[Portfolio](#portfolio), [Selected Works](#selected-works), [NDA](#nda), [Innovative](#innovative), [Forward-thinking](#forward-thinking), [Projects](#projects), [Showcase](#showcase), [Cool](#cool), [Favorite](#favorite)
