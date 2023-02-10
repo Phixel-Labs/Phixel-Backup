@@ -3,6 +3,9 @@
 
 # Phixel Backup 🌎
 
+| [Phixel](https://phixel.net/) | [WhatsApp](https://web.whatsapp.com/send/?phone=+573125837936)  | [Instagram](https://instagram.com/the_phixel/)   | [Twitter](https://twitter.com/The_Phixel)  | [LinkedIn](https://linkedin.com/company/the-phixel/)  | [LinkedIn](https://linkedin.com/company/the-phixel/)  | [Facebook](https://facebook.com/phixel.lab/)  | [Dribbble](https://dribbble.com/the_phixel)  | [YouTube](https://www.youtube.com/channel/UCOKrcQIpYpsXlVEJOZb4aLA) |
+|--|--|--|--|--|--|--|--|--|
+
 This repository contains a Markdown, HTML and XML backup of the <a href="https://phixel.net" target="_blank" title="Phixel">phixel.net</a> website. The backup was created to ensure that the site's content is preserved and can be restored if needed.
 
 ## About Phixel
