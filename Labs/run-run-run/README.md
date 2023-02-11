@@ -1,4 +1,4 @@
-# "Run Run Run": The Thrilling Car Game Experience 🚗
+# Run Run Run: The Thrilling Car Game Experience 🚗
 # Run Run Run! 🚗
 
 Get behind the wheel and drive through the broken city, destroying everything in your path. This 3D car game is built with ThreeJS and CannonJS and will test your car racing skills.
@@ -27,9 +27,9 @@ Drive the car with the `WASD` keys.
 The text of the page (instructions and introduction) is partially made in PHP for easy editing, but is not necessary for running the game. Enjoy the game!
 
 ## Instructions
-
-1. Clone the repository
-2. Open index.html in your browser to play the game
+1. Go to https://github.com/Phixel-Labs/Labs/tree/main/ThreeJS/RunRunRun
+2. Clone the repository
+3. Open index.html in your browser to play the game
 
 ## Note
 
