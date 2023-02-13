@@ -98,4 +98,4 @@ This game is perfect for those who love a good challenge and are looking for a f
 
 ------------
 ## Tags
-[Adventure](#adventure), [Driving](#driving), [Skill](#skill), [Challenge](#challenge), [Fun](#fun), [Car](#car), [Game](#game)
+[Adventure](#adventure), [Driving](#driving), [Skill](#skill), [Challenge](#challenge), [Fun](#fun), [Car](#car), [Game](#game), [3D](#3d), [Racing](#racing), [Destruction](#destruction), [ThreeJS](#threejs), [CannonJS](#cannonjs), [GSAP](#gsap)

@@ -27,14 +27,20 @@
             "11": "AdrenalineRush",
             "12": "invader"
         },
-        "tags": [
-            "Adventure",
-            "Driving",
-            "Skill",
-            "Challenge",
-            "Fun",
-            "Car",
-            "Game"
-        ]
+        "tags": {
+            "0": "Adventure",
+            "1": "Driving",
+            "2": "Skill",
+            "3": "Challenge",
+            "4": "Fun",
+            "5": "Car",
+            "6": "Game",
+            "7": "3D",
+            "9": "Racing",
+            "10": "Destruction",
+            "11": "ThreeJS",
+            "12": "CannonJS",
+            "13": "GSAP"
+        }
     }
 }
