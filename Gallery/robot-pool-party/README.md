@@ -12,16 +12,16 @@ Robots are invading the pool party scene and they want to know if you buy them d
 
 Dive into the party!
 ## Media
-<img src="media/e4a53d1a/robot-pool-party-01.jpg" loading="lazy">
-<img src="media/090e589a/robot-pool-party-02.jpg" loading="lazy">
-<img src="media/d800f30e/robot-pool-party-03.jpg" loading="lazy">
-<img src="media/e52f8573/robot-pool-party-04.jpg" loading="lazy">
-<img src="media/3906af1e/robot-pool-party-05.jpg" loading="lazy">
-<img src="media/3e7334de/robot-pool-party-06.jpg" loading="lazy">
-<img src="media/e1a325b3/robot-pool-party-07.jpg" loading="lazy">
-<img src="media/999d0610/robot-pool-party-08.jpg" loading="lazy">
-<img src="media/3bfd4c76/robot-pool-party-09.jpg" loading="lazy">
-<img src="media/96700dfc/robot-pool-party-10.jpg" loading="lazy">
+<img src="media/e4a53d1a/robot-pool-party-01.jpg" loading="lazy"><br>
+<img src="media/090e589a/robot-pool-party-02.jpg" loading="lazy"><br>
+<img src="media/d800f30e/robot-pool-party-03.jpg" loading="lazy"><br>
+<img src="media/e52f8573/robot-pool-party-04.jpg" loading="lazy"><br>
+<img src="media/3906af1e/robot-pool-party-05.jpg" loading="lazy"><br>
+<img src="media/3e7334de/robot-pool-party-06.jpg" loading="lazy"><br>
+<img src="media/e1a325b3/robot-pool-party-07.jpg" loading="lazy"><br>
+<img src="media/999d0610/robot-pool-party-08.jpg" loading="lazy"><br>
+<img src="media/3bfd4c76/robot-pool-party-09.jpg" loading="lazy"><br>
+<img src="media/96700dfc/robot-pool-party-10.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** robot-pool-party

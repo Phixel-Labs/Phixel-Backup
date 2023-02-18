@@ -10,7 +10,7 @@ We understand the importance of having a great logo and work tirelessly to creat
 ## Description
 Phixel understand the importance of having a great logo and work tirelessly to create one that perfectly represents your company.
 ## Media
-<img src="media/992ca5c2/services-logo-design.jpg" loading="lazy">
+<img src="media/992ca5c2/services-logo-design.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** service-logo-design

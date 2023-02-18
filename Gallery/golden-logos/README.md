@@ -6,15 +6,15 @@ Check out our incredible gallery of gold logos and find inspiration for your own
 ## Description
 Our gold logo gallery offers a wide range of design styles and inspiration for finding the perfect gold logo for your brand. From bold and simple designs to metallic effects, there is something for every aesthetic. Discover our top picks and find the perfect gold logo for your brand.
 ## Media
-<img src="media/6934dd09/gold-logo-abstrack-ball.jpg" loading="lazy">
-<img src="media/f7e5cd58/gold-logo-bird.jpg" loading="lazy">
-<img src="media/40d5654b/gold-logo-flow.jpg" loading="lazy">
-<img src="media/77b294bc/gold-logo-lion.jpg" loading="lazy">
-<img src="media/d2df0caf/gold-logo-liquid.jpg" loading="lazy">
-<img src="media/1840c1b2/gold-logo-perfume.jpg" loading="lazy">
-<img src="media/d9bda7cc/gold-logo-pinup.jpg" loading="lazy">
-<img src="media/44a4fe7d/gold-logo-rose.jpg" loading="lazy">
-<img src="media/dc5a2553/gold-logo-soccer.jpg" loading="lazy">
+<img src="media/6934dd09/gold-logo-abstrack-ball.jpg" loading="lazy"><br>
+<img src="media/f7e5cd58/gold-logo-bird.jpg" loading="lazy"><br>
+<img src="media/40d5654b/gold-logo-flow.jpg" loading="lazy"><br>
+<img src="media/77b294bc/gold-logo-lion.jpg" loading="lazy"><br>
+<img src="media/d2df0caf/gold-logo-liquid.jpg" loading="lazy"><br>
+<img src="media/1840c1b2/gold-logo-perfume.jpg" loading="lazy"><br>
+<img src="media/d9bda7cc/gold-logo-pinup.jpg" loading="lazy"><br>
+<img src="media/44a4fe7d/gold-logo-rose.jpg" loading="lazy"><br>
+<img src="media/dc5a2553/gold-logo-soccer.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** golden-logos

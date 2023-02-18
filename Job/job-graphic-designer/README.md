@@ -61,7 +61,7 @@ We are looking for an spotless Graphic Designer
 ## Description
 We are seeking a Graphic Designer to create engaging, branded graphics for a variety of media.
 ## Media
-<img src="media/69191c29/job-graphic-designer.jpg" loading="lazy">
+<img src="media/69191c29/job-graphic-designer.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** job-graphic-designer

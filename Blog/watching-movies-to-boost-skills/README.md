@@ -18,7 +18,7 @@ Discover how movies can inspire and improve your design skills, from composition
 ## Description
 Movies can improve design skills by serving as a source of inspiration and learning. Designers can analyze movie elements such as composition, color theory, typography, lighting, character development, and storytelling to gain new insights and ideas. By paying attention to these elements in movies and using them in their own work, designers can improve their skills and create more engaging designs.
 ## Media
-<img src="media/bbcf1362/watching-movies-to-boost-design.jpg" loading="lazy">
+<img src="media/bbcf1362/watching-movies-to-boost-design.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** watching-movies-to-boost-skills

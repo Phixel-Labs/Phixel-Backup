@@ -8,7 +8,7 @@ Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
 ## Description
 The most obvious word in our name is pixel, but it has more meaning than you think
 ## Media
-<img src="media/bb7dd1d0/the-name-pixel.jpg" loading="lazy">
+<img src="media/bb7dd1d0/the-name-pixel.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** naming-phixel-pixel

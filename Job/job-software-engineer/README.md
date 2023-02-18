@@ -56,7 +56,7 @@ We are looking for a clever Software Engineer
 ## Description
 We are looking for a Software Engineer to produce and implement functional software/web/apps solutions.
 ## Media
-<img src="media/f338a8f6/job-software-engineer.jpg" loading="lazy">
+<img src="media/f338a8f6/job-software-engineer.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** job-software-engineer

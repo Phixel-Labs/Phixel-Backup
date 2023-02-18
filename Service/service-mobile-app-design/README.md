@@ -10,7 +10,7 @@ We want to exceeds your expectations
 ## Description
 We understand that in order to be successful, your app needs to look and feel great.
 ## Media
-<img src="media/37f8ac18/services-mobile-app-design.jpg" loading="lazy">
+<img src="media/37f8ac18/services-mobile-app-design.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** service-mobile-app-design

@@ -8,7 +8,7 @@ Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
 ## Description
 The most used code in the world
 ## Media
-<img src="media/4efb3186/the-name-coding.jpg" loading="lazy">
+<img src="media/4efb3186/the-name-coding.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** naming-phixel-php

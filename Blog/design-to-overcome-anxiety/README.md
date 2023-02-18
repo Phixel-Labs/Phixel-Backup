@@ -31,7 +31,7 @@ For even more tips on using graphic design to overcome anxiety, be sure to check
 ## Description
 Graphic design can be a helpful tool in managing anxiety and finding calm in daily life. In this article, we explored 10 simple yet effective ways that design can be used to reduce anxiety, including experimenting with color, creating a mood board, practicing mindfulness, incorporating nature, using different fonts, incorporating white space, doodling for relaxation, taking breaks, getting creative, and using positive affirmations. By incorporating some of these techniques into your routine, you can find relief from stress and anxiety and improve your overall well-being.
 ## Media
-<img src="media/4cb0d525/design-help-anxiety.jpg" loading="lazy">
+<img src="media/4cb0d525/design-help-anxiety.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** design-to-overcome-anxiety

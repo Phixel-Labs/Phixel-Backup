@@ -12,10 +12,10 @@ Who does not like ice cream?
 
 The white snowy mountains that creates a delicious sweetness…
 ## Media
-	media/2b0746d8/vanilla.gltf
-<img src="media/7d4795a3/vanilla.jpg" loading="lazy">
-<img src="media/d02a1eed/vanilla.png" loading="lazy">
-<img src="media/3df3558e/vanilla.png" loading="lazy">
+	<a href="media/2b0746d8/vanilla.gltf" target="_media">gltf: media/2b0746d8/vanilla.gltf</a><br>
+<img src="media/7d4795a3/vanilla.jpg" loading="lazy"><br>
+<img src="media/d02a1eed/vanilla.png" loading="lazy"><br>
+<img src="media/3df3558e/vanilla.png" loading="lazy"><br>
 
 ------------
 - **Slug:** celcius–vanilla

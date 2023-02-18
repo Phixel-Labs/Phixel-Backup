@@ -21,7 +21,7 @@ Use Design as a therapeutic tool for understanding and processing guilt
 ## Description
 Tips and strategies to cope with guilt by using Design, from identifying the source, use of color, texture, imagery
 ## Media
-<img src="media/9788fbf3/design-help-guilt.jpg" loading="lazy">
+<img src="media/9788fbf3/design-help-guilt.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** design-for-coping-guilt

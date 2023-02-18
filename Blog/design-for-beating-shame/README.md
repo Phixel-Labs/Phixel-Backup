@@ -22,7 +22,7 @@ Boost your confidence with 10 Design techniques for beating shame
 ## Description
 Tips and strategies to overcome shame by using Design, from identifying the source, use of color, negative space, imagery and typography to storytelling and positive affirmations.
 ## Media
-<img src="media/1fc55579/design-help-shame.jpg" loading="lazy">
+<img src="media/1fc55579/design-help-shame.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** design-for-beating-shame

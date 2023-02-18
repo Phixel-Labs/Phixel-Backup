@@ -21,7 +21,7 @@ It's that time of year and we can't wait to receive some cool gifts. Has everyon
 ## Description
 It's definitely exciting to think about what gifts we might receive during the holiday season! If you haven't already started making your wish list, now is a great time to start. Here are some tips for keeping it simple
 ## Media
-<img src="media/25d0242d/welcome-christmas.jpg" loading="lazy">
+<img src="media/25d0242d/welcome-christmas.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** welcome-christmas

@@ -56,7 +56,7 @@ We are looking for an prominent Social Media Manager
 ## Description
 We are looking for a talented Social media manager to administer our and pur clients social media accounts.
 ## Media
-<img src="media/0d9ce3a5/job-social-media-manager.jpg" loading="lazy">
+<img src="media/0d9ce3a5/job-social-media-manager.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** job-social-media-manager

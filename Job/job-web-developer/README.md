@@ -55,7 +55,7 @@ We are looking for an stylish Web Developer
 ## Description
 We are looking for an outstanding Web Developer to be responsible for coding, innovative design, and website layout.
 ## Media
-<img src="media/89691ac3/job-web-developer.jpg" loading="lazy">
+<img src="media/89691ac3/job-web-developer.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** job-web-developer

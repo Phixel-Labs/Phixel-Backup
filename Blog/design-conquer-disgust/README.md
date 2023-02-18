@@ -18,7 +18,7 @@ Unlock your true potential with 10 Design tricks to conquer disgust
 ## Description
 Tips and tricks to overcome disgust by using Design, from identifying the source, use of color and texture to creating a sense of movement and using positive affirmations through typography.
 ## Media
-<img src="media/491ef4e4/design-help-disgust.jpg" loading="lazy">
+<img src="media/491ef4e4/design-help-disgust.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** design-conquer-disgust

@@ -14,7 +14,7 @@ We create user experiences.
 ## Description
 We design digital products with simplicity and clarity in mind.
 ## Media
-<img src="media/fe7fdb81/services-ux-design.jpg" loading="lazy">
+<img src="media/fe7fdb81/services-ux-design.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** service-ux-design

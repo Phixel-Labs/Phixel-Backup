@@ -54,7 +54,7 @@ We are looking for an awesome Social Media Copywriter
 ## Description
 We are looking for a Social Media Copywriter to engage with our users and promote our or our clients’ products and services on social media.
 ## Media
-<img src="media/96993d05/job-social-media-copywriter.jpg" loading="lazy">
+<img src="media/96993d05/job-social-media-copywriter.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** job-social-media-copywriter

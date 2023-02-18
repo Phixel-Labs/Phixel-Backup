@@ -21,7 +21,7 @@ Use Design as a solution for managing annoyance and express emotions in a constr
 ## Description
 Tips and strategies to manage annoyance by using Design, from identifying the source, use of color, shape, imagery, storytelling, positive affirmations, symmetry and asymmetry, movement and visual metaphors.
 ## Media
-<img src="media/df5ef463/design-help-annoyance.jpg" loading="lazy">
+<img src="media/df5ef463/design-help-annoyance.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** design-for-managing-annoyance

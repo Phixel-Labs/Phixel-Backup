@@ -53,7 +53,7 @@ We are looking for an breathtaking Illustrator
 ## Description
 We are looking for a talented Illustrator to create original artwork for digital publications.
 ## Media
-<img src="media/9dfa348d/job-illustrator.jpg" loading="lazy">
+<img src="media/9dfa348d/job-illustrator.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** job-illustrator

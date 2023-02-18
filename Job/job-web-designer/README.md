@@ -51,7 +51,7 @@ We are looking for an spectacular Web Designer
 ## Description
 We are looking for a talented Web Designer to create amazing user experiences.
 ## Media
-<img src="media/c963a7c7/job-web-designer.jpg" loading="lazy">
+<img src="media/c963a7c7/job-web-designer.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** job-web-designer

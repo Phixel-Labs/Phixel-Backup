@@ -10,10 +10,10 @@ Sensual Apple for Lovers
 ## Description
 With it's round and red appearance is capable of generating an pleasure that can only be reached to with its delightful sweetness.
 ## Media
-	media/e7a837d3/apple.gltf
-<img src="media/b0aed51a/apple.jpg" loading="lazy">
-<img src="media/b4522c5a/apple.png" loading="lazy">
-<img src="media/2b838410/apple.png" loading="lazy">
+	<a href="media/e7a837d3/apple.gltf" target="_media">gltf: media/e7a837d3/apple.gltf</a><br>
+<img src="media/b0aed51a/apple.jpg" loading="lazy"><br>
+<img src="media/b4522c5a/apple.png" loading="lazy"><br>
+<img src="media/2b838410/apple.png" loading="lazy"><br>
 
 ------------
 - **Slug:** celcius–apple

@@ -10,7 +10,7 @@ Our team of skilled motion graphics artists can help to create videos, product d
 ## Description
 In Phixel create stunning motion graphics that make your brand stand out from the competition.
 ## Media
-<img src="media/cac5154a/services-motion-graphic.jpg" loading="lazy">
+<img src="media/cac5154a/services-motion-graphic.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** service-motion-graphic

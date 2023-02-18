@@ -13,7 +13,7 @@ Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
 ## Description
 This letter is a mystery
 ## Media
-<img src="media/c5baa503/the-name-wildcard.jpg" loading="lazy">
+<img src="media/c5baa503/the-name-wildcard.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** naming-phixel-x

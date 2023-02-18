@@ -13,7 +13,7 @@ Experience the nostalgia and excitement of the new year with The Time-Traveling 
 ## Description
 A team of workers at a company called Phixel discover an old VHS player with a tape inside that contains footage from the company's early days. As they watch the footage, they are filled with nostalgia and pride, and are reminded of the hard work and dedication that brought them to where they are today. As the new year begins, they are excited for the opportunities that it will bring and determined to face any challenges with the same passion and drive that has brought them this far.
 ## Media
-<img src="media/eb740791/time-traveling-vhs.jpg" loading="lazy">
+<img src="media/eb740791/time-traveling-vhs.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** time-traveling-vhs
