@@ -39,7 +39,8 @@ In the vastness of the universe, it can be easy to feel small and alone. But wit
 <img src="media/e4441c24/landing-space-card-en.jpg" loading="lazy"><br>
 <img src="media/658ddb1b/landing-space-complete.jpg" loading="lazy"><br>
 <img src="media/e4629bb2/landing-space-cover.jpg" loading="lazy"><br>
-<video control><source src="media/7f8fecf3/rogue-supernova.mp4" type="video/mp4"> Video: media/7f8fecf3/rogue-supernova.mp4</video><br>
+	<a href="media/7f8fecf3/rogue-supernova.mp4" target="_media">mp4: media/7f8fecf3/rogue-supernova.mp4</a><br>
+
 ------------
 - **Slug:** deep-space
 - **Date:** 03/11/2022

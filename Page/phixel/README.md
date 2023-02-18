@@ -24,19 +24,24 @@ We are Phixel, a team of specialized designers and developers with experience in
 <img src="media/1090c9f6/favicon.png" loading="lazy"><br>
 <img src="media/2132a449/header.jpg" loading="lazy"><br>
 <img src="media/2f1399c7/icon.png" loading="lazy"><br>
-	<a href="media/cd3ad315/line-mountains-1.svg" target="_media">svg: media/cd3ad315/line-mountains-1.svg</a><br>
+<img src="media/cd3ad315/line-mountains-1.svg" loading="lazy"><br>
 <img src="media/4f1f9a0e/logo-dark.png" loading="lazy"><br>
 <img src="media/87bb5726/logo-h-dark.png" loading="lazy"><br>
 <img src="media/9aafa887/logo-h.png" loading="lazy"><br>
 <img src="media/c1afd73f/logo.png" loading="lazy"><br>
 <img src="media/15faba2f/maxresdefault-1.jpg" loading="lazy"><br>
-<audio controls><source src="media/588ad593/loop.mp3" type="audio/mp3"> Audio: media/588ad593/loop.mp3</audio><br><img src="media/10dc780a/phixel-reel-1-mp4-image-1.jpg" loading="lazy"><br>
+	<a href="media/588ad593/loop.mp3" target="_media">mp3: media/588ad593/loop.mp3</a><br>
+<img src="media/10dc780a/phixel-reel-1-mp4-image-1.jpg" loading="lazy"><br>
 <img src="media/3545d842/phixel-reel-1-mp4-image.jpg" loading="lazy"><br>
 <img src="media/8d044c0a/qr.jpg" loading="lazy"><br>
 <img src="media/7c0369dc/television-deep-in-the-snow.jpg" loading="lazy"><br>
 <img src="media/be434d20/vhs-player-mp4-image.jpg" loading="lazy"><br>
 <img src="media/bfdb6279/video.jpg" loading="lazy"><br>
-<video control><source src="media/52aee581/logo-reveal.mp4" type="video/mp4"> Video: media/52aee581/logo-reveal.mp4</video><br><video control><source src="media/3a478bae/development-loop.mp4" type="video/mp4"> Video: media/3a478bae/development-loop.mp4</video><br><video control><source src="media/a1595000/television-deep-in-the-clouds.mp4" type="video/mp4"> Video: media/a1595000/television-deep-in-the-clouds.mp4</video><br><video control><source src="media/822f259c/vhs-player.mp4" type="video/mp4"> Video: media/822f259c/vhs-player.mp4</video><br><img src="media/a3b77e68/we-are-phixel-celcius-development-mp4-image.jpg" loading="lazy"><br>
+	<a href="media/52aee581/logo-reveal.mp4" target="_media">mp4: media/52aee581/logo-reveal.mp4</a><br>
+	<a href="media/3a478bae/development-loop.mp4" target="_media">mp4: media/3a478bae/development-loop.mp4</a><br>
+	<a href="media/a1595000/television-deep-in-the-clouds.mp4" target="_media">mp4: media/a1595000/television-deep-in-the-clouds.mp4</a><br>
+	<a href="media/822f259c/vhs-player.mp4" target="_media">mp4: media/822f259c/vhs-player.mp4</a><br>
+<img src="media/a3b77e68/we-are-phixel-celcius-development-mp4-image.jpg" loading="lazy"><br>
 	<a href="media/7d4c1aa9/logo.glb" target="_media">glb: media/7d4c1aa9/logo.glb</a><br>
 	<a href="media/c20cbb54/mountains_2.glb" target="_media">glb: media/c20cbb54/mountains_2.glb</a><br>
 	<a href="media/1b63f4b1/mountains_3.glb" target="_media">glb: media/1b63f4b1/mountains_3.glb</a><br>

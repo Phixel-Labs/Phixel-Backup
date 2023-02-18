@@ -26,7 +26,8 @@ A private detective named Plisk investigates the disappearance of a young man na
 <img src="media/b39e54f1/pumpkin-hunters-cover.jpg" loading="lazy"><br>
 <img src="media/87841d55/pumpkin-hunters-detective.jpg" loading="lazy"><br>
 <img src="media/5e69dc79/pumpkin-hunters-news.jpg" loading="lazy"><br>
-<audio controls><source src="media/a3fdcd2b/the-pumpkin-hunters-curse.mp3" type="audio/mp3"> Audio: media/a3fdcd2b/the-pumpkin-hunters-curse.mp3</audio><br>
+	<a href="media/a3fdcd2b/the-pumpkin-hunters-curse.mp3" target="_media">mp3: media/a3fdcd2b/the-pumpkin-hunters-curse.mp3</a><br>
+
 ------------
 - **Slug:** pumpkin-hunter
 - **Date:** 31/10/2022

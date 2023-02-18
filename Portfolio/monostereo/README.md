@@ -20,7 +20,8 @@ We want to help you learn more about the world around you and make sure that you
 <img src="media/09217723/monostereo-mockup-03.jpg" loading="lazy"><br>
 <img src="media/c53eb2c6/monostereo-mockup-04.jpg" loading="lazy"><br>
 <img src="media/e05bc27a/monostereo.jpg" loading="lazy"><br>
-<video control><source src="media/1bda8ef5/monostereo.mp4" type="video/mp4"> Video: media/1bda8ef5/monostereo.mp4</video><br>
+	<a href="media/1bda8ef5/monostereo.mp4" target="_media">mp4: media/1bda8ef5/monostereo.mp4</a><br>
+
 ------------
 - **Slug:** monostereo
 - **Date:** 18/11/2022

@@ -24,7 +24,8 @@ Celcius coffee is 15+ uniquely generated bottles. No two are exactly alike. No t
 <img src="media/6f2adee2/all.jpg" loading="lazy"><br>
 <img src="media/a4b4d0ba/amaretto.jpg" loading="lazy"><br>
 	<a href="media/de6eb353/loading.webp" target="_media">webp: media/de6eb353/loading.webp</a><br>
-<video control><source src="media/7829be52/presentation.mp4" type="video/mp4"> Video: media/7829be52/presentation.mp4</video><br>
+	<a href="media/7829be52/presentation.mp4" target="_media">mp4: media/7829be52/presentation.mp4</a><br>
+
 ------------
 - **Slug:** celcius
 - **Date:** 20/10/2022

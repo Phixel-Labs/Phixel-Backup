@@ -14,7 +14,8 @@ In this case study, you&#039;ll learn more about the design process that went in
 ## Media
 <img src="media/a58fa242/hyundai-ioniq-5-blender-visualstudio.jpg" loading="lazy"><br>
 <img src="media/0ffd27f9/hyundai-ioniq-5-cover.jpg" loading="lazy"><br>
-<video control><source src="media/bd491a79/hyundai-ioniq-5-desktop-mobile-1.mp4" type="video/mp4"> Video: media/bd491a79/hyundai-ioniq-5-desktop-mobile-1.mp4</video><br><img src="media/30870a54/hyundai-ioniq-5-mobile-2.jpg" loading="lazy"><br>
+	<a href="media/bd491a79/hyundai-ioniq-5-desktop-mobile-1.mp4" target="_media">mp4: media/bd491a79/hyundai-ioniq-5-desktop-mobile-1.mp4</a><br>
+<img src="media/30870a54/hyundai-ioniq-5-mobile-2.jpg" loading="lazy"><br>
 <img src="media/e98d7712/hyundai-ioniq-5-mobile.jpg" loading="lazy"><br>
 <img src="media/8fe2002c/hyundai-ioniq-5-tablet-2.jpg" loading="lazy"><br>
 <img src="media/7aa89d4f/hyundai-ioniq-5-tablet.jpg" loading="lazy"><br>
