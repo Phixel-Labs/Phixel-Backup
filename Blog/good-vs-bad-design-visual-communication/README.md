@@ -33,7 +33,7 @@ This article discusses the importance of good design in visual communication and
 - **URL:** [https://phixel.net/en/activity/design/good-vs-bad-design-visual-communication/](https://phixel.net/en/activity/design/good-vs-bad-design-visual-communication/)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #Design, #VisualCommunication, #UserExperience, #Engagement, #Trust, #GoodDesign, #BadDesign, #DesignTips, #DesignAdvice, #DesignInspiration
-- **Emojis:** 😇 🆚 😈 🤼 ‍♂ ♀️ 📚 📖 ⚔️ 💥 📊 💼 💡 😎 🤯 🎨 🥊 💻 🤺 👨
+- **Emojis:** 😇🆚😈🤼‍♂️📱🤼‍♀️📚📖⚔️💥📊💼💡😎🤯🤼🎨🥊💻🤺👨‍🎨
 
 ------------
 ## Tags

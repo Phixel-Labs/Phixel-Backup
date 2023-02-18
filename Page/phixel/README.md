@@ -57,7 +57,8 @@ We are Phixel, a team of specialized designers and developers with experience in
 - **URL:** [https://phixel.net/](https://phixel.net/)
 - **Type:** [Page](#page)
 - **Hashtags:** #phixel, #withlove, #homepage, #webdesigners, #webdesignstudio, #phixelstudio, #design, #designer, #welcome, #home, #webdevelopers, #videoeditors, #studio, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
-- **Emojis:** 🆒 🌎 🌐 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
+- **Emojis:** 🆒🌎🌐🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌
+🅟ⓗ🅸Ⓧ🅴🄻
 
 ------------
 ## Tags

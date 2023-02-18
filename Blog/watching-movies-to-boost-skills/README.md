@@ -26,7 +26,7 @@ Movies can improve design skills by serving as a source of inspiration and learn
 - **URL:** [https://phixel.net/en/activity/design/watching-movies-to-boost-skills/](https://phixel.net/en/activity/design/watching-movies-to-boost-skills/)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #movies, #designinspiration, #designskills, #composition, #colortheory, #storytelling, #characterdevelopment, #movieinspiration, #designerslife
-- **Emojis:** 🎬 🎥 💡 🎨 🎭 🌈 🎞
+- **Emojis:** 🎬🎥💡🎨🎭🎥🌈🎞️🎨🎪😊😁😎😍🤩😜😝😏😉😆
 
 ------------
 ## Tags

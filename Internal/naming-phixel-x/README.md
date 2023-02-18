@@ -21,7 +21,8 @@ This letter is a mystery
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Type:** [Internal](#internal)
 - **Hashtags:** #phixel, #pixel, #PHP, #phoenix, #fenix, #phix, #fix, #x, #phi
-- **Emojis:** 🆒 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
+- **Emojis:** 🆒🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌
+🅟ⓗ🅸Ⓧ🅴🄻
 
 ------------
 ## Tags

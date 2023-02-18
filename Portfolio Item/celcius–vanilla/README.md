@@ -23,7 +23,7 @@ The white snowy mountains that creates a delicious sweetness…
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)
 - **Hashtags:** #phixel, #celcius, #instacoffee, #celsius, #coffeelover, #cafe, #vanilla
-- **Emojis:** 🆒
+- **Emojis:** 🆒☕🍧🥤
 
 ------------
 ## Tags

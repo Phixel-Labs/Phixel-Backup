@@ -31,7 +31,7 @@ We want to help you learn more about the world around you and make sure that you
 - **URL:** [https://phixel.net/en/portfolio/monostereo/](https://phixel.net/en/portfolio/monostereo/)
 - **Type:** [Portfolio Item](#portfolio-item)
 - **Hashtags:** #phixel, #monostereo, #mono, #stereo, #podcast, #podcastapp, #radio, #chimpanzee, #podcastaddict, #monkeybussines, #gorilla, #monkey, #primate, #chimp
-- **Emojis:** 🐒 🎙 🦧 🔊 🎶
+- **Emojis:** 🐒🎙️🙈🎧🐵🎤🙉📰🙊📻🦍🎛️🦧🔊🎶
 
 ------------
 ## Tags

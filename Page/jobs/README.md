@@ -16,7 +16,7 @@ We are always looking for talented and awesome people to work with us. and do so
 - **URL:** [https://phixel.net/en/about-us/jobs/](https://phixel.net/en/about-us/jobs/)
 - **Type:** [Page](#page)
 - **Hashtags:** #phixel, #withlove, #webdesigners, #clients, #ui, #ux, #videoeditors, #webdevelopers, #animation, #webdesignstudio, #design, #workhard, #designer, #love, #gui, #illustration, #remotework, #studio, #motiongraphics, #workfromanywhere, #worksmart, #3d, #respet, #phixelstudio, #foryou, #creativestudio
-- **Emojis:** 🆒 💼 💪 🏼 💕 🎒 💖 📠 💸 💞 💟 💙 👨 👩 🏽 🎓 📈 🧰 💛 👷 ‍♂ ️❤ 🎯 💓 🤗 🤲 🔨 📐 ️‍ 🚩 🌳 ❣️ 🤝 🏅 🔧 👏 🔥 🌠 💯
+- **Emojis:** 🆒💼💪🏼💕🎒💖📠💸💞💟💙✨🖤💗🤝‍👨🏼👩🏽‍📊💜❤️🤎💚👀🤍👨🏻‍🎓✌📄💻💎⭐📈🧰💛👷🏽‍♂️❤🎯💓🤗🤲🔨📐♡🌷🎉🫶💼🏼❤️‍🚩🌳❣️🤝💙🏅🔧👏🔥🌠💯✉🎇
 
 ------------
 ## Tags

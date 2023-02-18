@@ -32,7 +32,7 @@ Celcius coffee is 15+ uniquely generated bottles. No two are exactly alike. No t
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio](#portfolio)
 - **Hashtags:** #phixel, #celcius, #instacoffee, #celsius, #coffeelover, #cafe, #tropical, #chocolate, #vanilla, #mint, #mojito, #picante, #cinnamon, #apple, #berries, #honey, #greentea, #foryou
-- **Emojis:** 🆒
+- **Emojis:** 🆒☕🥤🍵🌴🍫🍧🌿🍸🍾🥧🍎🍒🍯🌶️
 
 ------------
 ## Tags

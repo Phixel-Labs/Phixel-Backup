@@ -34,7 +34,7 @@ A private detective named Plisk investigates the disappearance of a young man na
 - **URL:** [https://phixel.net/en/pumpkin-hunter/](https://phixel.net/en/pumpkin-hunter/)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #halloween, #scary, #halloweenparty, #halloweenpumpkin, #spooky, #candy, #sweets, #pumpkin, #orangepumpkin, #curse, #legend, #supernatural, #disappearance, #hunter, #detective, #horror, #investigator, #apocalypse, #legends, #privateinvestigator, #vhs, #vhsfixer, #mystery, #suspense
-- **Emojis:** 🙀 🎃 📺 🧥 🕯 🔍 💀 🕙 🕸 ️​ ​​ 📼 ​⏮ ⏭️ ⏯️
+- **Emojis:** 🙀🎃📺​👫📰🕵​🧥🕯🔍💀🕙🕸️​​​📼​⏮️​⏭️⏯️
 
 ------------
 ## Tags

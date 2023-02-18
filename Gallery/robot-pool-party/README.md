@@ -29,7 +29,7 @@ Dive into the party!
 - **URL:** [https://phixel.net/en/gallery/robot-pool-party/](https://phixel.net/en/gallery/robot-pool-party/)
 - **Type:** [Gallery](#gallery)
 - **Hashtags:** #phixel, #robot, #robotpoolparty, #poolparty, #robotparty, #poolside, #party, #fun, #robots, #robotmeetup, #robotselfie, #poolfun, #robotstyle
-- **Emojis:** 🆒 🌊 ☀️ 🕶 🎉 🤖 🏊 🦾 🛹 ⚙️ ⚡️ 🏄 👙 🩳 🍹 🥳 🍨 🎈 🤽 ‍♀ 💦 🏻
+- **Emojis:** 🆒🌊☀️🕶🎉🤖🏊🦾🛹⚙️⚡️🏄👙🩳🍹🥳🍨🎈🤽‍♀️🏖️💦🏊🏻‍♀️💻🦿
 
 ------------
 ## Tags

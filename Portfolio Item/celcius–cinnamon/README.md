@@ -22,7 +22,7 @@ The ideal cereal for a cozy home-style breakfast or brunch.
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)
 - **Hashtags:** #phixel, #celcius, #instacoffee, #celsius, #coffeelover, #cafe, #cinnamon
-- **Emojis:** 🆒
+- **Emojis:** 🆒☕🥧🥤
 
 ------------
 ## Tags

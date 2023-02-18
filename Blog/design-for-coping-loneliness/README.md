@@ -27,7 +27,7 @@ Tips and strategies to cope with loneliness by using Design, from identifying th
 - **URL:** [https://phixel.net/en/tips/mental-help/design-for-coping-loneliness/](https://phixel.net/en/tips/mental-help/design-for-coping-loneliness/)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #graphicdesign, #loneliness, #coping, #designthinking, #emotiondesign, #colorpsychology, #typography, #connection, #storytelling, #positivity, #symmetry, #asymmetry
-- **Emojis:** 😔 😭 🎨 💔 🧠 💭 💡 🌟 🌲 🐦 😶
+- **Emojis:** 😔😭🎨💔🧠💭💡🌟✨🌅🕊️🌲🐦😶
 
 ------------
 ## Tags

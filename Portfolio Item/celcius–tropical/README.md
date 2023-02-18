@@ -21,7 +21,7 @@ From the exotic Caribbean islands, we bring a wide variety of fruits which in th
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)
 - **Hashtags:** #phixel, #celcius, #instacoffee, #celsius, #coffeelover, #cafe, #tropical
-- **Emojis:** 🆒
+- **Emojis:** 🆒☕🌴🥤
 
 ------------
 ## Tags

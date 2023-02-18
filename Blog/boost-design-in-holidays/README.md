@@ -26,7 +26,7 @@ Designers can make the most of the holiday season by creating holiday-themed des
 - **URL:** [https://phixel.net/en/boost-design-in-holidays/](https://phixel.net/en/boost-design-in-holidays/)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #designbusiness, #holidays, #holidaydesign, #boostbusiness, #graphicdesign, #festiveseason, #designer, #holidaypromotions, #socialmedia, #designcollaboration, #givingback, #designsuccess, #holidayseason, #designerbusiness, #designerlife, #happyholidays
-- **Emojis:** 🎄 🎅 🏽 🎁 🎨 💻 💡 💰
+- **Emojis:** 🎄🎅🏽🎁🎨💻💡💰
 
 ------------
 ## Tags

@@ -18,7 +18,8 @@ The goal is simple, , explore and bring your ideas to life
 - **URL:** [https://phixel.net/](https://phixel.net/)
 - **Type:** [Internal](#internal)
 - **Hashtags:** #phixel, #withlove, #homepage, #webdesigners, #webdesignstudio, #phixelstudio, #design, #designer, #welcome, #home, #webdevelopers, #videoeditors, #studio, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
-- **Emojis:** 🆒 🌎 🌐 🎨 🛸 📼 📺 📹 👍 🔗 📝 🏠 ✍️ 👨 💻 👑 🗃 👾 🎮 📲 🪐 🌟 👽 🚀 🌌 🅸
+- **Emojis:** 🆒🌎🌐🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌
+🅟ⓗ🅸Ⓧ🅴🄻
 
 ------------
 ## Tags

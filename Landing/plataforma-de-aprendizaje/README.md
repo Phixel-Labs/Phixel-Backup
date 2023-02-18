@@ -321,7 +321,7 @@ Nuestro objetivo es desarrollar una plataforma de aprendizaje en línea escalabl
 - **URL:** [https://phixel.net/es/plataforma-de-aprendizaje/](https://phixel.net/es/plataforma-de-aprendizaje/)
 - **Type:** [Landing](#landing)
 - **Hashtags:** #LearningPlatform, #ELearning, #OnlineEducation, #LearningOnline, #PersonalizedLearning, #EffectiveLearning, #ScalableLearning, #InnovativeSolution, #OnlineCourses, #LearningForAll, #OnlineSkills, #DigitalEducation, #SkillDevelopment, #EducationInnovation, #ContinuousLearning, #OnlineClasses, #LearningExperience, #CustomizableLearning, #EducationRevolution, #OnlineLearningAdvantages
-- **Emojis:** 📖 📚 📝 🧠 🏫 🧑 🎓 🏽 ➕➖ ✖️ 🗒 🧪 🔬
+- **Emojis:** 📖📚📝🧠🏫🧑‍🎓👩🏾‍🎓🎓🧑🏽‍🏫➗➕➖✖️🗒🧪🔬
 
 ------------
 ## Tags

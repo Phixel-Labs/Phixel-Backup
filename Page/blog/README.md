@@ -14,7 +14,7 @@ Under the neon light we contemplate the snowy pink mountain and write in this bl
 - **URL:** [https://phixel.net/en/blog/](https://phixel.net/en/blog/)
 - **Type:** [Page](#page)
 - **Hashtags:** #mountain, #blog, #retrofuture, #videography, #animation, #retrofuturism, #sci-fi, #phixel, #video, #writer, #sciencefiction, #writing, #blogging, #writerstyle, #canthelpbutfeelinspired, #retro, #retrofutureart, #retrofuturistic
-- **Emojis:** 📢 📃 🔌 🦄 ✏️ 🧪 😎 📄 🐲 👓 🦉 👽 🎮 📼 🪄 🤖 🐇 📫 🪐 👨 📽 🦼 🐈 🏕 🧜 🏿 ⚗️ 📷 🏞 ♀️ 👺 🔥 ☂️ ☢️ 👍 🦾
+- **Emojis:** 📢📃🔌🦄☢🕹️✏️🧪😎📄🐲👓🦉👽🎮📼🪄🤖🐇📫🪐👨‍🚀📰🗞️📽️🧫🦄🌌📚⬛🦼📽️📽💬👌👨🏼‍🐈‍🌀🔥📖📝✍️📒👾🌶️🏕️💾📓🛸🚀🖊️🧜🏿⚗️📷🏞️👱🏿‍♀️👺🔥☂️☢️👍🦾
 
 ------------
 ## Tags

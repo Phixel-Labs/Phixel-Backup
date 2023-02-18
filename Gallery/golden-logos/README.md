@@ -22,7 +22,7 @@ Our gold logo gallery offers a wide range of design styles and inspiration for f
 - **URL:** [https://phixel.net/en/gallery/golden-logos/](https://phixel.net/en/gallery/golden-logos/)
 - **Type:** [Gallery](#gallery)
 - **Hashtags:** #goldlogo, #luxurybranding, #sophisticatedlogo, #glamourousbranding, #goldbranding, #classylogo, #elegantbranding, #luxelogo, #brandingtips, #brandingdesign, #goldlogogallery, #luxurylogos, #sophisticatedlogos, #glamourouslogos, #goldbrandinginspiration, #classylogos, #elegantlogos, #luxelogos, #logogallery, #logodesigninspiration
-- **Emojis:** 💛 ⚜️ 🪙 📀 🌟 🔱 🟨 🌕 💫 👑
+- **Emojis:** 💛⚜️✨🧈🥇🟡🏆⭐🪙📀🌟🔱🟨🌕💫👑
 
 ------------
 ## Tags

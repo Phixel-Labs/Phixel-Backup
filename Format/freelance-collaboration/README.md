@@ -31,7 +31,7 @@ Phixel is is open to collaborating with freelance professionals on a project bas
 - **URL:** [ ]( )
 - **Type:** [Format](#format)
 - **Hashtags:** #FreelanceCareer, #PhixelCollaboration, #TalentedIndividuals, #DedicatedTeam, #CreativeOpportunities, #ProjectBasis, #ValueForCompletion, #NecessaryMaterials, #RealisticDeadlines, #DailyCommunication
-- **Emojis:** 🗝 🧑 💼 👷 🏿 📄 📗 💻 📘 📖
+- **Emojis:** 🗝☕🕰📜🎞🖋️🧑‍🏭👩🏼‍💼👷🏿📄📗💻📘📖⁣📓📝🧰💵
 
 ------------
 ## Tags

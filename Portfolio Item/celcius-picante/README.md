@@ -22,7 +22,7 @@ Came from the farthest corners of Mexico a thousand Years recipe that is now ava
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Type:** [Portfolio Item](#portfolio-item)
 - **Hashtags:** #phixel, #celcius, #instacoffee, #celsius, #coffeelover, #cafe, #picante
-- **Emojis:** 🆒 🥤
+- **Emojis:** 🆒☕🌶️🥤
 
 ------------
 ## Tags
