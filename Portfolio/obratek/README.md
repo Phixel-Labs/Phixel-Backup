@@ -18,7 +18,7 @@ A hi-end urban design architecture firm based in Bogotá that provides cutting-e
 <img src="media/ed4db3b6/obratek-logo.png" loading="lazy">
 <img src="media/006a58ef/obratek-office-wall.jpg" loading="lazy">
 <img src="media/7e935d56/obratek-stationery.jpg" loading="lazy">
-<video control preload="none"><source src="media/eb2ec2db/obratek-video.mp4" type="video/mp4"></video>	media/df039047/obratek.glb
+<video control><source src="media/eb2ec2db/obratek-video.mp4" type="video/mp4"></video>	media/df039047/obratek.glb
 
 ------------
 - **Slug:** obratek
