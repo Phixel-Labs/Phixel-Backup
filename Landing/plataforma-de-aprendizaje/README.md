@@ -325,4 +325,4 @@ Nuestro objetivo es desarrollar una plataforma de aprendizaje en línea escalabl
 
 ------------
 ## Tags
-[ ](# )
+[Online Learning Platform](#online-learning-platform), [Innovation](#innovation), [Accessibility](#accessibility), [Scalability](#scalability), [Customization](#customization), [Effective Learning](#effective-learning), [Basic Skills](#basic-skills), [Advanced Skills](#advanced-skills)
