@@ -10,7 +10,7 @@ Morning Coffee for All Days
 ## Description
 Like every morning, you cannot start the day without enjoying a good coffee.
 ## Media
-	<a href="media/92710c93/coffee.gltf" target="_media">gltf: media/92710c93/coffee.gltf</a><br>
+	<a href="media/92710c93/coffee.gltf" target="_media">gltf: coffee.gltf</a><br>
 <img src="media/fea73e9c/coffee.jpg" loading="lazy"><br>
 <img src="media/50ea7c48/coffee.png" loading="lazy"><br>
 <img src="media/21eaca06/coffee.png" loading="lazy"><br>

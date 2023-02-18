@@ -16,8 +16,8 @@ Remember when you could spend hours playing pixelated video games in front of th
 ## Description
 Remember those dreamy pixelscapes that captured your imagination and made you feel like you were in a different world?
 ## Media
-	<a href="media/3ef3e8c3/dreamy-pixelscapes.webp" target="_media">webp: media/3ef3e8c3/dreamy-pixelscapes.webp</a><br>
-	<a href="media/a196434a/tv-8-bit-game.mp4" target="_media">mp4: media/a196434a/tv-8-bit-game.mp4</a><br>
+	<a href="media/3ef3e8c3/dreamy-pixelscapes.webp" target="_media">webp: dreamy-pixelscapes.webp</a><br>
+	<a href="media/a196434a/tv-8-bit-game.mp4" target="_media">mp4: tv-8-bit-game.mp4</a><br>
 
 ------------
 - **Slug:** dreamy-pixelscapes

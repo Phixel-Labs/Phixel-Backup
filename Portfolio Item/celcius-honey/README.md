@@ -12,7 +12,7 @@ The Royal Honey is perfect for when you want a little extra sweetness boost in y
 
 We've cut down on sugar, but not on deliciousness!
 ## Media
-	<a href="media/ffd4a2b5/honey.gltf" target="_media">gltf: media/ffd4a2b5/honey.gltf</a><br>
+	<a href="media/ffd4a2b5/honey.gltf" target="_media">gltf: honey.gltf</a><br>
 <img src="media/c82be806/honey.jpg" loading="lazy"><br>
 <img src="media/970d2278/honey.png" loading="lazy"><br>
 <img src="media/17e567c5/honey.png" loading="lazy"><br>

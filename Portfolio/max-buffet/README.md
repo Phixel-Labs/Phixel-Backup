@@ -19,7 +19,7 @@ The finest quality Top-quality meats and poultry, sourced carefully to ensure yo
 <img src="media/66bcff1e/max-buffet-04-1.jpg" loading="lazy"><br>
 <img src="media/02227a0c/max-buffet-05-1.jpg" loading="lazy"><br>
 <img src="media/f4783cb6/max-buffet-06.jpg" loading="lazy"><br>
-	<a href="media/34742e5f/total-max-buffet-package.glb" target="_media">glb: media/34742e5f/total-max-buffet-package.glb</a><br>
+	<a href="media/34742e5f/total-max-buffet-package.glb" target="_media">glb: total-max-buffet-package.glb</a><br>
 
 ------------
 - **Slug:** max-buffet

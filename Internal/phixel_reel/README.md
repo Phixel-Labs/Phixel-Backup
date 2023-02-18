@@ -9,8 +9,8 @@ beautiful and bold visuals
 ## Description
 We're here to create beautiful and bold visuals
 ## Media
-	<a href="media/03799ce3/phixel-reel-1.mp4" target="_media">mp4: media/03799ce3/phixel-reel-1.mp4</a><br>
-	<a href="media/a1595000/television-deep-in-the-clouds.mp4" target="_media">mp4: media/a1595000/television-deep-in-the-clouds.mp4</a><br>
+	<a href="media/03799ce3/phixel-reel-1.mp4" target="_media">mp4: phixel-reel-1.mp4</a><br>
+	<a href="media/a1595000/television-deep-in-the-clouds.mp4" target="_media">mp4: television-deep-in-the-clouds.mp4</a><br>
 
 ------------
 - **Slug:** phixel_reel

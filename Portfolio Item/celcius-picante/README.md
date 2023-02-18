@@ -11,7 +11,7 @@ Hot & Heat Picante Like Salsa
 ## Description
 Came from the farthest corners of Mexico a thousand Years recipe that is now available to those fans that cannot to enjoy resist the spicy of a great “Salsa”.
 ## Media
-	<a href="media/db1007c5/picante.gltf" target="_media">gltf: media/db1007c5/picante.gltf</a><br>
+	<a href="media/db1007c5/picante.gltf" target="_media">gltf: picante.gltf</a><br>
 <img src="media/1d7e235c/picante.jpg" loading="lazy"><br>
 <img src="media/4df4d57d/picante.png" loading="lazy"><br>
 <img src="media/a6864051/picante.png" loading="lazy"><br>

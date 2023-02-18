@@ -9,8 +9,8 @@ The goal is simple
 ## Description
 The goal is simple, , explore and bring your ideas to life
 ## Media
-	<a href="media/3a478bae/development-loop.mp4" target="_media">mp4: media/3a478bae/development-loop.mp4</a><br>
-	<a href="media/fbc4d359/we-are-phixel-celcius-development.mp4" target="_media">mp4: media/fbc4d359/we-are-phixel-celcius-development.mp4</a><br>
+	<a href="media/3a478bae/development-loop.mp4" target="_media">mp4: development-loop.mp4</a><br>
+	<a href="media/fbc4d359/we-are-phixel-celcius-development.mp4" target="_media">mp4: we-are-phixel-celcius-development.mp4</a><br>
 
 ------------
 - **Slug:** phixel_action
