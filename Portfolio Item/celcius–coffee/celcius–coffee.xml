@@ -9,10 +9,10 @@ Whether you're craving something hot or burnt, we've got the perfect beverage fo
 	<excerpt>Morning Coffee for All Days</excerpt>
 	<description>Like every morning, you cannot start the day without enjoying a good coffee.</description>
 	<media>
-		<url>media/92710c93/coffee.gltf</url>
-		<url>media/fea73e9c/coffee.jpg</url>
-		<url>media/50ea7c48/coffee.png</url>
-		<url>media/21eaca06/coffee.png</url>
+		<url type="gltf">media/92710c93/coffee.gltf</url>
+		<url type="jpg">media/fea73e9c/coffee.jpg</url>
+		<url type="png">media/50ea7c48/coffee.png</url>
+		<url type="png">media/21eaca06/coffee.png</url>
 	</media>
 	<info>
 		<slug>celcius–coffee</slug>

@@ -54,7 +54,7 @@ Ultimately, you should be able to expand the digital footprint and brand awarene
 	<excerpt>We are looking for an amazing Content Marketing Manager</excerpt>
 	<description>We are looking for a talented Content marketing manager to take responsibility of our inbound marketing strategies including social media, blogs and lead generation.</description>
 	<media>
-		<url>media/490ca7f5/job-content-marketing.jpg</url>
+		<url type="jpg">media/490ca7f5/job-content-marketing.jpg</url>
 	</media>
 	<info>
 		<slug>job-content-marketing</slug>

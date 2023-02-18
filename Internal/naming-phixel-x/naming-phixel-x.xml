@@ -12,7 +12,7 @@ It can mean everything at once. It can be a multiplier of your sales, your hidde
 	<excerpt>Pixel + PHP + Phoenix + Fix + X + Φ = Phixel</excerpt>
 	<description>This letter is a mystery</description>
 	<media>
-		<url>media/c5baa503/the-name-wildcard.jpg</url>
+		<url type="jpg">media/c5baa503/the-name-wildcard.jpg</url>
 	</media>
 	<info>
 		<slug>naming-phixel-x</slug>

@@ -14,7 +14,7 @@ Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
 ## Description
 The first 3 letters, have plenty of reasons to exist;
 ## Media
-<img src="media/3509a431/the-name-golden-ratio.jpg">
+<img src="media/3509a431/the-name-golden-ratio.jpg" loading="lazy">
 
 ------------
 - **Slug:** naming-phixel-phi

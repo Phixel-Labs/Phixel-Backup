@@ -5,7 +5,7 @@
 	<excerpt>Can't help but feel inspired by retro sci-fi</excerpt>
 	<description>Under the neon light we contemplate the snowy pink mountain and write in this blog.</description>
 	<media>
-		<url>media/e332c5b6/landscape-of-pink-mountains-macro.jpg</url>
+		<url type="jpg">media/e332c5b6/landscape-of-pink-mountains-macro.jpg</url>
 	</media>
 	<info>
 		<slug>blog</slug>

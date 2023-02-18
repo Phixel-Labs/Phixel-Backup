@@ -11,7 +11,7 @@ It's simple, at Phixel we want to help you fix your image and design, We're here
 	<excerpt>Pixel + PHP + Phoenix + Fix + X + Φ = Phixel</excerpt>
 	<description>We love to think outside the box and "fix" things</description>
 	<media>
-		<url>media/893a3792/the-name-screen.jpg</url>
+		<url type="jpg">media/893a3792/the-name-screen.jpg</url>
 	</media>
 	<info>
 		<slug>naming-phixel-fix</slug>

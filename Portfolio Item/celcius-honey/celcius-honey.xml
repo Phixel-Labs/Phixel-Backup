@@ -11,10 +11,10 @@ The result is a treat that is kind to your taste buds but still tasty enough!</c
 
 We've cut down on sugar, but not on deliciousness!</description>
 	<media>
-		<url>media/ffd4a2b5/honey.gltf</url>
-		<url>media/c82be806/honey.jpg</url>
-		<url>media/970d2278/honey.png</url>
-		<url>media/17e567c5/honey.png</url>
+		<url type="gltf">media/ffd4a2b5/honey.gltf</url>
+		<url type="jpg">media/c82be806/honey.jpg</url>
+		<url type="png">media/970d2278/honey.png</url>
+		<url type="png">media/17e567c5/honey.png</url>
 	</media>
 	<info>
 		<slug>celcius-honey</slug>

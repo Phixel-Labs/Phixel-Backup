@@ -51,7 +51,7 @@ We are looking for an immaculate UI Designer
 ## Description
 We are looking for a talented UI Designer to create amazing user experiences.
 ## Media
-<img src="media/dfec1030/job-ui-designer.jpg">
+<img src="media/dfec1030/job-ui-designer.jpg" loading="lazy">
 
 ------------
 - **Slug:** job-ui-designer

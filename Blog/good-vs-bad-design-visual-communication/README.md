@@ -25,7 +25,7 @@ Learn the importance of visual communication and how it affects user engagement 
 ## Description
 This article discusses the importance of good design in visual communication and how it can affect user engagement and trust. It also provides tips and examples of good and bad design in various mediums.
 ## Media
-<img src="media/06744a46/good-vs-bad-design.jpg">
+<img src="media/06744a46/good-vs-bad-design.jpg" loading="lazy">
 
 ------------
 - **Slug:** good-vs-bad-design-visual-communication

@@ -7,7 +7,7 @@ Unfortunately, most of our projects are under an NDA (Non-Disclosure Agreement),
 	<excerpt>Here Are Some of Our Favorite Select Works!</excerpt>
 	<description>These are some of our favorite selected works in our Portfolio, showcasing cool, innovative and forward-thinking projects.</description>
 	<media>
-		<url>media/9f2fe104/portfolio.jpg</url>
+		<url type="jpg">media/9f2fe104/portfolio.jpg</url>
 	</media>
 	<info>
 		<slug>portfolio</slug>

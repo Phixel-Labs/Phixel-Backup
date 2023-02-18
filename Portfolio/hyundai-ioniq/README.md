@@ -12,16 +12,15 @@ Electric SUV (Case study)
 ## Description
 In this case study, you&#039;ll learn more about the design process that went into creating the landing page for the IONIQ 5.
 ## Media
-<img src="media/a58fa242/hyundai-ioniq-5-blender-visualstudio.jpg">
-<img src="media/0ffd27f9/hyundai-ioniq-5-cover.jpg">
-<img src="media/bd491a79/hyundai-ioniq-5-desktop-mobile-1.mp4">
-<img src="media/30870a54/hyundai-ioniq-5-mobile-2.jpg">
-<img src="media/e98d7712/hyundai-ioniq-5-mobile.jpg">
-<img src="media/8fe2002c/hyundai-ioniq-5-tablet-2.jpg">
-<img src="media/7aa89d4f/hyundai-ioniq-5-tablet.jpg">
-<img src="media/0c1965b4/hyundai-ioniq-5-video-mobile.jpg">
-<img src="media/0256a718/hyundai-ioniq-5-video.jpg">
-<img src="media/8706258d/hyundai-ioniq-5.glb">
+<img src="media/a58fa242/hyundai-ioniq-5-blender-visualstudio.jpg" loading="lazy">
+<img src="media/0ffd27f9/hyundai-ioniq-5-cover.jpg" loading="lazy">
+<video control preload="none"><source src="media/bd491a79/hyundai-ioniq-5-desktop-mobile-1.mp4" type="video/mp4"></video><img src="media/30870a54/hyundai-ioniq-5-mobile-2.jpg" loading="lazy">
+<img src="media/e98d7712/hyundai-ioniq-5-mobile.jpg" loading="lazy">
+<img src="media/8fe2002c/hyundai-ioniq-5-tablet-2.jpg" loading="lazy">
+<img src="media/7aa89d4f/hyundai-ioniq-5-tablet.jpg" loading="lazy">
+<img src="media/0c1965b4/hyundai-ioniq-5-video-mobile.jpg" loading="lazy">
+<img src="media/0256a718/hyundai-ioniq-5-video.jpg" loading="lazy">
+	media/8706258d/hyundai-ioniq-5.glb
 
 ------------
 - **Slug:** hyundai-ioniq

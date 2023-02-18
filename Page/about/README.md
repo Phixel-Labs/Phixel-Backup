@@ -71,7 +71,7 @@ The retro & almost sci-fi story
 ## Description
 The only thing you need to know about us it that the goal is simple; Do exceptional work that delights.
 ## Media
-<img src="media/c426bc9d/space-cover.jpg">
+<img src="media/c426bc9d/space-cover.jpg" loading="lazy">
 
 ------------
 - **Slug:** about

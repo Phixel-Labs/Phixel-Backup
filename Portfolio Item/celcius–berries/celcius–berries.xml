@@ -9,10 +9,10 @@ Share the joy, share the love, share the berries!</content>
 	<excerpt>Courageous Mix of Berries</excerpt>
 	<description>This frozen mixed berry lemonade is super refreshing, perfectly tart, and just slightly sweet.</description>
 	<media>
-		<url>media/974df913/berries.gltf</url>
-		<url>media/ca6545ad/berries.jpg</url>
-		<url>media/8b86cfbf/berries.png</url>
-		<url>media/3e78b1e2/berries.png</url>
+		<url type="gltf">media/974df913/berries.gltf</url>
+		<url type="jpg">media/ca6545ad/berries.jpg</url>
+		<url type="png">media/8b86cfbf/berries.png</url>
+		<url type="png">media/3e78b1e2/berries.png</url>
 	</media>
 	<info>
 		<slug>celcius–berries</slug>

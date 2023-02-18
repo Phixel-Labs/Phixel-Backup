@@ -11,16 +11,16 @@ Robots are invading the pool party scene and they want to know if you buy them d
 
 Dive into the party!</description>
 	<media>
-		<url>media/e4a53d1a/robot-pool-party-01.jpg</url>
-		<url>media/090e589a/robot-pool-party-02.jpg</url>
-		<url>media/d800f30e/robot-pool-party-03.jpg</url>
-		<url>media/e52f8573/robot-pool-party-04.jpg</url>
-		<url>media/3906af1e/robot-pool-party-05.jpg</url>
-		<url>media/3e7334de/robot-pool-party-06.jpg</url>
-		<url>media/e1a325b3/robot-pool-party-07.jpg</url>
-		<url>media/999d0610/robot-pool-party-08.jpg</url>
-		<url>media/3bfd4c76/robot-pool-party-09.jpg</url>
-		<url>media/96700dfc/robot-pool-party-10.jpg</url>
+		<url type="jpg">media/e4a53d1a/robot-pool-party-01.jpg</url>
+		<url type="jpg">media/090e589a/robot-pool-party-02.jpg</url>
+		<url type="jpg">media/d800f30e/robot-pool-party-03.jpg</url>
+		<url type="jpg">media/e52f8573/robot-pool-party-04.jpg</url>
+		<url type="jpg">media/3906af1e/robot-pool-party-05.jpg</url>
+		<url type="jpg">media/3e7334de/robot-pool-party-06.jpg</url>
+		<url type="jpg">media/e1a325b3/robot-pool-party-07.jpg</url>
+		<url type="jpg">media/999d0610/robot-pool-party-08.jpg</url>
+		<url type="jpg">media/3bfd4c76/robot-pool-party-09.jpg</url>
+		<url type="jpg">media/96700dfc/robot-pool-party-10.jpg</url>
 	</media>
 	<info>
 		<slug>robot-pool-party</slug>

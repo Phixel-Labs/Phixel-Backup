@@ -59,7 +59,7 @@ We are looking for a unimaginable Client Manager
 ## Description
 We are looking for an unparalleled Client Relations Manager to create and nurture long-term relationships with clients.
 ## Media
-<img src="media/941787cf/jop-client-manager.jpg">
+<img src="media/941787cf/jop-client-manager.jpg" loading="lazy">
 
 ------------
 - **Slug:** job-client-manager

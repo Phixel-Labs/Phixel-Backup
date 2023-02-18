@@ -16,7 +16,7 @@ Experience the terror of Dr. Darkness and his plans for world domination!
 ## Description
 Dr. Darkness is a mad scientist with a thirst for power who has been working on a secret project to gain control over the city. Just as he is about to activate his weapon...
 ## Media
-<img src="media/60ca257f/dr.darkness.jpg">
+<img src="media/60ca257f/dr.darkness.jpg" loading="lazy">
 
 ------------
 - **Slug:** dr-darkness

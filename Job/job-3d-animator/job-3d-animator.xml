@@ -43,7 +43,7 @@ Ultimately, you will work with various departments and teams to help define, pro
 	<excerpt>We are looking for an alluring 3D Animator</excerpt>
 	<description>We are looking for a 3D Animator to join our team and assist us with designing and developing video games, interactive content and motion videos for our customers.</description>
 	<media>
-		<url>media/ff2b6a04/job-3d-animator.jpg</url>
+		<url type="jpg">media/ff2b6a04/job-3d-animator.jpg</url>
 	</media>
 	<info>
 		<slug>job-3d-animator</slug>

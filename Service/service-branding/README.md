@@ -10,7 +10,7 @@ We are branding experts. We help businesses create an authentic and unique brand
 ## Description
 Branding is more than just a logo. It’s the entire perception that people have of your company.
 ## Media
-<img src="media/bf997bad/services-branding.jpg">
+<img src="media/bf997bad/services-branding.jpg" loading="lazy">
 
 ------------
 - **Slug:** service-branding

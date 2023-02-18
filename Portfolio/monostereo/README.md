@@ -14,14 +14,13 @@ A place where you can find podcasts on all kinds of topics, from science to phil
 
 We want to help you learn more about the world around you and make sure that you don’t miss out on anything interesting.
 ## Media
-<img src="media/4465bf3a/monostereo-logo.png">
-<img src="media/046610bb/monostereo-mockup-01.jpg">
-<img src="media/efad93e6/monostereo-mockup-02.jpg">
-<img src="media/09217723/monostereo-mockup-03.jpg">
-<img src="media/c53eb2c6/monostereo-mockup-04.jpg">
-<img src="media/e05bc27a/monostereo.jpg">
-<img src="media/1bda8ef5/monostereo.mp4">
-
+<img src="media/4465bf3a/monostereo-logo.png" loading="lazy">
+<img src="media/046610bb/monostereo-mockup-01.jpg" loading="lazy">
+<img src="media/efad93e6/monostereo-mockup-02.jpg" loading="lazy">
+<img src="media/09217723/monostereo-mockup-03.jpg" loading="lazy">
+<img src="media/c53eb2c6/monostereo-mockup-04.jpg" loading="lazy">
+<img src="media/e05bc27a/monostereo.jpg" loading="lazy">
+<video control preload="none"><source src="media/1bda8ef5/monostereo.mp4" type="video/mp4"></video>
 ------------
 - **Slug:** monostereo
 - **Date:** 18/11/2022

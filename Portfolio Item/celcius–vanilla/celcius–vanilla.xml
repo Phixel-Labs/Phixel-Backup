@@ -11,10 +11,10 @@ The sweet aroma of vanilla and rich creaminess of deliciousness, you will not be
 
 The white snowy mountains that creates a delicious sweetness…</description>
 	<media>
-		<url>media/2b0746d8/vanilla.gltf</url>
-		<url>media/7d4795a3/vanilla.jpg</url>
-		<url>media/d02a1eed/vanilla.png</url>
-		<url>media/3df3558e/vanilla.png</url>
+		<url type="gltf">media/2b0746d8/vanilla.gltf</url>
+		<url type="jpg">media/7d4795a3/vanilla.jpg</url>
+		<url type="png">media/d02a1eed/vanilla.png</url>
+		<url type="png">media/3df3558e/vanilla.png</url>
 	</media>
 	<info>
 		<slug>celcius–vanilla</slug>

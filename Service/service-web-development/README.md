@@ -10,7 +10,7 @@ We specialize in developing websites that are both beautiful and effective.
 ## Description
 Websites are the foundation of your online presence. These are how customers find you, learn about you, and interact with you. Websites are an essential part of any business, no matter what the industry.
 ## Media
-<img src="media/edfc558c/services-web-development.jpg">
+<img src="media/edfc558c/services-web-development.jpg" loading="lazy">
 
 ------------
 - **Slug:** service-web-development

@@ -16,9 +16,9 @@ We are thrilled to have Julibe join the Phixel Family and are excited to see the
 ## Description
 Julibe, a highly skilled Front-End designer and developer, has joined the Phixel Family. With a passion for web development and a strong track record, Julibe is sure to be a valuable addition to our team.
 ## Media
-<img src="media/5e244ab8/julibe-avatar.jpg">
-<img src="media/69a294d0/julibe-phanto-fires.jpg">
-<img src="media/2477109b/julibe-phanto.jpg">
+<img src="media/5e244ab8/julibe-avatar.jpg" loading="lazy">
+<img src="media/69a294d0/julibe-phanto-fires.jpg" loading="lazy">
+<img src="media/2477109b/julibe-phanto.jpg" loading="lazy">
 
 ------------
 - **Slug:** julibe

@@ -12,18 +12,18 @@ Celcius coffee is 15+ uniquely generated bottles.
 	<excerpt>Really Instant Coffee</excerpt>
 	<description>Celcius coffee is 15+ uniquely generated bottles. No two are exactly alike. No two are exactly alike.</description>
 	<media>
-		<url>media/51e8a9e8/celcius-bar-cut.jpg</url>
-		<url>media/96e90ad5/celcius-bar.jpg</url>
-		<url>media/fe5ca1ee/celcius-beach.jpg</url>
-		<url>media/46e6ca5c/celcius-honey.jpg</url>
-		<url>media/fb299afb/celcius-morning-cut.jpg</url>
-		<url>media/b55b3780/celcius-morning.jpg</url>
-		<url>media/a3345082/bottle-splash.bin</url>
-		<url>media/e7744bd6/bottle.bin</url>
-		<url>media/6f2adee2/all.jpg</url>
-		<url>media/a4b4d0ba/amaretto.jpg</url>
-		<url>media/de6eb353/loading.webp</url>
-		<url>media/7829be52/presentation.mp4</url>
+		<url type="jpg">media/51e8a9e8/celcius-bar-cut.jpg</url>
+		<url type="jpg">media/96e90ad5/celcius-bar.jpg</url>
+		<url type="jpg">media/fe5ca1ee/celcius-beach.jpg</url>
+		<url type="jpg">media/46e6ca5c/celcius-honey.jpg</url>
+		<url type="jpg">media/fb299afb/celcius-morning-cut.jpg</url>
+		<url type="jpg">media/b55b3780/celcius-morning.jpg</url>
+		<url type="bin">media/a3345082/bottle-splash.bin</url>
+		<url type="bin">media/e7744bd6/bottle.bin</url>
+		<url type="jpg">media/6f2adee2/all.jpg</url>
+		<url type="jpg">media/a4b4d0ba/amaretto.jpg</url>
+		<url type="webp">media/de6eb353/loading.webp</url>
+		<url type="mp4">media/7829be52/presentation.mp4</url>
 	</media>
 	<info>
 		<slug>celcius</slug>

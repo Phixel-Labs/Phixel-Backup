@@ -6,23 +6,23 @@
 	<excerpt>Enter the mythical realm of dragons and witness their unparalleled might. Explore the legends of these majestic creatures and unleash your imagination.</excerpt>
 	<description>Explore and appreciate the mythical creatures of dragons, highlighting their different styles from cute and cartoonish to fierce and epic. Marvel at their power and grace, and to explore the many legends surrounding them. It invites the reader to enter the mythical realm of dragons and unleash their imagination.</description>
 	<media>
-		<url>media/b8887beb/dragon-80s-cartoon.jpg</url>
-		<url>media/30fc8949/dragon-bokeh.jpg</url>
-		<url>media/e821e0e0/dragon-goofy.jpg</url>
-		<url>media/7076e65d/dragon-8bit.jpg</url>
-		<url>media/0c02e970/dragonmon.jpg</url>
-		<url>media/843c8aed/dragon-fires.jpg</url>
-		<url>media/3195d4e3/dragon-tiltshift.jpg</url>
-		<url>media/32a3670f/dragon-egg.jpg</url>
-		<url>media/f4581a0f/dragon-cute.jpg</url>
-		<url>media/dc24cce2/dragon-thunder-lightning.jpg</url>
-		<url>media/8f34547e/dragon-baby.jpg</url>
-		<url>media/fe45a77b/dragon-cute-flying.jpg</url>
-		<url>media/cd94047b/dragon-lord.jpg</url>
-		<url>media/b1d899c9/dragon-sketch.jpg</url>
-		<url>media/18550b19/dragon-cop.jpg</url>
-		<url>media/80c90558/dragon-epic-look.jpg</url>
-		<url>media/988b1ca3/dragon-toon.jpg</url>
+		<url type="jpg">media/b8887beb/dragon-80s-cartoon.jpg</url>
+		<url type="jpg">media/30fc8949/dragon-bokeh.jpg</url>
+		<url type="jpg">media/e821e0e0/dragon-goofy.jpg</url>
+		<url type="jpg">media/7076e65d/dragon-8bit.jpg</url>
+		<url type="jpg">media/0c02e970/dragonmon.jpg</url>
+		<url type="jpg">media/843c8aed/dragon-fires.jpg</url>
+		<url type="jpg">media/3195d4e3/dragon-tiltshift.jpg</url>
+		<url type="jpg">media/32a3670f/dragon-egg.jpg</url>
+		<url type="jpg">media/f4581a0f/dragon-cute.jpg</url>
+		<url type="jpg">media/dc24cce2/dragon-thunder-lightning.jpg</url>
+		<url type="jpg">media/8f34547e/dragon-baby.jpg</url>
+		<url type="jpg">media/fe45a77b/dragon-cute-flying.jpg</url>
+		<url type="jpg">media/cd94047b/dragon-lord.jpg</url>
+		<url type="jpg">media/b1d899c9/dragon-sketch.jpg</url>
+		<url type="jpg">media/18550b19/dragon-cop.jpg</url>
+		<url type="jpg">media/80c90558/dragon-epic-look.jpg</url>
+		<url type="jpg">media/988b1ca3/dragon-toon.jpg</url>
 	</media>
 	<info>
 		<slug>unleashing-the-mythical-dragons</slug>

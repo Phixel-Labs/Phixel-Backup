@@ -10,10 +10,10 @@ Sunny Wave of Tropical Flavors
 ## Description
 From the exotic Caribbean islands, we bring a wide variety of fruits which in themselves are impressive but with our exquisite secret combination creates an explosion of flavors that’s unmatched.
 ## Media
-<img src="media/087dfa34/tropical.gltf">
-<img src="media/c408ce5d/tropical.jpg">
-<img src="media/2cdcb813/tropical.png">
-<img src="media/9e4da2c7/tropical.png">
+	media/087dfa34/tropical.gltf
+<img src="media/c408ce5d/tropical.jpg" loading="lazy">
+<img src="media/2cdcb813/tropical.png" loading="lazy">
+<img src="media/9e4da2c7/tropical.png" loading="lazy">
 
 ------------
 - **Slug:** celcius–tropical

@@ -10,8 +10,8 @@ Best of all, we guarantee that it's caffeine free!
 	<excerpt>Really Instant Coffee</excerpt>
 	<description>With Celcius you can satisfy your need for Digital Coffee in the Morning, at Night, or at any time of the day, a great way to start or continue your proactivity.</description>
 	<media>
-		<url>media/5daad8ca/celcius.png</url>
-		<url>media/f42304d3/celcius.png</url>
+		<url type="png">media/5daad8ca/celcius.png</url>
+		<url type="png">media/f42304d3/celcius.png</url>
 	</media>
 	<info>
 		<slug>celcius-instant</slug>

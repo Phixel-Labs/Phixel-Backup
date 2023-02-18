@@ -17,9 +17,8 @@ Take a breath of fresh air with your favorite mountain, give your self a relaxin
 ## Description
 As you sit and watch the clouds drift by, you can feel the stress and worries of the world melt away. The pink mountain in the distance adds to the peaceful and calming atmosphere, making it the perfect place to relax and unwind.
 ## Media
-<img src="media/d91035cb/mountain-16-9.jpg">
-<img src="media/24896a3f/skyline-of-clouds.mp4">
-
+<img src="media/d91035cb/mountain-16-9.jpg" loading="lazy">
+<video control preload="none"><source src="media/24896a3f/skyline-of-clouds.mp4" type="video/mp4"></video>
 ------------
 - **Slug:** skyline-clouds
 - **Date:** 01/01/2021

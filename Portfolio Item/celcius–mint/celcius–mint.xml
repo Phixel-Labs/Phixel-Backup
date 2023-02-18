@@ -9,10 +9,10 @@ The freshness and the combination with the taste of peppermint, are able to brin
 	<excerpt>Fresh Mint Breeze of The Morning</excerpt>
 	<description>The freshness and the combination with the taste of peppermint, are able to bring you the North Pole without leaving your home.</description>
 	<media>
-		<url>media/9c303377/mint.gltf</url>
-		<url>media/8d18480c/mint.jpg</url>
-		<url>media/02502053/mint.png</url>
-		<url>media/d8797381/mint.png</url>
+		<url type="gltf">media/9c303377/mint.gltf</url>
+		<url type="jpg">media/8d18480c/mint.jpg</url>
+		<url type="png">media/02502053/mint.png</url>
+		<url type="png">media/d8797381/mint.png</url>
 	</media>
 	<info>
 		<slug>celcius–mint</slug>

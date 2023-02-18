@@ -12,10 +12,10 @@ Because is sweet, like we know yue are, is the taste we all know and love</conte
 	<description>The pure chocolate flavor and smooth texture of this will leave you satisfied.
 ## “Our chocolate is not fattening”</description>
 	<media>
-		<url>media/bf6cae3f/chocolate.gltf</url>
-		<url>media/f24e873c/chocolate.jpg</url>
-		<url>media/1fa1cf49/chocolate.png</url>
-		<url>media/f4dc65fd/chocolate.png</url>
+		<url type="gltf">media/bf6cae3f/chocolate.gltf</url>
+		<url type="jpg">media/f24e873c/chocolate.jpg</url>
+		<url type="png">media/1fa1cf49/chocolate.png</url>
+		<url type="png">media/f4dc65fd/chocolate.png</url>
 	</media>
 	<info>
 		<slug>celcius–chocolate</slug>

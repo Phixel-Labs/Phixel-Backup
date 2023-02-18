@@ -97,35 +97,35 @@ We believe that everyone deserves great design experiences
 ## Description
 We love making a difference in people's lives by connecting our clients with the design solutions they need.
 ## Media
-<img src="media/31a2e984/clients.jpg">
-<img src="media/d110d0e7/logo-alpina.png">
-<img src="media/914991f9/logo-argos.png">
-<img src="media/6d18b5b6/logo-bancoldex.png">
-<img src="media/dbfdf078/logo-bancolombia.png">
-<img src="media/8689cd03/logo-bavaria.png">
-<img src="media/6570cabb/logo-berlinas.png">
-<img src="media/6fc73d17/logo-caf.png">
-<img src="media/4ac325a5/logo-camara-de-comercio-bogota.png">
-<img src="media/60422c93/logo-citroen.png">
-<img src="media/ab268d9d/logo-creamhelado.png">
-<img src="media/0891e4d7/logo-davivienda.png">
-<img src="media/4603b16a/logo-delipavo.png">
-<img src="media/566dd626/logo-dove.png">
-<img src="media/7f9cbfa4/logo-drummond.png">
-<img src="media/8d3c8c55/logo-ecopetrol.png">
-<img src="media/b49497f9/logo-huggies.png">
-<img src="media/f14cbad5/logo-hyundai.png">
-<img src="media/77d256af/logo-isa.png">
-<img src="media/d074f1bc/logo-lafayette.png">
-<img src="media/8cb10ce3/logo-movistar.png">
-<img src="media/ece5c15c/logo-nestle.png">
-<img src="media/62173b1b/logo-renault.png">
-<img src="media/1b0bcd26/logo-seguros-bolivar.png">
-<img src="media/0e8fe3bf/logo-soho.png">
-<img src="media/428c3b60/logo-telefonica.png">
-<img src="media/a8f4107f/logo-tigo.png">
-<img src="media/8b0396eb/logo-une.png">
-<img src="media/ff9615bb/logo-xbox.png">
+<img src="media/31a2e984/clients.jpg" loading="lazy">
+<img src="media/d110d0e7/logo-alpina.png" loading="lazy">
+<img src="media/914991f9/logo-argos.png" loading="lazy">
+<img src="media/6d18b5b6/logo-bancoldex.png" loading="lazy">
+<img src="media/dbfdf078/logo-bancolombia.png" loading="lazy">
+<img src="media/8689cd03/logo-bavaria.png" loading="lazy">
+<img src="media/6570cabb/logo-berlinas.png" loading="lazy">
+<img src="media/6fc73d17/logo-caf.png" loading="lazy">
+<img src="media/4ac325a5/logo-camara-de-comercio-bogota.png" loading="lazy">
+<img src="media/60422c93/logo-citroen.png" loading="lazy">
+<img src="media/ab268d9d/logo-creamhelado.png" loading="lazy">
+<img src="media/0891e4d7/logo-davivienda.png" loading="lazy">
+<img src="media/4603b16a/logo-delipavo.png" loading="lazy">
+<img src="media/566dd626/logo-dove.png" loading="lazy">
+<img src="media/7f9cbfa4/logo-drummond.png" loading="lazy">
+<img src="media/8d3c8c55/logo-ecopetrol.png" loading="lazy">
+<img src="media/b49497f9/logo-huggies.png" loading="lazy">
+<img src="media/f14cbad5/logo-hyundai.png" loading="lazy">
+<img src="media/77d256af/logo-isa.png" loading="lazy">
+<img src="media/d074f1bc/logo-lafayette.png" loading="lazy">
+<img src="media/8cb10ce3/logo-movistar.png" loading="lazy">
+<img src="media/ece5c15c/logo-nestle.png" loading="lazy">
+<img src="media/62173b1b/logo-renault.png" loading="lazy">
+<img src="media/1b0bcd26/logo-seguros-bolivar.png" loading="lazy">
+<img src="media/0e8fe3bf/logo-soho.png" loading="lazy">
+<img src="media/428c3b60/logo-telefonica.png" loading="lazy">
+<img src="media/a8f4107f/logo-tigo.png" loading="lazy">
+<img src="media/8b0396eb/logo-une.png" loading="lazy">
+<img src="media/ff9615bb/logo-xbox.png" loading="lazy">
 
 ------------
 - **Slug:** clients

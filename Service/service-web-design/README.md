@@ -8,7 +8,7 @@ We design web pages that look amazing and are easy to use.
 ## Description
 Whether you need a brand-new website or just a few pages revamped, our team of experienced web designers can help.
 ## Media
-<img src="media/3f5db776/services-web-design.jpg">
+<img src="media/3f5db776/services-web-design.jpg" loading="lazy">
 
 ------------
 - **Slug:** service-web-design

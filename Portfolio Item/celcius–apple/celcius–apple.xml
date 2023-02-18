@@ -9,10 +9,10 @@ Made of the highest quality materials, so that you can enjoy its sensational tas
 	<excerpt>Sensual Apple for Lovers</excerpt>
 	<description>With it's round and red appearance is capable of generating an pleasure that can only be reached to with its delightful sweetness.</description>
 	<media>
-		<url>media/e7a837d3/apple.gltf</url>
-		<url>media/b0aed51a/apple.jpg</url>
-		<url>media/b4522c5a/apple.png</url>
-		<url>media/2b838410/apple.png</url>
+		<url type="gltf">media/e7a837d3/apple.gltf</url>
+		<url type="jpg">media/b0aed51a/apple.jpg</url>
+		<url type="png">media/b4522c5a/apple.png</url>
+		<url type="png">media/2b838410/apple.png</url>
 	</media>
 	<info>
 		<slug>celcius–apple</slug>

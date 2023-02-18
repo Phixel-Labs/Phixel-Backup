@@ -10,10 +10,10 @@ Courageous Mix of Berries
 ## Description
 This frozen mixed berry lemonade is super refreshing, perfectly tart, and just slightly sweet.
 ## Media
-<img src="media/974df913/berries.gltf">
-<img src="media/ca6545ad/berries.jpg">
-<img src="media/8b86cfbf/berries.png">
-<img src="media/3e78b1e2/berries.png">
+	media/974df913/berries.gltf
+<img src="media/ca6545ad/berries.jpg" loading="lazy">
+<img src="media/8b86cfbf/berries.png" loading="lazy">
+<img src="media/3e78b1e2/berries.png" loading="lazy">
 
 ------------
 - **Slug:** celcius–berries

@@ -7,7 +7,7 @@ Our team of experts will work with you to create a website that represents your 
 	<excerpt>We design web pages that look amazing and are easy to use.</excerpt>
 	<description>Whether you need a brand-new website or just a few pages revamped, our team of experienced web designers can help.</description>
 	<media>
-		<url>media/3f5db776/services-web-design.jpg</url>
+		<url type="jpg">media/3f5db776/services-web-design.jpg</url>
 	</media>
 	<info>
 		<slug>service-web-design</slug>

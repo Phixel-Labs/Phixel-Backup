@@ -60,7 +60,7 @@ The goal is to inspire and engage the target audience.
 	<excerpt>We are looking for an spotless Graphic Designer</excerpt>
 	<description>We are seeking a Graphic Designer to create engaging, branded graphics for a variety of media.</description>
 	<media>
-		<url>media/69191c29/job-graphic-designer.jpg</url>
+		<url type="jpg">media/69191c29/job-graphic-designer.jpg</url>
 	</media>
 	<info>
 		<slug>job-graphic-designer</slug>

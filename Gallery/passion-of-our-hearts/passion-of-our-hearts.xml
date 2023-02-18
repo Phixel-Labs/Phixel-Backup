@@ -6,18 +6,18 @@ Immerse yourself in the vibrant colors and themes and experience the love we hav
 	<excerpt>Discover the dedication and love we put into each project through our heart collection filled with vibrant colors.</excerpt>
 	<description>The Heart Collection showcases the passion and dedication put into each project through vibrant and colorful images. Immerse yourself in the love and beauty of the collection.</description>
 	<media>
-		<url>media/4b95bf08/heart-planet.jpg</url>
-		<url>media/a2aecbee/heart-crissalyss.jpg</url>
-		<url>media/291467da/heart-jing-jang.jpg</url>
-		<url>media/8fe52bfc/heart-cyber.jpg</url>
-		<url>media/3431be52/heart-universe.jpg</url>
-		<url>media/05f4f466/heart-white.jpg</url>
-		<url>media/fbc3d298/heart-float.jpg</url>
-		<url>media/c3b83d0a/heart-black.jpg</url>
-		<url>media/1c1d1fb3/heart-veins.jpg</url>
-		<url>media/ece90aa9/heart-autum.jpg</url>
-		<url>media/9e56fb15/heart-pets.jpg</url>
-		<url>media/49eaca53/heart-birds.jpg</url>
+		<url type="jpg">media/4b95bf08/heart-planet.jpg</url>
+		<url type="jpg">media/a2aecbee/heart-crissalyss.jpg</url>
+		<url type="jpg">media/291467da/heart-jing-jang.jpg</url>
+		<url type="jpg">media/8fe52bfc/heart-cyber.jpg</url>
+		<url type="jpg">media/3431be52/heart-universe.jpg</url>
+		<url type="jpg">media/05f4f466/heart-white.jpg</url>
+		<url type="jpg">media/fbc3d298/heart-float.jpg</url>
+		<url type="jpg">media/c3b83d0a/heart-black.jpg</url>
+		<url type="jpg">media/1c1d1fb3/heart-veins.jpg</url>
+		<url type="jpg">media/ece90aa9/heart-autum.jpg</url>
+		<url type="jpg">media/9e56fb15/heart-pets.jpg</url>
+		<url type="jpg">media/49eaca53/heart-birds.jpg</url>
 	</media>
 	<info>
 		<slug>passion-of-our-hearts</slug>

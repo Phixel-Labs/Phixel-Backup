@@ -38,10 +38,10 @@ Stunning services designed for your needs
 ## Description
 At Phixel, we offer a wide range of services to help you get the most out of your business.
 ## Media
-<img src="media/830f166f/services-balanced.jpg">
-<img src="media/1cd345da/services-immersive.png">
-<img src="media/429b5ef5/services-timeless.jpg">
-<img src="media/bfd30872/services.jpg">
+<img src="media/830f166f/services-balanced.jpg" loading="lazy">
+<img src="media/1cd345da/services-immersive.png" loading="lazy">
+<img src="media/429b5ef5/services-timeless.jpg" loading="lazy">
+<img src="media/bfd30872/services.jpg" loading="lazy">
 
 ------------
 - **Slug:** services

@@ -10,10 +10,10 @@ It reminds you of cozy nights around a crackling fire while the cinnamon burns a
 	<excerpt>Tender & Lovely Cinnamon</excerpt>
 	<description>The ideal cereal for a cozy home-style breakfast or brunch.</description>
 	<media>
-		<url>media/59ffd01f/cinnamon.gltf</url>
-		<url>media/3ab6b9ad/cinnamon.jpg</url>
-		<url>media/3543b391/cinnamon.png</url>
-		<url>media/eaf7a079/cinnamon.png</url>
+		<url type="gltf">media/59ffd01f/cinnamon.gltf</url>
+		<url type="jpg">media/3ab6b9ad/cinnamon.jpg</url>
+		<url type="png">media/3543b391/cinnamon.png</url>
+		<url type="png">media/eaf7a079/cinnamon.png</url>
 	</media>
 	<info>
 		<slug>celcius–cinnamon</slug>

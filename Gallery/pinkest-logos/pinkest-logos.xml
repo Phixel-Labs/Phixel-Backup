@@ -16,16 +16,16 @@ Logo lovers rejoice!</excerpt>
 
 In this Second volume, we have collected our pinkest logos.</description>
 	<media>
-		<url>media/9ffeff3a/pink-logo-boom.jpg</url>
-		<url>media/1fcca5e2/pink-logo-brain.jpg</url>
-		<url>media/b6817290/pink-logo-buterfly-leaf.jpg</url>
-		<url>media/f7f1400f/pink-logo-cookie.jpg</url>
-		<url>media/05e4242e/pink-logo-cool-girl.jpg</url>
-		<url>media/8178c21c/pink-logo-flamingo.jpg</url>
-		<url>media/b625043d/pink-logo-gun.jpg</url>
-		<url>media/e4a65732/pink-logo-hemet-girl.jpg</url>
-		<url>media/1c133b03/pink-logo-prr-girl.jpg</url>
-		<url>media/7ba33225/pink-logo-unicorn.jpg</url>
+		<url type="jpg">media/9ffeff3a/pink-logo-boom.jpg</url>
+		<url type="jpg">media/1fcca5e2/pink-logo-brain.jpg</url>
+		<url type="jpg">media/b6817290/pink-logo-buterfly-leaf.jpg</url>
+		<url type="jpg">media/f7f1400f/pink-logo-cookie.jpg</url>
+		<url type="jpg">media/05e4242e/pink-logo-cool-girl.jpg</url>
+		<url type="jpg">media/8178c21c/pink-logo-flamingo.jpg</url>
+		<url type="jpg">media/b625043d/pink-logo-gun.jpg</url>
+		<url type="jpg">media/e4a65732/pink-logo-hemet-girl.jpg</url>
+		<url type="jpg">media/1c133b03/pink-logo-prr-girl.jpg</url>
+		<url type="jpg">media/7ba33225/pink-logo-unicorn.jpg</url>
 	</media>
 	<info>
 		<slug>pinkest-logos</slug>

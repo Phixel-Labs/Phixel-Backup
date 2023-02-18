@@ -53,7 +53,7 @@ If you can quickly understand the project requirements and offer valuable insigh
 	<excerpt>We are looking for an elegant Copywriter</excerpt>
 	<description>We are looking for a creative Copywriter to write clear and concise copy for ads, publications and websites. Your words will inform and engage target audiences.</description>
 	<media>
-		<url>media/ffde38bd/job-copywriter.jpg</url>
+		<url type="jpg">media/ffde38bd/job-copywriter.jpg</url>
 	</media>
 	<info>
 		<slug>job-copywriter</slug>

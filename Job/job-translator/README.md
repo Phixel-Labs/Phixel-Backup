@@ -54,7 +54,7 @@ We are looking for an distinctive Translator
 ## Description
 We are looking for a translator to interpret written and audio pieces in different languages, making sure to maintain their original meaning, format and tone.
 ## Media
-<img src="media/f759a1a9/job-translator.jpg">
+<img src="media/f759a1a9/job-translator.jpg" loading="lazy">
 
 ------------
 - **Slug:** job-translator

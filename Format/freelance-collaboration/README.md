@@ -23,7 +23,7 @@ Ready to take your freelance career to the next level? Join Phixel's team of tal
 ## Description
 Phixel is is open to collaborating with freelance professionals on a project basis. We seek talented individuals and location is not a limiting factor. The work model involves agreeing on a fair value for project completion and providing necessary materials with adjusted deadlines. We require daily communication and expect both parties to meet responsibilities. Sending a portfolio of previous work is appreciated to explore the possibility of future collaboration.
 ## Media
-<img src="media/e84f12ae/freelance-collaboration.jpg">
+<img src="media/e84f12ae/freelance-collaboration.jpg" loading="lazy">
 
 ------------
 - **Slug:** freelance-collaboration

@@ -10,10 +10,10 @@ Morning Coffee for All Days
 ## Description
 Like every morning, you cannot start the day without enjoying a good coffee.
 ## Media
-<img src="media/92710c93/coffee.gltf">
-<img src="media/fea73e9c/coffee.jpg">
-<img src="media/50ea7c48/coffee.png">
-<img src="media/21eaca06/coffee.png">
+	media/92710c93/coffee.gltf
+<img src="media/fea73e9c/coffee.jpg" loading="lazy">
+<img src="media/50ea7c48/coffee.png" loading="lazy">
+<img src="media/21eaca06/coffee.png" loading="lazy">
 
 ------------
 - **Slug:** celcius–coffee

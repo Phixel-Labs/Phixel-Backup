@@ -14,7 +14,7 @@ Looking for fun, engaging, and effective digital solutions for VR/AR, sustainabl
 ## Description
 Phixel offers innovative digital solutions for VR/AR, sustainable economy, healthy habits, education, and localized markets, among others. We prioritize fun, engagement, and effectiveness in our platform and application development. Please note that the ideas presented are subject to change.
 ## Media
-<img src="media/f2706672/a">
+	media/f2706672/a
 
 ------------
 - **Slug:** ideas

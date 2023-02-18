@@ -8,10 +8,10 @@ Ancient Mythical Green Tea
 ## Description
 From an ancient hidden village, a healthy ancestral recipe full of antioxidants that is perfect to enrich your daily lifestyle.
 ## Media
-<img src="media/9a15d401/greentea.gltf">
-<img src="media/f62f4a27/greentea.jpg">
-<img src="media/bc18c26e/greentea.png">
-<img src="media/86e23a5a/greentea.png">
+	media/9a15d401/greentea.gltf
+<img src="media/f62f4a27/greentea.jpg" loading="lazy">
+<img src="media/bc18c26e/greentea.png" loading="lazy">
+<img src="media/86e23a5a/greentea.png" loading="lazy">
 
 ------------
 - **Slug:** celcius–greentea

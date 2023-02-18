@@ -304,16 +304,16 @@ Te invitamos a explorar esta idea de una plataforma de aprendizaje en línea inn
 ## Description
 Nuestro objetivo es desarrollar una plataforma de aprendizaje en línea escalable que ofrezca una gama de cursos desde habilidades básicas hasta avanzadas, con un enfoque en la accesibilidad para todos. La plataforma será personalizable, permitiendo a los usuarios ajustar su experiencia de aprendizaje a su ritmo y necesidades específicas. Nuestra visión es proporcionar una solución innovadora en el mercado de aprendizaje en línea que ofrezca una experiencia de aprendizaje efectiva, personalizada y accesible para todos.
 ## Media
-<img src="media/9049a792/learning-platform-business-business.jpg">
-<img src="media/25a9eaa7/learning-platform-business-tv.jpg">
-<img src="media/b9759f27/learning-platform-business-learning-02.jpg">
-<img src="media/142fd39a/learning-platform-business-landscape.jpg">
-<img src="media/f6e685a9/learning-platform-business-landscape-02.jpg">
-<img src="media/8006b820/learning-platform-business-bussinnes-02.jpg">
-<img src="media/acb132a7/learning-platform-business-imagination.jpg">
-<img src="media/260cbb93/learning-platform-business-learning.jpg">
-<img src="media/164d728a/learning-platform-business-books.jpg">
-<img src="media/3f6ab311/learning-platform-business-books-02.jpg">
+<img src="media/9049a792/learning-platform-business-business.jpg" loading="lazy">
+<img src="media/25a9eaa7/learning-platform-business-tv.jpg" loading="lazy">
+<img src="media/b9759f27/learning-platform-business-learning-02.jpg" loading="lazy">
+<img src="media/142fd39a/learning-platform-business-landscape.jpg" loading="lazy">
+<img src="media/f6e685a9/learning-platform-business-landscape-02.jpg" loading="lazy">
+<img src="media/8006b820/learning-platform-business-bussinnes-02.jpg" loading="lazy">
+<img src="media/acb132a7/learning-platform-business-imagination.jpg" loading="lazy">
+<img src="media/260cbb93/learning-platform-business-learning.jpg" loading="lazy">
+<img src="media/164d728a/learning-platform-business-books.jpg" loading="lazy">
+<img src="media/3f6ab311/learning-platform-business-books-02.jpg" loading="lazy">
 
 ------------
 - **Slug:** plataforma-de-aprendizaje

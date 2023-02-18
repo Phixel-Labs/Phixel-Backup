@@ -12,7 +12,7 @@ Pixel + PHP + Phoenix + Fix + X + Φ = Phixel
 ## Description
 Have you ever heard of the legend of the Phoenix?
 ## Media
-<img src="media/03d72e6f/the-name-phoenix.jpg">
+<img src="media/03d72e6f/the-name-phoenix.jpg" loading="lazy">
 
 ------------
 - **Slug:** naming-phixel-phoenix

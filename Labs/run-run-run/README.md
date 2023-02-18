@@ -86,7 +86,7 @@ In this game, you'll take control of a fast car and navigate through a challengi
 
 This game is perfect for those who love a good challenge and are looking for a fun, fast-paced way to pass the time. So, buckle up and get ready to hit the gas in "Run Run Run".
 ## Media
-<img src="media/f2706672/a">
+	media/f2706672/a
 
 ------------
 - **Slug:** run-run-run

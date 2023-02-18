@@ -15,7 +15,7 @@ In the end, Phixel emerged victorious, and the city was saved from the clutches 
 	<excerpt>Join the fight against Dr. Darkness and his plan for revenge!</excerpt>
 	<description>The evil Dr. Darkness plans to take over the city using a machine that plunges it into darkness. However...</description>
 	<media>
-		<url>media/f1cfbf06/dr.darkness-revenge.jpg</url>
+		<url type="jpg">media/f1cfbf06/dr.darkness-revenge.jpg</url>
 	</media>
 	<info>
 		<slug>dr-darkness-revenge</slug>

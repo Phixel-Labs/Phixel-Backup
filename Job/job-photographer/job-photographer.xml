@@ -49,7 +49,7 @@ You will need to achieve technical, qualitative and quantitative objectives whil
 	<excerpt>We are looking for an marvelous Photographer</excerpt>
 	<description>We are looking for a passionate Photographer to capture moments on film and to use images to tell a story.</description>
 	<media>
-		<url>media/36664396/job-photographer.jpg</url>
+		<url type="jpg">media/36664396/job-photographer.jpg</url>
 	</media>
 	<info>
 		<slug>job-photographer</slug>

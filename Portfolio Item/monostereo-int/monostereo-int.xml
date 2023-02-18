@@ -13,16 +13,16 @@ We want to help you learn more about the world around you and make sure that you
 
 We want to help you learn more about the world around you and make sure that you don’t miss out on anything interesting.</description>
 	<media>
-		<url>media/e36136bb/monostereo-podcast-01.jpg</url>
-		<url>media/85ad104d/monostereo-podcast-02.jpg</url>
-		<url>media/f1ad3066/monostereo-podcast-03.jpg</url>
-		<url>media/434a518d/monostereo-podcast-04.jpg</url>
-		<url>media/f27293e6/monostereo-podcast-05.jpg</url>
-		<url>media/39e34121/monostereo-podcast-06.jpg</url>
-		<url>media/b8988f0a/monostereo-podcast-07.jpg</url>
-		<url>media/49f36394/monostereo-podcast-08.jpg</url>
-		<url>media/e905970a/monostereo-podcast-09.jpg</url>
-		<url>media/990363f4/monostereo-podcast-10.jpg</url>
+		<url type="jpg">media/e36136bb/monostereo-podcast-01.jpg</url>
+		<url type="jpg">media/85ad104d/monostereo-podcast-02.jpg</url>
+		<url type="jpg">media/f1ad3066/monostereo-podcast-03.jpg</url>
+		<url type="jpg">media/434a518d/monostereo-podcast-04.jpg</url>
+		<url type="jpg">media/f27293e6/monostereo-podcast-05.jpg</url>
+		<url type="jpg">media/39e34121/monostereo-podcast-06.jpg</url>
+		<url type="jpg">media/b8988f0a/monostereo-podcast-07.jpg</url>
+		<url type="jpg">media/49f36394/monostereo-podcast-08.jpg</url>
+		<url type="jpg">media/e905970a/monostereo-podcast-09.jpg</url>
+		<url type="jpg">media/990363f4/monostereo-podcast-10.jpg</url>
 	</media>
 	<info>
 		<slug>monostereo-int</slug>

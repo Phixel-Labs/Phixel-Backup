@@ -13,13 +13,13 @@ We want to help you learn more about the world around you and make sure that you
 
 We want to help you learn more about the world around you and make sure that you don’t miss out on anything interesting.</description>
 	<media>
-		<url>media/4465bf3a/monostereo-logo.png</url>
-		<url>media/046610bb/monostereo-mockup-01.jpg</url>
-		<url>media/efad93e6/monostereo-mockup-02.jpg</url>
-		<url>media/09217723/monostereo-mockup-03.jpg</url>
-		<url>media/c53eb2c6/monostereo-mockup-04.jpg</url>
-		<url>media/e05bc27a/monostereo.jpg</url>
-		<url>media/1bda8ef5/monostereo.mp4</url>
+		<url type="png">media/4465bf3a/monostereo-logo.png</url>
+		<url type="jpg">media/046610bb/monostereo-mockup-01.jpg</url>
+		<url type="jpg">media/efad93e6/monostereo-mockup-02.jpg</url>
+		<url type="jpg">media/09217723/monostereo-mockup-03.jpg</url>
+		<url type="jpg">media/c53eb2c6/monostereo-mockup-04.jpg</url>
+		<url type="jpg">media/e05bc27a/monostereo.jpg</url>
+		<url type="mp4">media/1bda8ef5/monostereo.mp4</url>
 	</media>
 	<info>
 		<slug>monostereo</slug>

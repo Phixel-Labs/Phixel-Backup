@@ -96,35 +96,35 @@ and we want you to be a part of it!</content>
 	<excerpt>We believe that everyone deserves great design experiences</excerpt>
 	<description>We love making a difference in people's lives by connecting our clients with the design solutions they need.</description>
 	<media>
-		<url>media/31a2e984/clients.jpg</url>
-		<url>media/d110d0e7/logo-alpina.png</url>
-		<url>media/914991f9/logo-argos.png</url>
-		<url>media/6d18b5b6/logo-bancoldex.png</url>
-		<url>media/dbfdf078/logo-bancolombia.png</url>
-		<url>media/8689cd03/logo-bavaria.png</url>
-		<url>media/6570cabb/logo-berlinas.png</url>
-		<url>media/6fc73d17/logo-caf.png</url>
-		<url>media/4ac325a5/logo-camara-de-comercio-bogota.png</url>
-		<url>media/60422c93/logo-citroen.png</url>
-		<url>media/ab268d9d/logo-creamhelado.png</url>
-		<url>media/0891e4d7/logo-davivienda.png</url>
-		<url>media/4603b16a/logo-delipavo.png</url>
-		<url>media/566dd626/logo-dove.png</url>
-		<url>media/7f9cbfa4/logo-drummond.png</url>
-		<url>media/8d3c8c55/logo-ecopetrol.png</url>
-		<url>media/b49497f9/logo-huggies.png</url>
-		<url>media/f14cbad5/logo-hyundai.png</url>
-		<url>media/77d256af/logo-isa.png</url>
-		<url>media/d074f1bc/logo-lafayette.png</url>
-		<url>media/8cb10ce3/logo-movistar.png</url>
-		<url>media/ece5c15c/logo-nestle.png</url>
-		<url>media/62173b1b/logo-renault.png</url>
-		<url>media/1b0bcd26/logo-seguros-bolivar.png</url>
-		<url>media/0e8fe3bf/logo-soho.png</url>
-		<url>media/428c3b60/logo-telefonica.png</url>
-		<url>media/a8f4107f/logo-tigo.png</url>
-		<url>media/8b0396eb/logo-une.png</url>
-		<url>media/ff9615bb/logo-xbox.png</url>
+		<url type="jpg">media/31a2e984/clients.jpg</url>
+		<url type="png">media/d110d0e7/logo-alpina.png</url>
+		<url type="png">media/914991f9/logo-argos.png</url>
+		<url type="png">media/6d18b5b6/logo-bancoldex.png</url>
+		<url type="png">media/dbfdf078/logo-bancolombia.png</url>
+		<url type="png">media/8689cd03/logo-bavaria.png</url>
+		<url type="png">media/6570cabb/logo-berlinas.png</url>
+		<url type="png">media/6fc73d17/logo-caf.png</url>
+		<url type="png">media/4ac325a5/logo-camara-de-comercio-bogota.png</url>
+		<url type="png">media/60422c93/logo-citroen.png</url>
+		<url type="png">media/ab268d9d/logo-creamhelado.png</url>
+		<url type="png">media/0891e4d7/logo-davivienda.png</url>
+		<url type="png">media/4603b16a/logo-delipavo.png</url>
+		<url type="png">media/566dd626/logo-dove.png</url>
+		<url type="png">media/7f9cbfa4/logo-drummond.png</url>
+		<url type="png">media/8d3c8c55/logo-ecopetrol.png</url>
+		<url type="png">media/b49497f9/logo-huggies.png</url>
+		<url type="png">media/f14cbad5/logo-hyundai.png</url>
+		<url type="png">media/77d256af/logo-isa.png</url>
+		<url type="png">media/d074f1bc/logo-lafayette.png</url>
+		<url type="png">media/8cb10ce3/logo-movistar.png</url>
+		<url type="png">media/ece5c15c/logo-nestle.png</url>
+		<url type="png">media/62173b1b/logo-renault.png</url>
+		<url type="png">media/1b0bcd26/logo-seguros-bolivar.png</url>
+		<url type="png">media/0e8fe3bf/logo-soho.png</url>
+		<url type="png">media/428c3b60/logo-telefonica.png</url>
+		<url type="png">media/a8f4107f/logo-tigo.png</url>
+		<url type="png">media/8b0396eb/logo-une.png</url>
+		<url type="png">media/ff9615bb/logo-xbox.png</url>
 	</media>
 	<info>
 		<slug>clients</slug>

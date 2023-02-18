@@ -7,20 +7,20 @@ Whether you’re looking for inspiration for your own home design project or sim
 	<excerpt>Graphic design featuring tiny isometric rooms with a splash of color.</excerpt>
 	<description>Featuring graphic designs of small, colorful, isometric rooms. These designs showcase the aesthetic appeal of isometric design and can serve as inspiration for home design projects or simply be enjoyed for their artistic value.</description>
 	<media>
-		<url>media/67320b85/tiny-space-bathroom.jpg</url>
-		<url>media/60ecf31c/tiny-space-bedroom.jpg</url>
-		<url>media/1287cc89/tiny-space-dining-room.jpg</url>
-		<url>media/62358848/tiny-space-hall.jpg</url>
-		<url>media/59f0ac10/tiny-space-hallway.jpg</url>
-		<url>media/bd082064/tiny-space-kids-bedroom.jpg</url>
-		<url>media/e4dd0a7f/tiny-space-kitchen.jpg</url>
-		<url>media/a6db3a75/tiny-space-laundry.jpg</url>
-		<url>media/30a42884/tiny-space-library.jpg</url>
-		<url>media/8ed7181d/tiny-space-living-room.jpg</url>
-		<url>media/04953aff/tiny-space-lobby.jpg</url>
-		<url>media/f8b39a01/tiny-space-porch.jpg</url>
-		<url>media/f430a76c/tiny-space-storage.jpg</url>
-		<url>media/23a8b87e/tiny-space-study.jpg</url>
+		<url type="jpg">media/67320b85/tiny-space-bathroom.jpg</url>
+		<url type="jpg">media/60ecf31c/tiny-space-bedroom.jpg</url>
+		<url type="jpg">media/1287cc89/tiny-space-dining-room.jpg</url>
+		<url type="jpg">media/62358848/tiny-space-hall.jpg</url>
+		<url type="jpg">media/59f0ac10/tiny-space-hallway.jpg</url>
+		<url type="jpg">media/bd082064/tiny-space-kids-bedroom.jpg</url>
+		<url type="jpg">media/e4dd0a7f/tiny-space-kitchen.jpg</url>
+		<url type="jpg">media/a6db3a75/tiny-space-laundry.jpg</url>
+		<url type="jpg">media/30a42884/tiny-space-library.jpg</url>
+		<url type="jpg">media/8ed7181d/tiny-space-living-room.jpg</url>
+		<url type="jpg">media/04953aff/tiny-space-lobby.jpg</url>
+		<url type="jpg">media/f8b39a01/tiny-space-porch.jpg</url>
+		<url type="jpg">media/f430a76c/tiny-space-storage.jpg</url>
+		<url type="jpg">media/23a8b87e/tiny-space-study.jpg</url>
 	</media>
 	<info>
 		<slug>tiny-spaces</slug>

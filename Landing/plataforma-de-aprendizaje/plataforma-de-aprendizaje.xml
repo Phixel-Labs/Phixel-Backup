@@ -303,16 +303,16 @@ Agradecemos su tiempo y por considerar nuestra idea. Esperamos que esta informac
 	<excerpt>Te invitamos a explorar esta idea de una plataforma de aprendizaje en línea innovadora y efectiva, que combina las fortalezas de diferentes plataformas existentes y es accesible para todos. ¡Ven y descubre más!</excerpt>
 	<description>Nuestro objetivo es desarrollar una plataforma de aprendizaje en línea escalable que ofrezca una gama de cursos desde habilidades básicas hasta avanzadas, con un enfoque en la accesibilidad para todos. La plataforma será personalizable, permitiendo a los usuarios ajustar su experiencia de aprendizaje a su ritmo y necesidades específicas. Nuestra visión es proporcionar una solución innovadora en el mercado de aprendizaje en línea que ofrezca una experiencia de aprendizaje efectiva, personalizada y accesible para todos.</description>
 	<media>
-		<url>media/9049a792/learning-platform-business-business.jpg</url>
-		<url>media/25a9eaa7/learning-platform-business-tv.jpg</url>
-		<url>media/b9759f27/learning-platform-business-learning-02.jpg</url>
-		<url>media/142fd39a/learning-platform-business-landscape.jpg</url>
-		<url>media/f6e685a9/learning-platform-business-landscape-02.jpg</url>
-		<url>media/8006b820/learning-platform-business-bussinnes-02.jpg</url>
-		<url>media/acb132a7/learning-platform-business-imagination.jpg</url>
-		<url>media/260cbb93/learning-platform-business-learning.jpg</url>
-		<url>media/164d728a/learning-platform-business-books.jpg</url>
-		<url>media/3f6ab311/learning-platform-business-books-02.jpg</url>
+		<url type="jpg">media/9049a792/learning-platform-business-business.jpg</url>
+		<url type="jpg">media/25a9eaa7/learning-platform-business-tv.jpg</url>
+		<url type="jpg">media/b9759f27/learning-platform-business-learning-02.jpg</url>
+		<url type="jpg">media/142fd39a/learning-platform-business-landscape.jpg</url>
+		<url type="jpg">media/f6e685a9/learning-platform-business-landscape-02.jpg</url>
+		<url type="jpg">media/8006b820/learning-platform-business-bussinnes-02.jpg</url>
+		<url type="jpg">media/acb132a7/learning-platform-business-imagination.jpg</url>
+		<url type="jpg">media/260cbb93/learning-platform-business-learning.jpg</url>
+		<url type="jpg">media/164d728a/learning-platform-business-books.jpg</url>
+		<url type="jpg">media/3f6ab311/learning-platform-business-books-02.jpg</url>
 	</media>
 	<info>
 		<slug>plataforma-de-aprendizaje</slug>

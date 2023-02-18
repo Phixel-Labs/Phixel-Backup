@@ -11,7 +11,7 @@ We bring your ideas to life and make them better than ever before. We want to he
 	<excerpt>Pixel + PHP + Phoenix + Fix + X + Φ = Phixel</excerpt>
 	<description>Have you ever heard of the legend of the Phoenix?</description>
 	<media>
-		<url>media/03d72e6f/the-name-phoenix.jpg</url>
+		<url type="jpg">media/03d72e6f/the-name-phoenix.jpg</url>
 	</media>
 	<info>
 		<slug>naming-phixel-phoenix</slug>

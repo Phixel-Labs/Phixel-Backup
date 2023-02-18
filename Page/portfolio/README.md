@@ -8,7 +8,7 @@ Here Are Some of Our Favorite Select Works!
 ## Description
 These are some of our favorite selected works in our Portfolio, showcasing cool, innovative and forward-thinking projects.
 ## Media
-<img src="media/9f2fe104/portfolio.jpg">
+<img src="media/9f2fe104/portfolio.jpg" loading="lazy">
 
 ------------
 - **Slug:** portfolio

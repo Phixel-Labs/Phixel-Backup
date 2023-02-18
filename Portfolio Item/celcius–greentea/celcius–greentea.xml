@@ -7,10 +7,10 @@
 	<excerpt>Ancient Mythical Green Tea</excerpt>
 	<description>From an ancient hidden village, a healthy ancestral recipe full of antioxidants that is perfect to enrich your daily lifestyle.</description>
 	<media>
-		<url>media/9a15d401/greentea.gltf</url>
-		<url>media/f62f4a27/greentea.jpg</url>
-		<url>media/bc18c26e/greentea.png</url>
-		<url>media/86e23a5a/greentea.png</url>
+		<url type="gltf">media/9a15d401/greentea.gltf</url>
+		<url type="jpg">media/f62f4a27/greentea.jpg</url>
+		<url type="png">media/bc18c26e/greentea.png</url>
+		<url type="png">media/86e23a5a/greentea.png</url>
 	</media>
 	<info>
 		<slug>celcius–greentea</slug>

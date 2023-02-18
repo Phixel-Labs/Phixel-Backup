@@ -7,23 +7,23 @@ Enter the mythical realm of dragons and witness their unparalleled might. Explor
 ## Description
 Explore and appreciate the mythical creatures of dragons, highlighting their different styles from cute and cartoonish to fierce and epic. Marvel at their power and grace, and to explore the many legends surrounding them. It invites the reader to enter the mythical realm of dragons and unleash their imagination.
 ## Media
-<img src="media/b8887beb/dragon-80s-cartoon.jpg">
-<img src="media/30fc8949/dragon-bokeh.jpg">
-<img src="media/e821e0e0/dragon-goofy.jpg">
-<img src="media/7076e65d/dragon-8bit.jpg">
-<img src="media/0c02e970/dragonmon.jpg">
-<img src="media/843c8aed/dragon-fires.jpg">
-<img src="media/3195d4e3/dragon-tiltshift.jpg">
-<img src="media/32a3670f/dragon-egg.jpg">
-<img src="media/f4581a0f/dragon-cute.jpg">
-<img src="media/dc24cce2/dragon-thunder-lightning.jpg">
-<img src="media/8f34547e/dragon-baby.jpg">
-<img src="media/fe45a77b/dragon-cute-flying.jpg">
-<img src="media/cd94047b/dragon-lord.jpg">
-<img src="media/b1d899c9/dragon-sketch.jpg">
-<img src="media/18550b19/dragon-cop.jpg">
-<img src="media/80c90558/dragon-epic-look.jpg">
-<img src="media/988b1ca3/dragon-toon.jpg">
+<img src="media/b8887beb/dragon-80s-cartoon.jpg" loading="lazy">
+<img src="media/30fc8949/dragon-bokeh.jpg" loading="lazy">
+<img src="media/e821e0e0/dragon-goofy.jpg" loading="lazy">
+<img src="media/7076e65d/dragon-8bit.jpg" loading="lazy">
+<img src="media/0c02e970/dragonmon.jpg" loading="lazy">
+<img src="media/843c8aed/dragon-fires.jpg" loading="lazy">
+<img src="media/3195d4e3/dragon-tiltshift.jpg" loading="lazy">
+<img src="media/32a3670f/dragon-egg.jpg" loading="lazy">
+<img src="media/f4581a0f/dragon-cute.jpg" loading="lazy">
+<img src="media/dc24cce2/dragon-thunder-lightning.jpg" loading="lazy">
+<img src="media/8f34547e/dragon-baby.jpg" loading="lazy">
+<img src="media/fe45a77b/dragon-cute-flying.jpg" loading="lazy">
+<img src="media/cd94047b/dragon-lord.jpg" loading="lazy">
+<img src="media/b1d899c9/dragon-sketch.jpg" loading="lazy">
+<img src="media/18550b19/dragon-cop.jpg" loading="lazy">
+<img src="media/80c90558/dragon-epic-look.jpg" loading="lazy">
+<img src="media/988b1ca3/dragon-toon.jpg" loading="lazy">
 
 ------------
 - **Slug:** unleashing-the-mythical-dragons
