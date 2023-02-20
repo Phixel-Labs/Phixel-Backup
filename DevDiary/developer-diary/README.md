@@ -1,0 +1,49 @@
+# Introducing; the Phixel Developer Diary 👨‍💻
+### At Phixel, we’ve always been passionate about pushing the boundaries and exploring new ideas in our work.
+
+As a design agency, we specialize in creating digital experiences that help elevate brands and capture the attention of target audiences. But sometimes, we come up with some pretty cool code that we just have to share.
+
+> The greatest gift you can give someone is your knowledge and experience
+>
+> Jeff Charbonneau
+
+## What are Software Development Diaries?
+
+A software development diary is a log of a developer’s activities, progress, and challenges during the development process. It serves as a record of what was done, how it was done, and what could have been done better. Development diaries are an essential tool for developers as they help them to identify their strengths, weaknesses, and areas of improvement.
+
+## The Benefits of Keeping a Development Diary
+
+Keeping a development diary has numerous benefits, including:
+
+1. **Improved Time Management:** Developers can track their time spent on each task, which helps them to better manage their time and prioritize their work.
+2. **Better Communication:** Development diaries can serve as a reference point for developers to discuss their progress with project managers and other team members.
+3. **Personal Growth:** By reflecting on their daily progress, developers can identify areas of improvement and work towards personal and professional growth.
+
+This is a weekly blog series where our team of talented developers will be showcasing some of the most interesting and innovative code we’ve come up with, as well as sharing our progress on exciting new projects.
+
+We believe that the best way to grow as developers is to share our experiences and knowledge with the community. With the Phixel Developer Diary, we want to give back to the community that has given us so much. We want to share what we’ve learned and give others the opportunity to learn from us.
+
+Our developer diary will cover a wide range of topics, from coding best practices and design patterns, to new frameworks and libraries, and even some fun side projects we’ve been working on. We hope that this blog series will be a source of inspiration and education for developers at all skill levels.
+
+So, whether you’re a seasoned developer looking for new ideas or a beginner just starting out, the Phixel Developer Diary is for you. We can’t wait to share our insights and knowledge with the community and continue to push the limits of what’s possible.
+
+Stay tuned for our first post. In the meantime, be sure to follow us on social media to stay up to date on all things Phixel.
+------------
+## Exerpt
+Introducing the “Phixel Developer Diary, ” a weekly blog series where our developers showcase innovative code.
+## Description
+The Phixel Developer Diary is a weekly blog series that showcases innovative code, shares progress on exciting projects, and provides valuable insights for developers. By reflecting on their daily progress, developers can identify areas of improvement and work towards personal and professional growth. Follow us for inspiration, education and to push the limits of what’s possible!
+## Media
+<img src="media/783b6cd2/developer-diary.jpg" loading="lazy"><br>
+
+------------
+- **Slug:** developer-diary
+- **Date:** 16/02/2023
+- **URL:** [https://phixel.net/devdiary/developer-diary/](https://phixel.net/devdiary/developer-diary/)
+- **Type:** [DevDiary](#devdiary)
+- **Hashtags:** #DeveloperDiary, #SoftwareDevelopment, #CodeInnovation, #PersonalGrowth, #TimeManagement, #BetterCommunication, #CommunityLearning, #DesignAgency, #DigitalExperiences, #StayTuned
+- **Emojis:** 💻📈📚👨‍💻👩‍💻🚀🌟🤓👀
+
+------------
+## Tags
+[Coding Best Practices](#coding-best-practices), [Communication](#communication), [Design Patterns](#design-patterns), [Digital Experiences](#digital-experiences), [Frameworks](#frameworks), [Libraries](#libraries), [Personal Growth](#personal-growth), [Side Projects](#side-projects), [Software Development](#software-development), [Time Management](#time-management)

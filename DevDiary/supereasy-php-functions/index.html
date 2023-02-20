@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Save time with some PHP functions 🚀🤖 (Part 1)</title>
+		<meta name="description" content="Tired of trying to remember the structure of common PHP function? We’ve got you covered!">
+	</head>
+	<body>
+		<div>
+			<h1>Save time with some PHP functions 🚀🤖 (Part 1)</h1>
+			<h3>As PHP developers, we all know the struggle of trying to remember every native PHP function.</h3>
+<p>It can be like trying to recall your high school locker combination after years of not using it. Was it strtolower() or str_lower()? And what about the difference between htmlentities() and html_entity_decode()?</p>
+<p>It’s a problem we’ve encountered time and time again, so we’ve come up with a solution. We’ve developed a suite of functions to make our lives as PHP developers a little easier. Our functions cover various areas of PHP development, including string manipulation, working with HTML and URLs, and array manipulation.</p>
+<h4>Case fix</h4>
+<pre><code class="language-php">&lt;?php
+/*
+Title: Convert string to uppercase
+Description: This function takes a string as input and returns the string in uppercase format after removing extra spaces.
+*/
+function upperCase( $str ){
+$str = preg_replace( '/\s+/', ' ', $str );
+return strtoupper( $str );
+}
+?&gt;
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+Title: HTML Decode
+Description: Converts HTML encoded characters to their original character representation.
+*/
+function html_decode( $str ){
+return html_entity_decode( $str );
+}
+function htmlDecode( $str ){
+return html_decode( $str );
+}
+function decodeCase( $str ){
+return html_decode( $str );
+}
+?&gt;
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+Title: Title Case
+Description: Converts a given string to title case.
+Note: Id changes back lower case articles an support latin characters.
+*/
+function titleCaseFix($str) {
+$str = str_replace('Ñ', 'ñ', $str);
+$str = str_replace('Á', 'á', $str);
+$str = str_replace('É', 'é', $str);
+$str = str_replace('Í', 'í', $str);
+$str = str_replace('Ó', 'ó', $str);
+$str = str_replace('Ú', 'ú', $str);
+$str = str_replace('Ü', 'ü', $str);
+$str = str_replace('Â¿', '¿', $str);
+$str = str_replace('# ', '#', $str);
+$str = str_replace(' #', '#', $str);
+$str = str_replace(' ', ' ', $str);
+$str = str_replace('-', ' - ', $str);
+$str = str_replace(', ', ' , ', $str);
+$str = str_replace('.', '. ', $str);
+$str = str_replace(':', ': ', $str);
+$str = str_replace('__', ' - ', $str);
+$str = str_replace(' :', ': ', $str);
+$str = str_replace('&gt;', '&gt; ', $str);
+$str = str_replace('&lt;', ' &lt;', $str);
+$str = str_replace('(', '( ', $str);
+$str = str_replace(')', ' )', $str);
+$str = str_replace('¿', '¿ ', $str);
+$str = str_replace('?', ' ?', $str);
+$str = str_replace(' ', ' ', $str);
+$str = str_replace(' ', ' ', $str);
+$str = str_replace(' ', ' ', $str);
+$str = str_replace(' ', ' ', $str);
+$str = utf8_decode($str);
+$str = strtolower($str);
+
+$str = trim($str).' ';
+$arr = strtolower($str);
+$str = ucwords($str);
+
+$minus = array(
+'la', 'el', 'en', 'to', 'es', 'un', 'lo', 'su', 'sus', 'a', 
+'sobre', 'de', 'los', 'las', 'suyo', 'su', 'este', 'y', 
+'ese', 'mi', 'tu', 'soy', 
+'del', 'de', 'o', 'u', 'e', 'con', 
+
+'a', 'an', 'the', 'and', 'but', 'or', 'for', 'nor', 
+'as', 'at', 'by', 'for', 'from', 'in', 'into', 'near', 
+'of', 'on', 'onto', 'to', 'with'
+);
+foreach($minus as $key =&gt; $value){
+$value = strtolower($value);
+$value = ucwords($value);
+$value = ' '.($value).' ';
+$str = str_replace(($value), strtolower($value), $str);
+}
+$mayus = array(
+'B2B', 'B2C', 'MEV', 'TUT', 'EIA', 'ID', 'CDE', 'DHT', 'SAC', 
+'DTH', 'FV', 'FVD', 'TV', 'HD', 'KPI', 'CNC', '1Q', '2Q', 'EYG', 
+'CNV', 'CU', 'CNT', 'HFC', 'PRI', 'ATN', 'PON', 'OTRD', 'RDSI', 
+'SIP', 'PQR', 'CPV', 'ATA', 'STB', 'RTL', 'FVD', 'CPE', 'PRO'.
+'3G', '4G', 'ATP', 'TTT', 'PO', 'AI', 'JavaScript', 'JS'
+);
+foreach($mayus as $key =&gt; $value){
+$value = strtolower($value);
+$value = ucwords($value);
+$value = ($value).' ';
+$str = str_replace(($value), strtoupper($value), $str);
+}
+$str = str_replace('#', ' # ', $str);
+$str = str_replace('( ', '(', $str);
+$str = str_replace(' ', ' ', $str);
+$str = str_replace(' ', ' ', $str);
+$str = str_replace(' )', ') ', $str);
+$str = str_replace(':', ': ', $str);
+$str = str_replace(' , ', ', ', $str);
+$str = str_replace(' , ', ', ', $str);
+$str = str_replace('¿ ', ' ¿', $str);
+$str = str_replace(' ?', '? ', $str);
+$str = str_replace(' :', ':', $str);
+$str = str_replace(' ', ' ', $str);
+$str = str_replace(' ', ' ', $str);
+$str = str_replace(' ', ' ', $str);
+$str = str_replace(' ', ' ', $str);
+$str = str_replace(' ', ' ', $str);
+$str = str_replace(' ', ' ', $str);
+$str = str_replace(' ', ' ', $str);
+$str = str_replace(' ', ' ', $str);
+$str = trim($str);
+$str = utf8_encode($str);
+return $str;
+}
+
+function titleCase($str) {
+return titleCaseFix($str);
+}
+?&gt;
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+Title: Clean a string for a code-friendly format
+Descrition: This function takes in a string and sanitizes it for use in code by converting it to lowercase, removing special characters, and replacing spaces with a specified separator. Optionally, it can also remove common English words such as articles and prepositions.
+*/
+function cleanCase($str , $char = '_', $union = true){
+
+//decode any html entities
+$str = html_entity_decode($str);
+
+//convert the string to lower case
+$str = lowerCase(' '.$str.' ');
+
+//convert utf-8 to ascii
+$str = @iconv('UTF-8', 'ASCII//TRANSLIT', $str);
+
+// removing special characters
+$str = str_replace("'", '', $str);
+$str = str_replace("~", '', $str);
+
+// Remove any non-alphanumeric characters
+$str = preg_replace("/[^A-Za-z0-9 ]/", ' ', $str);
+
+// Replace multiple spaces with a single space
+$str = str_replace(trim(" \ "), ' ', $str);
+$str = str_replace("/", ' ', $str);
+$str = preg_replace('/\s+/', ' ', $str);
+
+if($union){
+$minus =array(
+'la', 'el', 'en', 'to', 'es', 'un', 'lo', 'su', 'sus', 'a', 
+'sobre', 'de', 'los', 'las', 'suyo', 'su', 'este', 'y', 
+'aquel', 'ese', 'mi', 'tu', 'nuestro', 'vuestro', 'soy', 
+'del', 'de', 'o', 'u', 'e', 'con', 
+
+'a', 'an', 'the', 'and', 'but', 'or', 'for', 'nor', 
+'as', 'at', 'by', 'for', 'from', 'in', 'into', 'near', 
+'of', 'on', 'onto', 'to', 'with'
+);
+
+foreach($minus as $key =&gt; $value){
+$str = str_replace(' '.$value.' ', ' ', $str);
+}
+}
+$str = preg_replace('/\s+/', ' ', $str);
+$str = trim($str);
+$str=str_replace(' ', $char, $str);
+return ($str);
+}
+
+function caseClear($str, $char = '-'){
+return cleanCase($str, $char);
+}
+function caseClean($str, $char = '-'){
+return cleanCase($str, $char);
+}
+
+function clearCase($str, $char = '-'){
+return cleanCase($str, $char);
+}
+function str_clean($str, $char = '-'){
+return cleanCase($str, $char);
+}
+
+function str_clear($str, $char = '-'){
+return cleanCase($str, $char);
+}
+?&gt;
+</code></pre>
+<h4>Encode decode fix</h4>
+<pre><code class="language-php">&lt;?php
+/*
+Title: HTML Encoding
+Description: Converts special characters to HTML entities, making it safe to display on a web page.
+*/
+function html_encode( $str ){
+return htmlentities( $str );
+}
+function htmlEncode( $str ){
+return html_encode( $str );
+}
+function encodeCase( $str ){
+return html_encode( $str );
+}
+?&gt;
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+Title: Convert string to uppercase
+Description: This function takes a string as input and returns the string in uppercase format after removing extra spaces.
+*/
+function upperCase( $str ){
+$str = preg_replace( '/\s+/', ' ', $str );
+return strtoupper( $str );
+}
+?&gt;
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+Title: URL Decode
+Description: This function takes a string encoded with URL encoding and decodes it back to its original form.
+*/
+function url_decode ( $str ){
+return urldecode ( $str );
+}
+?&gt;
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+Title: URL Encode Function
+Description: This function takes a string as input and returns the URL encoded version of the string.
+*/
+function url_encode ( $str ){
+return urlencode ( $str );
+}
+?&gt;
+</code></pre>
+<h4>Numbers fix</h4>
+<pre><code class="language-php">&lt;?php
+/*
+Title: Convert Integer to Percentage
+Description: This function takes an integer and converts it to a percentage based on a total value. The function has options to return the result as a plain number, with only the percentage, or with both the integer and total values.
+*/
+function convert_percent( $int = 0, $total = 100, $off = 'false' ){
+$t = ( round( ( round( $int )*100 )/round( $total ) ).'' )*1;
+$int_n = number_format( $int*1 );
+$t_n = number_format( $t*1 );
+$total_n = number_format( $total*1 );
+if( $off == 'false' ){
+return( $int_n.' ( '.$t_n.'% )' );
+}else if( $off == 'number' ){
+return( $t );
+} else if( $off == 'true' ){
+return( $int_n.'/'.$total_n.' ( '.$t.'% )' );
+}
+}
+function per( $int = 0, $total = 100, $off = 'false' ){
+return convert_percent( $int, $total, $off );
+}
+
+function percent( $int = 0, $total = 100, $off = 'false' ){
+return convert_percent( $int, $total, $off );
+}
+
+function per_e( $int = 0, $total = 100, $off = 'false' ){
+e( per( $int, $total, $off ) );
+}
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+Title: Format number function
+Description: Converts a number to a formatted string
+*/
+function numberFormat( $num ){
+$str = $num*1;
+$str = number_format($str);
+return ( $str );
+}
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+Title: Lead Zero
+Description: Adds a leading zero to a number if its length is less than 2
+*/
+
+function leadZero($num, $length = 2) {
+$num = round($num);
+return (strlen($num) &lt; $length) ? "0{$num}" : $num;
+
+}
+
+function lead_zero($num, $length = 2) {
+return leadZero($num, $length);
+}
+</code></pre>
+<h4>Number conversion fix</h4>
+<pre><code class="language-php">&lt;?php
+/*
+Title: File Size Conversion
+Description: This function takes the file size in bytes and converts it into the appropriate size unit (TB, GB, MB, KB or Bytes)
+*/
+
+function fileSize($bytes, $power = 1024){
+$bytes = floatval($bytes);
+$arBytes = array(
+0 =&gt; array(
+"UNIT" =&gt; "TB", 
+"VALUE" =&gt; pow($power, 4)
+), 
+1 =&gt; array(
+"UNIT" =&gt; "GB", 
+"VALUE" =&gt; pow($power, 3)
+), 
+2 =&gt; array(
+"UNIT" =&gt; "MB", 
+"VALUE" =&gt; pow($power, 2)
+), 
+3 =&gt; array(
+"UNIT" =&gt; "KB", 
+"VALUE" =&gt; $power
+), 
+4 =&gt; array(
+"UNIT" =&gt; "Bytes", 
+"VALUE" =&gt; 1
+), 
+);
+
+foreach($arBytes as $arItem){
+if($bytes &gt;= $arItem["VALUE"]){
+$result = $bytes / $arItem["VALUE"];
+$result = str_replace(".", "." , strval(round($result, 2)))." ".$arItem["UNIT"];
+break;
+}
+}
+return $result;
+}
+
+function file_size($bytes, $power = 1024){
+return fileSize($bytes, $power);
+}
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+Title: Weight Conversion
+Description: This function takes the object weight in grams and converts it into the appropriate weight unit (Tons, Kilograms, Grams)
+*/
+
+function weight($grams, $power = 1000){
+$grams = floatval($grams);
+$arGrams = array(
+0 =&gt; array(
+"UNIT" =&gt; "Tons", 
+"VALUE" =&gt; pow($power, 3)
+), 
+1 =&gt; array(
+"UNIT" =&gt; "Kilograms", 
+"VALUE" =&gt; $power
+), 
+2 =&gt; array(
+"UNIT" =&gt; "Grams", 
+"VALUE" =&gt; 1
+), 
+);
+
+foreach($arGrams as $arItem){
+if($grams &gt;= $arItem["VALUE"]){
+$result = $grams / $arItem["VALUE"];
+$result = str_replace(".", ".", strval(round($result, 2)))." ".$arItem["UNIT"];
+break;
+}
+}
+return $result;
+}
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+Title: Liquid volume Conversion
+Description: This function takes the volume of liquid in milliliters and converts it into the appropriate size unit (L, dL, cL, mL or μL)
+*/
+
+function volume($ml, $power = 10){
+$ml = floatval($ml);
+$arMl = array(
+0 =&gt; array(
+"UNIT" =&gt; "L", 
+"VALUE" =&gt; pow($power, 3)
+), 
+1 =&gt; array(
+"UNIT" =&gt; "dL", 
+"VALUE" =&gt; pow($power, 2)
+), 
+2 =&gt; array(
+"UNIT" =&gt; "cL", 
+"VALUE" =&gt; $power
+), 
+3 =&gt; array(
+"UNIT" =&gt; "mL", 
+"VALUE" =&gt; 1
+), 
+4 =&gt; array(
+"UNIT" =&gt; "μL", 
+"VALUE" =&gt; pow(10, -3)
+), 
+);
+
+foreach($arMl as $arItem){
+if($ml &gt;= $arItem["VALUE"]){
+$result = $ml / $arItem["VALUE"];
+$result = str_replace(".", "." , strval(round($result, 2)))." ".$arItem["UNIT"];
+break;
+}
+}
+return $result;
+}
+
+?&gt;
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+Title: Month names in Spanish or english
+Description: Return the name of the month based on the number.
+*/
+function month( $date = 1 , $lang = 'es'){
+$dates['es'] = array(
+'Enero', 
+'Febrero', 
+'Marzo', 
+'Abril', 
+'Mayo', 
+'Junio', 
+'Julio', 
+'Agosto', 
+'Septiembre', 
+'Octubre', 
+'Noviembre', 
+'Diciembre'
+);
+$dates['en'] = array(
+'January', 
+'February', 
+'March', 
+'April', 
+'May', 
+'June', 
+'July', 
+'August', 
+'September', 
+'October', 
+'November', 
+'December'
+);
+return $dates[ $lang ][ ( $date-1 ) ];
+}
+?&gt;
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+Title: File Size Conversion
+Description: This function takes the file size in bytes and converts it into the appropriate size unit (TB, GB, MB, KB or Bytes)
+*/
+
+function fileSize($bytes, $power = 1024){
+$bytes = floatval($bytes);
+$arBytes = array(
+0 =&gt; array(
+"UNIT" =&gt; "TB", 
+"VALUE" =&gt; pow($power, 4)
+), 
+1 =&gt; array(
+"UNIT" =&gt; "GB", 
+"VALUE" =&gt; pow($power, 3)
+), 
+2 =&gt; array(
+"UNIT" =&gt; "MB", 
+"VALUE" =&gt; pow($power, 2)
+), 
+3 =&gt; array(
+"UNIT" =&gt; "KB", 
+"VALUE" =&gt; $power
+), 
+4 =&gt; array(
+"UNIT" =&gt; "Bytes", 
+"VALUE" =&gt; 1
+), 
+);
+
+foreach($arBytes as $arItem){
+if($bytes &gt;= $arItem["VALUE"]){
+$result = $bytes / $arItem["VALUE"];
+$result = str_replace(".", "." , strval(round($result, 2)))." ".$arItem["UNIT"];
+break;
+}
+}
+return $result;
+}
+
+function file_size($bytes, $power = 1024){
+return fileSize($bytes, $power);
+}
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+Title: Time Conversion
+Description: This function takes the time in seconds and converts it into the appropriate unit (years, decades, centuries, milliseconds, days, months or seconds)
+*/
+
+function time($time, $power = 1) {
+$time = floatval($time);
+$arTime = array(
+0 =&gt; array(
+"UNIT" =&gt; "Milliseconds", 
+"VALUE" =&gt; pow($power, -3)
+), 
+1 =&gt; array(
+"UNIT" =&gt; "Seconds", 
+"VALUE" =&gt; $power
+), 
+2 =&gt; array(
+"UNIT" =&gt; "Minutes", 
+"VALUE" =&gt; 60 * $power
+), 
+3 =&gt; array(
+"UNIT" =&gt; "Hours", 
+"VALUE" =&gt; 60 * 60 * $power
+), 
+4 =&gt; array(
+"UNIT" =&gt; "Days", 
+"VALUE" =&gt; 24 * 60 * 60 * $power
+), 
+5 =&gt; array(
+"UNIT" =&gt; "Months", 
+"VALUE" =&gt; 30 * 24 * 60 * 60 * $power
+), 
+6 =&gt; array(
+"UNIT" =&gt; "Years", 
+"VALUE" =&gt; 365 * 24 * 60 * 60 * $power
+), 
+7 =&gt; array(
+"UNIT" =&gt; "Decades", 
+"VALUE" =&gt; 10 * 365 * 24 * 60 * 60 * $power
+), 
+8 =&gt; array(
+"UNIT" =&gt; "Centuries", 
+"VALUE" =&gt; 100 * 365 * 24 * 60 * 60 * $power
+), 
+9 =&gt; array(
+"UNIT" =&gt; "Millenniums", 
+"VALUE" =&gt; 1000 * 365 * 24 * 60 * 60 * $power
+)
+);
+
+foreach($arTime as $arItem) {
+if ($time &gt;= $arItem["VALUE"]) {
+$result = $time / $arItem["VALUE"];
+$result = str_replace(".", ".", strval(round($result, 2))) . " " . $arItem["UNIT"];
+break;
+}
+}
+return $result;
+}
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+Title: Temperature Conversion in Celsius
+Description: This function takes temperature in Kelvin and converts it into Celsius.
+*/
+
+function temperatureConversion($temp, $power = 1){
+$temp = floatval($temp);
+$arTemperature = array(
+0 =&gt; array(
+"UNIT" =&gt; "m°C", 
+"VALUE" =&gt; pow($power, -3)
+), 
+1 =&gt; array(
+"UNIT" =&gt; "µ°C", 
+"VALUE" =&gt; pow($power, -6)
+), 
+2 =&gt; array(
+"UNIT" =&gt; "n°C", 
+"VALUE" =&gt; pow($power, -9)
+), 
+3 =&gt; array(
+"UNIT" =&gt; "p°C", 
+"VALUE" =&gt; pow($power, -12)
+), 
+4 =&gt; array(
+"UNIT" =&gt; "°C", 
+"VALUE" =&gt; 1
+), 
+);
+
+foreach ($arTemperature as $arItem) {
+if ($temp &gt;= $arItem["VALUE"]) {
+$result = $temp / $arItem["VALUE"];
+$result = str_replace(".", ".", strval(round($result, 2))) . " " . $arItem["UNIT"];
+break;
+}
+}
+return $result;
+}
+</code></pre>
+<h4>Sring fix</h4>
+<pre><code class="language-php">&lt;?php
+/*
+Title: Clean the echo string
+Description: Takes in a string as an input, and performs several operations to clean the string, specially for latin character.
+*/
+function e( $str = '' , $echo = true) {
+// Set status of tilde
+$hasTilde = false;
+
+// Replace newline with space
+$str = str_replace( '
+', ' ', $str );
+
+//replace non-breaking space with space
+$str = str_replace( '&amp;nbsp', ' ', $str );
+
+// Checking if any latin characters are present
+$hasTilde = preg_match('/[áéíóúñüÁÉÍÓÚÑÜ]/', $str);
+
+// Replacing multiple spaces with single space
+$str = preg_replace( '/\s+/', ' ', $str );
+
+// Replace \n with newline
+$str = str_replace( '\n', '
+', $str );
+
+// If there is not a tilde, UTF8 encode
+if (!$hasTilde) {
+$result = utf8_encode($str);
+} else {
+$result = $str;
+}
+if ($echo){
+echo $result;
+return = false;
+}else {
+return = $result ;
+}
+
+}
+?&gt;
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+
+Title: Convert an array to an HTML Unsorted List list quickly.
+Description: Works with multi arrangements
+Sample:
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;$value&lt;/b&gt; is the name of the array.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;$ul&lt;/b&gt; Determines whether to create the opening and closing UL in html.&lt;/li&gt;
+&lt;/ul&gt;
+*/
+function array2ul( $array = '', $id = 'list_', $keys = false, $vars = false, $title = false, $href = false ) {
+$random = rand( 1000, 9999 );
+if( $id == 'list' ){
+$id = $id.$random;
+}
+ob_start();
+?&gt;
+&lt;ul
+id="&lt;? e( $id ); ?&gt;"
+class="padding-top-1 padding-bottom-1 "
+&lt;?
+if( is_array( $vars ) ){
+foreach ( $vars as $key =&gt; $value ) {
+e( ' '.$key.'="'.$value.'"' );
+}
+}
+?&gt;
+&gt;
+&lt;?
+if( is_array( $array ) ){
+$i = 0;
+foreach ( $array as $key =&gt; $value ) {
+$id_ = cleanCase( $id.'_item_'.$key );
+?&gt;
+&lt;li
+id="&lt;? e( $id_ ); ?&gt;"
+data-item="&lt;? e( $key ); ?&gt;"s
+data-list="&lt;? e( $i ); ?&gt;"
+class="list padding-left-1"
+&gt;
+&lt;?
+if( is_array( $value ) ){
+array_ul( $value, $id_, $keys, false, $title, $href );
+}else{
+$v = trim( $value );
+if( $keys ){
+$v = '{_n}&lt;b class="{color/primary}"&gt;'.$key.':&lt;/b&gt;{_n}{_}'.$v;
+}
+if( $title ){
+$v = '[ '.$title.$v.' ]';
+}
+if( $href ){
+?&gt;
+&lt;a href="&lt;? e( $href ); ?&gt;&lt;? e( cleanCase( $key ) ); ?&gt;"&gt;
+&lt;? e( $v ); ?&gt;
+&lt;/a&gt;
+&lt;?
+}else{
+e( $v );
+}
+}
+?&gt;
+&lt;/li&gt;
+&lt;?
+$i++;
+}
+
+}else{
+e( '{error-no-array}' );
+}
+?&gt;
+&lt;/ul&gt;
+&lt;?
+$html = ob_get_clean();
+return $html;
+}
+function array_ul( $array = '', $id = 'list_', $keys = false, $vars = false, $title = false, $href = false ) {
+return array2ul( $array, $id, $keys, $vars, $title, $href);
+}
+
+function array_to_ul( $array = '', $id = 'list_', $keys = false, $vars = false, $title = false, $href = false ) {
+return array2ul( $array, $id, $keys, $vars, $title, $href);
+}
+
+?&gt;
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+Title: Format an PHP array to be HTML friendly
+Description: Return the array as a list.
+*/
+function print_html( $array, $title = '', $session = false) {
+
+if ( $_SERVER[ "SERVER_NAME" ] == 'localhost' ) {
+$bt = debug_backtrace();
+$rand = dechex(rand(1000000, 9999999));
+$nam = 'print_'.$rand;
+
+ob_start();
+if(!$title){
+$title = '{text/print}: '.$rand;
+}else{
+$title = '&lt;span class="yellow"&gt;{text/print}&lt;/span&gt;: '.$title;
+}
+?&gt;
+&lt;a
+href="#print_&lt;? e($rand); ?&gt;"
+onClick="
+$('#print_&lt;? e($rand); ?&gt; .content').toggleClass('hidden');
+$('#print_&lt;? e($rand); ?&gt;').toggleClass('hide');
+"
+class="{css/dark-bt}"
+&gt;
+&lt;? i('code console'); ?&gt; &lt;? e($title ); ?&gt;
+&lt;/a&gt;
+&lt;div class="content hidden row "&gt;
+&lt;div class="cont {css/padding} bg-dark round"&gt;
+
+&lt;h2 class="line padding-left-1 margin-bottom-1 padding-bottom-1 w-full row primary br-bottom-1"&gt;
+&lt;? e($title); ?&gt;
+&lt;/h2&gt;
+
+&lt;div class="line padding-left-1 margin-bottom-1 padding-bottom-1 w-full row br-bottom-1"&gt;
+&lt;?php
+e( '&lt;h6 class="{css-col/full}"&gt;&lt;b&gt;{text/print-file} &lt;/b&gt;&lt;i class="primary"&gt;'.$bt[1]['file'].'&lt;/i&gt;&lt;/h6&gt;');
+e( '&lt;h6 class="{css-col/full}"&gt;&lt;b&gt;{text/print-line}&lt;/b&gt; &lt;i class="secondary"&gt;'.$bt[1]['line'].'&lt;/i&gt;&lt;/h6&gt;');
+
+if(is_array($array)){
+e( '&lt;h6 class="{css-col/full}"&gt;&lt;b&gt;{text/print-entries}&lt;/b&gt;&lt;i class="orange"&gt;'.count($array).'&lt;/i&gt;&lt;/h6&gt;');
+}
+?&gt;
+&lt;/div&gt;
+
+&lt;div class="lists padding-bottom-1 w-full row"&gt;
+&lt;?php
+if(is_array($array)){
+foreach ($array as $key =&gt; $value) {
+e('&lt;div class="{css/padding}"&gt;&lt;div class="list {css/padding} br-bottom-1 br-primary bg-dark round"&gt;');
+e('&lt;h5 class="secondary"&gt;'.$key.'&lt;/h5&gt;');
+if(is_array($value)){
+array_ul($value, 'print_list_', true);
+}else{
+e('&lt;p class="sm"&gt;'.$value.'&lt;/p&gt;');
+}
+e('&lt;/div&gt;&lt;/div&gt;');
+
+}
+
+}else{
+e('&lt;div class="list padding-left-1 {css-col/full}"&gt;');
+e($array);
+e('&lt;/div&gt;');
+}
+?&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;?php
+
+$print_h = ob_get_clean();
+if($session){
+return $_SESSION['print_html'][$title]= $print_h;
+}else{
+return ('&lt;div class="print hide shadow row" id="print_'.$rand.'"&gt;'.$print_h.'&lt;/div&gt;');
+}
+}
+}
+
+function print_h( $array, $title = '', $session = false ) {
+return print_html( $array, $title, $session);
+}
+
+?&gt;
+</code></pre>
+<pre><code class="language-php">&lt;?php
+/*
+Title: Time Conversion
+Description: This function takes the time in seconds and converts it into the appropriate unit (years, decades, centuries, milliseconds, days, months or seconds)
+*/
+
+function time($time, $power = 1) {
+$time = floatval($time);
+$arTime = array(
+0 =&gt; array(
+"UNIT" =&gt; "Milliseconds", 
+"VALUE" =&gt; pow($power, -3)
+), 
+1 =&gt; array(
+"UNIT" =&gt; "Seconds", 
+"VALUE" =&gt; $power
+), 
+2 =&gt; array(
+"UNIT" =&gt; "Minutes", 
+"VALUE" =&gt; 60 * $power
+), 
+3 =&gt; array(
+"UNIT" =&gt; "Hours", 
+"VALUE" =&gt; 60 * 60 * $power
+), 
+4 =&gt; array(
+"UNIT" =&gt; "Days", 
+"VALUE" =&gt; 24 * 60 * 60 * $power
+), 
+5 =&gt; array(
+"UNIT" =&gt; "Months", 
+"VALUE" =&gt; 30 * 24 * 60 * 60 * $power
+), 
+6 =&gt; array(
+"UNIT" =&gt; "Years", 
+"VALUE" =&gt; 365 * 24 * 60 * 60 * $power
+), 
+7 =&gt; array(
+"UNIT" =&gt; "Decades", 
+"VALUE" =&gt; 10 * 365 * 24 * 60 * 60 * $power
+), 
+8 =&gt; array(
+"UNIT" =&gt; "Centuries", 
+"VALUE" =&gt; 100 * 365 * 24 * 60 * 60 * $power
+), 
+9 =&gt; array(
+"UNIT" =&gt; "Millenniums", 
+"VALUE" =&gt; 1000 * 365 * 24 * 60 * 60 * $power
+)
+);
+
+foreach($arTime as $arItem) {
+if ($time &gt;= $arItem["VALUE"]) {
+$result = $time / $arItem["VALUE"];
+$result = str_replace(".", ".", strval(round($result, 2))) . " " . $arItem["UNIT"];
+break;
+}
+}
+return $result;
+}
+</code></pre>
+<p>Now, some people might argue that creating these functions is a bad practice, but we disagree. We believe that if something can increase productivity and make our lives easier, then it’s worth it. It’s always a great feeling to say, “Hey boss, I just saved us 10 minutes of coding with my super cool function!”</p>
+<p>Of course, we understand that there are potential downsides to using our functions. If we get our hands on a project developed by a different team that never used these functions, we might have a hard time. But we believe that anything that can help us work smarter, not harder, is worth exploring.</p>
+<p>So, let’s raise a cup of coffee (or beer, if that’s more your thing) to productivity and making our lives as developers a little easier.</p>
+<h3>Stay tune for part 2</h3>
+
+		</div>
+		<div>
+			<h2>Exerpt</h2>
+			<p>Tired of trying to remember the structure of common PHP function? We’ve got you covered!</p>
+		</div>
+		<div>
+			<h2>Description</h2>
+			<p>Are you tired of struggling to remember native PHP functions? Check out our suite of functions covering areas like string manipulation, working with HTML and URLs, and array manipulation. Save time and increase productivity as a PHP developer with our time-saving coding tips.</p>
+		</div>
+		<div>
+			<h2>Media</h2>
+<img src="media/1871d4cf/php-functions-1.jpg" loading="lazy"><br>
+		</div>
+		<div>
+			<ul>
+				<li><b>Slug:</b> supereasy-php-functions</li>
+				<li><b>Date:</b> 10/02/2023</li>
+				<li><b>URL:</b> <a href="https://phixel.net/devdiary/supereasy-php-functions/">https://phixel.net/devdiary/supereasy-php-functions/</a></li>
+				<li><b>Type:</b> <a href="#devdiary">DevDiary</a></li>
+				<li><b>Hashtags:</b> #PHPDevelopment, #WebDevelopment, #Coding, #Productivity, #FunctionLibraries, #CodeEfficiency, #PHPFunctions, #PHPLibraries, #SoftwareDevelopment, #Programming, #ProductivityHacks, #ProgrammingTips, #CodeTricks, #WebApps, #DevelopersLife, #CodingSkills, #TechnologyUpdates, #EasyProgramming</li>
+				<li><b>Emojis:</b> 🚀🤖💻👨‍💻📈📊💡🔧🛠️☕💻🚀📈👨‍💻👩‍💻🔧💡🤖👌🍻</li>
+			</ul>
+		</div>
+		<div>
+			<h2>Tags</h2>
+			<a href="#code-efficiency">Code Efficiency</a>, 
+			<a href="#coding">Coding</a>, 
+			<a href="#development">Development</a>, 
+			<a href="#function-libraries">Function Libraries</a>, 
+			<a href="#php-development">PHP Development</a>, 
+			<a href="#php-functions">PHP Functions</a>, 
+			<a href="#php-libraries">PHP Libraries</a>, 
+			<a href="#productivity">Productivity</a>, 
+			<a href="#programming">Programming</a>, 
+			<a href="#software-development">Software Development</a>, 
+			<a href="#technology">Technology</a>, 
+			<a href="#web">Web</a>, 
+			<a href="#web-development">Web Development</a>
+		</div>
+	</body>
+</html>
