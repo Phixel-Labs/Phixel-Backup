@@ -1,4 +1,5 @@
 # Repack Max Buffet 🐶
+Packaging Redesign
 Client: Total Max
 Year: 2019
 Role: Redesign
@@ -9,9 +10,9 @@ Top-quality meats and poultry, sourced carefully to ensure your dog gets the bes
 ## Beef. Meat. Pork. Chicken.
 ------------
 ## Exerpt
-Packaging Redesign
+Give your furry friend the best with Repack Max Buffet!
 ## Description
-The finest quality Top-quality meats and poultry, sourced carefully to ensure your dog gets the best of everything.
+Repack Max Buffet offers the finest quality dog food made from carefully sourced top-quality meats and poultry. Our beef, meat, pork, and chicken options provide your furry friend with the nutrition they need to thrive.
 ## Media
 <img src="media/b3990d9a/max-buffet-01-1.jpg" loading="lazy"><br>
 <img src="media/6e4214e0/max-buffet-02-1.jpg" loading="lazy"><br>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-	<title>MonoStereo 🙉</title>
+	<title>MonoStereo 🙉
+The podcast platform for primates</title>
 	<content>Client: MonoStereo
 Year: 2019
 Role: Mobile app, Illustration, Logo, Branding
@@ -8,10 +9,8 @@ Role: Mobile app, Illustration, Logo, Branding
 A place where you can find podcasts on all kinds of topics, from science to philosophy to politics and everything in between!
 
 We want to help you learn more about the world around you and make sure that you don’t miss out on anything interesting.</content>
-	<excerpt>The podcast platform for primates</excerpt>
-	<description>A place where you can find podcasts on all kinds of topics, from science to philosophy to politics and everything in between!
-
-We want to help you learn more about the world around you and make sure that you don’t miss out on anything interesting.</description>
+	<excerpt>A place where you can find podcasts on all kinds of topics, from science to philosophy to politics and everything in between!</excerpt>
+	<description>MonoEstereo is a podcast platform offering diverse content on various topics, allowing listeners to broaden their knowledge and explore new subjects.</description>
 	<media>
 		<url type="png">media/4465bf3a/monostereo-logo.png</url>
 		<url type="jpg">media/046610bb/monostereo-mockup-01.jpg</url>

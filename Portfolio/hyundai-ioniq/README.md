@@ -1,4 +1,5 @@
 # IONIQ 5 🚙
+Electric SUV (Case study)
 Client: Hyundai
 Year: 2022
 Role: Case study, Landing page, Interactive 3D
@@ -8,7 +9,7 @@ In this case study, you’ll learn more about the design process that went into 
 With its sleek, stylish design and top-of-the-line features, the IONIQ 5 is perfect for consumers who are looking for a vehicle that’s both environmentally friendly and high-performing.
 ------------
 ## Exerpt
-Electric SUV (Case study)
+Discover the design process behind the IONIQ 5 landing page.
 ## Description
 In this case study, you&#039;ll learn more about the design process that went into creating the landing page for the IONIQ 5.
 ## Media

@@ -1,4 +1,5 @@
 # MonoStereo 🙉
+The podcast platform for primates
 Client: MonoStereo
 Year: 2019
 Role: Mobile app, Illustration, Logo, Branding
@@ -8,11 +9,9 @@ A place where you can find podcasts on all kinds of topics, from science to phil
 We want to help you learn more about the world around you and make sure that you don’t miss out on anything interesting.
 ------------
 ## Exerpt
-The podcast platform for primates
-## Description
 A place where you can find podcasts on all kinds of topics, from science to philosophy to politics and everything in between!
-
-We want to help you learn more about the world around you and make sure that you don’t miss out on anything interesting.
+## Description
+MonoEstereo is a podcast platform offering diverse content on various topics, allowing listeners to broaden their knowledge and explore new subjects.
 ## Media
 <img src="media/4465bf3a/monostereo-logo.png" loading="lazy"><br>
 <img src="media/046610bb/monostereo-mockup-01.jpg" loading="lazy"><br>

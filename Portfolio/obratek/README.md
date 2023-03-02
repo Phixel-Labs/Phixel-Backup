@@ -1,4 +1,5 @@
 # Obratek 👷
+Hi-end Urban Design Architecture
 Client: Obratek
 Year: 2018
 Role: Rebranding, Logo, Motion Graphic, Stationery
@@ -8,7 +9,7 @@ Obratek is a hi-end urban design architecture firm based in Bogotá that provide
 Specializing in new construction and street restoration projects, Obratek has a proven track record of excellence and customer satisfaction.
 ------------
 ## Exerpt
-Hi-end Urban Design Architecture
+Transform your city with Obratek's cutting-edge urban design services.
 ## Description
 A hi-end urban design architecture firm based in Bogotá that provides cutting-edge design and consulting services for both public and private sector clients.
 ## Media

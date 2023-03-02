@@ -1,4 +1,5 @@
 # Celcius ☕
+Really Instant Coffee
 Client: Celcius
 Year: 2000
 Role: Website, Packaging, Branding, Original
@@ -9,9 +10,9 @@ Celcius coffee is 15+ uniquely generated bottles.
 ## No two are exactly alike.
 ------------
 ## Exerpt
-Really Instant Coffee
+Enjoy the all-natural taste of Celcius anytime, anywhere!
 ## Description
-Celcius coffee is 15+ uniquely generated bottles. No two are exactly alike. No two are exactly alike.
+Celcius offers a truly instant coffee experience with our all-natural blend of coffee grounds and essential oils. Each bottle is uniquely generated, providing a one-of-a-kind taste that's perfect for any time of day. Enjoy Celcius on its own or use it as a base for your favorite coffee drinks.
 ## Media
 <img src="media/51e8a9e8/celcius-bar-cut.jpg" loading="lazy"><br>
 <img src="media/96e90ad5/celcius-bar.jpg" loading="lazy"><br>
