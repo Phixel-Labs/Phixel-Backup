@@ -22,4 +22,4 @@ Follow along with Phixel's Developer Diary to see our team's progress on excitin
 
 ------------
 ## Tags
-[ ](# )
+[Developer Diary](#developer-diary), [Progress Updates](#progress-updates), [Innovative Code](#innovative-code), [Software Development](#software-development), [Exciting Projects](#exciting-projects)

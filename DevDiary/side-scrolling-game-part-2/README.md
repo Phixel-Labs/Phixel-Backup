@@ -290,4 +290,4 @@ In this article, we introduce our game, Super Jumper: Save Jumplandia, and provi
 
 ------------
 ## Tags
-[Beginner Friendly](#beginner-friendly), [Coding](#coding), [CSS](#css), [Game Development](#game-development), [How-to](#how-to), [HTML](#html), [JavaScript](#javascript), [Programming](#programming), [Tutorial](#tutorial), [Web Development —](#web-development-—)
+[Beginner Friendly](#beginner-friendly), [Coding](#coding), [CSS](#css), [Game Development](#game-development), [How-to](#how-to), [HTML](#html), [JavaScript](#javascript), [Programming](#programming), [Tutorial](#tutorial), [Web Development](#web-development)
