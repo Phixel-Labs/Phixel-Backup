@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+	<title>Gallery 🛹</title>
+	<content>Find inspiration in everyday life at our Gallery of Everything. Explore our designer's perspective and discover beauty in the mundane and extraordinary.</content>
+	<excerpt>A gallery of everything, Images only, no text or context 🛹</excerpt>
+	<description>This is a place to find beauty and inspiration in the everyday, to see the world through our designer eyes.
+
+Come & explore!</description>
+	<media>
+		<url type="jpg">media/2a7d0aa2/gallery-01.jpg</url>
+		<url type="jpg">media/6cc938cb/gallery-02.jpg</url>
+		<url type="jpg">media/5fa34027/cover-gallery.jpg</url>
+	</media>
+	<info>
+		<slug>gallery</slug>
+		<date>02/01/2020</date>
+		<url>https://phixel.net/en/gallery/</url>
+		<category>Page</category>
+		<url>page</url>
+		<emojis>🎨📸🌍✨🔍💡👀💭🌟👌</emojis>
+		<hashtags>
+			<hashtag>galleryofeverything</hashtag>
+			<hashtag>everydaybeauty</hashtag>
+			<hashtag>designerseyes</hashtag>
+			<hashtag>inspiration</hashtag>
+			<hashtag>explore</hashtag>
+			<hashtag>discover</hashtag>
+			<hashtag>mundane</hashtag>
+			<hashtag>extraordinary</hashtag>
+			<hashtag>beauty</hashtag>
+			<hashtag>curated</hashtag>
+		</hashtags>
+		<tags>
+			<tag>Inspiration</tag>
+			<tag>Design</tag>
+			<tag>Art</tag>
+			<tag>Photography</tag>
+			<tag>Nature</tag>
+			<tag>Travel</tag>
+			<tag>Architecture</tag>
+			<tag>Fashion</tag>
+			<tag>Food</tag>
+			<tag>Lifestyle</tag>
+		</tags>
+	</info>
+</item>

@@ -21,6 +21,7 @@ Repack Max Buffet offers the finest quality dog food made from carefully sourced
 <img src="media/02227a0c/max-buffet-05-1.jpg" loading="lazy"><br>
 <img src="media/f4783cb6/max-buffet-06.jpg" loading="lazy"><br>
 	<a href="media/34742e5f/total-max-buffet-package.glb" target="_media">glb: total-max-buffet-package.glb</a><br>
+<img src="media/6d2ce3d3/cover-max-buffet.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** max-buffet

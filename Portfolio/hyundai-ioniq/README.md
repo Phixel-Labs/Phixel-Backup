@@ -23,6 +23,7 @@ In this case study, you&#039;ll learn more about the design process that went in
 <img src="media/0c1965b4/hyundai-ioniq-5-video-mobile.jpg" loading="lazy"><br>
 <img src="media/0256a718/hyundai-ioniq-5-video.jpg" loading="lazy"><br>
 	<a href="media/8706258d/hyundai-ioniq-5.glb" target="_media">glb: hyundai-ioniq-5.glb</a><br>
+<img src="media/a3575c6a/cover-ioniq-5.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** hyundai-ioniq

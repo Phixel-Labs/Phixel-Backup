@@ -1,0 +1,43 @@
+{
+    "title": "Gallery \ud83d\udef9",
+    "content": "Find inspiration in everyday life at our Gallery of Everything. Explore our designer's perspective and discover beauty in the mundane and extraordinary.",
+    "excerpt": "A gallery of everything, Images only, no text or context \ud83d\udef9",
+    "description": "This is a place to find beauty and inspiration in the everyday, to see the world through our designer eyes.\n\nCome & explore!",
+    "media": [
+        "https:\/\/phixel.net\/wp-content\/uploads\/Gallery-01.jpg",
+        "https:\/\/phixel.net\/wp-content\/uploads\/Gallery-02.jpg",
+        "https:\/\/phixel.net\/wp-content\/uploads\/Cover-Gallery.jpg"
+    ],
+    "info": {
+        "slug": "gallery",
+        "date": "02\/01\/2020",
+        "url": "https:\/\/phixel.net\/en\/gallery\/",
+        "category": "Page",
+        "category_url": "page",
+        "emojis": "\ud83c\udfa8\ud83d\udcf8\ud83c\udf0d\u2728\ud83d\udd0d\ud83d\udca1\ud83d\udc40\ud83d\udcad\ud83c\udf1f\ud83d\udc4c",
+        "hashtags": {
+            "1": "galleryofeverything",
+            "2": "everydaybeauty",
+            "3": "designerseyes",
+            "4": "inspiration",
+            "5": "explore",
+            "6": "discover",
+            "7": "mundane",
+            "8": "extraordinary",
+            "9": "beauty",
+            "10": "curated"
+        },
+        "tags": [
+            "Inspiration",
+            "Design",
+            "Art",
+            "Photography",
+            "Nature",
+            "Travel",
+            "Architecture",
+            "Fashion",
+            "Food",
+            "Lifestyle"
+        ]
+    }
+}

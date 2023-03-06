@@ -20,6 +20,7 @@ MonoEstereo is a podcast platform offering diverse content on various topics, al
 <img src="media/c53eb2c6/monostereo-mockup-04.jpg" loading="lazy"><br>
 <img src="media/e05bc27a/monostereo.jpg" loading="lazy"><br>
 	<a href="media/1bda8ef5/monostereo.mp4" target="_media">mp4: monostereo.mp4</a><br>
+<img src="media/4e8854fb/cover-monostereo.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** monostereo

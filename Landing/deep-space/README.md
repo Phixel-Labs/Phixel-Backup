@@ -40,6 +40,7 @@ In the vastness of the universe, it can be easy to feel small and alone. But wit
 <img src="media/658ddb1b/landing-space-complete.jpg" loading="lazy"><br>
 <img src="media/e4629bb2/landing-space-cover.jpg" loading="lazy"><br>
 	<a href="media/7f8fecf3/rogue-supernova.mp4" target="_media">mp4: rogue-supernova.mp4</a><br>
+<img src="media/dde014ad/cover-deep-space.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** deep-space

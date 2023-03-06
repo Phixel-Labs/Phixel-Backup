@@ -7,6 +7,7 @@ Can't help but feel inspired by retro sci-fi
 Under the neon light we contemplate the snowy pink mountain and write in this blog.
 ## Media
 <img src="media/e332c5b6/landscape-of-pink-mountains-macro.jpg" loading="lazy"><br>
+<img src="media/17fc0061/cover-blog.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** blog

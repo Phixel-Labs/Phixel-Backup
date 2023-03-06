@@ -34,6 +34,7 @@ We're here to help you bring your idea to life
 Do you have a product to reveal to the world? Contact us and we here will help you bring your idea to life.
 ## Media
 <img src="media/0f28de38/contact-background.png" loading="lazy"><br>
+<img src="media/ac696bd2/cover-contact.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** contact

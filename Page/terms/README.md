@@ -195,6 +195,7 @@ These rules say things like what happens if you want to return something you bou
 If you share something on their website or social media, it belongs to them. They're not responsible for things other people post, and the rules might change over time, so you should check them every so often to make sure you're following them.
 ## Media
 <img src="media/cfdcdbf7/vhs-policy-1.jpg" loading="lazy"><br>
+<img src="media/eb872d84/cover-terms-and-conditions.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** terms

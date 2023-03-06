@@ -126,6 +126,7 @@ We love making a difference in people's lives by connecting our clients with the
 <img src="media/a8f4107f/logo-tigo.png" loading="lazy"><br>
 <img src="media/8b0396eb/logo-une.png" loading="lazy"><br>
 <img src="media/ff9615bb/logo-xbox.png" loading="lazy"><br>
+<img src="media/94e7bfb1/cover-clients.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** clients

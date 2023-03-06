@@ -26,6 +26,7 @@ Celcius offers a truly instant coffee experience with our all-natural blend of c
 <img src="media/a4b4d0ba/amaretto.jpg" loading="lazy"><br>
 	<a href="media/de6eb353/loading.webp" target="_media">webp: loading.webp</a><br>
 	<a href="media/7829be52/presentation.mp4" target="_media">mp4: presentation.mp4</a><br>
+<img src="media/ddd3df54/cover-celcius.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** celcius

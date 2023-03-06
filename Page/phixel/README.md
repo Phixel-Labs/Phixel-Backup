@@ -50,6 +50,7 @@ We are Phixel, a team of specialized designers and developers with experience in
 	<a href="media/93dca06f/t_rex.glb" target="_media">glb: t_rex.glb</a><br>
 	<a href="media/6bbe2302/terrain.glb" target="_media">glb: terrain.glb</a><br>
 	<a href="media/829b093a/tv.glb" target="_media">glb: tv.glb</a><br>
+<img src="media/e5f82e95/cover-phixel.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** phixel

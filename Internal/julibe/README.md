@@ -19,6 +19,7 @@ Julibe, a highly skilled Front-End designer and developer, has joined the Phixel
 <img src="media/5e244ab8/julibe-avatar.jpg" loading="lazy"><br>
 <img src="media/69a294d0/julibe-phanto-fires.jpg" loading="lazy"><br>
 <img src="media/2477109b/julibe-phanto.jpg" loading="lazy"><br>
+<img src="media/1fbfd6d2/cover-julibe-joins.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** julibe

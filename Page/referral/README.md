@@ -23,11 +23,11 @@ Help your friends and colleagues elevate their personal brand or professional se
 
 ### **12%** if less than $2K
 
-#### Starting Businesses projects between $2, 000 and $3, 000 USD
+#### Products or Services projects between $1, 000 and $2, 000 USD
 
-Start strong and earn a 10% commission on every digital solution project you refer that’s worth between $2, 000 and $3, 000.
+Step up your game and earn a 12% commission on every digital solution project you refer that's worth between $1, 000 and $2, 000.
 
-Help your friends and colleagues kick-start their new business venture and become a badass entrepreneur, while making some cool cash!
+Help your friends and colleagues dominate their market and elevate their products or services, while making some sweet cash!
 
 ### ***10%** if less than $3K
 #### Starting Businesses projects between $2, 000 and $3, 000 USD
@@ -57,6 +57,8 @@ Challenge yourself and negotiate your commission rate for every digital solution
 
 Help your friends and colleagues take their large business to the next level and become a badass leader in their industry, while making some sweet cash!
 
+**Note:** Provided rates and percentages are for reference only and subject to change depending on factors such as client size, project difficulty, and other variables. These rates and fees may be negotiable, and each project will be evaluated on an individual basis to determine the appropriate budget.
+
 ### Lear more about us:
 
 | [Clients](https://phixel.net/en/about-us/clients/) | [Services](https://phixel.net/en/about-us/services/) |
@@ -73,9 +75,22 @@ At Phixel, we love to share our knowledge and expertise while helping others sha
 |-|-|-|
 
 #### We're always happy to answer any questions you may have.
+
+### Disclaimer
+
+- This commission applies only to the first project with a specific client.
+- The payment of the commission is subject to the client's prompt payment for the project.
+- You cannot interfere with the client's negotiations or the project itself.
+- You cannot be the same client or bussines partner as the owner of the project.
+- The price of the project is confidential, and is subject to change; it will only be shared with you in agreement with the client.
+- Any negotiations or agreements regarding commission rates must be made in writing and agreed upon by both parties.
+- We reserve the right to refuse or terminate any commission agreement at our discretion.
+- We are not liable for any damages or losses resulting from any commission agreement or referral of any digital solution projects.
+- By participating in our commission program, you agree to abide by our terms and conditions and any applicable laws and regulations.
+- **The prices and commission rates on this website are subject to change without notice.**
 ------------
 ## Exerpt
-Help businesses and earn extra cash with Phixel's Referral Rewards Program.
+Help businesses and earn extra cash.
 Contact us today to learn more!
 ## Description
 Are you looking to make some extra cash while helping out businesses in need of digital solutions? Look no further than Phixel's Referral Rewards Program. Commission rates from 5% to 15% of project value. Contact us today to learn more!
@@ -92,6 +107,7 @@ Our team of experienced designers and developers provides personalized digital s
 <img src="media/25aa22cd/referral-relax.jpg" loading="lazy"><br>
 <img src="media/eff47e30/referral-robot.jpg" loading="lazy"><br>
 	<a href="media/14b4baf7/referral.es_.mp4" target="_media">mp4: referral.es_.mp4</a><br>
+<img src="media/31b5e16d/cover-referrals.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** referral
