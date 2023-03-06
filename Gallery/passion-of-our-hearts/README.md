@@ -24,6 +24,7 @@ The Heart Collection showcases the passion and dedication put into each project 
 - **Slug:** passion-of-our-hearts
 - **Date:** 30/01/2023
 - **URL:** [https://phixel.net/en/gallery/passion-of-our-hearts/](https://phixel.net/en/gallery/passion-of-our-hearts/)
+- **Short URL:** [https://bit.ly/3kKO2Op](https://bit.ly/3kKO2Op)
 - **Type:** [Gallery](#gallery)
 - **Hashtags:** #withlove, #HeartCollection, #VibrantColors, #Love, #Passion, #Dedication, #Projects, #Art, #Design, #Inspiration, #Creativity, #Colorful, #Beauty, #HeartArt, #HeartDesign, #HeartInspiration, #HeartLove, #HeartPassion, #HeartDedication, #HeartProjects, #HeartBeauty, #HeartVibes
 - **Emojis:** 💖💗🥰💞💜💓❣️💕❤️♡💙😍💚💚💛🤍💞🧡❤️‍🔥

@@ -25,6 +25,7 @@ Tips and strategies to cope with loneliness by using Design, from identifying th
 - **Slug:** design-for-coping-loneliness
 - **Date:** 20/01/2023
 - **URL:** [https://phixel.net/en/tips/mental-help/design-for-coping-loneliness/](https://phixel.net/en/tips/mental-help/design-for-coping-loneliness/)
+- **Short URL:** [https://bit.ly/3SVCMet](https://bit.ly/3SVCMet)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #graphicdesign, #loneliness, #coping, #designthinking, #emotiondesign, #colorpsychology, #typography, #connection, #storytelling, #positivity, #symmetry, #asymmetry
 - **Emojis:** 😔😭🎨💔🧠💭💡🌟✨🌅🕊️🌲🐦😶

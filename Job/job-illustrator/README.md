@@ -59,6 +59,7 @@ We are looking for a talented Illustrator to create original artwork for digital
 - **Slug:** job-illustrator
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/illustrator/](https://phixel.net/en/jobs/illustrator/)
+- **Short URL:** [https://bit.ly/3JiJBUg](https://bit.ly/3JiJBUg)
 - **Type:** [Job](#job)
 - **Hashtags:** #phixel, #webdesigners, #clients, #ui, #ux, #videoeditors, #webdevelopers, #animation, #webdesignstudio, #design, #workhard, #designer, #love, #gui, #illustration, #remotework, #studio, #motiongraphics, #workfromanywhere, #worksmart, #3d, #respet
 - **Emojis:** 🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌

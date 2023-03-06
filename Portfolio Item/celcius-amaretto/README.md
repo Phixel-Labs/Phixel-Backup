@@ -19,6 +19,7 @@ Almonds born of this unique and sophisticated flavor that is capable of leading 
 - **Slug:** celcius-amaretto
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
+- **Short URL:** [https://bit.ly/3Yp12aa](https://bit.ly/3Yp12aa)
 - **Type:** [Portfolio Item](#portfolio-item)
 - **Hashtags:** #phixel, #celcius, #instacoffee, #celsius, #coffeelover, #cafe, #amaretto
 - **Emojis:** 🆒☕🍾🥤

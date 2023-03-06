@@ -61,6 +61,7 @@ We are looking for an outstanding Web Developer to be responsible for coding, in
 - **Slug:** job-web-developer
 - **Date:** 18/10/2022
 - **URL:** [https://phixel.net/en/jobs/web-developer/](https://phixel.net/en/jobs/web-developer/)
+- **Short URL:** [https://bit.ly/3YktSZa](https://bit.ly/3YktSZa)
 - **Type:** [Job](#job)
 - **Hashtags:** #phixel, #webdesigners, #clients, #ui, #ux, #videoeditors, #webdevelopers, #animation, #webdesignstudio, #design, #workhard, #designer, #love, #gui, #illustration, #remotework, #studio, #motiongraphics, #workfromanywhere, #worksmart, #3d, #respet
 - **Emojis:** 🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌

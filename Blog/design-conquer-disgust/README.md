@@ -24,6 +24,7 @@ Tips and tricks to overcome disgust by using Design, from identifying the source
 - **Slug:** design-conquer-disgust
 - **Date:** 13/01/2023
 - **URL:** [https://phixel.net/en/tips/mental-help/design-conquer-disgust/](https://phixel.net/en/tips/mental-help/design-conquer-disgust/)
+- **Short URL:** [https://bit.ly/3kWO3hZ](https://bit.ly/3kWO3hZ)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #graphicdesign, #overcomingdisgust, #disgust, #emotiondesign, #designthinking, #colorpsychology, #texture, #humor, #positiveaffirmations, #symmetry, #asymmetry
 - **Emojis:** 🤢🤮😫🎨🙌🏼😬💥🌈🌸🐾🤣💭✨💪

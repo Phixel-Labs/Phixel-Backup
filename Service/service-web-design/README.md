@@ -14,6 +14,7 @@ Whether you need a brand-new website or just a few pages revamped, our team of e
 - **Slug:** service-web-design
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/service/web-design/](https://phixel.net/en/service/web-design/)
+- **Short URL:** [https://bit.ly/3L23z7c](https://bit.ly/3L23z7c)
 - **Type:** [Service](#service)
 - **Hashtags:** #phixel, #withlove, #webdesigners, #webdesignstudio, #phixelstudio, #design, #designer, #welcome, #webdevelopers, #videoeditors, #studio, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
 - **Emojis:** 🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌

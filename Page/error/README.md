@@ -22,6 +22,7 @@ Highlighting the importance of adaptability and growth, encouraging individuals 
 - **Slug:** error
 - **Date:** 01/01/2020
 - **URL:** [https://phixel.net/error](https://phixel.net/error)
+- **Short URL:** [false](false)
 - **Type:** [Page](#page)
 - **Hashtags:** #reality, #surreal, #discover, #excitement, #mistakes, #newpath, #growth, #adaptability, #decisionmaking, #error, #404
 - **Emojis:** 🤷🏾⚠️❌🚨⛔📢⚠❗🛑😖🆘🤕💔🥹📛😕🚧🤷🏾

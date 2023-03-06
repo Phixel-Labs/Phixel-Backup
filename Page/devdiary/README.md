@@ -17,6 +17,7 @@ Follow along with Phixel's Developer Diary to see our team's progress on excitin
 - **Slug:** devdiary
 - **Date:** 01/04/2023
 - **URL:** [https://phixel.net/en/developer-diary/](https://phixel.net/en/developer-diary/)
+- **Short URL:** [https://bit.ly/3EXhLdt](https://bit.ly/3EXhLdt)
 - **Type:** [Page](#page)
 - **Hashtags:** #DeveloperDiary, #SoftwareDevelopment, #Innovation, #Coding, #Programming, #WebDevelopment, #MobileDevelopment, #Design, #Creativity
 - **Emojis:** 👨‍💻💻🔬🚀🔝👀🎉🎨👨‍🎨💡

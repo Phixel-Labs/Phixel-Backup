@@ -27,6 +27,7 @@ Tips and strategies to cope with guilt by using Design, from identifying the sou
 - **Slug:** design-for-coping-guilt
 - **Date:** 25/01/2023
 - **URL:** [https://phixel.net/en/tips/mental-help/design-for-coping-guilt/](https://phixel.net/en/tips/mental-help/design-for-coping-guilt/)
+- **Short URL:** [https://bit.ly/3JjVCZN](https://bit.ly/3JjVCZN)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #color, #colorful, #colors, #colorinformation, #design, #designer, #colorfullife, #colorpalette, #art, #designinspiration, #inspiration
 - **Emojis:** 😔😢😞😩😫😭😥☹️😣✨😿

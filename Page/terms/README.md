@@ -201,6 +201,7 @@ If you share something on their website or social media, it belongs to them. The
 - **Slug:** terms
 - **Date:** 01/01/2020
 - **URL:** [https://phixel.net/en/terms/](https://phixel.net/en/terms/)
+- **Short URL:** [false](false)
 - **Type:** [Page](#page)
 - **Hashtags:** #SocialMediaAccounts, #TermsAndConditions, #RulesAndRegulations, #ProductPurchase, #ReturnsPolicy, #CopyrightInfringement, #IllegalActivity, #WebsiteUse, #SocialMediaUse, #ContentOwnership, #UserResponsibility, #PolicyUpdates
 - **Emojis:** 📃📖🚩🔗✍📕🗨️❔📝💊👁️‍🗨️🫱🏽‍🫲🏼🙆‍♂️🆗📑🧾📑⚖️📃📒🛂👮📘🚨

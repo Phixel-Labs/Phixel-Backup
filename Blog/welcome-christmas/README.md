@@ -27,6 +27,7 @@ It's definitely exciting to think about what gifts we might receive during the h
 - **Slug:** welcome-christmas
 - **Date:** 01/12/2022
 - **URL:** [https://phixel.net/en/welcome-christmas/](https://phixel.net/en/welcome-christmas/)
+- **Short URL:** [https://bit.ly/3SSRqmF](https://bit.ly/3SSRqmF)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #christmas, #christmastree, #christmasgifts, #xmas, #wishlist, #instagood, #gift, #wishing, #wishes
 - **Emojis:** 🎁🎅🏻🎄🦌❄️🎄🎅🤶🏽🦌🛷☃️🥂👨‍👨‍👧‍👶🧦🔔🎶🕯❄️

@@ -16,6 +16,7 @@ Come & explore!
 - **Slug:** gallery
 - **Date:** 02/01/2020
 - **URL:** [https://phixel.net/en/gallery/](https://phixel.net/en/gallery/)
+- **Short URL:** [false](false)
 - **Type:** [Page](#page)
 - **Hashtags:** #galleryofeverything, #everydaybeauty, #designerseyes, #inspiration, #explore, #discover, #mundane, #extraordinary, #beauty, #curated
 - **Emojis:** 🎨📸🌍✨🔍💡👀💭🌟👌

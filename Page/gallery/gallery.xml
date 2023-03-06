@@ -15,6 +15,7 @@ Come & explore!</description>
 		<slug>gallery</slug>
 		<date>02/01/2020</date>
 		<url>https://phixel.net/en/gallery/</url>
+		<short>false</short>
 		<category>Page</category>
 		<url>page</url>
 		<emojis>🎨📸🌍✨🔍💡👀💭🌟👌</emojis>

@@ -27,6 +27,7 @@ Featuring graphic designs of small, colorful, isometric rooms. These designs sho
 - **Slug:** tiny-spaces
 - **Date:** 30/12/2022
 - **URL:** [https://phixel.net/en/gallery/tiny-spaces/](https://phixel.net/en/gallery/tiny-spaces/)
+- **Short URL:** [https://bit.ly/3L0RFdq](https://bit.ly/3L0RFdq)
 - **Type:** [Gallery](#gallery)
 - **Hashtags:** #graphicdesign, #isometricdesign, #isometric, #tinyhouse, #colorfulhome, #decoratinginspiration, #housedesign, #interiordesign, #artisticrendering, #virtualinterior, #designideas, #digitalart, #designerlife, #designthinking, #visualart, #creativity, #artinspiration
 - **Emojis:** 🎨🏠🌈🏕️🌟📺🛋️🖼️🚪🛏🖥️🪟🚪🚽🛀🚿💡🏘️💻💒🔮🏙🏰💫🏙🎈🏷🌪🌟

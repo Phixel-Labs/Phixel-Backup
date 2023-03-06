@@ -28,6 +28,7 @@ Tips and strategies to overcome shame by using Design, from identifying the sour
 - **Slug:** design-for-beating-shame
 - **Date:** 27/01/2023
 - **URL:** [https://phixel.net/en/tips/mental-help/design-for-beating-shame/](https://phixel.net/en/tips/mental-help/design-for-beating-shame/)
+- **Short URL:** [https://bit.ly/3JfQIwC](https://bit.ly/3JfQIwC)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #graphicdesign, #shame, #confidence, #designthinking, #colorpsychology, #negativespace, #strength, #storytelling, #positivity, #symmetry, #asymmetry
 - **Emojis:** 😳🎨💪🏼😌🌟🛡️🦸‍♂️🦸‍♀️🙌🏼💭💡💫

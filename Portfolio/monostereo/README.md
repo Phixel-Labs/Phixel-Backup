@@ -26,6 +26,7 @@ MonoEstereo is a podcast platform offering diverse content on various topics, al
 - **Slug:** monostereo
 - **Date:** 18/11/2022
 - **URL:** [https://phixel.net/en/portfolio/monostereo/](https://phixel.net/en/portfolio/monostereo/)
+- **Short URL:** [https://bit.ly/3Jg2BTq](https://bit.ly/3Jg2BTq)
 - **Type:** [Portfolio](#portfolio)
 - **Hashtags:** #phixel, #monostereo, #mono, #stereo, #podcast, #podcastapp, #radio, #chimpanzee, #podcastaddict, #monkeybussines, #gorilla, #monkey, #primate, #chimp
 - **Emojis:** 🐒🎙️🙈🎧🐵🎤🙉📰🙊📻🦍🎛️🦧🔊🎶

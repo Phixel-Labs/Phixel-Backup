@@ -16,6 +16,7 @@ Branding is more than just a logo. It’s the entire perception that people have
 - **Slug:** service-branding
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/service/branding/](https://phixel.net/en/service/branding/)
+- **Short URL:** [https://bit.ly/3Jk6rem](https://bit.ly/3Jk6rem)
 - **Type:** [Service](#service)
 - **Hashtags:** #phixel, #withlove, #webdesigners, #webdesignstudio, #phixelstudio, #design, #designer, #welcome, #webdevelopers, #videoeditors, #studio, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
 - **Emojis:** 🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌

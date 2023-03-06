@@ -16,6 +16,7 @@ Websites are the foundation of your online presence. These are how customers fin
 - **Slug:** service-web-development
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/service/web-development/](https://phixel.net/en/service/web-development/)
+- **Short URL:** [https://bit.ly/3Jk3R7O](https://bit.ly/3Jk3R7O)
 - **Type:** [Service](#service)
 - **Hashtags:** #phixel, #withlove, #webdesigners, #webdesignstudio, #phixelstudio, #design, #designer, #welcome, #webdevelopers, #videoeditors, #studio, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
 - **Emojis:** 🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌

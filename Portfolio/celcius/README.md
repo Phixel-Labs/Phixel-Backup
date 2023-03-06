@@ -32,6 +32,7 @@ Celcius offers a truly instant coffee experience with our all-natural blend of c
 - **Slug:** celcius
 - **Date:** 20/10/2022
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
+- **Short URL:** [https://bit.ly/3Yp12aa](https://bit.ly/3Yp12aa)
 - **Type:** [Portfolio](#portfolio)
 - **Hashtags:** #phixel, #celcius, #instacoffee, #celsius, #coffeelover, #cafe, #tropical, #chocolate, #vanilla, #mint, #mojito, #picante, #cinnamon, #apple, #berries, #honey, #greentea, #foryou
 - **Emojis:** 🆒☕🥤🍵🌴🍫🍧🌿🍸🍾🥧🍎🍒🍯🌶️

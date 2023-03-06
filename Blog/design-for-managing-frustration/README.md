@@ -28,6 +28,7 @@ Tips and strategies to manage frustration by using Design, from identifying the 
 - **Slug:** design-for-managing-frustration
 - **Date:** 23/01/2023
 - **URL:** [https://phixel.net/en/tips/mental-help/design-for-managing-frustration/](https://phixel.net/en/tips/mental-help/design-for-managing-frustration/)
+- **Short URL:** [https://bit.ly/3L0QB9u](https://bit.ly/3L0QB9u)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #graphicdesign, #frustration, #management, #designthinking, #emotiondesign, #colorpsychology, #shape, #overcomingobstacles, #storytelling, #positivity, #symmetry, #asymmetry
 - **Emojis:** 😔😢😞😩🎨🤯🛠️💪🏼🌅🏋️‍♂️🛡️💭💡🌟✨😭😥☹️😣

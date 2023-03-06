@@ -32,6 +32,7 @@ In this Second volume, we have collected our pinkest logos.
 - **Slug:** pinkest-logos
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/gallery/pinkest-logos/](https://phixel.net/en/gallery/pinkest-logos/)
+- **Short URL:** [https://bit.ly/3kMIraj](https://bit.ly/3kMIraj)
 - **Type:** [Gallery](#gallery)
 - **Hashtags:** #phixel, #withlove, #pink, #magenta, #color, #colorful, #pinklogo, #rosa, #logo, #pinkpink, #rose, #pinklife, #logocreative, #logocreator, #logoinspiration
 - **Emojis:** 💓💞💝💗💗💗💗💗💗💕💖💗💘🎀🏩💒🌺🌷🌸🪷🍄🪸🧠🫀🫁🐷🐽🐖🦩🪱🦑🍡🍧👚🩰👛🍧🍥🌸

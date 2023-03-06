@@ -113,6 +113,7 @@ Our team of experienced designers and developers provides personalized digital s
 - **Slug:** referral
 - **Date:** 01/04/2023
 - **URL:** [https://phixel.net/en/referral/](https://phixel.net/en/referral/)
+- **Short URL:** [https://bit.ly/3L1dslx](https://bit.ly/3L1dslx)
 - **Type:** [Page](#page)
 - **Hashtags:** #ReferralRewards, #EarnExtraCash, #CommissionProgram, #DigitalSolutions, #BusinessDevelopment, #DesignServices, #Marketing, #Opportunity, #EarningPotential, #PhixelSolutions
 - **Emojis:** 💰💻👔📈📊👥💡🤝👍📱

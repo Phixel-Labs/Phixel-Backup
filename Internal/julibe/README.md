@@ -25,6 +25,7 @@ Julibe, a highly skilled Front-End designer and developer, has joined the Phixel
 - **Slug:** julibe
 - **Date:** 04/01/2023
 - **URL:** [https://phixel.net/en/julibe/](https://phixel.net/en/julibe/)
+- **Short URL:** [https://bit.ly/3Ysg4vN](https://bit.ly/3Ysg4vN)
 - **Type:** [Internal](#internal)
 - **Hashtags:** #webdevelopment, #@julibe, #frontenddesign, #frontenddevelopment, #joins, #designer, #developer, #phixelfamily, #team, #talent, #skills, #innovation, #technology, #julibe
 - **Emojis:** 💻💡💪🏽🫥👻🫳🖤🎃😈👻🔮👅🌟🎉🎊🎓🔥🚀

@@ -63,6 +63,7 @@ In this tutorial, you will learn the fundamental steps of creating a side-scroll
 - **Slug:** side-scrolling-game-part-1
 - **Date:** 01/01/1970
 - **URL:** [https://phixel.net/devdiary/side-scrolling-game/](https://phixel.net/devdiary/side-scrolling-game/)
+- **Short URL:** [https://bit.ly/3F2cQIs](https://bit.ly/3F2cQIs)
 - **Type:** [DevDiary](#devdiary)
 - **Hashtags:** #HTML, #CSS, #JavaScript, #GameDevelopment, #Physics, #CanvasAPI, #PlayerObject, #PlatformObjects, #CollisionDetection, #Scrolling
 - **Emojis:** 🎮🕹️🌟👨‍💻📈🔧🎨🖌️🚀👾

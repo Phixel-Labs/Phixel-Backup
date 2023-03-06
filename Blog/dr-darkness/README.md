@@ -22,6 +22,7 @@ Dr. Darkness is a mad scientist with a thirst for power who has been working on 
 - **Slug:** dr-darkness
 - **Date:** 03/03/2022
 - **URL:** [https://phixel.net/en/story/mystery/dr-darkness/](https://phixel.net/en/story/mystery/dr-darkness/)
+- **Short URL:** [false](false)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #villain, #DrDarkness, #darkness, #worlddomination, #evil, #power, #horror, #mystery, #thriller
 - **Emojis:** 😈🦹🏾🌎🖤🌑⚫🌆🥷🏾🌖🕍

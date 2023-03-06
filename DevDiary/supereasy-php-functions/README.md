@@ -984,6 +984,7 @@ Are you tired of struggling to remember native PHP functions? Check out our suit
 - **Slug:** supereasy-php-functions
 - **Date:** 10/02/2023
 - **URL:** [https://phixel.net/devdiary/supereasy-php-functions/](https://phixel.net/devdiary/supereasy-php-functions/)
+- **Short URL:** [https://bit.ly/3mxCH4p](https://bit.ly/3mxCH4p)
 - **Type:** [DevDiary](#devdiary)
 - **Hashtags:** #PHPDevelopment, #WebDevelopment, #Coding, #Productivity, #FunctionLibraries, #CodeEfficiency, #PHPFunctions, #PHPLibraries, #SoftwareDevelopment, #Programming, #ProductivityHacks, #ProgrammingTips, #CodeTricks, #WebApps, #DevelopersLife, #CodingSkills, #TechnologyUpdates, #EasyProgramming
 - **Emojis:** 🚀🤖💻👨‍💻📈📊💡🔧🛠️☕💻🚀📈👨‍💻👩‍💻🔧💡🤖👌🍻

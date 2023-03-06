@@ -14,6 +14,7 @@ With Augmented Reality or Virtual Reality, businesses can create immersive, enga
 - **Slug:** service-ar-vr
 - **Date:** 22/10/2022
 - **URL:** [https://phixel.net/en/service/augmented-virtual-reality/](https://phixel.net/en/service/augmented-virtual-reality/)
+- **Short URL:** [https://bit.ly/3Yp8Ecr](https://bit.ly/3Yp8Ecr)
 - **Type:** [Service](#service)
 - **Hashtags:** #phixel, #withlove, #webdesigners, #webdesignstudio, #phixelstudio, #design, #designer, #welcome, #webdevelopers, #videoeditors, #studio, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
 - **Emojis:** 🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌

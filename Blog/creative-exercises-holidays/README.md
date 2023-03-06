@@ -21,6 +21,7 @@ From brainstorming sessions to trying out new techniques, these exercises can he
 - **Slug:** creative-exercises-holidays
 - **Date:** 13/12/2022
 - **URL:** [https://phixel.net/en/holiday/christmas/creative-exercises-holidays/](https://phixel.net/en/holiday/christmas/creative-exercises-holidays/)
+- **Short URL:** [https://bit.ly/3Jg1Ols](https://bit.ly/3Jg1Ols)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #holidays, #exercise, #brainstorming, #techniques, #software, #museum, #art, #collaboration, #colorpalette, #creativity, #inspiration, #productivity, #skills, #mindfulness
 - **Emojis:** 🦌🛷🎅🎄💡🎨🖌️🖼️👩‍🎨👨‍🎨💡💭🧠🏃‍♀️🚶‍♂️🧘‍♀️💆‍♂️🧘‍♂️💪🏽😊

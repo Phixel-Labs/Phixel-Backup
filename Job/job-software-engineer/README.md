@@ -62,6 +62,7 @@ We are looking for a Software Engineer to produce and implement functional softw
 - **Slug:** job-software-engineer
 - **Date:** 22/10/2022
 - **URL:** [https://phixel.net/en/jobs/software-engineer/](https://phixel.net/en/jobs/software-engineer/)
+- **Short URL:** [https://bit.ly/3JhpFRz](https://bit.ly/3JhpFRz)
 - **Type:** [Job](#job)
 - **Hashtags:** #phixel, #webdesigners, #clients, #ui, #ux, #videoeditors, #webdevelopers, #animation, #webdesignstudio, #design, #workhard, #designer, #love, #gui, #illustration, #remotework, #studio, #motiongraphics, #workfromanywhere, #worksmart, #3d, #respet
 - **Emojis:** 🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌

@@ -16,6 +16,7 @@ Phixel understand the importance of having a great logo and work tirelessly to c
 - **Slug:** service-logo-design
 - **Date:** 04/12/2022
 - **URL:** [https://phixel.net/en/service/logo-design/](https://phixel.net/en/service/logo-design/)
+- **Short URL:** [https://bit.ly/3JkEeUJ](https://bit.ly/3JkEeUJ)
 - **Type:** [Service](#service)
 - **Hashtags:** #phixel, #withlove, #webdesigners, #webdesignstudio, #phixelstudio, #design, #designer, #welcome, #webdevelopers, #videoeditors, #studio, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
 - **Emojis:** 🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌

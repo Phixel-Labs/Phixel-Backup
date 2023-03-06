@@ -92,6 +92,7 @@ This game is perfect for those who love a good challenge and are looking for a f
 - **Slug:** run-run-run
 - **Date:** 15/02/2023
 - **URL:** [https://github.com/Phixel-Labs/Labs/tree/main/ThreeJS/RunRunRun](https://github.com/Phixel-Labs/Labs/tree/main/ThreeJS/RunRunRun)
+- **Short URL:** [https://bit.ly/3mxCFcN](https://bit.ly/3mxCFcN)
 - **Type:** [Labs](#labs)
 - **Hashtags:** #CarGame, #HighSpeed, #DrivingSkills, #Adventure, #Challenge, #Fun, #Thrilling, #ScoreHigh, #RaceToTheFinish, #BeatYourHighScore, #AdrenalineRush, #invader
 - **Emojis:** 🚗💨🏎️💥🏁🔥💪💰🏆👊

@@ -20,6 +20,7 @@ The first 3 letters, have plenty of reasons to exist;
 - **Slug:** naming-phixel-phi
 - **Date:** 06/11/2022
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
+- **Short URL:** [https://bit.ly/3Jk6mY6](https://bit.ly/3Jk6mY6)
 - **Type:** [Internal](#internal)
 - **Hashtags:** #phixel, #pixel, #PHP, #phoenix, #fenix, #phix, #fix, #x, #phi
 - **Emojis:** 🆒🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌

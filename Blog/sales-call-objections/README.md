@@ -39,6 +39,7 @@ Sales objections are a common roadblock to closing deals. But with the right str
 - **Slug:** sales-call-objections
 - **Date:** 15/02/2023
 - **URL:** [https://phixel.net/en/activity/marketing/sales-call-objections/](https://phixel.net/en/activity/marketing/sales-call-objections/)
+- **Short URL:** [https://bit.ly/3IUqqi7](https://bit.ly/3IUqqi7)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #SalesObjections, #ClosingDeals, #SalesTips, #MarketingStrategy, #BusinessSuccess, #EntrepreneurMindset, #SuccessTips, #BusinessGrowth, #SalesTraining, #CareerDevelopment
 - **Emojis:** ⚠️💼💵💬📈👥🚨😱💯❗🔔📣🚀📢💪💥📊💡🪧

@@ -119,6 +119,7 @@ From Mardi Gras in the USA to the Running of the Bulls in Spain, and from the La
 - **Slug:** celebrate-around-the-world
 - **Date:** 07/01/2023
 - **URL:** [https://phixel.net/en/gallery/celebrate-around-the-world/](https://phixel.net/en/gallery/celebrate-around-the-world/)
+- **Short URL:** [https://bit.ly/3JfubQH](https://bit.ly/3JfubQH)
 - **Type:** [Gallery](#gallery)
 - **Hashtags:** #festivals, #internationalcelebration, #celebration, #festivalsaroundtheworld, #celebrationaroundtheworld, #celebrations, #culture, #travel, #carnival, #MardiGras, #RunningOfTheBulls, #StPatricksDay, #LanternFestivals, #Oktoberfest, #CarnivalOfVenice, #LaTomatina, #CarnivalInRio, #BurningManFestival, #Holi, #Diwali, #DiaDeLosMuertos, #ReinadoDeLasFlores, #SongkranFestival, #SemanaSanta, #QuebecWinterCarnival, #BastilleDay, #ObonFestival
 - **Emojis:** 🎉🎭🐂🏃💨🌍💃🏽🎺🎷🎨🎭🍀🏮🍺🍅💃🏽🔥🌺🕯️💦

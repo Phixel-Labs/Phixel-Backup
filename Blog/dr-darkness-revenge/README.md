@@ -22,6 +22,7 @@ The evil Dr. Darkness plans to take over the city using a machine that plunges i
 - **Slug:** dr-darkness-revenge
 - **Date:** 03/06/2022
 - **URL:** [https://phixel.net/en/dr-darkness-revenge/](https://phixel.net/en/dr-darkness-revenge/)
+- **Short URL:** [false](false)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #villain, #darkness, #revenge, #evil, #power, #horror, #mystery, #thriller
 - **Emojis:** 😈💣😠🗡️🦹🏾🛡️🌎🖤🌑⚫🌆🥷🏾🌖🕍
