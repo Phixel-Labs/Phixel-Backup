@@ -18,7 +18,7 @@ We understand that in order to be successful, your app needs to look and feel gr
 - **URL:** [https://phixel.net/en/service/mobile-app-design/](https://phixel.net/en/service/mobile-app-design/)
 - **Short URL:** [https://bit.ly/3KYamP9](https://bit.ly/3KYamP9)
 - **Type:** [Service](#service)
-- **Hashtags:** #phixel, #withlove, #webdesigners, #webdesignstudio, #phixelstudio, #design, #designer, #welcome, #webdevelopers, #videoeditors, #studio, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
+- **Hashtags:** #withlove, #webdesigners, #webdesignstudio, #studio, #design, #designer, #welcome, #webdevelopers, #videoeditors, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
 - **Emojis:** 🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌
 
 ------------

@@ -29,7 +29,7 @@ A hi-end urban design architecture firm based in Bogotá that provides cutting-e
 - **URL:** [https://phixel.net/en/portfolio/obratek/](https://phixel.net/en/portfolio/obratek/)
 - **Short URL:** [https://bit.ly/3JhUF3Q](https://bit.ly/3JhUF3Q)
 - **Type:** [Portfolio](#portfolio)
-- **Hashtags:** #phixel, #obratek, #architecture, #design, #urban, #planning, #project, #colombia, #bogota, #city, #urbanplanning, #urbandesign, #hi-end
+- **Hashtags:** #obratek, #architecture, #design, #urban, #planning, #project, #colombia, #bogota, #city, #urbanplanning, #urbandesign, #hi-end
 - **Emojis:** 👷🧱👷‍♂️🏗👷‍♀️🏛️🏠🏢🏰🗽⛲🛕🛠
 
 ------------

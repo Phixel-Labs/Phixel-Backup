@@ -63,7 +63,7 @@ We are looking for a talented Content marketing manager to take responsibility o
 - **URL:** [https://phixel.net/en/jobs/content-marketing/](https://phixel.net/en/jobs/content-marketing/)
 - **Short URL:** [https://bit.ly/3YuHoJE](https://bit.ly/3YuHoJE)
 - **Type:** [Job](#job)
-- **Hashtags:** #phixel, #webdesigners, #clients, #ui, #ux, #videoeditors, #webdevelopers, #animation, #webdesignstudio, #design, #workhard, #designer, #love, #gui, #illustration, #remotework, #studio, #motiongraphics, #workfromanywhere, #worksmart, #3d, #respet
+- **Hashtags:** #webdesigners, #clients, #ui, #ux, #videoeditors, #webdevelopers, #animation, #webdesignstudio, #design, #workhard, #designer, #love, #gui, #illustration, #remotework, #studio, #motiongraphics, #workfromanywhere, #worksmart, #3d, #respet
 - **Emojis:** 🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌
 
 ------------

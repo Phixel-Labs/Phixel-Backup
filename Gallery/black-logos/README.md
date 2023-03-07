@@ -58,7 +58,7 @@ remember links are in the description.
 - **URL:** [https://phixel.net/en/gallery/black-logos/](https://phixel.net/en/gallery/black-logos/)
 - **Short URL:** [https://bit.ly/3L9HjIe](https://bit.ly/3L9HjIe)
 - **Type:** [Gallery](#gallery)
-- **Hashtags:** #phixel, #logo, #blacklogos, #logos, #onyx, #ink, #blacklogo, #logoscollection, #darken, #pitchblack, #logodesign, #jetblack, #logocreative, #dark, #logocreator, #logoinspiration, #noire
+- **Hashtags:** #logo, #blacklogos, #logos, #onyx, #ink, #blacklogo, #logoscollection, #darken, #pitchblack, #logodesign, #jetblack, #logocreative, #dark, #logocreator, #logoinspiration, #noire
 - **Emojis:** 🖤🖤🖤🖤🖤🖤🖤▪️⚫👩🏿‍🦳◼️🖤🖤🖤🖤🖤
 
 ------------

@@ -59,7 +59,7 @@ We are looking for a talented Web Designer to create amazing user experiences.
 - **URL:** [https://phixel.net/en/jobs/web-designer/](https://phixel.net/en/jobs/web-designer/)
 - **Short URL:** [https://bit.ly/3YvNSI9](https://bit.ly/3YvNSI9)
 - **Type:** [Job](#job)
-- **Hashtags:** #phixel, #webdesigners, #clients, #ui, #ux, #videoeditors, #webdevelopers, #animation, #webdesignstudio, #design, #workhard, #designer, #love, #gui, #illustration, #remotework, #studio, #motiongraphics, #workfromanywhere, #worksmart, #3d, #respet
+- **Hashtags:** #webdesigners, #clients, #ui, #ux, #videoeditors, #webdevelopers, #animation, #webdesignstudio, #design, #workhard, #designer, #love, #gui, #illustration, #remotework, #studio, #motiongraphics, #workfromanywhere, #worksmart, #3d, #respet
 - **Emojis:** 🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌
 
 ------------

@@ -31,7 +31,7 @@ Explore and appreciate the mythical creatures of dragons, highlighting their dif
 - **URL:** [https://phixel.net/en/gallery/unleashing-the-mythical-dragons/](https://phixel.net/en/gallery/unleashing-the-mythical-dragons/)
 - **Short URL:** [https://bit.ly/3F0ANjg](https://bit.ly/3F0ANjg)
 - **Type:** [Gallery](#gallery)
-- **Hashtags:** #phixel, #withlove, #Dragons, #MythicalCreatures, #PowerAndGrace, #LegendaryBeasts, #FantasyWorld, #MajesticCreatures, #UnleashYourImagination, #DragonGallery, #MythicalRealm, #AweInspiring, #LegendaryPower, #GracefulFlight, #foryou, #creativestudio
+- **Hashtags:** #withlove, #Dragons, #MythicalCreatures, #PowerAndGrace, #LegendaryBeasts, #FantasyWorld, #MajesticCreatures, #UnleashYourImagination, #DragonGallery, #MythicalRealm, #AweInspiring, #LegendaryPower, #GracefulFlight, #foryou, #creativestudio
 - **Emojis:** 🐉🔥🌙🧝🏻‍♀️🐲×𝕯𝖗𝖆𝖌𝖔𝖓×✨🧝🏼‍♀️🧝🏼‍🦄🔮🪐🧙🏽‍♂️🧛🏼🧜🏽🧚🏿🧙🏻‍♀️
 
 ------------

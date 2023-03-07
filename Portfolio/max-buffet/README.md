@@ -29,7 +29,7 @@ Repack Max Buffet offers the finest quality dog food made from carefully sourced
 - **URL:** [https://phixel.net/en/portfolio/repack-max-buffet/](https://phixel.net/en/portfolio/repack-max-buffet/)
 - **Short URL:** [https://bit.ly/3Ys1nZJ](https://bit.ly/3Ys1nZJ)
 - **Type:** [Portfolio](#portfolio)
-- **Hashtags:** #phixel, #dogfood, #doglovers, #dog, #pet, #beef, #meat, #pork, #chicken, #repack, #maxbuffet
+- **Hashtags:** #dogfood, #doglovers, #dog, #pet, #beef, #meat, #pork, #chicken, #repack, #maxbuffet
 - **Emojis:** 🐶🐩🐕✨🍖🍗🦴🐾🐕‍🦺
 
 ------------

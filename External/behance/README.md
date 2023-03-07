@@ -22,4 +22,4 @@ Are you ready to take your brand to the next level? Look no further than Phixel,
 
 ------------
 ## Tags
-[Graphic Design](#graphic-design), [Portfolio](#portfolio), [Inspiration](#inspiration), [Branding](#branding), [Advertising](#advertising), [Print](#print), [Digital](#digital), [Illustration](#illustration), [Typography](#typography), [Packaging](#packaging)
+[Phixel Withlove Designthinking Creatives Creativity Creativeprocess Selectedworks Favorite Portfolio Creativework Creativethinking Design Graphicdesignlife Creativelife Graphicdesignerlife Graphicdesign Project Creativepeople Designer Designers Phixel Designerlife Foryou Creativestudio](#phixel-withlove-designthinking-creatives-creativity-creativeprocess-selectedworks-favorite-portfolio-creativework-creativethinking-design-graphicdesignlife-creativelife-graphicdesignerlife-graphicdesign-project-creativepeople-designer-designers-phixel-designerlife-foryou-creativestudio)

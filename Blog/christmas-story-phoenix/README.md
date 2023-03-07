@@ -22,7 +22,7 @@ The team at Phixel was working hard at the office when they heard a knock on the
 - **URL:** [https://phixel.net/en/story/christmas-story-phoenix/](https://phixel.net/en/story/christmas-story-phoenix/)
 - **Short URL:** [https://bit.ly/3kJG8os](https://bit.ly/3kJG8os)
 - **Type:** [Blog](#blog)
-- **Hashtags:** #christmasstory, #phoenix, #phixel, #christmas, #goldenratio, #design, #giving, #renewal, #hope, #christmaspirit, #christmasmagic
+- **Hashtags:** #christmasstory, #phoenix, #christmas, #goldenratio, #design, #giving, #renewal, #hope, #christmaspirit, #christmasmagic
 - **Emojis:** 🎄🔥💙🐦🎁🎅🦅💭💡🌟🙏
 
 ------------

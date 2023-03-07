@@ -19,10 +19,10 @@ We design digital products with simplicity and clarity in mind.
 ------------
 - **Slug:** service-ux-design
 - **Date:** 04/12/2022
-- **URL:** [https://phixel.net/en/service/user-experience-design/](https://phixel.net/en/service/user-experience-design/)
-- **Short URL:** [https://bit.ly/3JjXiT5](https://bit.ly/3JjXiT5)
+- **URL:** [https://phixel.net/en/service/ux-design/](https://phixel.net/en/service/ux-design/)
+- **Short URL:** [https://bit.ly/425g8on](https://bit.ly/425g8on)
 - **Type:** [Service](#service)
-- **Hashtags:** #phixel, #withlove, #webdesigners, #webdesignstudio, #phixelstudio, #design, #designer, #welcome, #webdevelopers, #videoeditors, #studio, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
+- **Hashtags:** #withlove, #webdesigners, #webdesignstudio, #studio, #design, #designer, #welcome, #webdevelopers, #videoeditors, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
 - **Emojis:** 🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌
 
 ------------

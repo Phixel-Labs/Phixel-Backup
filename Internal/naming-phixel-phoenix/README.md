@@ -20,7 +20,7 @@ Have you ever heard of the legend of the Phoenix?
 - **URL:** [https://phixel.net/en/about-us/naming-phixel/](https://phixel.net/en/about-us/naming-phixel/)
 - **Short URL:** [https://bit.ly/3Jk6mY6](https://bit.ly/3Jk6mY6)
 - **Type:** [Internal](#internal)
-- **Hashtags:** #phixel, #pixel, #PHP, #phoenix, #fenix, #phix, #fix, #x, #phi
+- **Hashtags:** #pixel, #PHP, #phoenix, #fenix, #phix, #fix, #x, #phi
 - **Emojis:** 🆒🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌
 🅟ⓗ🅸Ⓧ🅴🄻
 

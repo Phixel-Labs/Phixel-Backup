@@ -31,7 +31,7 @@ In this case study, you&#039;ll learn more about the design process that went in
 - **URL:** [https://phixel.net/en/portfolio/ioniq/](https://phixel.net/en/portfolio/ioniq/)
 - **Short URL:** [https://bit.ly/3JeNnOp](https://bit.ly/3JeNnOp)
 - **Type:** [Portfolio](#portfolio)
-- **Hashtags:** #phixel, #casestudy, #portfolio, #hyundai, #IONIQ5, #ioniq, #landingpage, #electric, #suv, #car, #electricvehicle
+- **Hashtags:** #casestudy, #portfolio, #hyundai, #IONIQ5, #ioniq, #landingpage, #electric, #suv, #car, #electricvehicle
 - **Emojis:** 🆒🚙🔋⚡🌱
 
 ------------

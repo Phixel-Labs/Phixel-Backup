@@ -283,8 +283,8 @@ In this article, we introduce our game, Super Jumper: Save Jumplandia, and provi
 ------------
 - **Slug:** side-scrolling-game-part-2
 - **Date:** 10/03/2023
-- **URL:** [https://phixel.net/devdiary/side-scrolling-game/html-and-css/](https://phixel.net/devdiary/side-scrolling-game/html-and-css/)
-- **Short URL:** [https://bit.ly/3F1Jr0O](https://bit.ly/3F1Jr0O)
+- **URL:** [https://phixel.net/en/devdiary/side-scrolling-game/html-and-css/](https://phixel.net/en/devdiary/side-scrolling-game/html-and-css/)
+- **Short URL:** [https://bit.ly/3ynGGmM](https://bit.ly/3ynGGmM)
 - **Type:** [DevDiary](#devdiary)
 - **Hashtags:** #gamedevelopment, #HTML, #CSS, #webdevelopment, #tutorial, #howto, #beginnerfriendly, #javascript, #coding, #programming
 - **Emojis:** 🎮💻🕹️👾🎨🚀📚💡🔧🌟

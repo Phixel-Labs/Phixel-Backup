@@ -52,7 +52,7 @@ We are looking for a 3D Animator to join our team and assist us with designing a
 - **URL:** [https://phixel.net/en/jobs/3d-animator/](https://phixel.net/en/jobs/3d-animator/)
 - **Short URL:** [https://bit.ly/3F3xS9v](https://bit.ly/3F3xS9v)
 - **Type:** [Job](#job)
-- **Hashtags:** #phixel, #webdesigners, #clients, #ui, #ux, #videoeditors, #webdevelopers, #animation, #webdesignstudio, #design, #workhard, #designer, #love, #gui, #illustration, #remotework, #studio, #motiongraphics, #workfromanywhere, #worksmart, #3d, #respet
+- **Hashtags:** #webdesigners, #clients, #ui, #ux, #videoeditors, #webdevelopers, #animation, #webdesignstudio, #design, #workhard, #designer, #love, #gui, #illustration, #remotework, #studio, #motiongraphics, #workfromanywhere, #worksmart, #3d, #respet
 - **Emojis:** 🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌
 
 ------------

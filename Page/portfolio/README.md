@@ -17,7 +17,7 @@ These are some of our favorite selected works in our Portfolio, showcasing cool,
 - **URL:** [https://phixel.net/en/portfolio/](https://phixel.net/en/portfolio/)
 - **Short URL:** [https://bit.ly/3kWWWYT](https://bit.ly/3kWWWYT)
 - **Type:** [Page](#page)
-- **Hashtags:** #phixel, #withlove, #designthinking, #creatives, #creativity, #creativeprocess, #selectedworks, #favorite, #portfolio, #creativework, #creativethinking, #design, #graphicdesignlife, #creativelife, #graphicdesignerlife, #graphicdesign, #project, #creativepeople, #designer, #designers, #designerlife, #foryou, #creativestudio
+- **Hashtags:** #withlove, #designthinking, #creatives, #creativity, #creativeprocess, #selectedworks, #favorite, #portfolio, #creativework, #creativethinking, #design, #graphicdesignlife, #creativelife, #graphicdesignerlife, #graphicdesign, #project, #creativepeople, #designer, #designers, #designerlife, #foryou, #creativestudio
 - **Emojis:** 🖼️​💼​✍🎩🖍🌠☕🖌🖊🍭🖋👑✏✒️​🐉🧑‍🎨​🦹👩‍🎨🤸‍♀️🦄🚀🦕📐🎨📏📨🐙🎀🏖✂♠♥♦♣
 
 ------------

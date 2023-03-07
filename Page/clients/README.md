@@ -134,7 +134,7 @@ We love making a difference in people's lives by connecting our clients with the
 - **URL:** [https://phixel.net/en/about-us/clients/](https://phixel.net/en/about-us/clients/)
 - **Short URL:** [https://bit.ly/3JhpEwZ](https://bit.ly/3JhpEwZ)
 - **Type:** [Page](#page)
-- **Hashtags:** #phixel, #withlove, #client, #identitydesign, #designstudio, #brandidentity, #designideas, #designprocess, #family, #branding, #designthinking, #happylife, #brandingidentity, #experiences, #clients, #identity, #weareourclients, #logodesign, #creative, #logo, #foryou, #creativestudio
+- **Hashtags:** #withlove, #client, #identitydesign, #designstudio, #brandidentity, #designideas, #designprocess, #family, #branding, #designthinking, #happylife, #brandingidentity, #experiences, #clients, #identity, #weareourclients, #logodesign, #creative, #logo, #foryou, #creativestudio
 - **Emojis:** 🆒🔬👨🏻‍🔧👩🏼‍⚖️️🤴👩‍🏫👨‍👩‍👧‍👦🤵👰❤️️⛑️👨🏾‍🍳👩‍🚒💰🪄🧑‍✈️🧑‍🚀🧔‍♂️👔❓✔️🎨💰👩‍💼📖👩‍⚕️✏️💵🤝💼💊🤵👨‍🚒🕶📈🕵👨‍💼🧑‍🚒💙💉👸🏾👨🏽‍🌾👩‍🔬👩🏻‍🍳🏫🎉👨‍💼🅟ⓗ🅸Ⓧ🅴🄻
 
 ------------

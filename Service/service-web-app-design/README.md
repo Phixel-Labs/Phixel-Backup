@@ -18,7 +18,7 @@ We focus on creating fluid user experiences that make your customers happy.
 - **URL:** [https://phixel.net/en/service/web-app-design/](https://phixel.net/en/service/web-app-design/)
 - **Short URL:** [https://bit.ly/3kNbWJ4](https://bit.ly/3kNbWJ4)
 - **Type:** [Service](#service)
-- **Hashtags:** #phixel, #withlove, #webdesigners, #webdesignstudio, #phixelstudio, #design, #designer, #welcome, #webdevelopers, #videoeditors, #studio, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
+- **Hashtags:** #withlove, #webdesigners, #webdesignstudio, #studio, #design, #designer, #welcome, #webdevelopers, #videoeditors, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
 - **Emojis:** 🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌
 
 ------------

@@ -24,7 +24,7 @@ The pure chocolate flavor and smooth texture of this will leave you satisfied.
 - **URL:** [https://phixel.net/en/portfolio/celcius-really-instant-coffee/](https://phixel.net/en/portfolio/celcius-really-instant-coffee/)
 - **Short URL:** [https://bit.ly/3Yp12aa](https://bit.ly/3Yp12aa)
 - **Type:** [Portfolio Item](#portfolio-item)
-- **Hashtags:** #phixel, #celcius, #instacoffee, #celsius, #coffeelover, #cafe, #chocolate
+- **Hashtags:** #celcius, #instacoffee, #celsius, #coffeelover, #cafe, #chocolate
 - **Emojis:** 🆒☕🍾🍫
 
 ------------

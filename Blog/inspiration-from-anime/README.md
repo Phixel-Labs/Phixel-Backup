@@ -79,8 +79,8 @@ Get design inspiration from these top anime series, including To Your Eternity, 
 ------------
 - **Slug:** inspiration-from-anime
 - **Date:** 09/01/2023
-- **URL:** [https://phixel.net/en/blog/inspiration-from-anime](https://phixel.net/en/blog/inspiration-from-anime)
-- **Short URL:** [https://bit.ly/3L0PRRG](https://bit.ly/3L0PRRG)
+- **URL:** [https://phixel.net/en/activity/animation/inspiration-from-anime/](https://phixel.net/en/activity/animation/inspiration-from-anime/)
+- **Short URL:** [https://bit.ly/3JjLRul](https://bit.ly/3JjLRul)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #anime, #designinspiration, #graphicdesign, #motiondesign, #webdesign, #ToYourEternity, #SummerTimeRendering, #DressUpDarling, #MushokuTensei, #AstraLostinSpace, #DrStone, #Trigun, #FLCL, #Hellsing, #OnePunchMan, #DragonBall, #Monogatari, #TenchiMuyo, #MyHeroAcademia, #DeathNote, #AttackonTitan, #OuranHighSchoolHostClub, #DemonSlayer, #KareKano, #CodeGeass, #YuYuHakusho, #NeonGenesisEvangelion, #Naruto, #CyberpunkEdgerunners, #SailorMoon, #HunterxHunter, #MobPsycho100, #Monster, #OnePiece, #CowboyBebop, #FullmetalAlchemist
 - **Emojis:** ⛩️🌸🍥☯🍜🉐💡🎬🖥️💪🐉👑🌟🏰🗡️🤖🌌🎢💀🔥💥🌪️🔮🐉👑💘💣💥

@@ -23,7 +23,7 @@ On Christmas Eve, the team at Phixel met a time-traveling robot named Retro who 
 - **URL:** [https://phixel.net/en/story/time-traveling-robot/](https://phixel.net/en/story/time-traveling-robot/)
 - **Short URL:** [https://bit.ly/3STeMZu](https://bit.ly/3STeMZu)
 - **Type:** [Blog](#blog)
-- **Hashtags:** #timetravel, #newyears, #vhs, #adventure, #robot, #timecapsule, #timemachine, #phixel, #christmaseve, #goldenratio
+- **Hashtags:** #timetravel, #newyears, #vhs, #adventure, #robot, #timecapsule, #timemachine, #christmaseve, #goldenratio
 - **Emojis:** 🕰️🤖🎄📼🎁🎅💡💙🎉💭⏰
 
 ------------

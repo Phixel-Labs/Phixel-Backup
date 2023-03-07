@@ -18,7 +18,7 @@ In Phixel create stunning motion graphics that make your brand stand out from th
 - **URL:** [https://phixel.net/en/service/motion-graphic/](https://phixel.net/en/service/motion-graphic/)
 - **Short URL:** [https://bit.ly/3kKO48Z](https://bit.ly/3kKO48Z)
 - **Type:** [Service](#service)
-- **Hashtags:** #phixel, #withlove, #webdesigners, #webdesignstudio, #phixelstudio, #design, #designer, #welcome, #webdevelopers, #videoeditors, #studio, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
+- **Hashtags:** #withlove, #webdesigners, #webdesignstudio, #studio, #design, #designer, #welcome, #webdevelopers, #videoeditors, #clients, #ui, #ux, #gui, #motiongraphics, #animation, #illustration, #3d, #foryou, #creativestudio
 - **Emojis:** 🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌
 
 ------------

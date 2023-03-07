@@ -67,7 +67,7 @@ We are looking for an unparalleled Client Relations Manager to create and nurtur
 - **URL:** [https://phixel.net/en/jobs/client-manager/](https://phixel.net/en/jobs/client-manager/)
 - **Short URL:** [https://bit.ly/3Jk6tD0](https://bit.ly/3Jk6tD0)
 - **Type:** [Job](#job)
-- **Hashtags:** #phixel, #webdesigners, #clients, #ui, #ux, #videoeditors, #webdevelopers, #animation, #webdesignstudio, #design, #workhard, #designer, #love, #gui, #illustration, #remotework, #studio, #motiongraphics, #workfromanywhere, #worksmart, #3d, #respet
+- **Hashtags:** #webdesigners, #clients, #ui, #ux, #videoeditors, #webdevelopers, #animation, #webdesignstudio, #design, #workhard, #designer, #love, #gui, #illustration, #remotework, #studio, #motiongraphics, #workfromanywhere, #worksmart, #3d, #respet
 - **Emojis:** 🎨🛸📼📺📹👍🔗📝🏠✍️👨‍💻⚙️🔮🎬‍💻👑🗃️🕹️👾🎮📲🪐🌟👽🚀🌌
 
 ------------

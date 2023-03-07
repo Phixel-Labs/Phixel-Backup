@@ -80,7 +80,7 @@ The only thing you need to know about us it that the goal is simple; Do exceptio
 - **URL:** [https://phixel.net/en/about-us/](https://phixel.net/en/about-us/)
 - **Short URL:** [https://bit.ly/3IUoWEK](https://bit.ly/3IUoWEK)
 - **Type:** [Page](#page)
-- **Hashtags:** #phixel, #withlove, #real, #weare, #sci-fi, #retrofuturistic, #exceptional, #who, #retrostyledesign, #mission, #secret, #truth, #futuristic, #simple, #retrofuturism, #work, #story, #idea, #industry, #graphicdesigns, #retro, #vintage, #foryou, #creativestudio
+- **Hashtags:** #withlove, #real, #weare, #sci-fi, #retrofuturistic, #exceptional, #who, #retrostyledesign, #mission, #secret, #truth, #futuristic, #simple, #retrofuturism, #work, #story, #idea, #industry, #graphicdesigns, #retro, #vintage, #foryou, #creativestudio
 - **Emojis:** 🆒​🌑​👽🎩🌟😱​👩‍🚀​​​​🌜☄️​🛰🌗​🌌☄️🦠🔫​​👨🏿‍🚀​💫​🛸​🤖☄️​🚀🔭🪐​👾📡⚡​​
 
 ------------

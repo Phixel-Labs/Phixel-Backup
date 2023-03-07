@@ -19,8 +19,8 @@ Photoshop is a powerful tool that can be used to create stunning images and desi
 ------------
 - **Slug:** maximizing-photoshop-potential
 - **Date:** 12/11/2022
-- **URL:** [https://phixel.net/en/maximizing-photoshop-potential/](https://phixel.net/en/maximizing-photoshop-potential/)
-- **Short URL:** [https://bit.ly/3SRfIh4](https://bit.ly/3SRfIh4)
+- **URL:** [https://phixel.net/en/tips/maximizing-photoshop-potential/](https://phixel.net/en/tips/maximizing-photoshop-potential/)
+- **Short URL:** [https://bit.ly/3ZkbEs1](https://bit.ly/3ZkbEs1)
 - **Type:** [Blog](#blog)
 - **Hashtags:** #photoshop, #design, #graphicdesign, #digitalart, #photoshoptips, #creativity, #photoshopsecrets, #photoshoptutorial, #editing, #photography, #digitalartwork
 - **Emojis:** 💻✂️🖌️🎨💡🎉❤️🌟📸💎⚡️
