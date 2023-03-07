@@ -20,7 +20,7 @@ Phixel offers innovative digital solutions for VR/AR, sustainable economy, healt
 - **Slug:** ideas
 - **Date:** 01/02/2020
 - **URL:** [https://github.com/Phixel-Labs/Labs/tree/main/Ideas](https://github.com/Phixel-Labs/Labs/tree/main/Ideas)
-- **Short URL:** [false](false)
+- **Short URL:** [https://bit.ly/3SUFjFF](https://bit.ly/3SUFjFF)
 - **Type:** [Labs](#labs)
 - **Hashtags:** #DigitalSolutions, #VR, #AR, #Sustainability, #Education, #Innovation, #Technology, #Marketing, #HealthyHabits
 - **Emojis:** 💻🌍📚🌱🚀🔍💡👨‍🏫🌞🌟

@@ -183,7 +183,7 @@ Phixel is a company that provides products, services, and information through it
 - **Slug:** policy
 - **Date:** 01/01/2020
 - **URL:** [https://phixel.net/en/policy/](https://phixel.net/en/policy/)
-- **Short URL:** [false](false)
+- **Short URL:** [https://bit.ly/3SVjBBm](https://bit.ly/3SVjBBm)
 - **Type:** [Page](#page)
 - **Hashtags:** #TermsOfService, #PrivacyPolicy, #DataCollection, #UserPrivacy, #DataManagement, #UserDataRetention, #CookiePolicy, #RecordKeeping, #PrivacyUpdates, #UserDataProtection, #PersonalDataDeletion
 - **Emojis:** 🧾📑⚖️📃📒🛂👮📘🚨🚸🌍⚖️📜🧑🏽‍⚖️🧑‍⚖️🚔🚨📃📓📖✒️🔏🕵🏼‍♂️
