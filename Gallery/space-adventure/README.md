@@ -1,4 +1,4 @@
-# Space Aventure: Blast to the Live in the Past 🚀
+# Space Adventure: Blast to the Live in the Past 🚀
 Take a journey through time and space with our retro space adventure gallery. Here, we've collected some of the most stunning images that showcase what it might have been like to live in a retro-future world, complete with space travel and futuristic technology.
 
 Space is for everybody. It's not just for a few people in science or math, or for a select group of astronauts. That's our new frontier out there, and it's everybody's business to know about space.
@@ -26,7 +26,7 @@ Immerse yourself in a retro space adventure filled with retro-futurism and daily
 <img src="media/bc78dfd4/space-aventure-breakfastzzzz.jpg" loading="lazy"><br>
 
 ------------
-- **Slug:** space-aventure
+- **Slug:** space-adventure
 - **Date:** 09/03/2023
 - **URL:** [https://phixel.net/en/gallery/space-aventure/](https://phixel.net/en/gallery/space-aventure/)
 - **Short URL:** [https://bit.ly/3T6KqmA](https://bit.ly/3T6KqmA)
