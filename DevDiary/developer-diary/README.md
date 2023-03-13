@@ -39,7 +39,7 @@ The Phixel Developer Diary is a weekly blog series that showcases innovative cod
 ------------
 - **Slug:** developer-diary
 - **Date:** 16/02/2023
-- **URL:** [https://phixel.neten/devdiary/developer-diary/](https://phixel.neten/devdiary/developer-diary/)
+- **URL:** [https://phixel.net/en/devdiary/developer-diary/](https://phixel.net/en/devdiary/developer-diary/)
 - **Short URL:** [https://bit.ly/41QndZw](https://bit.ly/41QndZw)
 - **Type:** [DevDiary](#devdiary)
 - **Hashtags:** #DeveloperDiary, #SoftwareDevelopment, #CodeInnovation, #PersonalGrowth, #TimeManagement, #BetterCommunication, #CommunityLearning, #DesignAgency, #DigitalExperiences, #StayTuned
