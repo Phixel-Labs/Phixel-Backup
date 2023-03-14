@@ -27,6 +27,7 @@ A private detective named Plisk investigates the disappearance of a young man na
 <img src="media/87841d55/pumpkin-hunters-detective.jpg" loading="lazy"><br>
 <img src="media/5e69dc79/pumpkin-hunters-news.jpg" loading="lazy"><br>
 	<a href="media/a3fdcd2b/the-pumpkin-hunters-curse.mp3" target="_media">mp3: the-pumpkin-hunters-curse.mp3</a><br>
+<img src="media/9c4ba1d4/cover-pumpkin-hunter.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** pumpkin-hunter

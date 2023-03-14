@@ -15,6 +15,7 @@ Start the new year off right with these tips for setting goals and achieving suc
 As the new year approaches, it's a great time for graphic designers to set goals and plan for success. Follow these tips to kick off the new year on the right foot and achieve your professional goals in the year ahead.
 ## Media
 <img src="media/0abf7d98/designers-in-new-year.jpg" loading="lazy"><br>
+<img src="media/70a9b328/cover-designers-in-new-year.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** designers-in-new-year

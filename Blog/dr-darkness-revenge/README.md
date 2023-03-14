@@ -17,6 +17,7 @@ Join the fight against Dr. Darkness and his plan for revenge!
 The evil Dr. Darkness plans to take over the city using a machine that plunges it into darkness. However...
 ## Media
 <img src="media/f1cfbf06/dr.darkness-revenge.jpg" loading="lazy"><br>
+<img src="media/26324b83/cover-dr-darkness-revenge.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** dr-darkness-revenge

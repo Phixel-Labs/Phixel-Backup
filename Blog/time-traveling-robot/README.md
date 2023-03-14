@@ -16,6 +16,7 @@ On Christmas Eve, the team at Phixel met a time-traveling robot named Retro who 
 ## Media
 <img src="media/aea44ce5/time-traveling-robot.jpg" loading="lazy"><br>
 <img src="media/591dd670/time-traveling-robot-squared.jpg" loading="lazy"><br>
+<img src="media/4ef951f1/cover-time-traveling-robot.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** time-traveling-robot

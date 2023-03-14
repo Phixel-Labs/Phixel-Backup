@@ -19,6 +19,7 @@ As you sit and watch the clouds drift by, you can feel the stress and worries of
 ## Media
 <img src="media/d91035cb/mountain-16-9.jpg" loading="lazy"><br>
 	<a href="media/24896a3f/skyline-of-clouds.mp4" target="_media">mp4: skyline-of-clouds.mp4</a><br>
+<img src="media/11aff43e/cover-skyline-clouds.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** skyline-clouds

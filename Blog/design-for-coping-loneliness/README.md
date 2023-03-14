@@ -20,6 +20,7 @@ Use Design as a tool for coping with loneliness and express emotions in a constr
 Tips and strategies to cope with loneliness by using Design, from identifying the source, use of color, typography, imagery, storytelling, positive affirmations, symmetry and asymmetry, movement and visual metaphors.
 ## Media
 <img src="media/b692a6fe/design-help-loneliness.jpg" loading="lazy"><br>
+<img src="media/46295584/cover-coping-loneliness.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** design-for-coping-loneliness

@@ -23,6 +23,7 @@ Use Design as a means of channeling and managing frustration in a constructive w
 Tips and strategies to manage frustration by using Design, from identifying the source, use of color, shape, imagery and storytelling to positive affirmations, symmetry and asymmetry, movement and typography.
 ## Media
 <img src="media/8549d262/design-help-frustration.jpg" loading="lazy"><br>
+<img src="media/7d0364bf/cover-design-for-managing-frustration.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** design-for-managing-frustration

@@ -16,6 +16,7 @@ Halloween is coming, and that means it's time to get ready for spooky stories, c
 ## Media
 <img src="media/2c50d484/blog-halloween-is-coming.jpg" loading="lazy"><br>
 <img src="media/9761c8f5/blog-what-is-your-emoji-this-halloween.jpg" loading="lazy"><br>
+<img src="media/c4a4e383/cover-halloween-is-coming.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** halloween-is-coming

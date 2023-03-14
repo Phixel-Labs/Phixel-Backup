@@ -19,6 +19,7 @@ Designers can make the most of the holiday season by creating holiday-themed des
 ## Media
 <img src="media/b831f878/boosting-the-holidays-cover.jpg" loading="lazy"><br>
 <img src="media/b1075afa/boosting-the-holidays.jpg" loading="lazy"><br>
+<img src="media/62e9dd17/cover-boost-design-in-holidays.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** boost-design-in-holidays
