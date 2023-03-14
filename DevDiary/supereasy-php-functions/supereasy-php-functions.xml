@@ -977,8 +977,8 @@ So, let’s raise a cup of coffee (or beer, if that’s more your thing) to prod
 	<excerpt>Tired of trying to remember the structure of common PHP function? We’ve got you covered!</excerpt>
 	<description>Are you tired of struggling to remember native PHP functions? Check out our suite of functions covering areas like string manipulation, working with HTML and URLs, and array manipulation. Save time and increase productivity as a PHP developer with our time-saving coding tips.</description>
 	<media>
-		<url type="jpg">media/1871d4cf/php-functions-1.jpg</url>
 		<url type="jpg">media/9b29215e/cover-supereasy-php-functions.jpg</url>
+		<url type="jpg">media/1871d4cf/php-functions-1.jpg</url>
 	</media>
 	<info>
 		<slug>supereasy-php-functions</slug>

@@ -33,6 +33,7 @@ We design your brand for this deep space.
 ## Description
 In the vastness of the universe, it can be easy to feel small and alone. But with the help of Phixel, you can create a brand that stands out and makes a statement in this deep space.
 ## Media
+<img src="media/dde014ad/cover-deep-space.jpg" loading="lazy"><br>
 <img src="media/0395a339/3_1.jpg" loading="lazy"><br>
 <img src="media/1d798bae/9_16.jpg" loading="lazy"><br>
 <img src="media/780748fe/landing-space-astronaut..png" loading="lazy"><br>
@@ -40,7 +41,6 @@ In the vastness of the universe, it can be easy to feel small and alone. But wit
 <img src="media/658ddb1b/landing-space-complete.jpg" loading="lazy"><br>
 <img src="media/e4629bb2/landing-space-cover.jpg" loading="lazy"><br>
 	<a href="media/7f8fecf3/rogue-supernova.mp4" target="_media">mp4: rogue-supernova.mp4</a><br>
-<img src="media/dde014ad/cover-deep-space.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** deep-space

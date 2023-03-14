@@ -96,6 +96,7 @@ Contact us today to learn more!</excerpt>
 
 Our team of experienced designers and developers provides personalized digital solutions for businesses of all sizes. And with our referral program, you can earn commission just by referring clients to us.</description>
 	<media>
+		<url type="jpg">media/31b5e16d/cover-referrals.jpg</url>
 		<url type="jpg">media/6a642218/referral-cover.jpg</url>
 		<url type="mp3">media/b4b99b2c/racing-hearts.mp3</url>
 		<url type="mp3">media/243db555/referal-mix.es_.mp3</url>
@@ -106,7 +107,6 @@ Our team of experienced designers and developers provides personalized digital s
 		<url type="jpg">media/25aa22cd/referral-relax.jpg</url>
 		<url type="jpg">media/eff47e30/referral-robot.jpg</url>
 		<url type="mp4">media/14b4baf7/referral.es_.mp4</url>
-		<url type="jpg">media/31b5e16d/cover-referrals.jpg</url>
 	</media>
 	<info>
 		<slug>referral</slug>

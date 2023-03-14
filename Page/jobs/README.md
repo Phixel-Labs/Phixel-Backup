@@ -8,8 +8,8 @@ There are always job opportunities, Join the team!
 ## Description
 We are always looking for talented and awesome people to work with us. and do some cool job.
 ## Media
-<img src="media/f40550e5/jobs-1.jpg" loading="lazy"><br>
 <img src="media/84a126ef/cover-jobs.jpg" loading="lazy"><br>
+<img src="media/f40550e5/jobs-1.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** jobs

@@ -4,6 +4,7 @@
     "excerpt": "The excellent web design studio",
     "description": "We are Phixel, a team of specialized designers and developers with experience in personalized and unique digital solutions. Phixel is here to help you.",
     "media": [
+        "https:\/\/phixel.net\/wp-content\/uploads\/Cover-Phixel.jpg",
         "https:\/\/phixel.net\/wp-content\/uploads\/avatar.jpg",
         "https:\/\/phixel.net\/wp-content\/uploads\/Card-A-ES-scaled.jpg",
         "https:\/\/phixel.net\/wp-content\/uploads\/Card-A-scaled.jpg",
@@ -40,8 +41,7 @@
         "https:\/\/phixel.net\/wp-content\/uploads\/3D\/mountains.glb",
         "https:\/\/phixel.net\/wp-content\/uploads\/3D\/t_rex.glb",
         "https:\/\/phixel.net\/wp-content\/uploads\/3D\/terrain.glb",
-        "https:\/\/phixel.net\/wp-content\/uploads\/3D\/tv.glb",
-        "https:\/\/phixel.net\/wp-content\/uploads\/Cover-Phixel.jpg"
+        "https:\/\/phixel.net\/wp-content\/uploads\/3D\/tv.glb"
     ],
     "info": {
         "slug": "phixel",

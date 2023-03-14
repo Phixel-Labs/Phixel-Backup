@@ -978,8 +978,8 @@ Tired of trying to remember the structure of common PHP function? We’ve got yo
 ## Description
 Are you tired of struggling to remember native PHP functions? Check out our suite of functions covering areas like string manipulation, working with HTML and URLs, and array manipulation. Save time and increase productivity as a PHP developer with our time-saving coding tips.
 ## Media
-<img src="media/1871d4cf/php-functions-1.jpg" loading="lazy"><br>
 <img src="media/9b29215e/cover-supereasy-php-functions.jpg" loading="lazy"><br>
+<img src="media/1871d4cf/php-functions-1.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** supereasy-php-functions

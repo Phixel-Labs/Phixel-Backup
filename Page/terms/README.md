@@ -194,8 +194,8 @@ Phixel is a company that has a website and social media accounts. They offer thi
 These rules say things like what happens if you want to return something you bought, and what you can and can't do with their stuff. For example, you can't copy or share their stuff without their permission, and you can't do things that are against the law or make it hard for other people to use their website or social media.
 If you share something on their website or social media, it belongs to them. They're not responsible for things other people post, and the rules might change over time, so you should check them every so often to make sure you're following them.
 ## Media
-<img src="media/cfdcdbf7/vhs-policy-1.jpg" loading="lazy"><br>
 <img src="media/eb872d84/cover-terms-and-conditions.jpg" loading="lazy"><br>
+<img src="media/cfdcdbf7/vhs-policy-1.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** terms

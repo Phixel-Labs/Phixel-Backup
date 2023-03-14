@@ -13,6 +13,7 @@ Top-quality meats and poultry, sourced carefully to ensure your dog gets the bes
 	<excerpt>Give your furry friend the best with Repack Max Buffet!</excerpt>
 	<description>Repack Max Buffet offers the finest quality dog food made from carefully sourced top-quality meats and poultry. Our beef, meat, pork, and chicken options provide your furry friend with the nutrition they need to thrive.</description>
 	<media>
+		<url type="jpg">media/6d2ce3d3/cover-max-buffet.jpg</url>
 		<url type="jpg">media/b3990d9a/max-buffet-01-1.jpg</url>
 		<url type="jpg">media/6e4214e0/max-buffet-02-1.jpg</url>
 		<url type="jpg">media/038629fa/max-buffet-03-1.jpg</url>
@@ -20,7 +21,6 @@ Top-quality meats and poultry, sourced carefully to ensure your dog gets the bes
 		<url type="jpg">media/02227a0c/max-buffet-05-1.jpg</url>
 		<url type="jpg">media/f4783cb6/max-buffet-06.jpg</url>
 		<url type="glb">media/34742e5f/total-max-buffet-package.glb</url>
-		<url type="jpg">media/6d2ce3d3/cover-max-buffet.jpg</url>
 	</media>
 	<info>
 		<slug>max-buffet</slug>

@@ -8,9 +8,9 @@ This is a place to find beauty and inspiration in the everyday, to see the world
 
 Come & explore!
 ## Media
+<img src="media/5fa34027/cover-gallery.jpg" loading="lazy"><br>
 <img src="media/2a7d0aa2/gallery-01.jpg" loading="lazy"><br>
 <img src="media/6cc938cb/gallery-02.jpg" loading="lazy"><br>
-<img src="media/5fa34027/cover-gallery.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** gallery

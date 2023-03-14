@@ -4,14 +4,14 @@
     "excerpt": "A place where you can find podcasts on all kinds of topics, from science to philosophy to politics and everything in between!",
     "description": "MonoEstereo is a podcast platform offering diverse content on various topics, allowing listeners to broaden their knowledge and explore new subjects.",
     "media": [
+        "https:\/\/phixel.net\/wp-content\/uploads\/Cover-MonoStereo.jpg",
         "https:\/\/phixel.net\/wp-content\/uploads\/MonoStereo-Logo.png",
         "https:\/\/phixel.net\/wp-content\/uploads\/MonoStereo-Mockup-01.jpg",
         "https:\/\/phixel.net\/wp-content\/uploads\/MonoStereo-Mockup-02.jpg",
         "https:\/\/phixel.net\/wp-content\/uploads\/MonoStereo-Mockup-03.jpg",
         "https:\/\/phixel.net\/wp-content\/uploads\/MonoStereo-Mockup-04.jpg",
         "https:\/\/phixel.net\/wp-content\/uploads\/MonoStereo.jpg",
-        "https:\/\/phixel.net\/wp-content\/uploads\/MonoStereo.mp4",
-        "https:\/\/phixel.net\/wp-content\/uploads\/Cover-MonoStereo.jpg"
+        "https:\/\/phixel.net\/wp-content\/uploads\/MonoStereo.mp4"
     ],
     "info": {
         "slug": "monostereo",

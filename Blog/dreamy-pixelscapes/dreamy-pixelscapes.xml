@@ -15,9 +15,9 @@ We made an HTML Demo version for you to enjoy those nostalgic dreamy pixelscapes
 	<excerpt>Remember when you could spend hours playing pixelated video games in front of the TV?</excerpt>
 	<description>Remember those dreamy pixelscapes that captured your imagination and made you feel like you were in a different world?</description>
 	<media>
+		<url type="jpg">media/92df0de0/cover-dreamy-pixelscapes.jpg</url>
 		<url type="webp">media/3ef3e8c3/dreamy-pixelscapes.webp</url>
 		<url type="mp4">media/a196434a/tv-8-bit-game.mp4</url>
-		<url type="jpg">media/92df0de0/cover-dreamy-pixelscapes.jpg</url>
 	</media>
 	<info>
 		<slug>dreamy-pixelscapes</slug>

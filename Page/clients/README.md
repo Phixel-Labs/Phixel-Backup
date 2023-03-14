@@ -97,6 +97,7 @@ We believe that everyone deserves great design experiences
 ## Description
 We love making a difference in people's lives by connecting our clients with the design solutions they need.
 ## Media
+<img src="media/94e7bfb1/cover-clients.jpg" loading="lazy"><br>
 <img src="media/31a2e984/clients.jpg" loading="lazy"><br>
 <img src="media/d110d0e7/logo-alpina.png" loading="lazy"><br>
 <img src="media/914991f9/logo-argos.png" loading="lazy"><br>
@@ -126,7 +127,6 @@ We love making a difference in people's lives by connecting our clients with the
 <img src="media/a8f4107f/logo-tigo.png" loading="lazy"><br>
 <img src="media/8b0396eb/logo-une.png" loading="lazy"><br>
 <img src="media/ff9615bb/logo-xbox.png" loading="lazy"><br>
-<img src="media/94e7bfb1/cover-clients.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** clients

@@ -7,9 +7,9 @@
 
 Come & explore!</description>
 	<media>
+		<url type="jpg">media/5fa34027/cover-gallery.jpg</url>
 		<url type="jpg">media/2a7d0aa2/gallery-01.jpg</url>
 		<url type="jpg">media/6cc938cb/gallery-02.jpg</url>
-		<url type="jpg">media/5fa34027/cover-gallery.jpg</url>
 	</media>
 	<info>
 		<slug>gallery</slug>

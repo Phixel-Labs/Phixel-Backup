@@ -34,8 +34,8 @@ Introducing the “Phixel Developer Diary, ” a weekly blog series where our de
 ## Description
 The Phixel Developer Diary is a weekly blog series that showcases innovative code, shares progress on exciting projects, and provides valuable insights for developers. By reflecting on their daily progress, developers can identify areas of improvement and work towards personal and professional growth. Follow us for inspiration, education and to push the limits of what’s possible!
 ## Media
-<img src="media/783b6cd2/developer-diary.jpg" loading="lazy"><br>
 <img src="media/53983573/cover-developer-diary.jpg" loading="lazy"><br>
+<img src="media/783b6cd2/developer-diary.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** developer-diary

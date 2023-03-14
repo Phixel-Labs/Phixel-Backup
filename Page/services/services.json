@@ -3,13 +3,13 @@
     "content": "### What We Do\n\n## Services\n\n### From product design and development to website design, we have a service to fit your needs.\n\nWe offer a wide range of services to meet your needs. Whether you need a new website created, or you need to help your online visibility, we can help.\n\n## Our approach to design is simple\n\n### Immersive.\n\nWe are convinced that outstanding design and development should provide unique, experiential learning opportunities that provide a gateway into the hearts and minds of people.\n\n### Balanced.\n\nOur team of designers and developers strive to create products that are not only visually appealing, but also highly functional.\n\n### Accessible.\n\nWe believe that stunning design and development should be accessible to everyone, and we work hard to make sure our products are affordable without sacrificing quality.\n\n### Timeless.\n\nWe strive to create designs that are both beautiful and practical, and that will stand the test of time.\n\n#### We also offer a variety of other services, such as logo design, branding, and social media marketing. Contact us today to learn more about our services or to get started on your project!\n\nA ground-up approach, we\u2019ll work with you every step of the way to make sure you get the results you\u2019re looking for.\n\nA focused, strategic approach, we\u2019ll work with you to help you design what\u2019s important to success.\n\nA systematic, proactive, and reactive approach, we\u2019ll work with you ensuring your projects are successful, organized and on track.",
     "excerpt": "Stunning services designed for your needs",
     "description": "At Phixel, we offer a wide range of services to help you get the most out of your business.",
-    "media": {
-        "0": "https:\/\/phixel.net\/wp-content\/uploads\/Services-Balanced.jpg",
-        "1": "https:\/\/phixel.net\/wp-content\/uploads\/Services-Immersive.png",
-        "2": "https:\/\/phixel.net\/wp-content\/uploads\/Services-Timeless.jpg",
-        "3": "https:\/\/phixel.net\/wp-content\/uploads\/Services.jpg",
-        "5": "https:\/\/phixel.net\/wp-content\/uploads\/Cover-Services.jpg"
-    },
+    "media": [
+        "https:\/\/phixel.net\/wp-content\/uploads\/Cover-Services.jpg",
+        "https:\/\/phixel.net\/wp-content\/uploads\/Services-Balanced.jpg",
+        "https:\/\/phixel.net\/wp-content\/uploads\/Services-Immersive.png",
+        "https:\/\/phixel.net\/wp-content\/uploads\/Services-Timeless.jpg",
+        "https:\/\/phixel.net\/wp-content\/uploads\/Services.jpg"
+    ],
     "info": {
         "slug": "services",
         "date": "20\/01\/2020",

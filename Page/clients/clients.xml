@@ -96,6 +96,7 @@ and we want you to be a part of it!</content>
 	<excerpt>We believe that everyone deserves great design experiences</excerpt>
 	<description>We love making a difference in people's lives by connecting our clients with the design solutions they need.</description>
 	<media>
+		<url type="jpg">media/94e7bfb1/cover-clients.jpg</url>
 		<url type="jpg">media/31a2e984/clients.jpg</url>
 		<url type="png">media/d110d0e7/logo-alpina.png</url>
 		<url type="png">media/914991f9/logo-argos.png</url>
@@ -125,7 +126,6 @@ and we want you to be a part of it!</content>
 		<url type="png">media/a8f4107f/logo-tigo.png</url>
 		<url type="png">media/8b0396eb/logo-une.png</url>
 		<url type="png">media/ff9615bb/logo-xbox.png</url>
-		<url type="jpg">media/94e7bfb1/cover-clients.jpg</url>
 	</media>
 	<info>
 		<slug>clients</slug>

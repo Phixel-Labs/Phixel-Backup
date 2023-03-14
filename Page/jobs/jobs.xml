@@ -7,8 +7,8 @@ These are the jobs we have available for you!</content>
 	<excerpt>There are always job opportunities, Join the team!</excerpt>
 	<description>We are always looking for talented and awesome people to work with us. and do some cool job.</description>
 	<media>
-		<url type="jpg">media/f40550e5/jobs-1.jpg</url>
 		<url type="jpg">media/84a126ef/cover-jobs.jpg</url>
+		<url type="jpg">media/f40550e5/jobs-1.jpg</url>
 	</media>
 	<info>
 		<slug>jobs</slug>

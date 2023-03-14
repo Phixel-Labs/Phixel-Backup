@@ -276,8 +276,8 @@ We’ll keep it simple and sweet for now, but trust us, your game is about to lo
 	<excerpt>Ready to create an awesome game? Learn how to set up the HTML and CSS for your game in this tutorial. Follow the steps and get started!</excerpt>
 	<description>In this article, we introduce our game, Super Jumper: Save Jumplandia, and provide a step-by-step guide to set up the HTML and CSS for your game. We've included code snippets to help you along the way and added some essential SEO information. Buckle up and join us on this exciting journey to creating an awesome game!</description>
 	<media>
-		<url type="jpg">media/c0a87b86/game-super-jumper-hero-jax.jpg</url>
 		<url type="jpg">media/36f6574c/cover-side-scrolling-game-part-2.jpg</url>
+		<url type="jpg">media/c0a87b86/game-super-jumper-hero-jax.jpg</url>
 	</media>
 	<info>
 		<slug>side-scrolling-game-part-2</slug>

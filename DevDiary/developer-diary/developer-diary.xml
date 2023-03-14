@@ -33,8 +33,8 @@ Stay tuned for our first post. In the meantime, be sure to follow us on social m
 	<excerpt>Introducing the “Phixel Developer Diary, ” a weekly blog series where our developers showcase innovative code.</excerpt>
 	<description>The Phixel Developer Diary is a weekly blog series that showcases innovative code, shares progress on exciting projects, and provides valuable insights for developers. By reflecting on their daily progress, developers can identify areas of improvement and work towards personal and professional growth. Follow us for inspiration, education and to push the limits of what’s possible!</description>
 	<media>
-		<url type="jpg">media/783b6cd2/developer-diary.jpg</url>
 		<url type="jpg">media/53983573/cover-developer-diary.jpg</url>
+		<url type="jpg">media/783b6cd2/developer-diary.jpg</url>
 	</media>
 	<info>
 		<slug>developer-diary</slug>

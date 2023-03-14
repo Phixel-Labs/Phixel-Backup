@@ -4,9 +4,9 @@
     "excerpt": "A gallery of everything, Images only, no text or context \ud83d\udef9",
     "description": "This is a place to find beauty and inspiration in the everyday, to see the world through our designer eyes.\n\nCome & explore!",
     "media": [
+        "https:\/\/phixel.net\/wp-content\/uploads\/Cover-Gallery.jpg",
         "https:\/\/phixel.net\/wp-content\/uploads\/Gallery-01.jpg",
-        "https:\/\/phixel.net\/wp-content\/uploads\/Gallery-02.jpg",
-        "https:\/\/phixel.net\/wp-content\/uploads\/Cover-Gallery.jpg"
+        "https:\/\/phixel.net\/wp-content\/uploads\/Gallery-02.jpg"
     ],
     "info": {
         "slug": "gallery",

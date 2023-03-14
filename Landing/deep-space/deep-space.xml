@@ -32,6 +32,7 @@ You should make it worthwhile...
 We design your brand for this deep space.</excerpt>
 	<description>In the vastness of the universe, it can be easy to feel small and alone. But with the help of Phixel, you can create a brand that stands out and makes a statement in this deep space.</description>
 	<media>
+		<url type="jpg">media/dde014ad/cover-deep-space.jpg</url>
 		<url type="jpg">media/0395a339/3_1.jpg</url>
 		<url type="jpg">media/1d798bae/9_16.jpg</url>
 		<url type="png">media/780748fe/landing-space-astronaut..png</url>
@@ -39,7 +40,6 @@ We design your brand for this deep space.</excerpt>
 		<url type="jpg">media/658ddb1b/landing-space-complete.jpg</url>
 		<url type="jpg">media/e4629bb2/landing-space-cover.jpg</url>
 		<url type="mp4">media/7f8fecf3/rogue-supernova.mp4</url>
-		<url type="jpg">media/dde014ad/cover-deep-space.jpg</url>
 	</media>
 	<info>
 		<slug>deep-space</slug>

@@ -12,6 +12,7 @@ Our team of professionals has worked with some of these well-known brands
 	<excerpt>The excellent web design studio</excerpt>
 	<description>We are Phixel, a team of specialized designers and developers with experience in personalized and unique digital solutions. Phixel is here to help you.</description>
 	<media>
+		<url type="jpg">media/e5f82e95/cover-phixel.jpg</url>
 		<url type="jpg">media/ed14d30c/avatar.jpg</url>
 		<url type="jpg">media/b6d4ac02/card-a-es-scaled.jpg</url>
 		<url type="jpg">media/bdbc75a4/card-a-scaled.jpg</url>
@@ -49,7 +50,6 @@ Our team of professionals has worked with some of these well-known brands
 		<url type="glb">media/93dca06f/t_rex.glb</url>
 		<url type="glb">media/6bbe2302/terrain.glb</url>
 		<url type="glb">media/829b093a/tv.glb</url>
-		<url type="jpg">media/e5f82e95/cover-phixel.jpg</url>
 	</media>
 	<info>
 		<slug>phixel</slug>

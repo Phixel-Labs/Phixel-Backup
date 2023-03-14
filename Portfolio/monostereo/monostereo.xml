@@ -12,6 +12,7 @@ We want to help you learn more about the world around you and make sure that you
 	<excerpt>A place where you can find podcasts on all kinds of topics, from science to philosophy to politics and everything in between!</excerpt>
 	<description>MonoEstereo is a podcast platform offering diverse content on various topics, allowing listeners to broaden their knowledge and explore new subjects.</description>
 	<media>
+		<url type="jpg">media/4e8854fb/cover-monostereo.jpg</url>
 		<url type="png">media/4465bf3a/monostereo-logo.png</url>
 		<url type="jpg">media/046610bb/monostereo-mockup-01.jpg</url>
 		<url type="jpg">media/efad93e6/monostereo-mockup-02.jpg</url>
@@ -19,7 +20,6 @@ We want to help you learn more about the world around you and make sure that you
 		<url type="jpg">media/c53eb2c6/monostereo-mockup-04.jpg</url>
 		<url type="jpg">media/e05bc27a/monostereo.jpg</url>
 		<url type="mp4">media/1bda8ef5/monostereo.mp4</url>
-		<url type="jpg">media/4e8854fb/cover-monostereo.jpg</url>
 	</media>
 	<info>
 		<slug>monostereo</slug>

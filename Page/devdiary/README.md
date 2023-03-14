@@ -10,8 +10,8 @@ Join us every week for a showcase of the most interesting and innovative code fr
 ## Description
 Follow along with Phixel's Developer Diary to see our team's progress on exciting new projects and discover innovative code.
 ## Media
-<img src="media/cf7ef5cf/dev-diaries.jpg" loading="lazy"><br>
 <img src="media/ff5b08ca/cover-devdiary.jpg" loading="lazy"><br>
+<img src="media/cf7ef5cf/dev-diaries.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** devdiary

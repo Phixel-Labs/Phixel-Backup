@@ -13,6 +13,7 @@ Celcius coffee is 15+ uniquely generated bottles.
 	<excerpt>Enjoy the all-natural taste of Celcius anytime, anywhere!</excerpt>
 	<description>Celcius offers a truly instant coffee experience with our all-natural blend of coffee grounds and essential oils. Each bottle is uniquely generated, providing a one-of-a-kind taste that's perfect for any time of day. Enjoy Celcius on its own or use it as a base for your favorite coffee drinks.</description>
 	<media>
+		<url type="jpg">media/ddd3df54/cover-celcius.jpg</url>
 		<url type="jpg">media/51e8a9e8/celcius-bar-cut.jpg</url>
 		<url type="jpg">media/96e90ad5/celcius-bar.jpg</url>
 		<url type="jpg">media/fe5ca1ee/celcius-beach.jpg</url>
@@ -25,7 +26,6 @@ Celcius coffee is 15+ uniquely generated bottles.
 		<url type="jpg">media/a4b4d0ba/amaretto.jpg</url>
 		<url type="webp">media/de6eb353/loading.webp</url>
 		<url type="mp4">media/7829be52/presentation.mp4</url>
-		<url type="jpg">media/ddd3df54/cover-celcius.jpg</url>
 	</media>
 	<info>
 		<slug>celcius</slug>

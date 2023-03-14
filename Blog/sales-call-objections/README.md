@@ -33,8 +33,8 @@ Overcoming common sales call objections is key to closing deals. Learn strategie
 ## Description
 Sales objections are a common roadblock to closing deals. But with the right strategies, you can overcome them and demonstrate the value of your product. This article outlines the most common objections and offers tips for addressing them effectively.
 ## Media
-<img src="media/7ec68118/sales-call-objections.jpg" loading="lazy"><br>
 <img src="media/86b943ed/cover-sales-call-objections.jpg" loading="lazy"><br>
+<img src="media/7ec68118/sales-call-objections.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** sales-call-objections

@@ -12,6 +12,7 @@ Specializing in new construction and street restoration projects, Obratek has a 
 	<excerpt>Transform your city with Obratek's cutting-edge urban design services.</excerpt>
 	<description>A hi-end urban design architecture firm based in Bogotá that provides cutting-edge design and consulting services for both public and private sector clients.</description>
 	<media>
+		<url type="jpg">media/39de1157/cover-obratek.jpg</url>
 		<url type="jpg">media/01ccb61c/obratek-broshure.jpg</url>
 		<url type="jpg">media/c175bf6d/obratek-card.jpg</url>
 		<url type="jpg">media/b38913c4/obratek-logo-presentation.jpg</url>
@@ -20,7 +21,6 @@ Specializing in new construction and street restoration projects, Obratek has a 
 		<url type="jpg">media/7e935d56/obratek-stationery.jpg</url>
 		<url type="mp4">media/eb2ec2db/obratek-video.mp4</url>
 		<url type="glb">media/df039047/obratek.glb</url>
-		<url type="jpg">media/39de1157/cover-obratek.jpg</url>
 	</media>
 	<info>
 		<slug>obratek</slug>

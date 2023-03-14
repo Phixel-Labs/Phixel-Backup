@@ -176,8 +176,8 @@ We know you are concerned about how we protect your information, we encourage yo
 ## Description
 Phixel is a company that provides products, services, and information through its website and social media channels. The company owns all the content on the platform and users are not allowed to copy, modify, distribute, or exploit it without prior written permission. The conduct of users is subject to certain restrictions, and users may link to Phixel. The company disclaims any liability for any content provided by users or third parties on the platform, and the platform is provided on an as-is, as-available basis. The company reserves the right to update its terms and conditions and privacy policy from time to time.
 ## Media
-<img src="media/2c17cdac/prims-mountain-1.jpg" loading="lazy"><br>
 <img src="media/e4ddb722/cover-privacy-policy.jpg" loading="lazy"><br>
+<img src="media/2c17cdac/prims-mountain-1.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** policy

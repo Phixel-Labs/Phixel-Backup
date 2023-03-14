@@ -57,12 +57,12 @@ Learn how to set up a side-scrolling game with physics in HTML! Follow this basi
 ## Description
 In this tutorial, you will learn the fundamental steps of creating a side-scrolling game with physics in HTML. You will set up a game loop, create a player character and platforms, implement jumping and collision detection, add scrolling, and implement scoring and game over. With this basic outline, you can start creating your own game, customized to your specific design and gameplay features.
 ## Media
-<img src="media/e2c4c7c6/game-super-jumper-getting-started.jpg" loading="lazy"><br>
 <img src="media/5b9487a4/cover-side-scrolling-game-part-1.jpg" loading="lazy"><br>
+<img src="media/e2c4c7c6/game-super-jumper-getting-started.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** side-scrolling-game-part-1
-- **Date:** 01/01/1970
+- **Date:** 01/02/2023
 - **URL:** [https://phixel.net/en/devdiary/side-scrolling-game/](https://phixel.net/en/devdiary/side-scrolling-game/)
 - **Short URL:** [https://bit.ly/3ZMXDD6](https://bit.ly/3ZMXDD6)
 - **Type:** [DevDiary](#devdiary)

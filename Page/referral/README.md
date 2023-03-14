@@ -97,6 +97,7 @@ Are you looking to make some extra cash while helping out businesses in need of 
 
 Our team of experienced designers and developers provides personalized digital solutions for businesses of all sizes. And with our referral program, you can earn commission just by referring clients to us.
 ## Media
+<img src="media/31b5e16d/cover-referrals.jpg" loading="lazy"><br>
 <img src="media/6a642218/referral-cover.jpg" loading="lazy"><br>
 	<a href="media/b4b99b2c/racing-hearts.mp3" target="_media">mp3: racing-hearts.mp3</a><br>
 	<a href="media/243db555/referal-mix.es_.mp3" target="_media">mp3: referal-mix.es_.mp3</a><br>
@@ -107,7 +108,6 @@ Our team of experienced designers and developers provides personalized digital s
 <img src="media/25aa22cd/referral-relax.jpg" loading="lazy"><br>
 <img src="media/eff47e30/referral-robot.jpg" loading="lazy"><br>
 	<a href="media/14b4baf7/referral.es_.mp4" target="_media">mp4: referral.es_.mp4</a><br>
-<img src="media/31b5e16d/cover-referrals.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** referral
