@@ -53,10 +53,10 @@ We are Phixel, a team of specialized designers and developers with experience in
 ## Media
 <img src="media/e5f82e95/cover-phixel.jpg" loading="lazy"><br>
 <img src="media/ed14d30c/avatar.jpg" loading="lazy"><br>
-<img src="media/b6d4ac02/card-a-es-scaled.jpg" loading="lazy"><br>
-<img src="media/bdbc75a4/card-a-scaled.jpg" loading="lazy"><br>
-<img src="media/7f0ce3c6/card-b-es-scaled.jpg" loading="lazy"><br>
-<img src="media/2e3e75b5/card-b-scaled.jpg" loading="lazy"><br>
+<img src="media/cc3a50fc/card-a-es.jpg" loading="lazy"><br>
+<img src="media/e4ff2385/card-a.jpg" loading="lazy"><br>
+<img src="media/68322de5/card-b-es.jpg" loading="lazy"><br>
+<img src="media/4844f44c/card-b.jpg" loading="lazy"><br>
 <img src="media/5c6c2311/favicon-black.png" loading="lazy"><br>
 <img src="media/dc7408f6/favicon-monotone.png" loading="lazy"><br>
 <img src="media/85f7b349/favicon-white.png" loading="lazy"><br>
