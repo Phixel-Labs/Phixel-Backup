@@ -10,7 +10,7 @@
 - **Estado Civil:** Soltero
 - **RUT:** 1126984035-6
 - **Teléfono celular:** (+57) 311 828 3334
-- **E-Mail:** [mail@**Julibe**.com](mailto:mail@**Julibe**.com)
+- **E-Mail:** [mail@julibe.com](mailto:mail@julibe.com)
 
 ## Acerca
 
