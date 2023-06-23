@@ -220,7 +220,7 @@ A lo largo de su carrera profesional, **Julibe** ha llevado a cabo una amplia va
 | 2016 | Fundación Guillermo Cano Isaza | Pagina web | Fundación Guillermo Cano Isaza | Gatos Gemelos | https://fundacionguillermocano.com.co |
 | 2016 | Mansarovar Energy — Informe de Sostenibilidad 2016 | Página web | Mansarovar Energy | Gatos Gemelos | https://mansarovarenergy.com |
 | 2016 | Seguros Bolívar – Informe de Sostenibilidad 2016 | Página web | Seguros Bolívar | Gatos Gemelos | https://segurosbolivar.com |
-| 2016 | Telefónica – Informe de Gestión Responsable 2016 | Página web | Telefónica | Gatos Gemelos | telefonica.com |
+| 2016 | Telefónica – Informe de Gestión Responsable 2016 | Página web | Telefónica | Gatos Gemelos | https://telefonica.com |
 | 2017 | Cadena de Suministro Competitivas y Sostenibles | Página web | Centro RS | Gatos Gemelos | https://centrors.org |
 | 2017 | Movistar – Informe 2017 | Página web | Movistar | Gatos Gemelos | https://movistar.com |
 | 2017 | Telefónica – Informe de Gestión Responsable 2017 | Página web | Telefónica | Gatos Gemelos | https://telefonica.com |
@@ -239,7 +239,7 @@ A lo largo de su carrera profesional, **Julibe** ha llevado a cabo una amplia va
 | 2020 | Ecopetrol – Informe de Gestión Sostenible 2019 | Pagina web | Ecopetrol | IsGood | https://ecopetrol.com.co |
 | 2020 | LinaTe 2 | Pagina web | Lina Escobar | | https://linate.co |
 | 2020 | Max Buffet | Branding | Total Max | Phixel | |
-| 2020 | Seguros Bolívar – Informe de Sostenibilidad 2019 | Página web | Seguros Bolívar | IsGood | segurosbolivar.com |
+| 2020 | Seguros Bolívar – Informe de Sostenibilidad 2019 | Página web | Seguros Bolívar | IsGood | https://segurosbolivar.com |
 | 2020 | Telefónica – Informe de Gestión Responsable 2019 | Página web | Telefónica | IsGood | https://telefonica.com |
 
 ### 2011 - 2015
@@ -257,7 +257,7 @@ A lo largo de su carrera profesional, **Julibe** ha llevado a cabo una amplia va
 | 2011 | TwingoNet 2.0 Xbox | Pagina web | Renault | Digitalex | |
 | 2011 | Varta Convención Anual | Video Promocional | Varta | AX digital | |
 | 2012 | Bavaria – Informe de Desarrollo Sostenible 2011 | iOS app | Bavaria | Gatos Gemelos | https://bavaria.co |
-| 2012 | CAF – Navideño 2012 | Video Personalizado | CAF | Gatos Gemelos | https://youtu.be/bVWhre6ZLPY |
+| 2012 | CAF – Navideño 2012 | Video Personalizado | CAF | Gatos Gemelos | |
 | 2012 | CAF – Informe Anual 2011 | iOS app | CAF | Gatos Gemelos | |
 | 2012 | Cinco minutos de gerencia | Pagina web | GerProyectos | | https://cincominutosdegerencia.com |
 | 2012 | elPotrero 2.0 | Portal web | elPotrero / Julibe | | https://elpotrero.co |
@@ -316,6 +316,7 @@ A lo largo de su carrera profesional, **Julibe** ha llevado a cabo una amplia va
 | 2010 | Sodexo Multimedia | Multimedia | Sodexo | CosumerSync | |
 | 2010 | TAO | Pagina web | TAO | CosumerSync | https://tao.co |
 | 2010 | Twingonet 2 | Pagina web | Renault | Digitalex | |
+
 Estos son solo algunos ejemplos de los numerosos proyectos en los que **Julibe** ha estado involucrado a lo largo de su carrera profesional. Su experiencia abarca una amplia gama de tipos de proyectos y clientes, demostrando su versatilidad y habilidades en el campo del desarrollo web y multimedia.
 
 Si está interesado en colaborar con **Julibe** o desea obtener más información sobre sus servicios, no dude en ponerse en contacto con él a través de su correo electrónico [mail@julibe.com](mailto:mail@**Julibe**.com) o mediante su número de teléfono +57 311 828 3334 o contactando a la agencia Phixel [https://phixel.net](https://phixel.net/).
