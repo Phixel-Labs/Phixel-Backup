@@ -1,6 +1,4 @@
 # Hoja de Vida - Julián De Salvador
-# Hoja de Vida - Julián De Salvador
-
 ### **Diseño** UX/UI/Digital
 
 ## Datos Personales
