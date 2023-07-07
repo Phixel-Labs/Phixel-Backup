@@ -89,6 +89,8 @@ We are Phixel, a team of specialized designers and developers with experience in
 	<a href="media/93dca06f/t_rex.glb" target="_media">glb: t_rex.glb</a><br>
 	<a href="media/6bbe2302/terrain.glb" target="_media">glb: terrain.glb</a><br>
 	<a href="media/829b093a/tv.glb" target="_media">glb: tv.glb</a><br>
+	<a href="media/2c040ee3/phixel-igniting-creativity-2023-4k.mp4" target="_media">mp4: phixel-igniting-creativity-2023-4k.mp4</a><br>
+<img src="media/85338d3a/igniting-creativity-🎬.jpg" loading="lazy"><br>
 
 ------------
 - **Slug:** phixel
